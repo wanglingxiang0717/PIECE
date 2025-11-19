@@ -1,0 +1,3512 @@
+[
+  {
+    "prompt": "What room is this a picture of?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000262440.jpg"
+  },
+  {
+    "prompt": "Where is the giraffe?",
+    "answer": "zoo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000263211.jpg"
+  },
+  {
+    "prompt": "Where are the people standing?",
+    "answer": "dugout",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000263258.jpg"
+  },
+  {
+    "prompt": "Where are the animals?",
+    "answer": "cows",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000218646.jpg"
+  },
+  {
+    "prompt": "Where is the food served in?",
+    "answer": "plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000525646.jpg"
+  },
+  {
+    "prompt": "Where is the surfboard?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000394608.jpg"
+  },
+  {
+    "prompt": "Where is the dog laying?",
+    "answer": "carpet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000263612.jpg"
+  },
+  {
+    "prompt": "Where are the giraffes?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000132612.jpg"
+  },
+  {
+    "prompt": "Where is the man standing?",
+    "answer": "bar",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000526555.jpg"
+  },
+  {
+    "prompt": "Where is the clock located?",
+    "answer": "on wall",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000134213.jpg"
+  },
+  {
+    "prompt": "Where is the butterfly?",
+    "answer": "pillow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000527464.jpg"
+  },
+  {
+    "prompt": "Where is the train going?",
+    "answer": "england",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000396692.jpg"
+  },
+  {
+    "prompt": "Where is the elephant?",
+    "answer": "zoo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000134555.jpg"
+  },
+  {
+    "prompt": "Where are the trees?",
+    "answer": "forest",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000265742.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000004125.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000397404.jpg"
+  },
+  {
+    "prompt": "Where are the audiences?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000266892.jpg"
+  },
+  {
+    "prompt": "Where are the zebras?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000398005.jpg"
+  },
+  {
+    "prompt": "Where are the people?",
+    "answer": "train station",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000398007.jpg"
+  },
+  {
+    "prompt": "Where are the palm trees?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000005123.jpg"
+  },
+  {
+    "prompt": "Where is the fence?",
+    "answer": "foreground",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000126766.jpg"
+  },
+  {
+    "prompt": "Where are the white athletic shoes?",
+    "answer": "middle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000399205.jpg"
+  },
+  {
+    "prompt": "Where is the food on the dinner plate served?",
+    "answer": "table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000268215.jpg"
+  },
+  {
+    "prompt": "Where are the food?",
+    "answer": "on plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000268215.jpg"
+  },
+  {
+    "prompt": "Where are the beef wieners cooked?",
+    "answer": "fire",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000399296.jpg"
+  },
+  {
+    "prompt": "Where are the necklaces?",
+    "answer": "neck",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000006393.jpg"
+  },
+  {
+    "prompt": "Where is the train?",
+    "answer": "station",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000137727.jpg"
+  },
+  {
+    "prompt": "Where is the cat looking?",
+    "answer": "down",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000268885.jpg"
+  },
+  {
+    "prompt": "Where is the plane?",
+    "answer": "airport",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000263346.jpg"
+  },
+  {
+    "prompt": "Where is the woman holding a sandwich?",
+    "answer": "plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000400453.jpg"
+  },
+  {
+    "prompt": "Where is the phone?",
+    "answer": "table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000400453.jpg"
+  },
+  {
+    "prompt": "Where is the dog?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000269417.jpg"
+  },
+  {
+    "prompt": "Where is the kite?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000138477.jpg"
+  },
+  {
+    "prompt": "Where is the bike helmet?",
+    "answer": "on bike",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000269784.jpg"
+  },
+  {
+    "prompt": "Where is the giraffe in the picture?",
+    "answer": "zoo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000138821.jpg"
+  },
+  {
+    "prompt": "Where are the beds?",
+    "answer": "bedroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000007795.jpg"
+  },
+  {
+    "prompt": "What room is shown?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000329030.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000329030.jpg"
+  },
+  {
+    "prompt": "Where is the train?",
+    "answer": "on tracks",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000532580.jpg"
+  },
+  {
+    "prompt": "Where is the man standing?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000008483.jpg"
+  },
+  {
+    "prompt": "Where are the shadows?",
+    "answer": "on ground",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000008803.jpg"
+  },
+  {
+    "prompt": "Where is the cheese on the 2nd pizza from the left?",
+    "answer": "gone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000009381.jpg"
+  },
+  {
+    "prompt": "Where is the broccoli?",
+    "answer": "plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000402685.jpg"
+  },
+  {
+    "prompt": "Where is the box spring for the mattress?",
+    "answer": "nowhere",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000402786.jpg"
+  },
+  {
+    "prompt": "Where is the truck parked?",
+    "answer": "grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000272049.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "office",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000141278.jpg"
+  },
+  {
+    "prompt": "Where is the TV?",
+    "answer": "wall",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000534733.jpg"
+  },
+  {
+    "prompt": "What room is in the picture?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000534733.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000534733.jpg"
+  },
+  {
+    "prompt": "Where is the ball?",
+    "answer": "in air",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000438721.jpg"
+  },
+  {
+    "prompt": "Where is the dog sitting?",
+    "answer": "chair",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000504293.jpg"
+  },
+  {
+    "prompt": "Where is the spoon?",
+    "answer": "napkin",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000142177.jpg"
+  },
+  {
+    "prompt": "Where is the copyright mark?",
+    "answer": "center",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000142189.jpg"
+  },
+  {
+    "prompt": "What room is in the back of the picture?",
+    "answer": "dining room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000142246.jpg"
+  },
+  {
+    "prompt": "Where is the dog sleeping?",
+    "answer": "nowhere",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000142246.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "dining room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000142246.jpg"
+  },
+  {
+    "prompt": "Where is the mouse?",
+    "answer": "charging",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000011184.jpg"
+  },
+  {
+    "prompt": "Where are the audiences?",
+    "answer": "not there",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000273493.jpg"
+  },
+  {
+    "prompt": "Where are the tusks?",
+    "answer": "elephant",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000273618.jpg"
+  },
+  {
+    "prompt": "Where are the clocks?",
+    "answer": "tower",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000143167.jpg"
+  },
+  {
+    "prompt": "Where is the kid at?",
+    "answer": "mountain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000405365.jpg"
+  },
+  {
+    "prompt": "Where is the bench?",
+    "answer": "park",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000405660.jpg"
+  },
+  {
+    "prompt": "Where is the bench at?",
+    "answer": "mountain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000405660.jpg"
+  },
+  {
+    "prompt": "Where is the snow?",
+    "answer": "mountain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000012744.jpg"
+  },
+  {
+    "prompt": "Where is the giraffe walking too?",
+    "answer": "food",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000537053.jpg"
+  },
+  {
+    "prompt": "Where is the cat sleeping?",
+    "answer": "backpack",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000570107.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "dining room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000013220.jpg"
+  },
+  {
+    "prompt": "Where is the dog?",
+    "answer": "in car",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000537574.jpg"
+  },
+  {
+    "prompt": "Where are the birds?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000406744.jpg"
+  },
+  {
+    "prompt": "Where are the people in the photo?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000406908.jpg"
+  },
+  {
+    "prompt": "Where is the soccer player?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000406908.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000144798.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000538092.jpg"
+  },
+  {
+    "prompt": "Where is the picture taken?",
+    "answer": "africa",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000145009.jpg"
+  },
+  {
+    "prompt": "Where is the yellow Frisbee?",
+    "answer": "ground",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000276408.jpg"
+  },
+  {
+    "prompt": "Where are the boats?",
+    "answer": "on shore",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000220858.jpg"
+  },
+  {
+    "prompt": "Where is the crooked picture?",
+    "answer": "counter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000407915.jpg"
+  },
+  {
+    "prompt": "Where is the toothbrush?",
+    "answer": "cup",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000407915.jpg"
+  },
+  {
+    "prompt": "What room is this a picture of?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000014713.jpg"
+  },
+  {
+    "prompt": "Where are the people on the snow?",
+    "answer": "hill",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000408049.jpg"
+  },
+  {
+    "prompt": "Where is the shirtless man?",
+    "answer": "on skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000408449.jpg"
+  },
+  {
+    "prompt": "Where is the traffic light?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000277521.jpg"
+  },
+  {
+    "prompt": "Where are the audience?",
+    "answer": "stands",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000277642.jpg"
+  },
+  {
+    "prompt": "Where are the people?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000408757.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000408859.jpg"
+  },
+  {
+    "prompt": "Where is the plane?",
+    "answer": "airport",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000409119.jpg"
+  },
+  {
+    "prompt": "Where is the woman's surf board attached to?",
+    "answer": "ankle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000365851.jpg"
+  },
+  {
+    "prompt": "Where is the plane?",
+    "answer": "sky",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000046432.jpg"
+  },
+  {
+    "prompt": "Where is the woman?",
+    "answer": "tennis court",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000147667.jpg"
+  },
+  {
+    "prompt": "Where are the people walking?",
+    "answer": "sidewalk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000016631.jpg"
+  },
+  {
+    "prompt": "Where are the trucks parked?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000570755.jpg"
+  },
+  {
+    "prompt": "Where is the tie?",
+    "answer": "around neck",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000199403.jpg"
+  },
+  {
+    "prompt": "Where is the dinner plate?",
+    "answer": "table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000016848.jpg"
+  },
+  {
+    "prompt": "What room is the white object usually found in?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000410670.jpg"
+  },
+  {
+    "prompt": "Where are the people?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000410885.jpg"
+  },
+  {
+    "prompt": "Where is the scissor?",
+    "answer": "in cup",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000410924.jpg"
+  },
+  {
+    "prompt": "What room is the scene of?",
+    "answer": "hallway",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000542325.jpg"
+  },
+  {
+    "prompt": "Where is the man?",
+    "answer": "work",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000542388.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "office",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000542509.jpg"
+  },
+  {
+    "prompt": "Where are the speakers?",
+    "answer": "desk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000542509.jpg"
+  },
+  {
+    "prompt": "Where is the phone cord?",
+    "answer": "on desk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000542509.jpg"
+  },
+  {
+    "prompt": "Where is the room?",
+    "answer": "office",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000542509.jpg"
+  },
+  {
+    "prompt": "Where is the light coming from?",
+    "answer": "sun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000411630.jpg"
+  },
+  {
+    "prompt": "Where is the cat?",
+    "answer": "toilet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000411685.jpg"
+  },
+  {
+    "prompt": "Where is the pizza?",
+    "answer": "on plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000150080.jpg"
+  },
+  {
+    "prompt": "Where is the bird?",
+    "answer": "bird feeder",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000412355.jpg"
+  },
+  {
+    "prompt": "Where are the people watching?",
+    "answer": "stands",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000281409.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000412483.jpg"
+  },
+  {
+    "prompt": "Where is the oral b?",
+    "answer": "mouth",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000019308.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bedroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000543631.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000019455.jpg"
+  },
+  {
+    "prompt": "Where is the man looking at?",
+    "answer": "camera",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000150538.jpg"
+  },
+  {
+    "prompt": "Where is the giraffe?",
+    "answer": "zoo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000150576.jpg"
+  },
+  {
+    "prompt": "Where is the umbrella?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000412813.jpg"
+  },
+  {
+    "prompt": "Where is the sliced pizza?",
+    "answer": "plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000281924.jpg"
+  },
+  {
+    "prompt": "Where is the airplane?",
+    "answer": "airport",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000413096.jpg"
+  },
+  {
+    "prompt": "Where is the bear?",
+    "answer": "woods",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000527625.jpg"
+  },
+  {
+    "prompt": "Where is the product sitting?",
+    "answer": "floor",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000544365.jpg"
+  },
+  {
+    "prompt": "Where is the surfer?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000020111.jpg"
+  },
+  {
+    "prompt": "Where is the flag?",
+    "answer": "on boat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000544825.jpg"
+  },
+  {
+    "prompt": "Where is the pizza?",
+    "answer": "on table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000275657.jpg"
+  },
+  {
+    "prompt": "Where are the animals standing?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000414374.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000152298.jpg"
+  },
+  {
+    "prompt": "Where are the cups?",
+    "answer": "on tray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000152298.jpg"
+  },
+  {
+    "prompt": "Where is the bus going?",
+    "answer": "crosstown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000152333.jpg"
+  },
+  {
+    "prompt": "Where are the horses?",
+    "answer": "woods",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000414664.jpg"
+  },
+  {
+    "prompt": "What room is featured in the photo?",
+    "answer": "bedroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000415196.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000546325.jpg"
+  },
+  {
+    "prompt": "What room is shown?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000022158.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000022158.jpg"
+  },
+  {
+    "prompt": "Where is the sink?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000022158.jpg"
+  },
+  {
+    "prompt": "Where is the dog?",
+    "answer": "on bed",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000022192.jpg"
+  },
+  {
+    "prompt": "Where is the girl swinging the bat?",
+    "answer": "baseball field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000153631.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000547258.jpg"
+  },
+  {
+    "prompt": "Where are the clouds?",
+    "answer": "umbrella",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000023117.jpg"
+  },
+  {
+    "prompt": "Where is the light in the room coming from?",
+    "answer": "windows",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000416534.jpg"
+  },
+  {
+    "prompt": "Where is the cat?",
+    "answer": "in sink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000416668.jpg"
+  },
+  {
+    "prompt": "Where are the baseball players?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000416746.jpg"
+  },
+  {
+    "prompt": "Where is the team?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000416746.jpg"
+  },
+  {
+    "prompt": "Where is the hydrant?",
+    "answer": "on street",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000286010.jpg"
+  },
+  {
+    "prompt": "Where are the shadows for each umbrella?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000417284.jpg"
+  },
+  {
+    "prompt": "Where is the man?",
+    "answer": "tennis court",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000025144.jpg"
+  },
+  {
+    "prompt": "Where is the wrought iron fence?",
+    "answer": "in middle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000156292.jpg"
+  },
+  {
+    "prompt": "Where is the sun?",
+    "answer": "in sky",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000156532.jpg"
+  },
+  {
+    "prompt": "Where is the yellow line located?",
+    "answer": "sidewalk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000287725.jpg"
+  },
+  {
+    "prompt": "Where are the plants growing?",
+    "answer": "outside",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000156858.jpg"
+  },
+  {
+    "prompt": "Where is the bus going?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000550349.jpg"
+  },
+  {
+    "prompt": "Where is the sun in this picture?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000110369.jpg"
+  },
+  {
+    "prompt": "Where are the buildings?",
+    "answer": "on left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000026609.jpg"
+  },
+  {
+    "prompt": "Where are the leaves?",
+    "answer": "on pizza",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000157789.jpg"
+  },
+  {
+    "prompt": "Where is the dog?",
+    "answer": "motorcycle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000026730.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000419971.jpg"
+  },
+  {
+    "prompt": "Where is the man looking?",
+    "answer": "at camera",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000158118.jpg"
+  },
+  {
+    "prompt": "What room is this in?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000158292.jpg"
+  },
+  {
+    "prompt": "Where is the train?",
+    "answer": "parked",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000027226.jpg"
+  },
+  {
+    "prompt": "Where is the fridge?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000551654.jpg"
+  },
+  {
+    "prompt": "Where is the girl child looking at?",
+    "answer": "kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000027778.jpg"
+  },
+  {
+    "prompt": "Where are the dogs playing?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000421072.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bedroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000552217.jpg"
+  },
+  {
+    "prompt": "Where are the sheep?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000421195.jpg"
+  },
+  {
+    "prompt": "Where is the hydrant?",
+    "answer": "sidewalk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000159203.jpg"
+  },
+  {
+    "prompt": "Where are the blue container bins?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000159262.jpg"
+  },
+  {
+    "prompt": "Where are the cars?",
+    "answer": "street",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000028293.jpg"
+  },
+  {
+    "prompt": "Where is the soap?",
+    "answer": "windowsill",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000028506.jpg"
+  },
+  {
+    "prompt": "Where is the clock located?",
+    "answer": "sidewalk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000028655.jpg"
+  },
+  {
+    "prompt": "Where are the cars?",
+    "answer": "street",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000028655.jpg"
+  },
+  {
+    "prompt": "Where are the men going?",
+    "answer": "downhill",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000291251.jpg"
+  },
+  {
+    "prompt": "Where is the girl wearing a dress?",
+    "answer": "home",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000551107.jpg"
+  },
+  {
+    "prompt": "Where is the train?",
+    "answer": "station",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000161231.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000161370.jpg"
+  },
+  {
+    "prompt": "Where is the man laying?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000554595.jpg"
+  },
+  {
+    "prompt": "What room is shown?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000554618.jpg"
+  },
+  {
+    "prompt": "Where are the uphill steps?",
+    "answer": "behind bus",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000292663.jpg"
+  },
+  {
+    "prompt": "Where is the cat?",
+    "answer": "bed",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000030607.jpg"
+  },
+  {
+    "prompt": "Where is the bird?",
+    "answer": "ground",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000423830.jpg"
+  },
+  {
+    "prompt": "Where is the clock?",
+    "answer": "arch",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000292804.jpg"
+  },
+  {
+    "prompt": "Where is the toilet?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000423971.jpg"
+  },
+  {
+    "prompt": "Where is the woman located?",
+    "answer": "desert",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000292901.jpg"
+  },
+  {
+    "prompt": "Where is the broccoli?",
+    "answer": "on plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000292916.jpg"
+  },
+  {
+    "prompt": "Where is the bench?",
+    "answer": "under tree",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000161962.jpg"
+  },
+  {
+    "prompt": "Where is the surfboard?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000424172.jpg"
+  },
+  {
+    "prompt": "Where is the man running?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000424812.jpg"
+  },
+  {
+    "prompt": "Where are the people?",
+    "answer": "on horse",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000424812.jpg"
+  },
+  {
+    "prompt": "Where are the cars?",
+    "answer": "on street",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000424998.jpg"
+  },
+  {
+    "prompt": "Where are the sunglasses?",
+    "answer": "on man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000031981.jpg"
+  },
+  {
+    "prompt": "Where is the cat?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000529626.jpg"
+  },
+  {
+    "prompt": "Where is the donuts from?",
+    "answer": "krispy kreme",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000294264.jpg"
+  },
+  {
+    "prompt": "Where are the zebras?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000425573.jpg"
+  },
+  {
+    "prompt": "Where are the zebras located?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000425573.jpg"
+  },
+  {
+    "prompt": "Where is the plane located?",
+    "answer": "sky",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000556901.jpg"
+  },
+  {
+    "prompt": "Where is the bus headed?",
+    "answer": "not sure",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000295340.jpg"
+  },
+  {
+    "prompt": "Where is the plate with food?",
+    "answer": "table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000295614.jpg"
+  },
+  {
+    "prompt": "Where is the girl standing on a skateboard?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000426878.jpg"
+  },
+  {
+    "prompt": "Where is the picture of the naked girl?",
+    "answer": "wall",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000296231.jpg"
+  },
+  {
+    "prompt": "Where are the sunglasses?",
+    "answer": "on man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000034180.jpg"
+  },
+  {
+    "prompt": "Where is the kite?",
+    "answer": "in air",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000428064.jpg"
+  },
+  {
+    "prompt": "Where are the ducks?",
+    "answer": "in water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000297017.jpg"
+  },
+  {
+    "prompt": "Where is the man riding a horse?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000297037.jpg"
+  },
+  {
+    "prompt": "Where are the birds feet?",
+    "answer": "sand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000035195.jpg"
+  },
+  {
+    "prompt": "Where are the lights?",
+    "answer": "ceiling",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000202489.jpg"
+  },
+  {
+    "prompt": "Where is the lamp?",
+    "answer": "on right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000035738.jpg"
+  },
+  {
+    "prompt": "Where is the clock?",
+    "answer": "on tower",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000429174.jpg"
+  },
+  {
+    "prompt": "Where is the window?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000036082.jpg"
+  },
+  {
+    "prompt": "Where is the shower curtains?",
+    "answer": "hanging",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000298452.jpg"
+  },
+  {
+    "prompt": "Where are the planes?",
+    "answer": "airport",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000560623.jpg"
+  },
+  {
+    "prompt": "What room is pictured in the home?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000429593.jpg"
+  },
+  {
+    "prompt": "Where is the bike lining?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000429633.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000167529.jpg"
+  },
+  {
+    "prompt": "Where are the cups in the picture?",
+    "answer": "bottom right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000167529.jpg"
+  },
+  {
+    "prompt": "Where is the lamp?",
+    "answer": "desk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000036661.jpg"
+  },
+  {
+    "prompt": "Where is the woman standing?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000299023.jpg"
+  },
+  {
+    "prompt": "Where is the word ruby?",
+    "answer": "laptop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000561403.jpg"
+  },
+  {
+    "prompt": "Where is the soy sauce?",
+    "answer": "jar",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000430469.jpg"
+  },
+  {
+    "prompt": "Where is the spoon?",
+    "answer": "plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000430469.jpg"
+  },
+  {
+    "prompt": "Where is the passenger train?",
+    "answer": "on tracks",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000494439.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "office",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000299952.jpg"
+  },
+  {
+    "prompt": "Where is the bowl?",
+    "answer": "on desk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000299952.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000300034.jpg"
+  },
+  {
+    "prompt": "Where is the room?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000431197.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000431197.jpg"
+  },
+  {
+    "prompt": "Where are the players?",
+    "answer": "tennis court",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000562381.jpg"
+  },
+  {
+    "prompt": "Where is the photo taken?",
+    "answer": "city",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000562582.jpg"
+  },
+  {
+    "prompt": "Where are the boats?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000038662.jpg"
+  },
+  {
+    "prompt": "Where is the girl eating?",
+    "answer": "outside",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000038666.jpg"
+  },
+  {
+    "prompt": "Where is the man surfing?",
+    "answer": "ocean",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000431996.jpg"
+  },
+  {
+    "prompt": "Where are the people?",
+    "answer": "platform",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000508917.jpg"
+  },
+  {
+    "prompt": "Where are the donuts?",
+    "answer": "display",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000170015.jpg"
+  },
+  {
+    "prompt": "Where are the people?",
+    "answer": "school",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000432547.jpg"
+  },
+  {
+    "prompt": "Where is the bench?",
+    "answer": "side of road",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000334311.jpg"
+  },
+  {
+    "prompt": "Where is the polka CD?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000433574.jpg"
+  },
+  {
+    "prompt": "Where are the passengers?",
+    "answer": "on train",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000302867.jpg"
+  },
+  {
+    "prompt": "Where is the cap?",
+    "answer": "on table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000434129.jpg"
+  },
+  {
+    "prompt": "What room is pictured?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000303706.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000303706.jpg"
+  },
+  {
+    "prompt": "Where is the cat?",
+    "answer": "refrigerator",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000303706.jpg"
+  },
+  {
+    "prompt": "Where is the plate with food?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000435270.jpg"
+  },
+  {
+    "prompt": "Where is the man riding the bicycle?",
+    "answer": "road",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000354929.jpg"
+  },
+  {
+    "prompt": "Where is the elephant?",
+    "answer": "outside",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000173385.jpg"
+  },
+  {
+    "prompt": "Where is the cat?",
+    "answer": "computer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000566644.jpg"
+  },
+  {
+    "prompt": "Where is the cat sitting?",
+    "answer": "laptop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000566644.jpg"
+  },
+  {
+    "prompt": "Where is the cat?",
+    "answer": "bathtub",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000566717.jpg"
+  },
+  {
+    "prompt": "Where is the horse walking?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000436252.jpg"
+  },
+  {
+    "prompt": "Where is the moped?",
+    "answer": "in street",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000043202.jpg"
+  },
+  {
+    "prompt": "Where is the sandwich sign?",
+    "answer": "bookshelf",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000567657.jpg"
+  },
+  {
+    "prompt": "Where is the mouse?",
+    "answer": "on right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000174511.jpg"
+  },
+  {
+    "prompt": "Where is the cat laying?",
+    "answer": "nowhere",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000174567.jpg"
+  },
+  {
+    "prompt": "Where are the laptop computers and monitor?",
+    "answer": "desk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000174567.jpg"
+  },
+  {
+    "prompt": "Where is the red helmet?",
+    "answer": "biker",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000567944.jpg"
+  },
+  {
+    "prompt": "Where is the bottle of Coke located?",
+    "answer": "door",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000044112.jpg"
+  },
+  {
+    "prompt": "Where are the condiments located?",
+    "answer": "door",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000044112.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000575367.jpg"
+  },
+  {
+    "prompt": "Where is the thermos?",
+    "answer": "counter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000575367.jpg"
+  },
+  {
+    "prompt": "Where are the flowers?",
+    "answer": "in vase",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000045356.jpg"
+  },
+  {
+    "prompt": "Where is the ram?",
+    "answer": "outside",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000569849.jpg"
+  },
+  {
+    "prompt": "Where is the yellow tag?",
+    "answer": "collar",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000570521.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000177489.jpg"
+  },
+  {
+    "prompt": "Where is the market located?",
+    "answer": "public market center",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000451095.jpg"
+  },
+  {
+    "prompt": "Where are the street signs?",
+    "answer": "on pole",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000308828.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000177811.jpg"
+  },
+  {
+    "prompt": "Where is the hydrant?",
+    "answer": "center",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000440354.jpg"
+  },
+  {
+    "prompt": "Where are the bananas?",
+    "answer": "market",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000571518.jpg"
+  },
+  {
+    "prompt": "Where is the helmet?",
+    "answer": "head",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000047651.jpg"
+  },
+  {
+    "prompt": "Where is the fruit?",
+    "answer": "in air",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000310262.jpg"
+  },
+  {
+    "prompt": "Where is the bear?",
+    "answer": "zoo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000204640.jpg"
+  },
+  {
+    "prompt": "Where are the boats?",
+    "answer": "in water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000441496.jpg"
+  },
+  {
+    "prompt": "Where is the brown box?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000048530.jpg"
+  },
+  {
+    "prompt": "Where are the lights?",
+    "answer": "ceiling",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000179921.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000573223.jpg"
+  },
+  {
+    "prompt": "Where is the plate?",
+    "answer": "on table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000442214.jpg"
+  },
+  {
+    "prompt": "Where is the zebra pointing his nose towards?",
+    "answer": "ground",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000180447.jpg"
+  },
+  {
+    "prompt": "Where are the bushes?",
+    "answer": "front",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000442993.jpg"
+  },
+  {
+    "prompt": "Where is the street lamp located?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000050006.jpg"
+  },
+  {
+    "prompt": "Where is the lady looking at?",
+    "answer": "man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000050159.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000313063.jpg"
+  },
+  {
+    "prompt": "Where is the woman sitting in the picture?",
+    "answer": "desk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000575389.jpg"
+  },
+  {
+    "prompt": "Where is the person's shadow?",
+    "answer": "to right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000575904.jpg"
+  },
+  {
+    "prompt": "Where is the man looking?",
+    "answer": "ahead",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000575904.jpg"
+  },
+  {
+    "prompt": "Where is the man sitting in the green shirt?",
+    "answer": "bench",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000182736.jpg"
+  },
+  {
+    "prompt": "Where is the other elephant located?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000314294.jpg"
+  },
+  {
+    "prompt": "Where is the man?",
+    "answer": "soccer field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000576463.jpg"
+  },
+  {
+    "prompt": "What room is photographed in the home?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000576576.jpg"
+  },
+  {
+    "prompt": "Where are the animals?",
+    "answer": "elephants",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000315352.jpg"
+  },
+  {
+    "prompt": "Where is the reclining dog looking?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000446522.jpg"
+  },
+  {
+    "prompt": "Where is the microwave?",
+    "answer": "counter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000205577.jpg"
+  },
+  {
+    "prompt": "Where is the red towel?",
+    "answer": "on fridge",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000205577.jpg"
+  },
+  {
+    "prompt": "Where are the people?",
+    "answer": "outside",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000578492.jpg"
+  },
+  {
+    "prompt": "Where is the cat?",
+    "answer": "bed",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000054340.jpg"
+  },
+  {
+    "prompt": "Where are the glasses and the vase sitting?",
+    "answer": "upside down",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000054513.jpg"
+  },
+  {
+    "prompt": "Where is the pizza?",
+    "answer": "pan",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000447787.jpg"
+  },
+  {
+    "prompt": "Where is the skateboard?",
+    "answer": "above",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000055059.jpg"
+  },
+  {
+    "prompt": "Where is the truck parked?",
+    "answer": "parking lot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000317244.jpg"
+  },
+  {
+    "prompt": "Where is the remote control?",
+    "answer": "hand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000055223.jpg"
+  },
+  {
+    "prompt": "Where is the tree?",
+    "answer": "in front",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000009217.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000055727.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000187001.jpg"
+  },
+  {
+    "prompt": "Where is the red tag?",
+    "answer": "on suitcase",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000449191.jpg"
+  },
+  {
+    "prompt": "Where are the wings?",
+    "answer": "back",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000056413.jpg"
+  },
+  {
+    "prompt": "Where is the fork?",
+    "answer": "on plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000449675.jpg"
+  },
+  {
+    "prompt": "Where are the napkins?",
+    "answer": "table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000449675.jpg"
+  },
+  {
+    "prompt": "Where is the tan car?",
+    "answer": "parking lot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000449872.jpg"
+  },
+  {
+    "prompt": "Where are the vans?",
+    "answer": "parking lot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000449872.jpg"
+  },
+  {
+    "prompt": "Where is the glass of champagne?",
+    "answer": "on table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000187776.jpg"
+  },
+  {
+    "prompt": "Where are the donuts?",
+    "answer": "bakery",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000319933.jpg"
+  },
+  {
+    "prompt": "Where is the man in the red shirt?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000320370.jpg"
+  },
+  {
+    "prompt": "Where are the two people working?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000320480.jpg"
+  },
+  {
+    "prompt": "Where is the cow?",
+    "answer": "barn",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000271892.jpg"
+  },
+  {
+    "prompt": "Where is the car?",
+    "answer": "parking lot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000321195.jpg"
+  },
+  {
+    "prompt": "Where are the boys playing a sport?",
+    "answer": "gym",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000285661.jpg"
+  },
+  {
+    "prompt": "Where are the tiles?",
+    "answer": "floor",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000059383.jpg"
+  },
+  {
+    "prompt": "Where is the woman playing?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000403122.jpg"
+  },
+  {
+    "prompt": "Where is the bath towel?",
+    "answer": "above toilet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000321706.jpg"
+  },
+  {
+    "prompt": "Where are the vegetables?",
+    "answer": "table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000059740.jpg"
+  },
+  {
+    "prompt": "Where is the teddy bear?",
+    "answer": "on chair",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000453013.jpg"
+  },
+  {
+    "prompt": "Where is the bat located?",
+    "answer": "behind",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000191096.jpg"
+  },
+  {
+    "prompt": "Where are the dark sunglasses?",
+    "answer": "woman",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000322222.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000453400.jpg"
+  },
+  {
+    "prompt": "Where is the tower?",
+    "answer": "in background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000565031.jpg"
+  },
+  {
+    "prompt": "Where is the phone?",
+    "answer": "baby",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000322586.jpg"
+  },
+  {
+    "prompt": "Where is the door?",
+    "answer": "on right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000512576.jpg"
+  },
+  {
+    "prompt": "Where are the pillows?",
+    "answer": "couch",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000184902.jpg"
+  },
+  {
+    "prompt": "Where is the cake?",
+    "answer": "on plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000323100.jpg"
+  },
+  {
+    "prompt": "Where is the flag?",
+    "answer": "pole",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000061899.jpg"
+  },
+  {
+    "prompt": "Where is the sun in the sky?",
+    "answer": "up",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000250619.jpg"
+  },
+  {
+    "prompt": "Where is the man sitting?",
+    "answer": "bench",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000455157.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000193021.jpg"
+  },
+  {
+    "prompt": "Where are the glasses stored?",
+    "answer": "face",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000324638.jpg"
+  },
+  {
+    "prompt": "Where is the path?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000062706.jpg"
+  },
+  {
+    "prompt": "Where is the sandwich?",
+    "answer": "foil",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000325027.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000316323.jpg"
+  },
+  {
+    "prompt": "Where is the owner of the luggage going?",
+    "answer": "away",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000325153.jpg"
+  },
+  {
+    "prompt": "Where is the cat sitting?",
+    "answer": "window sill",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000194120.jpg"
+  },
+  {
+    "prompt": "Where are the forks?",
+    "answer": "board",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000425609.jpg"
+  },
+  {
+    "prompt": "Where is the man driving the boat?",
+    "answer": "river",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000194756.jpg"
+  },
+  {
+    "prompt": "Where are the sunglasses?",
+    "answer": "face",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000457249.jpg"
+  },
+  {
+    "prompt": "Where are the dogs?",
+    "answer": "sidewalk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000326911.jpg"
+  },
+  {
+    "prompt": "Where are the pizzas?",
+    "answer": "counter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000327038.jpg"
+  },
+  {
+    "prompt": "Where is the pizza?",
+    "answer": "on counter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000327038.jpg"
+  },
+  {
+    "prompt": "Where is the ball?",
+    "answer": "in air",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000010837.jpg"
+  },
+  {
+    "prompt": "Where are the ducks?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000458560.jpg"
+  },
+  {
+    "prompt": "Where is the bird?",
+    "answer": "ground",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000458560.jpg"
+  },
+  {
+    "prompt": "Where is the window?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000196521.jpg"
+  },
+  {
+    "prompt": "Where is the water bottle?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000458721.jpg"
+  },
+  {
+    "prompt": "Where is the truck parked?",
+    "answer": "on beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000196715.jpg"
+  },
+  {
+    "prompt": "Where is the green button?",
+    "answer": "middle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000197245.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000328452.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000328462.jpg"
+  },
+  {
+    "prompt": "Where are the planes parked?",
+    "answer": "airport",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000224802.jpg"
+  },
+  {
+    "prompt": "Where is the head of the giraffe on the left?",
+    "answer": "in middle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000197745.jpg"
+  },
+  {
+    "prompt": "Where are the crowd?",
+    "answer": "stands",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000460361.jpg"
+  },
+  {
+    "prompt": "Where are the cars parked?",
+    "answer": "on street",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000067255.jpg"
+  },
+  {
+    "prompt": "Where is the suitcase?",
+    "answer": "ground",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000198448.jpg"
+  },
+  {
+    "prompt": "Where is the web camera?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000198641.jpg"
+  },
+  {
+    "prompt": "Where is the lighthouse?",
+    "answer": "on rock",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000068375.jpg"
+  },
+  {
+    "prompt": "Where is the chair?",
+    "answer": "by window",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000199449.jpg"
+  },
+  {
+    "prompt": "Where is the teddy bear?",
+    "answer": "on table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000068745.jpg"
+  },
+  {
+    "prompt": "What room is in the cat in?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000199940.jpg"
+  },
+  {
+    "prompt": "Where is the lighthouse?",
+    "answer": "in water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000462105.jpg"
+  },
+  {
+    "prompt": "Where is the bench placed at?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000462105.jpg"
+  },
+  {
+    "prompt": "Where are the people with luggage?",
+    "answer": "train station",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000462784.jpg"
+  },
+  {
+    "prompt": "Where are the white towels?",
+    "answer": "shelf",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000462982.jpg"
+  },
+  {
+    "prompt": "Where is the tank to the toilet?",
+    "answer": "against wall",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000462982.jpg"
+  },
+  {
+    "prompt": "Where is the players?",
+    "answer": "baseball field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000332096.jpg"
+  },
+  {
+    "prompt": "Where are the cows?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000332318.jpg"
+  },
+  {
+    "prompt": "Where is the window?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000077282.jpg"
+  },
+  {
+    "prompt": "Where is the cat?",
+    "answer": "in sink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000463825.jpg"
+  },
+  {
+    "prompt": "Where is the woman sitting?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000333665.jpg"
+  },
+  {
+    "prompt": "Where is the train?",
+    "answer": "on tracks",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000333746.jpg"
+  },
+  {
+    "prompt": "Where is the man playing a sport?",
+    "answer": "tennis court",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000333756.jpg"
+  },
+  {
+    "prompt": "Where is the vintage refrigerator?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000465069.jpg"
+  },
+  {
+    "prompt": "Where is the woman at?",
+    "answer": "back left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000465087.jpg"
+  },
+  {
+    "prompt": "Where is the fire hydrant?",
+    "answer": "on sidewalk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000072397.jpg"
+  },
+  {
+    "prompt": "Where are the tomatoes?",
+    "answer": "on right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000203636.jpg"
+  },
+  {
+    "prompt": "Where is the hospital bed?",
+    "answer": "center",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000072873.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "hospital",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000072873.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000032990.jpg"
+  },
+  {
+    "prompt": "Where is the towel?",
+    "answer": "on wall",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000032990.jpg"
+  },
+  {
+    "prompt": "Where is the surfboard?",
+    "answer": "ocean",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000073333.jpg"
+  },
+  {
+    "prompt": "Where is the man and woman?",
+    "answer": "bed",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000467437.jpg"
+  },
+  {
+    "prompt": "Where is the train going?",
+    "answer": "forward",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000074465.jpg"
+  },
+  {
+    "prompt": "Where is the fence?",
+    "answer": "in background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000075162.jpg"
+  },
+  {
+    "prompt": "Where are the majority of the people standing on the boat?",
+    "answer": "deck",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000075932.jpg"
+  },
+  {
+    "prompt": "Where is the horse's rider?",
+    "answer": "on horse",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000075990.jpg"
+  },
+  {
+    "prompt": "Where are the pastries?",
+    "answer": "donuts",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000318523.jpg"
+  },
+  {
+    "prompt": "Where is the boy holding a bat?",
+    "answer": "street",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000207292.jpg"
+  },
+  {
+    "prompt": "Where are the kites?",
+    "answer": "sky",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000076292.jpg"
+  },
+  {
+    "prompt": "Where are the elephants?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000469777.jpg"
+  },
+  {
+    "prompt": "Where is the red car?",
+    "answer": "on street",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000469803.jpg"
+  },
+  {
+    "prompt": "Where is the bike?",
+    "answer": "road",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000207853.jpg"
+  },
+  {
+    "prompt": "Where is the man?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000470513.jpg"
+  },
+  {
+    "prompt": "Where is the towel?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000034811.jpg"
+  },
+  {
+    "prompt": "Where are the geese?",
+    "answer": "ground",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000471015.jpg"
+  },
+  {
+    "prompt": "Where are the elephants?",
+    "answer": "forest",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000471497.jpg"
+  },
+  {
+    "prompt": "Where is the train?",
+    "answer": "on tracks",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000209388.jpg"
+  },
+  {
+    "prompt": "Where is the horse?",
+    "answer": "behind fence",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000471566.jpg"
+  },
+  {
+    "prompt": "Where is the thumb drive?",
+    "answer": "computer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000078420.jpg"
+  },
+  {
+    "prompt": "Where is the man playing?",
+    "answer": "baseball field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000078707.jpg"
+  },
+  {
+    "prompt": "Where are the people in the picture?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000209904.jpg"
+  },
+  {
+    "prompt": "Where is the woman holding a racket?",
+    "answer": "in front",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000209917.jpg"
+  },
+  {
+    "prompt": "Where are the buildings?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000472101.jpg"
+  },
+  {
+    "prompt": "Where is the fence?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000078959.jpg"
+  },
+  {
+    "prompt": "Where is the dog sleeping?",
+    "answer": "pool",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000341393.jpg"
+  },
+  {
+    "prompt": "Where are the woman's arms?",
+    "answer": "down",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000056983.jpg"
+  },
+  {
+    "prompt": "Where is the boy's backpack?",
+    "answer": "on ground",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000341921.jpg"
+  },
+  {
+    "prompt": "Where is the man sitting?",
+    "answer": "bench",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000341921.jpg"
+  },
+  {
+    "prompt": "Where is the steam coming from?",
+    "answer": "building",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000211054.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bedroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000211112.jpg"
+  },
+  {
+    "prompt": "Where is the remote?",
+    "answer": "couch",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000211186.jpg"
+  },
+  {
+    "prompt": "What room is pictured?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000211186.jpg"
+  },
+  {
+    "prompt": "Where is the grandfather clock?",
+    "answer": "against wall",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000342479.jpg"
+  },
+  {
+    "prompt": "Where are the power outlets?",
+    "answer": "wall",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000211756.jpg"
+  },
+  {
+    "prompt": "Where are the suitcases?",
+    "answer": "furniture",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000081656.jpg"
+  },
+  {
+    "prompt": "Where is the giraffe?",
+    "answer": "outside",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000475150.jpg"
+  },
+  {
+    "prompt": "Where are the women and man in the picture?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000214046.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000083059.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000345389.jpg"
+  },
+  {
+    "prompt": "Where is the man sitting?",
+    "answer": "chair",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000319743.jpg"
+  },
+  {
+    "prompt": "Where is the clock?",
+    "answer": "glass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000214527.jpg"
+  },
+  {
+    "prompt": "Where are the clocks?",
+    "answer": "top",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000214527.jpg"
+  },
+  {
+    "prompt": "Where is the clock located?",
+    "answer": "glass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000214527.jpg"
+  },
+  {
+    "prompt": "Where is the shower in this photo?",
+    "answer": "against wall",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000214664.jpg"
+  },
+  {
+    "prompt": "Where is the bottle?",
+    "answer": "on table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000476925.jpg"
+  },
+  {
+    "prompt": "Where is the toilet brush?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000084064.jpg"
+  },
+  {
+    "prompt": "Where is the traffic light?",
+    "answer": "corner",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000215356.jpg"
+  },
+  {
+    "prompt": "Where is the compass?",
+    "answer": "on top",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000215408.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000084362.jpg"
+  },
+  {
+    "prompt": "Where is the blonde hair?",
+    "answer": "bottom left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000215524.jpg"
+  },
+  {
+    "prompt": "Where is the microwave?",
+    "answer": "counter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000478077.jpg"
+  },
+  {
+    "prompt": "Where is the dog they are playing with?",
+    "answer": "dead",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000085007.jpg"
+  },
+  {
+    "prompt": "What room is it?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000557135.jpg"
+  },
+  {
+    "prompt": "Where is the umbrella?",
+    "answer": "in hand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000478621.jpg"
+  },
+  {
+    "prompt": "Where are the potatoes?",
+    "answer": "plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000478766.jpg"
+  },
+  {
+    "prompt": "Where are the cakes?",
+    "answer": "bakery",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000216726.jpg"
+  },
+  {
+    "prompt": "Where is the microwave?",
+    "answer": "shelf",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000479612.jpg"
+  },
+  {
+    "prompt": "Where is the banana relative to the bowl?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000348708.jpg"
+  },
+  {
+    "prompt": "Where are the planes?",
+    "answer": "museum",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000349804.jpg"
+  },
+  {
+    "prompt": "Where is the baby sitting?",
+    "answer": "bed",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000219135.jpg"
+  },
+  {
+    "prompt": "Where is the cat laying?",
+    "answer": "pot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000350522.jpg"
+  },
+  {
+    "prompt": "Where is the girl?",
+    "answer": "outside",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000219525.jpg"
+  },
+  {
+    "prompt": "Where is the cup from?",
+    "answer": "starbucks",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000350648.jpg"
+  },
+  {
+    "prompt": "Where are the giraffes?",
+    "answer": "zoo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000482081.jpg"
+  },
+  {
+    "prompt": "Where are the breadsticks?",
+    "answer": "wine glass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000351017.jpg"
+  },
+  {
+    "prompt": "Where is the beverage cup?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000351183.jpg"
+  },
+  {
+    "prompt": "Where are the largest bells located?",
+    "answer": "bottom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000220224.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000482562.jpg"
+  },
+  {
+    "prompt": "Where are the woman?",
+    "answer": "park",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000351530.jpg"
+  },
+  {
+    "prompt": "Where is the bus stopped?",
+    "answer": "side of road",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000089500.jpg"
+  },
+  {
+    "prompt": "Where is the cow?",
+    "answer": "outside",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000220678.jpg"
+  },
+  {
+    "prompt": "Where are the luggages?",
+    "answer": "on floor",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000352080.jpg"
+  },
+  {
+    "prompt": "Where are the trees?",
+    "answer": "in background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000015050.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000352744.jpg"
+  },
+  {
+    "prompt": "Where is the kid?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000352937.jpg"
+  },
+  {
+    "prompt": "Where is the street and stop sign?",
+    "answer": "corner",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000484029.jpg"
+  },
+  {
+    "prompt": "Where are the oranges?",
+    "answer": "in vase",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000484080.jpg"
+  },
+  {
+    "prompt": "Where are the people in the picture?",
+    "answer": "street",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000222370.jpg"
+  },
+  {
+    "prompt": "Where is the monitor?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000484938.jpg"
+  },
+  {
+    "prompt": "Where is the photo taken?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000484938.jpg"
+  },
+  {
+    "prompt": "Where is the ladder?",
+    "answer": "on ground",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000222879.jpg"
+  },
+  {
+    "prompt": "Where is the dog?",
+    "answer": "leaves",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000223032.jpg"
+  },
+  {
+    "prompt": "Where are the babies feet?",
+    "answer": "lap",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000223241.jpg"
+  },
+  {
+    "prompt": "Where is the baby sitting?",
+    "answer": "lap",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000223241.jpg"
+  },
+  {
+    "prompt": "Where is the man's left hand holding?",
+    "answer": "baby",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000223241.jpg"
+  },
+  {
+    "prompt": "Where is the cat?",
+    "answer": "in suitcase",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000092801.jpg"
+  },
+  {
+    "prompt": "Where is the giraffe?",
+    "answer": "zoo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000486046.jpg"
+  },
+  {
+    "prompt": "Where is the dog at?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000355905.jpg"
+  },
+  {
+    "prompt": "Where are the dogs going?",
+    "answer": "running",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000355905.jpg"
+  },
+  {
+    "prompt": "Where are the zebras?",
+    "answer": "zoo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000224848.jpg"
+  },
+  {
+    "prompt": "Where is the pizza?",
+    "answer": "on plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000539926.jpg"
+  },
+  {
+    "prompt": "Where is the fruit?",
+    "answer": "on plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000356424.jpg"
+  },
+  {
+    "prompt": "Where are the woman's arms?",
+    "answer": "in air",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000343394.jpg"
+  },
+  {
+    "prompt": "Where is the post in the picture?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000356500.jpg"
+  },
+  {
+    "prompt": "Where is the mirror hanged?",
+    "answer": "above sink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000225546.jpg"
+  },
+  {
+    "prompt": "Where is the kid?",
+    "answer": "bottom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000356950.jpg"
+  },
+  {
+    "prompt": "Where are the grapes?",
+    "answer": "bag",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000095062.jpg"
+  },
+  {
+    "prompt": "Where are the windows?",
+    "answer": "on building",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000357265.jpg"
+  },
+  {
+    "prompt": "Where is the van?",
+    "answer": "parking lot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000096351.jpg"
+  },
+  {
+    "prompt": "Where is the man sitting?",
+    "answer": "behind woman",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000227851.jpg"
+  },
+  {
+    "prompt": "Where is the motorcycle parked?",
+    "answer": "grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000359086.jpg"
+  },
+  {
+    "prompt": "Where is the light source?",
+    "answer": "window",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000103584.jpg"
+  },
+  {
+    "prompt": "Where are the spices kept?",
+    "answer": "rack",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000097240.jpg"
+  },
+  {
+    "prompt": "Where are the surfboards?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000359465.jpg"
+  },
+  {
+    "prompt": "Where is the motorcycle parked at?",
+    "answer": "street",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000359715.jpg"
+  },
+  {
+    "prompt": "Where is the airline shown here based?",
+    "answer": "us airways",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000097754.jpg"
+  },
+  {
+    "prompt": "Where are the boats?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000229014.jpg"
+  },
+  {
+    "prompt": "Where is the cat in the bedroom?",
+    "answer": "bed",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000491757.jpg"
+  },
+  {
+    "prompt": "Where are the transit buses?",
+    "answer": "side of road",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000491793.jpg"
+  },
+  {
+    "prompt": "Where is the sun in relation to the skier?",
+    "answer": "above",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000229889.jpg"
+  },
+  {
+    "prompt": "Where is the airplane?",
+    "answer": "in air",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000492067.jpg"
+  },
+  {
+    "prompt": "Where is the scene taking place in the photograph?",
+    "answer": "museum",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000492132.jpg"
+  },
+  {
+    "prompt": "Where is the skater?",
+    "answer": "driveway",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000230884.jpg"
+  },
+  {
+    "prompt": "Where is the traffic light?",
+    "answer": "on pole",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000100087.jpg"
+  },
+  {
+    "prompt": "Where is the bike parked?",
+    "answer": "parking lot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000100138.jpg"
+  },
+  {
+    "prompt": "Where is the colorful headband?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000494608.jpg"
+  },
+  {
+    "prompt": "Where is the box of tissues?",
+    "answer": "table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000363594.jpg"
+  },
+  {
+    "prompt": "Where are the drivers sunglasses?",
+    "answer": "face",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000232949.jpg"
+  },
+  {
+    "prompt": "Where is the boy sleeping?",
+    "answer": "couch",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000365325.jpg"
+  },
+  {
+    "prompt": "Where is the tissue paper?",
+    "answer": "garbage",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000151832.jpg"
+  },
+  {
+    "prompt": "Where are the air horns?",
+    "answer": "roof",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000103272.jpg"
+  },
+  {
+    "prompt": "Where is the sun?",
+    "answer": "behind clouds",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000496597.jpg"
+  },
+  {
+    "prompt": "Where is the dog playing?",
+    "answer": "yard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000497014.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000366096.jpg"
+  },
+  {
+    "prompt": "Where is the cake?",
+    "answer": "on table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000279490.jpg"
+  },
+  {
+    "prompt": "Where is the animal?",
+    "answer": "on ground",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000366508.jpg"
+  },
+  {
+    "prompt": "Where is the old car?",
+    "answer": "parked",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000236068.jpg"
+  },
+  {
+    "prompt": "Where are the people going?",
+    "answer": "dinner",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000105052.jpg"
+  },
+  {
+    "prompt": "Where are the vases placed?",
+    "answer": "window sill",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000498555.jpg"
+  },
+  {
+    "prompt": "Where is the bird?",
+    "answer": "air",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000236690.jpg"
+  },
+  {
+    "prompt": "Where is the huge teddy bear?",
+    "answer": "outside",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000410880.jpg"
+  },
+  {
+    "prompt": "Where are the people seated in chairs?",
+    "answer": "cafe",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000106909.jpg"
+  },
+  {
+    "prompt": "Where are the umbrellas?",
+    "answer": "outside",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000500211.jpg"
+  },
+  {
+    "prompt": "Where is the remote control?",
+    "answer": "coffee table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000238125.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000107123.jpg"
+  },
+  {
+    "prompt": "Where are the elephants?",
+    "answer": "africa",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000238272.jpg"
+  },
+  {
+    "prompt": "Where is the painting?",
+    "answer": "wall",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000369979.jpg"
+  },
+  {
+    "prompt": "Where is the white building?",
+    "answer": "on right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000501116.jpg"
+  },
+  {
+    "prompt": "Where is the man wearing a mask?",
+    "answer": "face",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000501122.jpg"
+  },
+  {
+    "prompt": "Where are the animals in the picture?",
+    "answer": "africa",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000108338.jpg"
+  },
+  {
+    "prompt": "Where is the child seated in the automobile?",
+    "answer": "in back",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000501652.jpg"
+  },
+  {
+    "prompt": "Where is the dog in relation to the person?",
+    "answer": "on bed",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000240637.jpg"
+  },
+  {
+    "prompt": "Where is the dog laying down?",
+    "answer": "bed",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000240637.jpg"
+  },
+  {
+    "prompt": "Where is the land in the photo?",
+    "answer": "in background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000503311.jpg"
+  },
+  {
+    "prompt": "Where is the tissue?",
+    "answer": "on pole",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000372495.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000372495.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000110601.jpg"
+  },
+  {
+    "prompt": "Where is the cat laying?",
+    "answer": "bed",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000520933.jpg"
+  },
+  {
+    "prompt": "Where is the lamp?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000111109.jpg"
+  },
+  {
+    "prompt": "Where is the dog resting?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000504341.jpg"
+  },
+  {
+    "prompt": "Where is the bus?",
+    "answer": "parked",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000242270.jpg"
+  },
+  {
+    "prompt": "Where is the coffee from?",
+    "answer": "restaurant",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000302555.jpg"
+  },
+  {
+    "prompt": "Where is the bird?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000504891.jpg"
+  },
+  {
+    "prompt": "Where are the birds?",
+    "answer": "ground",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000504891.jpg"
+  },
+  {
+    "prompt": "Where is the bird sitting?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000504891.jpg"
+  },
+  {
+    "prompt": "Where is the girl looking?",
+    "answer": "food",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000106046.jpg"
+  },
+  {
+    "prompt": "Where is the cake?",
+    "answer": "on plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000106046.jpg"
+  },
+  {
+    "prompt": "Where is the animal?",
+    "answer": "on fridge",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000243344.jpg"
+  },
+  {
+    "prompt": "Where are the horses?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000505650.jpg"
+  },
+  {
+    "prompt": "Where is the lemon slice?",
+    "answer": "on plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000112904.jpg"
+  },
+  {
+    "prompt": "Where are the engines?",
+    "answer": "front",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000112956.jpg"
+  },
+  {
+    "prompt": "Where is the bench?",
+    "answer": "park",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000113128.jpg"
+  },
+  {
+    "prompt": "Where is the boy on the skateboard?",
+    "answer": "outside",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000375324.jpg"
+  },
+  {
+    "prompt": "Where is the bench?",
+    "answer": "2 people",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000375440.jpg"
+  },
+  {
+    "prompt": "Where are the hands of the man in blue jeans?",
+    "answer": "pockets",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000244539.jpg"
+  },
+  {
+    "prompt": "Where is the plastic cup of water?",
+    "answer": "on table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000375769.jpg"
+  },
+  {
+    "prompt": "Where is the man at?",
+    "answer": "airport",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000412184.jpg"
+  },
+  {
+    "prompt": "Where is the bridge?",
+    "answer": "road",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000113828.jpg"
+  },
+  {
+    "prompt": "Where are the traffic lights?",
+    "answer": "air",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000376321.jpg"
+  },
+  {
+    "prompt": "Where are the men in the picture?",
+    "answer": "tennis court",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000376900.jpg"
+  },
+  {
+    "prompt": "Where is the train going?",
+    "answer": "south",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000115118.jpg"
+  },
+  {
+    "prompt": "Where are the breadsticks?",
+    "answer": "table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000377730.jpg"
+  },
+  {
+    "prompt": "Where are the food?",
+    "answer": "plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000378098.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000339943.jpg"
+  },
+  {
+    "prompt": "Where are the bananas?",
+    "answer": "display",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000540714.jpg"
+  },
+  {
+    "prompt": "Where is the food?",
+    "answer": "counter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000509807.jpg"
+  },
+  {
+    "prompt": "Where is the bear?",
+    "answer": "mountains",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000378765.jpg"
+  },
+  {
+    "prompt": "Where is the lady looking at?",
+    "answer": "distance",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000248701.jpg"
+  },
+  {
+    "prompt": "Where is the man standing?",
+    "answer": "deck",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000117690.jpg"
+  },
+  {
+    "prompt": "Where is the dog chasing another dog?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000380143.jpg"
+  },
+  {
+    "prompt": "Where is the curtain?",
+    "answer": "bathtub",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000380162.jpg"
+  },
+  {
+    "prompt": "Where is the picture?",
+    "answer": "park",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000118432.jpg"
+  },
+  {
+    "prompt": "Where are the people?",
+    "answer": "park",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000118432.jpg"
+  },
+  {
+    "prompt": "Where is the horse looking?",
+    "answer": "forward",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000249532.jpg"
+  },
+  {
+    "prompt": "Where is the train headed?",
+    "answer": "forward",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000249643.jpg"
+  },
+  {
+    "prompt": "Where is the boy sitting on?",
+    "answer": "lap",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000119134.jpg"
+  },
+  {
+    "prompt": "Where is the black and white curtain?",
+    "answer": "window",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000250311.jpg"
+  },
+  {
+    "prompt": "Where is the bowl?",
+    "answer": "on counter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000512476.jpg"
+  },
+  {
+    "prompt": "Where are the chopped vegetables?",
+    "answer": "blender",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000413120.jpg"
+  },
+  {
+    "prompt": "Where are the toilets?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000512760.jpg"
+  },
+  {
+    "prompt": "Where is the towel?",
+    "answer": "cabinet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000512760.jpg"
+  },
+  {
+    "prompt": "Where is the cell phone?",
+    "answer": "seat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000172911.jpg"
+  },
+  {
+    "prompt": "Where is the player?",
+    "answer": "tennis court",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000282251.jpg"
+  },
+  {
+    "prompt": "Where is the old three-masted boat?",
+    "answer": "harbor",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000251888.jpg"
+  },
+  {
+    "prompt": "Where is the remote?",
+    "answer": "on floor",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000252573.jpg"
+  },
+  {
+    "prompt": "Where is the other giraffe hiding?",
+    "answer": "shade",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000383676.jpg"
+  },
+  {
+    "prompt": "Where is the tissue paper placed?",
+    "answer": "on toilet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000252610.jpg"
+  },
+  {
+    "prompt": "Where is the batter?",
+    "answer": "home plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000384012.jpg"
+  },
+  {
+    "prompt": "Where are the trees?",
+    "answer": "forest",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000122161.jpg"
+  },
+  {
+    "prompt": "Where are the children skateboarding?",
+    "answer": "outside",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000384723.jpg"
+  },
+  {
+    "prompt": "Where is the bus going to?",
+    "answer": "crosstown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000122606.jpg"
+  },
+  {
+    "prompt": "Where are the girls eating?",
+    "answer": "cake",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000384981.jpg"
+  },
+  {
+    "prompt": "Where are the people standing?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000385514.jpg"
+  },
+  {
+    "prompt": "Where is the elephant?",
+    "answer": "outside",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000123415.jpg"
+  },
+  {
+    "prompt": "Where are the people standing on the snow?",
+    "answer": "ski slope",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000385598.jpg"
+  },
+  {
+    "prompt": "Where is the light?",
+    "answer": "fridge",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000123622.jpg"
+  },
+  {
+    "prompt": "Where is the toilet paper?",
+    "answer": "on sink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000254750.jpg"
+  },
+  {
+    "prompt": "Where is the woman sitting on?",
+    "answer": "curb",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000386204.jpg"
+  },
+  {
+    "prompt": "Where is the person's head?",
+    "answer": "glasses",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000386204.jpg"
+  },
+  {
+    "prompt": "Where is the dog?",
+    "answer": "ground",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000255209.jpg"
+  },
+  {
+    "prompt": "Where is the cat sitting?",
+    "answer": "sink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000517629.jpg"
+  },
+  {
+    "prompt": "What room is this located in the house?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000386766.jpg"
+  },
+  {
+    "prompt": "Where is the clock?",
+    "answer": "on tower",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000518234.jpg"
+  },
+  {
+    "prompt": "Where is the fork?",
+    "answer": "table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000518375.jpg"
+  },
+  {
+    "prompt": "Where is the road located?",
+    "answer": "country",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000518530.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000239376.jpg"
+  },
+  {
+    "prompt": "Where is the man sitting?",
+    "answer": "on bench",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000256868.jpg"
+  },
+  {
+    "prompt": "Where is the girl going?",
+    "answer": "dancing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000125983.jpg"
+  },
+  {
+    "prompt": "Where is the person standing?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000064710.jpg"
+  },
+  {
+    "prompt": "Where is the stop sign?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000388487.jpg"
+  },
+  {
+    "prompt": "What room is photographed?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000388528.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000436141.jpg"
+  },
+  {
+    "prompt": "Where are the birds?",
+    "answer": "arch",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000388770.jpg"
+  },
+  {
+    "prompt": "Where is the drain inserted?",
+    "answer": "chest",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000567329.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000258266.jpg"
+  },
+  {
+    "prompt": "Where is the photographer Sitting?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000258266.jpg"
+  },
+  {
+    "prompt": "What room is this taken in?",
+    "answer": "bedroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000128014.jpg"
+  },
+  {
+    "prompt": "Where is the child playing the game?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000521306.jpg"
+  },
+  {
+    "prompt": "Where is the dog?",
+    "answer": "on grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000521427.jpg"
+  },
+  {
+    "prompt": "Where is the elephant?",
+    "answer": "zoo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000259625.jpg"
+  },
+  {
+    "prompt": "Where is the cat?",
+    "answer": "in suitcase",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000259819.jpg"
+  },
+  {
+    "prompt": "Where is the telephone??",
+    "answer": "nightstand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000391915.jpg"
+  },
+  {
+    "prompt": "Where is the red headband?",
+    "answer": "girl",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000129982.jpg"
+  },
+  {
+    "prompt": "Where are the people playing?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000174594.jpg"
+  },
+  {
+    "prompt": "Where is the boy on the skateboard?",
+    "answer": "in air",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000392640.jpg"
+  },
+  {
+    "prompt": "Where are the books?",
+    "answer": "desk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000261780.jpg"
+  },
+  {
+    "prompt": "Where is the laptop?",
+    "answer": "on table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000261780.jpg"
+  },
+  {
+    "prompt": "Where are the folks sitting?",
+    "answer": "picnic table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000392878.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000523978.jpg"
+  },
+  {
+    "prompt": "Where is the plane?",
+    "answer": "airport",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000524011.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000395124.jpg"
+  },
+  {
+    "prompt": "Where is the clock?",
+    "answer": "on building",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000526256.jpg"
+  },
+  {
+    "prompt": "Where is the woman putting her umbrella?",
+    "answer": "trunk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000265125.jpg"
+  },
+  {
+    "prompt": "Where is the mirror?",
+    "answer": "on shelf",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000267135.jpg"
+  },
+  {
+    "prompt": "Where is the surfboard?",
+    "answer": "in water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000008493.jpg"
+  },
+  {
+    "prompt": "Where is the eyeglasses?",
+    "answer": "face",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000141197.jpg"
+  },
+  {
+    "prompt": "Where is the bird?",
+    "answer": "in water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000438269.jpg"
+  },
+  {
+    "prompt": "Where are the bikes?",
+    "answer": "sidewalk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000405614.jpg"
+  },
+  {
+    "prompt": "Where is the nike sign?",
+    "answer": "shirt",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000143554.jpg"
+  },
+  {
+    "prompt": "Where is the man working?",
+    "answer": "bedroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000013985.jpg"
+  },
+  {
+    "prompt": "Where is the person with the umbrella?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000014257.jpg"
+  },
+  {
+    "prompt": "Where is the shore?",
+    "answer": "bottom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000276458.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000539423.jpg"
+  },
+  {
+    "prompt": "Where is the dishwasher in this kitchen?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000411941.jpg"
+  },
+  {
+    "prompt": "Where is the Asian tour guide?",
+    "answer": "center",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000281837.jpg"
+  },
+  {
+    "prompt": "Where is the man?",
+    "answer": "in air",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000283203.jpg"
+  },
+  {
+    "prompt": "Where are the glasses?",
+    "answer": "hand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000022371.jpg"
+  },
+  {
+    "prompt": "Where is the sandwich?",
+    "answer": "in hand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000155897.jpg"
+  },
+  {
+    "prompt": "Where is the ATV?",
+    "answer": "parking lot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000026209.jpg"
+  },
+  {
+    "prompt": "Where is the car parked?",
+    "answer": "parking lot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000026209.jpg"
+  },
+  {
+    "prompt": "Where is the woman?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000551974.jpg"
+  },
+  {
+    "prompt": "What room is she in?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000551974.jpg"
+  },
+  {
+    "prompt": "Where is the bus going?",
+    "answer": "bus stop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000422157.jpg"
+  },
+  {
+    "prompt": "Where is the boy on a skateboard?",
+    "answer": "park",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000160126.jpg"
+  },
+  {
+    "prompt": "Where is the gray helmet?",
+    "answer": "boy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000160126.jpg"
+  },
+  {
+    "prompt": "Where is the printer?",
+    "answer": "cabinet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000219269.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000296707.jpg"
+  },
+  {
+    "prompt": "Where are the glasses?",
+    "answer": "on table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000559550.jpg"
+  },
+  {
+    "prompt": "Where is the picnic table?",
+    "answer": "on grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000035807.jpg"
+  },
+  {
+    "prompt": "Where is the ball?",
+    "answer": "hand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000430961.jpg"
+  },
+  {
+    "prompt": "Where are the traffic cones located?",
+    "answer": "street",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000562356.jpg"
+  },
+  {
+    "prompt": "Where is the monitor and keyboard?",
+    "answer": "desk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000562628.jpg"
+  },
+  {
+    "prompt": "Where are the men on the boat?",
+    "answer": "on water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000431615.jpg"
+  },
+  {
+    "prompt": "Where is the clock in this picture?",
+    "answer": "on tower",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000038479.jpg"
+  },
+  {
+    "prompt": "Where is the woman dining?",
+    "answer": "train",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000038678.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000301827.jpg"
+  },
+  {
+    "prompt": "Where is the bus going?",
+    "answer": "crosstown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000042070.jpg"
+  },
+  {
+    "prompt": "Where is the number 61?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000042070.jpg"
+  },
+  {
+    "prompt": "Where are the cows standing?",
+    "answer": "pasture",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000043680.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "bedroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000569059.jpg"
+  },
+  {
+    "prompt": "Where is the light coming from?",
+    "answer": "window",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000175948.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "living room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000439472.jpg"
+  },
+  {
+    "prompt": "Where is the banana?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000575916.jpg"
+  },
+  {
+    "prompt": "Where is the food?",
+    "answer": "bowl",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000577853.jpg"
+  },
+  {
+    "prompt": "Where is the motorbike?",
+    "answer": "outside",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000185922.jpg"
+  },
+  {
+    "prompt": "What room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000206705.jpg"
+  },
+  {
+    "prompt": "Where are the paper towels hanging at?",
+    "answer": "counter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000206705.jpg"
+  },
+  {
+    "prompt": "Where is the sink in the picture?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000206705.jpg"
+  },
+  {
+    "prompt": "Where is the toothbrush?",
+    "answer": "on sink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000403863.jpg"
+  },
+  {
+    "prompt": "Where is the woman sitting?",
+    "answer": "car",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000298978.jpg"
+  },
+  {
+    "prompt": "Where is the yellow line?",
+    "answer": "road",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000072368.jpg"
+  },
+  {
+    "prompt": "Where is the cat?",
+    "answer": "backpack",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000467197.jpg"
+  },
+  {
+    "prompt": "Where is the laptop?",
+    "answer": "on table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000467887.jpg"
+  },
+  {
+    "prompt": "Where is the garbage bin?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000075173.jpg"
+  },
+  {
+    "prompt": "Where is the train stopping?",
+    "answer": "not",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000208648.jpg"
+  },
+  {
+    "prompt": "Where is the rainbow?",
+    "answer": "shirt",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000209527.jpg"
+  },
+  {
+    "prompt": "Where is the truck parked?",
+    "answer": "dirt",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000472415.jpg"
+  },
+  {
+    "prompt": "Where is the bench?",
+    "answer": "under tree",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000211119.jpg"
+  },
+  {
+    "prompt": "Where is the wicker chair?",
+    "answer": "not here",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000080369.jpg"
+  },
+  {
+    "prompt": "Where are the men working?",
+    "answer": "traffic light",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000212288.jpg"
+  },
+  {
+    "prompt": "Where is the plane?",
+    "answer": "sky",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000344397.jpg"
+  },
+  {
+    "prompt": "Where are the cars parked?",
+    "answer": "church",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000487217.jpg"
+  },
+  {
+    "prompt": "Where are the people?",
+    "answer": "restaurant",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000215622.jpg"
+  },
+  {
+    "prompt": "Where are the menu?",
+    "answer": "table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000085527.jpg"
+  },
+  {
+    "prompt": "What room is the baby in?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000473406.jpg"
+  },
+  {
+    "prompt": "Where is the microwave?",
+    "answer": "above stove",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000485731.jpg"
+  },
+  {
+    "prompt": "Where is the picture taken?",
+    "answer": "outside",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000096633.jpg"
+  },
+  {
+    "prompt": "Where are the pastries on a white plate?",
+    "answer": "waffle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000362831.jpg"
+  },
+  {
+    "prompt": "Where is the ski board?",
+    "answer": "floor",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000232173.jpg"
+  },
+  {
+    "prompt": "Where is the wristband?",
+    "answer": "wrist",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000364592.jpg"
+  },
+  {
+    "prompt": "Where is the man?",
+    "answer": "desk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000235597.jpg"
+  },
+  {
+    "prompt": "Where is the man's 6 pack?",
+    "answer": "nowhere",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000235864.jpg"
+  },
+  {
+    "prompt": "Where is the tissue?",
+    "answer": "box",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000498665.jpg"
+  },
+  {
+    "prompt": "Where is the clock?",
+    "answer": "building",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000369243.jpg"
+  },
+  {
+    "prompt": "Where is the bed?",
+    "answer": "apartment",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000241503.jpg"
+  },
+  {
+    "prompt": "Where is the bedroom located?",
+    "answer": "apartment",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000241503.jpg"
+  },
+  {
+    "prompt": "Where is the mirror?",
+    "answer": "on wall",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000110857.jpg"
+  },
+  {
+    "prompt": "Where is the motorcycle sitting?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000373333.jpg"
+  },
+  {
+    "prompt": "Where are the motorcycles?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000373333.jpg"
+  },
+  {
+    "prompt": "Where is the plow?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000117432.jpg"
+  },
+  {
+    "prompt": "Where is the pizza?",
+    "answer": "on table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000252927.jpg"
+  },
+  {
+    "prompt": "Where is the man's right glove?",
+    "answer": "in air",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000253695.jpg"
+  },
+  {
+    "prompt": "Where are the cars parked?",
+    "answer": "parking lot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000385378.jpg"
+  },
+  {
+    "prompt": "Where are the cars?",
+    "answer": "parked",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000385378.jpg"
+  },
+  {
+    "prompt": "Where is the laptop?",
+    "answer": "desk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000255165.jpg"
+  },
+  {
+    "prompt": "Where is the toilet?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000256094.jpg"
+  }
+]

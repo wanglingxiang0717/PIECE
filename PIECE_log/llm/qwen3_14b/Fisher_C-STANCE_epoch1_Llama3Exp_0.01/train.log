@@ -1,0 +1,285 @@
+[2025-10-22 06:13:59,505] [INFO] [real_accelerator.py:254:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-10-22 06:14:01,584] [INFO] [logging.py:107:log_dist] [Rank -1] [TorchCheckpointEngine] Initialized with serialization = False
+[2025-10-22 06:14:02,928] [WARNING] [runner.py:220:fetch_hostfile] Unable to find hostfile, will proceed with training with local resources only.
+[2025-10-22 06:14:02,928] [INFO] [runner.py:610:main] cmd = /home/TAP/anaconda3/envs/qwen/bin/python3.10 -u -m deepspeed.launcher.launch --world_info=eyJsb2NhbGhvc3QiOiBbMCwgMSwgMiwgM119 --master_addr=127.0.0.1 --master_port=28737 --enable_each_rank_log=None training/main.py --data_path /data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000/C-STANCE --model_name_or_path /data2/TAP/model/Qwen/Qwen3-14B --per_device_train_batch_size 1 --per_device_eval_batch_size 1 --max_prompt_len 256 --max_ans_len 128 --learning_rate 1e-5 --weight_decay 0. --num_train_epochs 1 --gradient_accumulation_steps 16 --lr_scheduler_type cosine --num_warmup_steps 0 --seed 42 --zero_stage 2 --deepspeed --print_loss --CL_method base --enable_tensorboard --tensorboard_path /data1/TAP/model_con/1022/Fisher_C-STANCE_epoch1_Llama3Exp_0.01/log/ --offload --mask_method Fisher --top_ratio 0.01 --target_name C-STANCE --output_dir /data1/TAP/model_con/1022/Fisher_C-STANCE_epoch1_Llama3Exp_0.01 --test_file_dir /data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000
+[2025-10-22 06:14:04,440] [INFO] [real_accelerator.py:254:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-10-22 06:14:06,480] [INFO] [logging.py:107:log_dist] [Rank -1] [TorchCheckpointEngine] Initialized with serialization = False
+[2025-10-22 06:14:07,802] [INFO] [launch.py:146:main] WORLD INFO DICT: {'localhost': [0, 1, 2, 3]}
+[2025-10-22 06:14:07,802] [INFO] [launch.py:152:main] nnodes=1, num_local_procs=4, node_rank=0
+[2025-10-22 06:14:07,802] [INFO] [launch.py:163:main] global_rank_mapping=defaultdict(<class 'list'>, {'localhost': [0, 1, 2, 3]})
+[2025-10-22 06:14:07,802] [INFO] [launch.py:164:main] dist_world_size=4
+[2025-10-22 06:14:07,802] [INFO] [launch.py:168:main] Setting CUDA_VISIBLE_DEVICES=0,1,2,3
+[2025-10-22 06:14:07,803] [INFO] [launch.py:256:main] process 2608196 spawned with command: ['/home/TAP/anaconda3/envs/qwen/bin/python3.10', '-u', 'training/main.py', '--local_rank=0', '--data_path', '/data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000/C-STANCE', '--model_name_or_path', '/data2/TAP/model/Qwen/Qwen3-14B', '--per_device_train_batch_size', '1', '--per_device_eval_batch_size', '1', '--max_prompt_len', '256', '--max_ans_len', '128', '--learning_rate', '1e-5', '--weight_decay', '0.', '--num_train_epochs', '1', '--gradient_accumulation_steps', '16', '--lr_scheduler_type', 'cosine', '--num_warmup_steps', '0', '--seed', '42', '--zero_stage', '2', '--deepspeed', '--print_loss', '--CL_method', 'base', '--enable_tensorboard', '--tensorboard_path', '/data1/TAP/model_con/1022/Fisher_C-STANCE_epoch1_Llama3Exp_0.01/log/', '--offload', '--mask_method', 'Fisher', '--top_ratio', '0.01', '--target_name', 'C-STANCE', '--output_dir', '/data1/TAP/model_con/1022/Fisher_C-STANCE_epoch1_Llama3Exp_0.01', '--test_file_dir', '/data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000']
+[2025-10-22 06:14:07,804] [INFO] [launch.py:256:main] process 2608197 spawned with command: ['/home/TAP/anaconda3/envs/qwen/bin/python3.10', '-u', 'training/main.py', '--local_rank=1', '--data_path', '/data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000/C-STANCE', '--model_name_or_path', '/data2/TAP/model/Qwen/Qwen3-14B', '--per_device_train_batch_size', '1', '--per_device_eval_batch_size', '1', '--max_prompt_len', '256', '--max_ans_len', '128', '--learning_rate', '1e-5', '--weight_decay', '0.', '--num_train_epochs', '1', '--gradient_accumulation_steps', '16', '--lr_scheduler_type', 'cosine', '--num_warmup_steps', '0', '--seed', '42', '--zero_stage', '2', '--deepspeed', '--print_loss', '--CL_method', 'base', '--enable_tensorboard', '--tensorboard_path', '/data1/TAP/model_con/1022/Fisher_C-STANCE_epoch1_Llama3Exp_0.01/log/', '--offload', '--mask_method', 'Fisher', '--top_ratio', '0.01', '--target_name', 'C-STANCE', '--output_dir', '/data1/TAP/model_con/1022/Fisher_C-STANCE_epoch1_Llama3Exp_0.01', '--test_file_dir', '/data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000']
+[2025-10-22 06:14:07,804] [INFO] [launch.py:256:main] process 2608198 spawned with command: ['/home/TAP/anaconda3/envs/qwen/bin/python3.10', '-u', 'training/main.py', '--local_rank=2', '--data_path', '/data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000/C-STANCE', '--model_name_or_path', '/data2/TAP/model/Qwen/Qwen3-14B', '--per_device_train_batch_size', '1', '--per_device_eval_batch_size', '1', '--max_prompt_len', '256', '--max_ans_len', '128', '--learning_rate', '1e-5', '--weight_decay', '0.', '--num_train_epochs', '1', '--gradient_accumulation_steps', '16', '--lr_scheduler_type', 'cosine', '--num_warmup_steps', '0', '--seed', '42', '--zero_stage', '2', '--deepspeed', '--print_loss', '--CL_method', 'base', '--enable_tensorboard', '--tensorboard_path', '/data1/TAP/model_con/1022/Fisher_C-STANCE_epoch1_Llama3Exp_0.01/log/', '--offload', '--mask_method', 'Fisher', '--top_ratio', '0.01', '--target_name', 'C-STANCE', '--output_dir', '/data1/TAP/model_con/1022/Fisher_C-STANCE_epoch1_Llama3Exp_0.01', '--test_file_dir', '/data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000']
+[2025-10-22 06:14:07,805] [INFO] [launch.py:256:main] process 2608199 spawned with command: ['/home/TAP/anaconda3/envs/qwen/bin/python3.10', '-u', 'training/main.py', '--local_rank=3', '--data_path', '/data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000/C-STANCE', '--model_name_or_path', '/data2/TAP/model/Qwen/Qwen3-14B', '--per_device_train_batch_size', '1', '--per_device_eval_batch_size', '1', '--max_prompt_len', '256', '--max_ans_len', '128', '--learning_rate', '1e-5', '--weight_decay', '0.', '--num_train_epochs', '1', '--gradient_accumulation_steps', '16', '--lr_scheduler_type', 'cosine', '--num_warmup_steps', '0', '--seed', '42', '--zero_stage', '2', '--deepspeed', '--print_loss', '--CL_method', 'base', '--enable_tensorboard', '--tensorboard_path', '/data1/TAP/model_con/1022/Fisher_C-STANCE_epoch1_Llama3Exp_0.01/log/', '--offload', '--mask_method', 'Fisher', '--top_ratio', '0.01', '--target_name', 'C-STANCE', '--output_dir', '/data1/TAP/model_con/1022/Fisher_C-STANCE_epoch1_Llama3Exp_0.01', '--test_file_dir', '/data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000']
+[2025-10-22 06:14:11,706] [INFO] [real_accelerator.py:254:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-10-22 06:14:11,729] [INFO] [real_accelerator.py:254:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-10-22 06:14:11,757] [INFO] [real_accelerator.py:254:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-10-22 06:14:11,760] [INFO] [real_accelerator.py:254:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-10-22 06:14:13,005] [INFO] [logging.py:107:log_dist] [Rank -1] [TorchCheckpointEngine] Initialized with serialization = False
+Using integrations.HfDeepSpeedConfig (new API)
+/data1/TAP/model_exp_2b/1020_C-STANCE_Fisher_parameters_test_epoch1_random_1000/parameters_grad_2/top0.01
+[2025-10-22 06:14:13,910] [INFO] [comm.py:675:init_distributed] cdb=None
+[2025-10-22 06:14:13,911] [INFO] [comm.py:706:init_distributed] Initializing TorchBackend in DeepSpeed with backend nccl
+[2025-10-22 06:14:14,413] [INFO] [logging.py:107:log_dist] [Rank -1] [TorchCheckpointEngine] Initialized with serialization = False
+[2025-10-22 06:14:14,486] [INFO] [logging.py:107:log_dist] [Rank -1] [TorchCheckpointEngine] Initialized with serialization = False
+[2025-10-22 06:14:14,527] [INFO] [logging.py:107:log_dist] [Rank -1] [TorchCheckpointEngine] Initialized with serialization = False
+Using integrations.HfDeepSpeedConfig (new API)
+Using integrations.HfDeepSpeedConfig (new API)
+Using integrations.HfDeepSpeedConfig (new API)
+/data1/TAP/model_exp_2b/1020_C-STANCE_Fisher_parameters_test_epoch1_random_1000/parameters_grad_2/top0.01
+/data1/TAP/model_exp_2b/1020_C-STANCE_Fisher_parameters_test_epoch1_random_1000/parameters_grad_2/top0.01
+/data1/TAP/model_exp_2b/1020_C-STANCE_Fisher_parameters_test_epoch1_random_1000/parameters_grad_2/top0.01
+[2025-10-22 06:14:15,605] [INFO] [comm.py:675:init_distributed] cdb=None
+[2025-10-22 06:14:15,657] [INFO] [comm.py:675:init_distributed] cdb=None
+[2025-10-22 06:14:15,671] [INFO] [comm.py:675:init_distributed] cdb=None
+ninja: no work to do.
+Time to load cpu_adam op: 2.3317675590515137 seconds
+Adam Optimizer #0 is created with AVX512 arithmetic capability.
+Config: alpha=0.000010, betas=(0.900000, 0.950000), weight_decay=0.000000, adam_w=1
+[2025-10-22 06:15:40,390] [INFO] [config.py:655:__init__] Config mesh_device None world_size = 4
+ninja: no work to do.
+Time to load cpu_adam op: 2.3394620418548584 seconds
+Adam Optimizer #0 is created with AVX512 arithmetic capability.
+Config: alpha=0.000010, betas=(0.900000, 0.950000), weight_decay=0.000000, adam_w=1
+[2025-10-22 06:15:40,415] [INFO] [logging.py:107:log_dist] [Rank 0] DeepSpeed info: version=0.17.1, git-hash=unknown, git-branch=unknown
+[2025-10-22 06:15:40,415] [INFO] [comm.py:700:init_distributed] Distributed backend already initialized
+[2025-10-22 06:15:40,415] [INFO] [config.py:655:__init__] Config mesh_device None world_size = 4
+ninja: no work to do.
+Time to load cpu_adam op: 2.3797967433929443 seconds
+Adam Optimizer #0 is created with AVX512 arithmetic capability.
+Config: alpha=0.000010, betas=(0.900000, 0.950000), weight_decay=0.000000, adam_w=1
+[2025-10-22 06:15:40,469] [INFO] [config.py:655:__init__] Config mesh_device None world_size = 4
+ninja: no work to do.
+Time to load cpu_adam op: 2.4009463787078857 seconds
+Adam Optimizer #0 is created with AVX512 arithmetic capability.
+Config: alpha=0.000010, betas=(0.900000, 0.950000), weight_decay=0.000000, adam_w=1
+[2025-10-22 06:15:40,487] [INFO] [config.py:655:__init__] Config mesh_device None world_size = 4
+[2025-10-22 06:15:50,521] [INFO] [engine.py:1325:_configure_distributed_model] ********** distributed groups summary **********
+	 self.dp_world_size=4
+	 self.mp_world_size=1
+	 self.seq_dp_world_size=4
+	 self.sequence_parallel_size=1
+***********************************************
+[2025-10-22 06:15:51,395] [INFO] [logging.py:107:log_dist] [Rank 0] DeepSpeed Flops Profiler Enabled: False
+[2025-10-22 06:15:51,396] [INFO] [logging.py:107:log_dist] [Rank 0] Using client Optimizer as basic optimizer
+[2025-10-22 06:15:51,396] [INFO] [logging.py:107:log_dist] [Rank 0] Removing param_group that has no 'params' in the basic Optimizer
+[2025-10-22 06:15:51,419] [INFO] [logging.py:107:log_dist] [Rank 0] DeepSpeed Basic Optimizer = DeepSpeedCPUAdam
+[2025-10-22 06:15:51,419] [INFO] [utils.py:59:is_zero_supported_optimizer] Checking ZeRO support for optimizer=DeepSpeedCPUAdam type=<class 'deepspeed.ops.adam.cpu_adam.DeepSpeedCPUAdam'>
+[2025-10-22 06:15:51,419] [INFO] [logging.py:107:log_dist] [Rank 0] Creating torch.float32 ZeRO stage 2 optimizer
+[2025-10-22 06:15:51,419] [INFO] [stage_1_and_2.py:151:__init__] Reduce bucket size 500000000
+[2025-10-22 06:15:51,419] [INFO] [stage_1_and_2.py:152:__init__] Allgather bucket size 500000000
+[2025-10-22 06:15:51,419] [INFO] [stage_1_and_2.py:153:__init__] CPU Offload: True
+[2025-10-22 06:15:51,419] [INFO] [stage_1_and_2.py:154:__init__] Round robin gradient partitioning: False
+[2025-10-22 06:16:37,218] [INFO] [utils.py:781:see_memory_usage] Before initializing optimizer states
+[2025-10-22 06:16:37,219] [INFO] [utils.py:782:see_memory_usage] MA 28.96 GB         Max_MA 28.96 GB         CA 28.96 GB         Max_CA 29 GB 
+[2025-10-22 06:16:37,219] [INFO] [utils.py:789:see_memory_usage] CPU Virtual Memory:  used = 179.62 GB, percent = 17.8%
+[2025-10-22 06:16:38,105] [INFO] [utils.py:781:see_memory_usage] After initializing optimizer states
+[2025-10-22 06:16:38,106] [INFO] [utils.py:782:see_memory_usage] MA 28.96 GB         Max_MA 28.96 GB         CA 28.96 GB         Max_CA 29 GB 
+[2025-10-22 06:16:38,106] [INFO] [utils.py:789:see_memory_usage] CPU Virtual Memory:  used = 192.96 GB, percent = 19.1%
+[2025-10-22 06:16:38,106] [INFO] [stage_1_and_2.py:573:__init__] optimizer state initialized
+[2025-10-22 06:16:38,347] [INFO] [utils.py:781:see_memory_usage] After initializing ZeRO optimizer
+[2025-10-22 06:16:38,348] [INFO] [utils.py:782:see_memory_usage] MA 28.96 GB         Max_MA 28.96 GB         CA 28.96 GB         Max_CA 29 GB 
+[2025-10-22 06:16:38,348] [INFO] [utils.py:789:see_memory_usage] CPU Virtual Memory:  used = 193.42 GB, percent = 19.2%
+[2025-10-22 06:16:38,352] [INFO] [logging.py:107:log_dist] [Rank 0] DeepSpeed Final Optimizer = DeepSpeedZeroOptimizer
+[2025-10-22 06:16:38,352] [INFO] [logging.py:107:log_dist] [Rank 0] DeepSpeed using client LR scheduler
+[2025-10-22 06:16:38,352] [INFO] [logging.py:107:log_dist] [Rank 0] DeepSpeed LR Scheduler = <torch.optim.lr_scheduler.LambdaLR object at 0x7f5ca80e2e60>
+[2025-10-22 06:16:38,352] [INFO] [logging.py:107:log_dist] [Rank 0] step=0, skipped=0, lr=[1e-05], mom=[(0.9, 0.95)]
+[2025-10-22 06:16:38,354] [INFO] [logging.py:107:log_dist] [Rank 0] [TorchCheckpointEngine] Initialized with serialization = True
+[2025-10-22 06:16:38,354] [INFO] [config.py:921:print] DeepSpeedEngine configuration:
+[2025-10-22 06:16:38,354] [INFO] [config.py:925:print]   activation_checkpointing_config  {
+    "partition_activations": false, 
+    "contiguous_memory_optimization": false, 
+    "cpu_checkpointing": false, 
+    "number_checkpoints": null, 
+    "synchronize_checkpoint_boundary": false, 
+    "profile": false
+}
+[2025-10-22 06:16:38,354] [INFO] [config.py:925:print]   aio_config ................... {'block_size': 1048576, 'queue_depth': 8, 'intra_op_parallelism': 1, 'single_submit': False, 'overlap_events': True, 'use_gds': False}
+[2025-10-22 06:16:38,354] [INFO] [config.py:925:print]   amp_enabled .................. False
+[2025-10-22 06:16:38,354] [INFO] [config.py:925:print]   amp_params ................... False
+[2025-10-22 06:16:38,354] [INFO] [config.py:925:print]   autotuning_config ............ {
+    "enabled": false, 
+    "start_step": null, 
+    "end_step": null, 
+    "metric_path": null, 
+    "arg_mappings": null, 
+    "metric": "throughput", 
+    "model_info": null, 
+    "results_dir": "autotuning_results", 
+    "exps_dir": "autotuning_exps", 
+    "overwrite": true, 
+    "fast": true, 
+    "start_profile_step": 3, 
+    "end_profile_step": 5, 
+    "tuner_type": "gridsearch", 
+    "tuner_early_stopping": 5, 
+    "tuner_num_trials": 50, 
+    "model_info_path": null, 
+    "mp_size": 1, 
+    "max_train_batch_size": null, 
+    "min_train_batch_size": 1, 
+    "max_train_micro_batch_size_per_gpu": 1.024000e+03, 
+    "min_train_micro_batch_size_per_gpu": 1, 
+    "num_tuning_micro_batch_sizes": 3
+}
+[2025-10-22 06:16:38,354] [INFO] [config.py:925:print]   bfloat16_config .............. enabled=False immediate_grad_update=False check_grad_overflow=False
+[2025-10-22 06:16:38,354] [INFO] [config.py:925:print]   checkpoint_config ............ {'tag_validation': 'WARN', 'checkpoint_serialization': True, 'writer': None}
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   checkpoint_parallel_write_pipeline  False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   checkpoint_tag_validation_enabled  True
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   checkpoint_tag_validation_fail  False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   comms_config ................. <deepspeed.comm.config.DeepSpeedCommsConfig object at 0x7f5c6c290c40>
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   communication_data_type ...... None
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   compile_config ............... deepcompile=False free_activation=False offload_activation=False offload_opt_states=False double_buffer=True symmetric_memory=False debug_log=False offload_parameters=False sync_before_reduce=False sync_after_reduce=False sync_before_allgather=False sync_after_allgather=False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   compression_config ........... {'weight_quantization': {'shared_parameters': {'enabled': False, 'quantizer_kernel': False, 'schedule_offset': 0, 'quantize_groups': 1, 'quantize_verbose': False, 'quantization_type': 'symmetric', 'quantize_weight_in_forward': False, 'rounding': 'nearest', 'fp16_mixed_quantize': False, 'quantize_change_ratio': 0.001}, 'different_groups': {}}, 'activation_quantization': {'shared_parameters': {'enabled': False, 'quantization_type': 'symmetric', 'range_calibration': 'dynamic', 'schedule_offset': 1000}, 'different_groups': {}}, 'sparse_pruning': {'shared_parameters': {'enabled': False, 'method': 'l1', 'schedule_offset': 1000}, 'different_groups': {}}, 'row_pruning': {'shared_parameters': {'enabled': False, 'method': 'l1', 'schedule_offset': 1000}, 'different_groups': {}}, 'head_pruning': {'shared_parameters': {'enabled': False, 'method': 'topk', 'schedule_offset': 1000}, 'different_groups': {}}, 'channel_pruning': {'shared_parameters': {'enabled': False, 'method': 'l1', 'schedule_offset': 1000}, 'different_groups': {}}, 'layer_reduction': {'enabled': False}}
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   curriculum_enabled_legacy .... False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   curriculum_params_legacy ..... False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   data_efficiency_config ....... {'enabled': False, 'seed': 1234, 'data_sampling': {'enabled': False, 'num_epochs': 1000, 'num_workers': 0, 'pin_memory': False, 'curriculum_learning': {'enabled': False}, 'dynamic_batching': {'enabled': False, 'lr_scaling_method': 'linear', 'min_batch_size': 1, 'max_batch_size': None, 'sequence_picking_order': 'dataloader', 'verbose': False}}, 'data_routing': {'enabled': False, 'random_ltd': {'enabled': False, 'layer_token_lr_schedule': {'enabled': False}}}}
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   data_efficiency_enabled ...... False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   dataloader_drop_last ......... False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   disable_allgather ............ False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   dump_state ................... False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   eigenvalue_enabled ........... False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   eigenvalue_gas_boundary_resolution  1
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   eigenvalue_layer_name ........ bert.encoder.layer
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   eigenvalue_layer_num ......... 0
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   eigenvalue_max_iter .......... 100
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   eigenvalue_stability ......... 1e-06
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   eigenvalue_tol ............... 0.01
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   eigenvalue_verbose ........... False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   elasticity_enabled ........... False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   float16_config ............... enabled=False auto_cast=False loss_scale=0.0 initial_scale_power=16 loss_scale_window=1000 hysteresis=2 consecutive_hysteresis=False min_loss_scale=1 fp16_master_weights_and_grads=False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   flops_profiler_config ........ {
+    "enabled": false, 
+    "recompute_fwd_factor": 0.0, 
+    "profile_step": 1, 
+    "module_depth": -1, 
+    "top_modules": 1, 
+    "detailed": true, 
+    "output_file": null
+}
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   global_rank .................. 0
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   grad_accum_dtype ............. None
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   gradient_accumulation_steps .. 16
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   gradient_clipping ............ 1.0
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   gradient_predivide_factor .... 1.0
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   graph_harvesting ............. False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   hybrid_engine ................ enabled=False max_out_tokens=128 inference_tp_size=1 release_inference_cache=False pin_parameters=True tp_gather_partition_size=8
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   load_universal_checkpoint .... False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   memory_breakdown ............. False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   mics_hierarchial_params_gather  False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   mics_shard_size .............. -1
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   monitor_config ............... tensorboard=TensorBoardConfig(enabled=True, output_path='/data1/TAP/model_con/1022/Fisher_C-STANCE_epoch1_Llama3Exp_0.01/log//ds_tensorboard_logs/', job_name='v2_sft_tensorboard') comet=CometConfig(enabled=False, samples_log_interval=100, project=None, workspace=None, api_key=None, experiment_name=None, experiment_key=None, online=None, mode=None) wandb=WandbConfig(enabled=False, group=None, team=None, project='deepspeed') csv_monitor=CSVConfig(enabled=False, output_path='', job_name='DeepSpeedJobName')
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   nebula_config ................ {
+    "enabled": false, 
+    "persistent_storage_path": null, 
+    "persistent_time_interval": 100, 
+    "num_of_version_in_retention": 2, 
+    "enable_nebula_load": true, 
+    "load_path": null
+}
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   optimizer_legacy_fusion ...... False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   optimizer_name ............... None
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   optimizer_params ............. None
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   pipeline ..................... {'stages': 'auto', 'partition': 'best', 'seed_layers': False, 'activation_checkpoint_interval': 0, 'pipe_partitioned': True, 'grad_partitioned': True}
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   pld_enabled .................. False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   pld_params ................... False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   prescale_gradients ........... False
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   scheduler_name ............... None
+[2025-10-22 06:16:38,355] [INFO] [config.py:925:print]   scheduler_params ............. None
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   seq_parallel_communication_data_type  torch.float32
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   sparse_attention ............. None
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   sparse_gradients_enabled ..... False
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   steps_per_print .............. 10
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   tensor_parallel_config ....... dtype=torch.float16 autotp_size=0 tp_overlap_comm=False tensor_parallel=TPConfig(tp_size=1, tp_grain_size=1, mpu=None, tp_group=None) injection_policy_tuple=None keep_module_on_host=False replace_with_kernel_inject=False
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   timers_config ................ enabled=True synchronized=True
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   train_batch_size ............. 64
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   train_micro_batch_size_per_gpu  1
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   use_data_before_expert_parallel_  False
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   use_node_local_storage ....... False
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   wall_clock_breakdown ......... False
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   weight_quantization_config ... None
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   world_size ................... 4
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   zero_allow_untested_optimizer  False
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   zero_config .................. stage=2 contiguous_gradients=True reduce_scatter=True reduce_bucket_size=500000000 use_multi_rank_bucket_allreduce=True allgather_partitions=True allgather_bucket_size=500000000 overlap_comm=False load_from_fp32_weights=True elastic_checkpoint=False offload_param=DeepSpeedZeroOffloadParamConfig(device='cpu', nvme_path=None, buffer_count=5, buffer_size=100000000, max_in_cpu=1000000000, pin_memory=False) offload_optimizer=DeepSpeedZeroOffloadOptimizerConfig(device='cpu', nvme_path=None, buffer_count=4, pin_memory=False, pipeline_read=False, pipeline_write=False, fast_init=False, ratio=1.0) sub_group_size=1000000000 cpu_offload_param=None cpu_offload_use_pin_memory=None cpu_offload=None prefetch_bucket_size=30000000 param_persistence_threshold=10000 model_persistence_threshold=9223372036854775807 max_live_parameters=30000000 max_reuse_distance=1000000000 gather_16bit_weights_on_model_save=False module_granularity_threshold=0 use_all_reduce_for_fetch_params=False stage3_gather_fp16_weights_on_model_save=False ignore_unused_parameters=True legacy_stage1=False round_robin_gradients=False zero_hpz_partition_size=1 zero_quantized_weights=False zero_quantized_nontrainable_weights=False zero_quantized_gradients=False zeropp_loco_param=None mics_shard_size=-1 mics_hierarchical_params_gather=False memory_efficient_linear=False pipeline_loading_checkpoint=False override_module_apply=True log_trace_cache_warnings=False
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   zero_enabled ................. True
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   zero_force_ds_cpu_optimizer .. True
+[2025-10-22 06:16:38,356] [INFO] [config.py:925:print]   zero_optimization_stage ...... 2
+[2025-10-22 06:16:38,356] [INFO] [config.py:911:print_user_config]   json = {
+    "train_batch_size": 64, 
+    "train_micro_batch_size_per_gpu": 1, 
+    "steps_per_print": 10, 
+    "zero_optimization": {
+        "stage": 2, 
+        "offload_param": {
+            "device": "cpu"
+        }, 
+        "offload_optimizer": {
+            "device": "cpu"
+        }, 
+        "stage3_param_persistence_threshold": 1.000000e+04, 
+        "stage3_max_live_parameters": 3.000000e+07, 
+        "stage3_prefetch_bucket_size": 3.000000e+07, 
+        "memory_efficient_linear": false
+    }, 
+    "bfloat16": {
+        "enabled": "auto"
+    }, 
+    "gradient_clipping": 1.0, 
+    "prescale_gradients": false, 
+    "wall_clock_breakdown": false, 
+    "hybrid_engine": {
+        "enabled": false, 
+        "max_out_tokens": 128, 
+        "inference_tp_size": 1, 
+        "release_inference_cache": false, 
+        "pin_parameters": true, 
+        "tp_gather_partition_size": 8
+    }, 
+    "tensorboard": {
+        "enabled": true, 
+        "output_path": "/data1/TAP/model_con/1022/Fisher_C-STANCE_epoch1_Llama3Exp_0.01/log//ds_tensorboard_logs/", 
+        "job_name": "v2_sft_tensorboard"
+    }
+}
+***** Running training *****
+Beginning of Epoch 1/1, Total Micro Batches 250
+***** Evaluating perplexity, Epoch 1/1, step 0.0 *****
+[eval loss, ppl] step:0.0, 	loss: 8.408248901367188, 	ppl: 4893.08154296875
+***** Evaluating perplexity, Epoch 1/1, step 1.0 *****
+[eval loss, ppl] step:1.0, 	loss: 7.772792339324951, 	ppl: 2588.626953125
+***** Evaluating perplexity, Epoch 1/1, step 2.0 *****
+[eval loss, ppl] step:2.0, 	loss: 6.573332786560059, 	ppl: 772.7501831054688
+***** Evaluating perplexity, Epoch 1/1, step 3.0 *****
+[eval loss, ppl] step:3.0, 	loss: 6.030052185058594, 	ppl: 446.48675537109375
+***** Evaluating perplexity, Epoch 1/1, step 4.0 *****
+[eval loss, ppl] step:4.0, 	loss: 4.384510517120361, 	ppl: 82.37568664550781
+***** Evaluating perplexity, Epoch 1/1, step 5.0 *****
+[eval loss, ppl] step:5.0, 	loss: 4.025994777679443, 	ppl: 57.12258529663086
+***** Evaluating perplexity, Epoch 1/1, step 6.0 *****
+[eval loss, ppl] step:6.0, 	loss: 3.8359673023223877, 	ppl: 47.12774658203125
+***** Evaluating perplexity, Epoch 1/1, step 7.0 *****
+[eval loss, ppl] step:7.0, 	loss: 3.1453053951263428, 	ppl: 23.18849754333496
+***** Evaluating perplexity, Epoch 1/1, step 8.0 *****
+[eval loss, ppl] step:8.0, 	loss: 2.9701695442199707, 	ppl: 19.454782485961914
+***** Evaluating perplexity, Epoch 1/1, step 9.0 *****
+[eval loss, ppl] step:9.0, 	loss: 2.7860119342803955, 	ppl: 16.143508911132812
+[2025-10-22 07:27:17,389] [INFO] [logging.py:107:log_dist] [Rank 0] step=10, skipped=0, lr=[1e-05], mom=[(0.9, 0.95)]
+[2025-10-22 07:27:18,603] [INFO] [timer.py:264:stop] epoch=0/micro_step=160/global_step=10, RunningAvgSamplesPerSec=0.36404106294980526, CurrSamplesPerSec=0.3869538717241327, MemAllocated=55.08GB, MaxMemAllocated=62.71GB
+***** Evaluating perplexity, Epoch 1/1, step 10.0 *****
+[eval loss, ppl] step:10.0, 	loss: 2.45365834236145, 	ppl: 11.628152847290039
+***** Evaluating perplexity, Epoch 1/1, step 11.0 *****
+[eval loss, ppl] step:11.0, 	loss: 2.1610093116760254, 	ppl: 8.661218643188477
+***** Evaluating perplexity, Epoch 1/1, step 12.0 *****
+[eval loss, ppl] step:12.0, 	loss: 1.8469812870025635, 	ppl: 6.327535152435303
+***** Evaluating perplexity, Epoch 1/1, step 13.0 *****
+[eval loss, ppl] step:13.0, 	loss: 1.1775363683700562, 	ppl: 3.2529807090759277
+***** Evaluating perplexity, Epoch 1/1, step 14.0 *****
+[eval loss, ppl] step:14.0, 	loss: 0.6723735928535461, 	ppl: 1.9642077684402466
+saving model to /data1/TAP/model_con/1022/Fisher_C-STANCE_epoch1_Llama3Exp_0.01/1...
+[2025-10-22 07:45:10,500] [INFO] [launch.py:351:main] Process 2608197 exits successfully.
+[2025-10-22 07:45:11,501] [INFO] [launch.py:351:main] Process 2608199 exits successfully.
+[2025-10-22 07:45:12,503] [INFO] [launch.py:351:main] Process 2608198 exits successfully.
+Sucessful saving model after epoch 1
+[2025-10-22 07:46:00,551] [INFO] [launch.py:351:main] Process 2608196 exits successfully.

@@ -1,0 +1,1002 @@
+[
+  {
+    "prompt": "Did this fruit grow here?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000338878.jpg"
+  },
+  {
+    "prompt": "Does someone have sideburns?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000009800.jpg"
+  },
+  {
+    "prompt": "What's different about the sheep in front?",
+    "answer": "color",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000370609.jpg"
+  },
+  {
+    "prompt": "What sport is the man partaking in?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000376206.jpg"
+  },
+  {
+    "prompt": "What brand of beer do you see?",
+    "answer": "corona",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000204311.jpg"
+  },
+  {
+    "prompt": "What time will it be in an hour?",
+    "answer": "12:05",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000384587.jpg"
+  },
+  {
+    "prompt": "Will the dog catch the Frisbee?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000413616.jpg"
+  },
+  {
+    "prompt": "What sport is being played?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000571029.jpg"
+  },
+  {
+    "prompt": "What time of day is it?",
+    "answer": "noon",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000525050.jpg"
+  },
+  {
+    "prompt": "Where in the world are these sheep?",
+    "answer": "alaska",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000509116.jpg"
+  },
+  {
+    "prompt": "During which of the four seasons was this photo taken?",
+    "answer": "fall",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000328668.jpg"
+  },
+  {
+    "prompt": "What animal is in the cage?",
+    "answer": "dog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000180373.jpg"
+  },
+  {
+    "prompt": "Does it look like the fire hydrant works?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000431573.jpg"
+  },
+  {
+    "prompt": "In which part(s) of the image is water visible?",
+    "answer": "bottom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000542234.jpg"
+  },
+  {
+    "prompt": "Where is Spiderman?",
+    "answer": "in bowl",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000339919.jpg"
+  },
+  {
+    "prompt": "Would you normally expect someone to be walking where the person in the photo is?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000299000.jpg"
+  },
+  {
+    "prompt": "Would fish like the area on the left?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000458387.jpg"
+  },
+  {
+    "prompt": "Did someone take a bite of the sandwich?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000528496.jpg"
+  },
+  {
+    "prompt": "Where are these items at?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000153656.jpg"
+  },
+  {
+    "prompt": "What sport is this?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000020965.jpg"
+  },
+  {
+    "prompt": "What time does the clock say?",
+    "answer": "7:55",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000472960.jpg"
+  },
+  {
+    "prompt": "Did the contrails come from the plane in the picture?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000091236.jpg"
+  },
+  {
+    "prompt": "Does Sir Richard Branson own the gray train?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000538153.jpg"
+  },
+  {
+    "prompt": "Would a vegetarian like this food?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000085674.jpg"
+  },
+  {
+    "prompt": "Did the girl see a scary picture?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000056433.jpg"
+  },
+  {
+    "prompt": "What time does the clock say?",
+    "answer": "3:00",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000451668.jpg"
+  },
+  {
+    "prompt": "What time is on the clock?",
+    "answer": "10:30",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000473196.jpg"
+  },
+  {
+    "prompt": "Would this animal prefer a bone or a ball of string?",
+    "answer": "ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000309044.jpg"
+  },
+  {
+    "prompt": "Does anyone live in this home?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000506220.jpg"
+  },
+  {
+    "prompt": "Where is my baby hiding?",
+    "answer": "can't see",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000417876.jpg"
+  },
+  {
+    "prompt": "Does he have a pocket protector?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000400794.jpg"
+  },
+  {
+    "prompt": "Where is this festival?",
+    "answer": "china",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000053364.jpg"
+  },
+  {
+    "prompt": "Should a pedestrian crossing Broadway on 7th stop?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000144053.jpg"
+  },
+  {
+    "prompt": "Where is player 34 headed?",
+    "answer": "dugout",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000338207.jpg"
+  },
+  {
+    "prompt": "What sport is being played?",
+    "answer": "soccer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000522622.jpg"
+  },
+  {
+    "prompt": "Can the cat eat the mouse?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000388399.jpg"
+  },
+  {
+    "prompt": "What's on this car?",
+    "answer": "luggage",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000573105.jpg"
+  },
+  {
+    "prompt": "What sport is he doing?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000477172.jpg"
+  },
+  {
+    "prompt": "Does he play in an orchestra?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000067660.jpg"
+  },
+  {
+    "prompt": "Does a guy or girl surf with these?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000026363.jpg"
+  },
+  {
+    "prompt": "Does it look like the pics taken in the U.S.?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000094751.jpg"
+  },
+  {
+    "prompt": "Where is this room in the house?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000038963.jpg"
+  },
+  {
+    "prompt": "What time of day is this?",
+    "answer": "afternoon",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000422689.jpg"
+  },
+  {
+    "prompt": "Would it appear that one person is responsible for more luggage than the other?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000038449.jpg"
+  },
+  {
+    "prompt": "What's missing from this bus?",
+    "answer": "window",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000434261.jpg"
+  },
+  {
+    "prompt": "Did this man sing about Uncle Albert?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000433915.jpg"
+  },
+  {
+    "prompt": "What time is shown on the clock on the tower?",
+    "answer": "2:15",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000538775.jpg"
+  },
+  {
+    "prompt": "Would this be good for dessert?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000458510.jpg"
+  },
+  {
+    "prompt": "What sport is this?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000172649.jpg"
+  },
+  {
+    "prompt": "Who has ski poles?",
+    "answer": "man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000196919.jpg"
+  },
+  {
+    "prompt": "Color is the Jersey?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000562062.jpg"
+  },
+  {
+    "prompt": "Will this pizza taste good?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000030012.jpg"
+  },
+  {
+    "prompt": "What animal is closest to the camera?",
+    "answer": "elephant",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000126216.jpg"
+  },
+  {
+    "prompt": "Have you seen one of these in real?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000414744.jpg"
+  },
+  {
+    "prompt": "Does it look like she will hit the ball?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000037354.jpg"
+  },
+  {
+    "prompt": "In what type of region was this photo likely shot?",
+    "answer": "tropical",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000439290.jpg"
+  },
+  {
+    "prompt": "Would most mothers be happy if you rode this without a helmet?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000379376.jpg"
+  },
+  {
+    "prompt": "In which hand is the boy holding the ball?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000026907.jpg"
+  },
+  {
+    "prompt": "Where do these animals live?",
+    "answer": "africa",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000036481.jpg"
+  },
+  {
+    "prompt": "Where will the water will come out?",
+    "answer": "fire hydrant",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000244235.jpg"
+  },
+  {
+    "prompt": "Does she have a cane?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000186449.jpg"
+  },
+  {
+    "prompt": "Who broke the wall?",
+    "answer": "owner",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000536683.jpg"
+  },
+  {
+    "prompt": "What sport is he doing?",
+    "answer": "kitesurfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000107839.jpg"
+  },
+  {
+    "prompt": "Have the cabinets been painted?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000499480.jpg"
+  },
+  {
+    "prompt": "What's the c word on the table umbrella?",
+    "answer": "coffee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000579673.jpg"
+  },
+  {
+    "prompt": "In what type of environment are these animals living, geologically?",
+    "answer": "mountain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000459487.jpg"
+  },
+  {
+    "prompt": "Where is this?",
+    "answer": "california",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000235242.jpg"
+  },
+  {
+    "prompt": "What animal is shown?",
+    "answer": "cow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000285660.jpg"
+  },
+  {
+    "prompt": "Who took this photograph?",
+    "answer": "friend",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000513072.jpg"
+  },
+  {
+    "prompt": "Does one cat appear to have picked a cozier spot?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000236162.jpg"
+  },
+  {
+    "prompt": "Did the family forget to turn the TV off?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000524822.jpg"
+  },
+  {
+    "prompt": "What brand are his shoes?",
+    "answer": "adidas",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000204162.jpg"
+  },
+  {
+    "prompt": "Traditionally, people that guard these animals carry what sort of stick?",
+    "answer": "cane",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000147835.jpg"
+  },
+  {
+    "prompt": "Have the sheep been sheared?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000334542.jpg"
+  },
+  {
+    "prompt": "Does that look like a healthy meal?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000212533.jpg"
+  },
+  {
+    "prompt": "Can this plane go to Germany?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000298433.jpg"
+  },
+  {
+    "prompt": "In what direction is the airport?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000540176.jpg"
+  },
+  {
+    "prompt": "When was this taken?",
+    "answer": "daytime",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000263793.jpg"
+  },
+  {
+    "prompt": "During which time of the day would a person typically consume the foods here?",
+    "answer": "morning",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000456816.jpg"
+  },
+  {
+    "prompt": "What's the color of the batter's helmet?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000293811.jpg"
+  },
+  {
+    "prompt": "What time is the clock showing?",
+    "answer": "2:55",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000161642.jpg"
+  },
+  {
+    "prompt": "Would bugs bunny be happy?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000416337.jpg"
+  },
+  {
+    "prompt": "At what angles does it seem the sloped walls bricks are cut?",
+    "answer": "45",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000440763.jpg"
+  },
+  {
+    "prompt": "Would it be safe to approach this animal?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000252745.jpg"
+  },
+  {
+    "prompt": "Can someone be seen in this picture?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000022420.jpg"
+  },
+  {
+    "prompt": "Where is this bed probably located?",
+    "answer": "hotel",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000150347.jpg"
+  },
+  {
+    "prompt": "Where is this?",
+    "answer": "park",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000558992.jpg"
+  },
+  {
+    "prompt": "Whose dog is that?",
+    "answer": "farmer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000105918.jpg"
+  },
+  {
+    "prompt": "Can this vehicle go further than 20 miles on a gallon of gas?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000087998.jpg"
+  },
+  {
+    "prompt": "Did the lady throw the Frisbee with her right or left hand?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000558661.jpg"
+  },
+  {
+    "prompt": "Where is a gold star?",
+    "answer": "window",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000293625.jpg"
+  },
+  {
+    "prompt": "Does it appear there is a museum nearby?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000306477.jpg"
+  },
+  {
+    "prompt": "Would a person sitting here right now feel crowded?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000506942.jpg"
+  },
+  {
+    "prompt": "What sport is this?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000046101.jpg"
+  },
+  {
+    "prompt": "In what direction is he looking?",
+    "answer": "forward",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000218294.jpg"
+  },
+  {
+    "prompt": "Can people use these bike?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000404792.jpg"
+  },
+  {
+    "prompt": "When was this pic taken?",
+    "answer": "night",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000200986.jpg"
+  },
+  {
+    "prompt": "Who normally puts the toys away and organizes the room?",
+    "answer": "mom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000358255.jpg"
+  },
+  {
+    "prompt": "What time does the clock show?",
+    "answer": "1:15",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000012959.jpg"
+  },
+  {
+    "prompt": "What time of day is it?",
+    "answer": "night",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000143560.jpg"
+  },
+  {
+    "prompt": "Can people be seen in the windows?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000298433.jpg"
+  },
+  {
+    "prompt": "Can the fruit stand move?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000069356.jpg"
+  },
+  {
+    "prompt": "Can the cat see its image in the mirror?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000189966.jpg"
+  },
+  {
+    "prompt": "Where are vegetables?",
+    "answer": "broccoli",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000480407.jpg"
+  },
+  {
+    "prompt": "About how many stories high would you say this building is?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000252559.jpg"
+  },
+  {
+    "prompt": "Can I buy alcohol here?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000546091.jpg"
+  },
+  {
+    "prompt": "Who put the nose ring on the cow?",
+    "answer": "farmer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000414397.jpg"
+  },
+  {
+    "prompt": "Who left their surfboard?",
+    "answer": "surfers",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000550952.jpg"
+  },
+  {
+    "prompt": "Will the cat be eating later?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000190760.jpg"
+  },
+  {
+    "prompt": "Where are these people on?",
+    "answer": "bus",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000463199.jpg"
+  },
+  {
+    "prompt": "Who has a shirt that matches the ketchup bottle?",
+    "answer": "man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000489798.jpg"
+  },
+  {
+    "prompt": "In what ocean is this?",
+    "answer": "snow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000312720.jpg"
+  },
+  {
+    "prompt": "Were the pastries bought at Starbucks?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000132316.jpg"
+  },
+  {
+    "prompt": "Who wears blue jeans?",
+    "answer": "woman",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000289172.jpg"
+  },
+  {
+    "prompt": "What time of a day is this?",
+    "answer": "afternoon",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000018073.jpg"
+  },
+  {
+    "prompt": "All of the signs point which way?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000092554.jpg"
+  },
+  {
+    "prompt": "What sport is this?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000434673.jpg"
+  },
+  {
+    "prompt": "Does it the food look like a Italian dish?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000573536.jpg"
+  },
+  {
+    "prompt": "Where was this taken?",
+    "answer": "mountain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000120632.jpg"
+  },
+  {
+    "prompt": "What time is it?",
+    "answer": "11:45",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000006527.jpg"
+  },
+  {
+    "prompt": "Can we see the shadows of the cows?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000037119.jpg"
+  },
+  {
+    "prompt": "What animal is shown in this picture?",
+    "answer": "giraffe",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000502752.jpg"
+  },
+  {
+    "prompt": "What brand does it say on his shirt?",
+    "answer": "adidas",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000445135.jpg"
+  },
+  {
+    "prompt": "The ground has what on it?",
+    "answer": "snow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000343453.jpg"
+  },
+  {
+    "prompt": "What time is it?",
+    "answer": "2:20",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000167668.jpg"
+  },
+  {
+    "prompt": "Where was this picture taken?",
+    "answer": "lake",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000271825.jpg"
+  },
+  {
+    "prompt": "Would you like these colors in your kitchen?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000289201.jpg"
+  },
+  {
+    "prompt": "Who many kites are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000017959.jpg"
+  },
+  {
+    "prompt": "Am I at a restaurant or at home?",
+    "answer": "home",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000458510.jpg"
+  },
+  {
+    "prompt": "What time of the day is it?",
+    "answer": "night",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000169226.jpg"
+  },
+  {
+    "prompt": "Can a room have too much paisley colors?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000246999.jpg"
+  },
+  {
+    "prompt": "Will the man hit the ball?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000203878.jpg"
+  },
+  {
+    "prompt": "What brand of airline is shown?",
+    "answer": "delta",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000503292.jpg"
+  },
+  {
+    "prompt": "That is the name of the bus in this picture?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000186821.jpg"
+  },
+  {
+    "prompt": "What time is shown on the clock?",
+    "answer": "2:20",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000511379.jpg"
+  },
+  {
+    "prompt": "What's in the sink?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000289992.jpg"
+  },
+  {
+    "prompt": "What time was this picture taken?",
+    "answer": "evening",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000042135.jpg"
+  },
+  {
+    "prompt": "Who wears a cowboy hat?",
+    "answer": "man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000195862.jpg"
+  },
+  {
+    "prompt": "See any green vegetables?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000371861.jpg"
+  },
+  {
+    "prompt": "Should you go or stop here?",
+    "answer": "go",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000233164.jpg"
+  },
+  {
+    "prompt": "Did he fall?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000377385.jpg"
+  },
+  {
+    "prompt": "Will the zebras drink from the puddles?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000371243.jpg"
+  },
+  {
+    "prompt": "What animal is on the side of the bus?",
+    "answer": "cow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000087356.jpg"
+  },
+  {
+    "prompt": "What time does the clock read?",
+    "answer": "10:50",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000217301.jpg"
+  },
+  {
+    "prompt": "What sport is being played in this scene?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000202118.jpg"
+  },
+  {
+    "prompt": "Where are these people?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000519916.jpg"
+  },
+  {
+    "prompt": "What brand are the shoes?",
+    "answer": "converse",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000109503.jpg"
+  },
+  {
+    "prompt": "What sport is being played?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000178984.jpg"
+  },
+  {
+    "prompt": "Does anyone have a photo ID tag?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000125208.jpg"
+  },
+  {
+    "prompt": "Would a vegetarian like this pizza?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000408705.jpg"
+  },
+  {
+    "prompt": "Will he blow out the two candles?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000512416.jpg"
+  },
+  {
+    "prompt": "What time is it?",
+    "answer": "10:00",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000388927.jpg"
+  },
+  {
+    "prompt": "It's this room appropriate for a man to shave his face in?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000272673.jpg"
+  },
+  {
+    "prompt": "What brand does the purse resemble?",
+    "answer": "floral",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000204256.jpg"
+  },
+  {
+    "prompt": "What time is it?",
+    "answer": "8:05",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000304341.jpg"
+  },
+  {
+    "prompt": "After what decade's popular decorating trends has this photo been styled?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000289714.jpg"
+  },
+  {
+    "prompt": "What sport is the shirt from?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000379048.jpg"
+  },
+  {
+    "prompt": "Have these bananas been peeled?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000001153.jpg"
+  },
+  {
+    "prompt": "Can the number of skiers be counted?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000452816.jpg"
+  },
+  {
+    "prompt": "What animal is this?",
+    "answer": "cat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000541267.jpg"
+  },
+  {
+    "prompt": "What time does the clock show?",
+    "answer": "7:45",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000155051.jpg"
+  },
+  {
+    "prompt": "According to the image, is the wind blowing left or right?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000365983.jpg"
+  },
+  {
+    "prompt": "Have the leaves started falling?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000050352.jpg"
+  },
+  {
+    "prompt": "Can the see the tops of the plane?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000259421.jpg"
+  },
+  {
+    "prompt": "Where is this?",
+    "answer": "park",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000397287.jpg"
+  },
+  {
+    "prompt": "Clockwise or not is the vase?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000506587.jpg"
+  },
+  {
+    "prompt": "Will the plane leave today?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000320324.jpg"
+  },
+  {
+    "prompt": "Does it look hot and humid out?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000015067.jpg"
+  },
+  {
+    "prompt": "What brand wine is probably being served?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000094379.jpg"
+  },
+  {
+    "prompt": "Did she hit the ball?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000481010.jpg"
+  },
+  {
+    "prompt": "Will this kid leave the powdered sugar on his face?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000393243.jpg"
+  },
+  {
+    "prompt": "Does he need to button his shirt?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000474609.jpg"
+  },
+  {
+    "prompt": "Where was this picture taken?",
+    "answer": "mountain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000413522.jpg"
+  },
+  {
+    "prompt": "What brand of shirt is the center man wearing?",
+    "answer": "adidas",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000482367.jpg"
+  },
+  {
+    "prompt": "Does she have any clothes on?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000167271.jpg"
+  },
+  {
+    "prompt": "What's in the bag?",
+    "answer": "can't tell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000493279.jpg"
+  },
+  {
+    "prompt": "Who has a red shirt?",
+    "answer": "passenger",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000319534.jpg"
+  },
+  {
+    "prompt": "Can a mouse ride the motorcycle?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000455610.jpg"
+  },
+  {
+    "prompt": "Who has spectacles?",
+    "answer": "man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000273728.jpg"
+  },
+  {
+    "prompt": "Did someone eat on the go?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000344100.jpg"
+  },
+  {
+    "prompt": "There is a sign on the back of the bus printed in which non-English language?",
+    "answer": "russian",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000339344.jpg"
+  },
+  {
+    "prompt": "Where is this elephant at?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000394458.jpg"
+  },
+  {
+    "prompt": "Does someone own the copyrights to this photo?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000391290.jpg"
+  },
+  {
+    "prompt": "Did the plane just take off?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000469174.jpg"
+  },
+  {
+    "prompt": "What brand is shown at the top left?",
+    "answer": "xbox",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000116202.jpg"
+  },
+  {
+    "prompt": "Does it look like he's been in the water?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000277422.jpg"
+  },
+  {
+    "prompt": "What's in the car?",
+    "answer": "luggage",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000510782.jpg"
+  },
+  {
+    "prompt": "Where was this picture taken?",
+    "answer": "street",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000531299.jpg"
+  },
+  {
+    "prompt": "Did the batter already swing?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000523517.jpg"
+  },
+  {
+    "prompt": "Whose face is on his shirt?",
+    "answer": "jesus",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000552573.jpg"
+  },
+  {
+    "prompt": "Can this plate be thrown away?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000422778.jpg"
+  },
+  {
+    "prompt": "What sport is this?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000291256.jpg"
+  },
+  {
+    "prompt": "This teddy symbolizes what?",
+    "answer": "fire",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000202572.jpg"
+  },
+  {
+    "prompt": "Will someone eat this with their hands?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000044767.jpg"
+  },
+  {
+    "prompt": "Will he hit a foul ball?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000374829.jpg"
+  },
+  {
+    "prompt": "Where does the airplane hail from?",
+    "answer": "britain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000239171.jpg"
+  },
+  {
+    "prompt": "The truck has how many toon characters on the cab door?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000478386.jpg"
+  },
+  {
+    "prompt": "Did the man jump to catch the frisbee?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000283187.jpg"
+  },
+  {
+    "prompt": "Where is he in the house?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000123480.jpg"
+  },
+  {
+    "prompt": "What sport is being played?",
+    "answer": "soccer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000086125.jpg"
+  }
+]

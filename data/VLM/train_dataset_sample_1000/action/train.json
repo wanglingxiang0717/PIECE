@@ -1,0 +1,5002 @@
+[
+  {
+    "prompt": "IS the man wearing a hat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000084383.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000044600.jpg"
+  },
+  {
+    "prompt": "Is he in the act of swinging the bat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000553563.jpg"
+  },
+  {
+    "prompt": "What is the man in the suit holding?",
+    "answer": "ring",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000428161.jpg"
+  },
+  {
+    "prompt": "Is the man appropriately dressed?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000031202.jpg"
+  },
+  {
+    "prompt": "Are they going to surf?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000259335.jpg"
+  },
+  {
+    "prompt": "What is the man wearing on the face?",
+    "answer": "glasses",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000122782.jpg"
+  },
+  {
+    "prompt": "Is the man airborne?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000320131.jpg"
+  },
+  {
+    "prompt": "Is the person on the motorcycle a man or a woman?",
+    "answer": "man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000367919.jpg"
+  },
+  {
+    "prompt": "Is he standing up?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000279762.jpg"
+  },
+  {
+    "prompt": "What is the woman about to play?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000072708.jpg"
+  },
+  {
+    "prompt": "Is the woman in the middle laying down?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000330495.jpg"
+  },
+  {
+    "prompt": "Are they making Gyros?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000360870.jpg"
+  },
+  {
+    "prompt": "Is the person outdoors?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000269045.jpg"
+  },
+  {
+    "prompt": "Are these men standing inside of an office?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000504306.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "wii remote",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000174680.jpg"
+  },
+  {
+    "prompt": "Is the man clean-shaven?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000556954.jpg"
+  },
+  {
+    "prompt": "What is the woman in pink wearing under her shirt?",
+    "answer": "don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000294716.jpg"
+  },
+  {
+    "prompt": "Is the woman holding her food?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000098494.jpg"
+  },
+  {
+    "prompt": "Are they feeding this kitten?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000044719.jpg"
+  },
+  {
+    "prompt": "Are they playing tennis?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000088999.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a long sleeved shirt?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000132564.jpg"
+  },
+  {
+    "prompt": "Are they excited?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000003276.jpg"
+  },
+  {
+    "prompt": "What is the man preparing to catch?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000347571.jpg"
+  },
+  {
+    "prompt": "What is the person holding in their hand?",
+    "answer": "phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000112997.jpg"
+  },
+  {
+    "prompt": "Is this woman on a train?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000279753.jpg"
+  },
+  {
+    "prompt": "Is this person snowboarding?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000311195.jpg"
+  },
+  {
+    "prompt": "Are they both riding bikes?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000485852.jpg"
+  },
+  {
+    "prompt": "What is the woman holding?",
+    "answer": "knife",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000552265.jpg"
+  },
+  {
+    "prompt": "Is he on a skateboard?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000121167.jpg"
+  },
+  {
+    "prompt": "Is the person on a snowboard or skis?",
+    "answer": "snowboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000409226.jpg"
+  },
+  {
+    "prompt": "What is the woman looking out of?",
+    "answer": "dining room",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000363468.jpg"
+  },
+  {
+    "prompt": "What is the man hitting?",
+    "answer": "tennis ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000059262.jpg"
+  },
+  {
+    "prompt": "What is the woman in front wearing?",
+    "answer": "jacket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000304584.jpg"
+  },
+  {
+    "prompt": "What is the man carrying?",
+    "answer": "ski poles",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000330865.jpg"
+  },
+  {
+    "prompt": "Is the man flying?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000137134.jpg"
+  },
+  {
+    "prompt": "Are they skiing?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000294663.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000420411.jpg"
+  },
+  {
+    "prompt": "Is the person serving on the left or right of the screen?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000183338.jpg"
+  },
+  {
+    "prompt": "Is the person eating at a restaurant?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000404642.jpg"
+  },
+  {
+    "prompt": "Is this person smoking?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000246976.jpg"
+  },
+  {
+    "prompt": "Is the person on a skateboard?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000018794.jpg"
+  },
+  {
+    "prompt": "Is the man using an outdoor bathroom?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000442641.jpg"
+  },
+  {
+    "prompt": "Is he going to hurt himself?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000369491.jpg"
+  },
+  {
+    "prompt": "What is the man wearing on his head?",
+    "answer": "glasses",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000490888.jpg"
+  },
+  {
+    "prompt": "Is the man in front of a mirror?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000073690.jpg"
+  },
+  {
+    "prompt": "What is the woman looking at?",
+    "answer": "sky",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000148474.jpg"
+  },
+  {
+    "prompt": "Is he good at this game?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000334932.jpg"
+  },
+  {
+    "prompt": "Is the man drunk?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000183571.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing jewelry?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000046524.jpg"
+  },
+  {
+    "prompt": "What is the person holding?",
+    "answer": "remote",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000079721.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a shirt?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000001308.jpg"
+  },
+  {
+    "prompt": "Is the man doing a trick?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000188875.jpg"
+  },
+  {
+    "prompt": "What is the person touching?",
+    "answer": "wii remote",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000174680.jpg"
+  },
+  {
+    "prompt": "Is this person alone?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000034880.jpg"
+  },
+  {
+    "prompt": "Is this person juggling?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000093789.jpg"
+  },
+  {
+    "prompt": "What is the man riding on?",
+    "answer": "skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000365561.jpg"
+  },
+  {
+    "prompt": "Is this person eating alone?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000448113.jpg"
+  },
+  {
+    "prompt": "Is the man smiling?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000420304.jpg"
+  },
+  {
+    "prompt": "Are they doing tricks?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000499865.jpg"
+  },
+  {
+    "prompt": "Is the woman painting a truck?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000260448.jpg"
+  },
+  {
+    "prompt": "What is the woman riding on?",
+    "answer": "horse",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000136664.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a hat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000088605.jpg"
+  },
+  {
+    "prompt": "Is this woman a man?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000320660.jpg"
+  },
+  {
+    "prompt": "Is that woman holding a phone?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000229427.jpg"
+  },
+  {
+    "prompt": "Is the woman a good player?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000316807.jpg"
+  },
+  {
+    "prompt": "What is the person doing?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000277553.jpg"
+  },
+  {
+    "prompt": "Are they preparing for combat?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000546685.jpg"
+  },
+  {
+    "prompt": "Is the woman making preparing breakfast for her family?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000284817.jpg"
+  },
+  {
+    "prompt": "What is the man riding?",
+    "answer": "horse",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000545920.jpg"
+  },
+  {
+    "prompt": "Is he cutting a cake?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000542915.jpg"
+  },
+  {
+    "prompt": "Is the woman focused?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000222262.jpg"
+  },
+  {
+    "prompt": "What is the man riding?",
+    "answer": "elephant",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000250192.jpg"
+  },
+  {
+    "prompt": "What is the woman standing under?",
+    "answer": "tent",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000259216.jpg"
+  },
+  {
+    "prompt": "Are they playing on grass?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000414529.jpg"
+  },
+  {
+    "prompt": "Are they drinking wine?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000023280.jpg"
+  },
+  {
+    "prompt": "Is the man frowning?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000115616.jpg"
+  },
+  {
+    "prompt": "Is the man who is throwing arms in front or behind him?",
+    "answer": "behind",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000396519.jpg"
+  },
+  {
+    "prompt": "What is the man in front of the chair doing?",
+    "answer": "taking pictures",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000114759.jpg"
+  },
+  {
+    "prompt": "Is the person using HEAD skis?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000150462.jpg"
+  },
+  {
+    "prompt": "Are the men wearing long sleeved shirts?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000458935.jpg"
+  },
+  {
+    "prompt": "Is the man throwing frisbee wearing jeans?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000219663.jpg"
+  },
+  {
+    "prompt": "Are they playing nice?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000173987.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "wii controller",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000546577.jpg"
+  },
+  {
+    "prompt": "What is the person trying to stand on?",
+    "answer": "surfboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000510866.jpg"
+  },
+  {
+    "prompt": "Is this person working from home or an office?",
+    "answer": "office",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000059598.jpg"
+  },
+  {
+    "prompt": "What is the man holding in the mirror?",
+    "answer": "camera",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000576015.jpg"
+  },
+  {
+    "prompt": "Is the person sitting or standing on the elephant?",
+    "answer": "standing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000464105.jpg"
+  },
+  {
+    "prompt": "What is the man wearing on his face?",
+    "answer": "beard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000099724.jpg"
+  },
+  {
+    "prompt": "Is the woman naked?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000481586.jpg"
+  },
+  {
+    "prompt": "What is the man looking at?",
+    "answer": "ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000277426.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000144419.jpg"
+  },
+  {
+    "prompt": "Is the person is blue going to serve the ball?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000355398.jpg"
+  },
+  {
+    "prompt": "Is the woman following the man on the bike?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000250991.jpg"
+  },
+  {
+    "prompt": "What is the man doing below the other man?",
+    "answer": "cleaning",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000464630.jpg"
+  },
+  {
+    "prompt": "Are they likely to meet Goldilocks soon?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000250385.jpg"
+  },
+  {
+    "prompt": "Is the man fully dressed?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000342340.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing high heels?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000332006.jpg"
+  },
+  {
+    "prompt": "Is the man feeding the birds elderly?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000348042.jpg"
+  },
+  {
+    "prompt": "What is the woman with white hair holding?",
+    "answer": "cell phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000203539.jpg"
+  },
+  {
+    "prompt": "Are they going to shoot something?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000218931.jpg"
+  },
+  {
+    "prompt": "Is the man heading uphill or downhill?",
+    "answer": "uphill",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000464207.jpg"
+  },
+  {
+    "prompt": "Is the man holding a knife in his hand?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000365237.jpg"
+  },
+  {
+    "prompt": "What is the man on the left holding over his shoulder?",
+    "answer": "backpack",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000166621.jpg"
+  },
+  {
+    "prompt": "Are they women or men?",
+    "answer": "men",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000435453.jpg"
+  },
+  {
+    "prompt": "Is the man going to fall off the horse?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000300887.jpg"
+  },
+  {
+    "prompt": "Are they holding their drinks?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000528720.jpg"
+  },
+  {
+    "prompt": "Is the person wearing a helmet?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000539287.jpg"
+  },
+  {
+    "prompt": "Is the man enjoying his hot dog?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000256651.jpg"
+  },
+  {
+    "prompt": "What is the person hitting?",
+    "answer": "basketball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000357989.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a hat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000279175.jpg"
+  },
+  {
+    "prompt": "Is the person scared to fall into the water?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000313848.jpg"
+  },
+  {
+    "prompt": "Is the man swimming?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000546188.jpg"
+  },
+  {
+    "prompt": "What is the man pushing in the cart?",
+    "answer": "luggage",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000199963.jpg"
+  },
+  {
+    "prompt": "Is the man opening a wine bottle?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000452380.jpg"
+  },
+  {
+    "prompt": "Are these men working?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000235545.jpg"
+  },
+  {
+    "prompt": "Is the man wearing pants?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000137300.jpg"
+  },
+  {
+    "prompt": "Are they in a park?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000368439.jpg"
+  },
+  {
+    "prompt": "Are they cooked mushrooms?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000268333.jpg"
+  },
+  {
+    "prompt": "Are they triplets?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000493959.jpg"
+  },
+  {
+    "prompt": "Is the man happy?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000047249.jpg"
+  },
+  {
+    "prompt": "What is the man doing over the elephant?",
+    "answer": "cleaning",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000149165.jpg"
+  },
+  {
+    "prompt": "Are the men facing each other?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000440689.jpg"
+  },
+  {
+    "prompt": "What is the man standing on?",
+    "answer": "surfboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000078684.jpg"
+  },
+  {
+    "prompt": "What is the man wearing on his head?",
+    "answer": "mask",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000462241.jpg"
+  },
+  {
+    "prompt": "Is he surfing?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000579891.jpg"
+  },
+  {
+    "prompt": "Is the man wearing jeans?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000488089.jpg"
+  },
+  {
+    "prompt": "Is this person roller skating?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000417870.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000139163.jpg"
+  },
+  {
+    "prompt": "What is the man holding in hands?",
+    "answer": "sandwich",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000516856.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "standing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000115108.jpg"
+  },
+  {
+    "prompt": "Is the man dressed in a tuxedo?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000569484.jpg"
+  },
+  {
+    "prompt": "Is the person wearing nail polish?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000282515.jpg"
+  },
+  {
+    "prompt": "What is the man doing to the woman?",
+    "answer": "kissing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000078843.jpg"
+  },
+  {
+    "prompt": "Is the person wearing a wetsuit?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000553166.jpg"
+  },
+  {
+    "prompt": "Is the person roller skating?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000324158.jpg"
+  },
+  {
+    "prompt": "Is the man on the right gay or straight?",
+    "answer": "straight",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000025643.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000432488.jpg"
+  },
+  {
+    "prompt": "What is the man holding in his lap?",
+    "answer": "hand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000257971.jpg"
+  },
+  {
+    "prompt": "What is the person eating?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000163297.jpg"
+  },
+  {
+    "prompt": "Is the person clothed?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000437664.jpg"
+  },
+  {
+    "prompt": "Is the man wearing glasses?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000248141.jpg"
+  },
+  {
+    "prompt": "What is the man holding in his left hand?",
+    "answer": "umbrella",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000144580.jpg"
+  },
+  {
+    "prompt": "Is the man flying?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000037325.jpg"
+  },
+  {
+    "prompt": "What is the person catching?",
+    "answer": "waves",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000569972.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "cell phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000150821.jpg"
+  },
+  {
+    "prompt": "Is the woman elderly?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000093838.jpg"
+  },
+  {
+    "prompt": "Are they playing a game?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000290423.jpg"
+  },
+  {
+    "prompt": "Is the man making a funny face?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000248850.jpg"
+  },
+  {
+    "prompt": "Is the man in his office?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000189305.jpg"
+  },
+  {
+    "prompt": "What is the man pushing?",
+    "answer": "stroller",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000152886.jpg"
+  },
+  {
+    "prompt": "Is the woman on this bench in the middle of a bowling game?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000542423.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "hot dog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000498045.jpg"
+  },
+  {
+    "prompt": "What is the person catching?",
+    "answer": "ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000142238.jpg"
+  },
+  {
+    "prompt": "Is the man alone on the bench?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000160345.jpg"
+  },
+  {
+    "prompt": "Is the woman taller than the fridge?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000294751.jpg"
+  },
+  {
+    "prompt": "What is the man doing on the ground?",
+    "answer": "laying",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000184919.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000423647.jpg"
+  },
+  {
+    "prompt": "Is the woman looking at the sky?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000056519.jpg"
+  },
+  {
+    "prompt": "Is the person wearing jeans?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000225703.jpg"
+  },
+  {
+    "prompt": "Is the woman on a surfboard?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000530558.jpg"
+  },
+  {
+    "prompt": "What is the man laying on?",
+    "answer": "bed",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000474026.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "cell phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000226249.jpg"
+  },
+  {
+    "prompt": "Is the man playing a game or in the midst of an interpretive dance?",
+    "answer": "playing game",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000399152.jpg"
+  },
+  {
+    "prompt": "What is the woman pulling behind her?",
+    "answer": "luggage",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000249561.jpg"
+  },
+  {
+    "prompt": "What is the person in front riding?",
+    "answer": "skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000171287.jpg"
+  },
+  {
+    "prompt": "Is he wearing a tie?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000208833.jpg"
+  },
+  {
+    "prompt": "Is he happy or sad?",
+    "answer": "happy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000537701.jpg"
+  },
+  {
+    "prompt": "What is the person sitting on?",
+    "answer": "bicycle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000577932.jpg"
+  },
+  {
+    "prompt": "What is the man in black called?",
+    "answer": "catcher",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000005064.jpg"
+  },
+  {
+    "prompt": "Are they running?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000385795.jpg"
+  },
+  {
+    "prompt": "Is the man eating pizza?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000277858.jpg"
+  },
+  {
+    "prompt": "Are they having lunch?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000386261.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a shirt?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000216778.jpg"
+  },
+  {
+    "prompt": "What is the man wearing on his head?",
+    "answer": "hat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000468393.jpg"
+  },
+  {
+    "prompt": "What is the person doing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000533742.jpg"
+  },
+  {
+    "prompt": "Is he wearing a tie?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000080883.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "sitting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000439550.jpg"
+  },
+  {
+    "prompt": "What is the man in the black shirt riding on?",
+    "answer": "skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000558213.jpg"
+  },
+  {
+    "prompt": "Is the woman expecting rain?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000349215.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000380724.jpg"
+  },
+  {
+    "prompt": "Is this person happy?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000269815.jpg"
+  },
+  {
+    "prompt": "Is the man going to board the bus?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000331524.jpg"
+  },
+  {
+    "prompt": "Is the woman hungry?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000110811.jpg"
+  },
+  {
+    "prompt": "Is the woman older looking?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000531979.jpg"
+  },
+  {
+    "prompt": "What is the woman doing?",
+    "answer": "drinking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000325362.jpg"
+  },
+  {
+    "prompt": "Is the woman waving goodbye to somebody?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000197057.jpg"
+  },
+  {
+    "prompt": "Is this person an experienced surfer?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000122798.jpg"
+  },
+  {
+    "prompt": "Is the man working in a cold room?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000555461.jpg"
+  },
+  {
+    "prompt": "Is this person moving?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000184978.jpg"
+  },
+  {
+    "prompt": "Is this person left handed?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000247708.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000533384.jpg"
+  },
+  {
+    "prompt": "Is this person alone?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000255182.jpg"
+  },
+  {
+    "prompt": "What is the person doing?",
+    "answer": "snowboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000549683.jpg"
+  },
+  {
+    "prompt": "What is the man playing?",
+    "answer": "wii",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000175281.jpg"
+  },
+  {
+    "prompt": "Is the man about to fall?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000119308.jpg"
+  },
+  {
+    "prompt": "Is he wearing glasses?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000155509.jpg"
+  },
+  {
+    "prompt": "What is the person doing?",
+    "answer": "snowboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000440840.jpg"
+  },
+  {
+    "prompt": "Are they playing baseball?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000572615.jpg"
+  },
+  {
+    "prompt": "Is the woman holding a racket?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000503886.jpg"
+  },
+  {
+    "prompt": "Is the woman hugging a baby?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000259284.jpg"
+  },
+  {
+    "prompt": "Is he good at his job?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000214421.jpg"
+  },
+  {
+    "prompt": "What is the person riding on the wave?",
+    "answer": "boat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000551692.jpg"
+  },
+  {
+    "prompt": "Is the person at a ski resort?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000476447.jpg"
+  },
+  {
+    "prompt": "What is the person on the left doing?",
+    "answer": "sleeping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000318403.jpg"
+  },
+  {
+    "prompt": "Is the man wearing glasses?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000080883.jpg"
+  },
+  {
+    "prompt": "Is this person having a nightmare?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000529283.jpg"
+  },
+  {
+    "prompt": "Is he cooking more than one serving of meat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000334509.jpg"
+  },
+  {
+    "prompt": "Is the person wearing a ring?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000257215.jpg"
+  },
+  {
+    "prompt": "Are the men wearing white hats?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000083768.jpg"
+  },
+  {
+    "prompt": "Is this person sweating?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000491140.jpg"
+  },
+  {
+    "prompt": "What is the man about to do?",
+    "answer": "serve",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000173546.jpg"
+  },
+  {
+    "prompt": "What is the man standing on?",
+    "answer": "snowboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000368885.jpg"
+  },
+  {
+    "prompt": "What is the woman wearing on her wrist?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000352389.jpg"
+  },
+  {
+    "prompt": "Is the man running?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000232691.jpg"
+  },
+  {
+    "prompt": "What is the person on?",
+    "answer": "snowboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000169155.jpg"
+  },
+  {
+    "prompt": "What is the woman making?",
+    "answer": "dessert",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000486175.jpg"
+  },
+  {
+    "prompt": "Is this person touching the ceiling?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000450173.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "taking picture",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000465759.jpg"
+  },
+  {
+    "prompt": "Is the man eating with fork and knife?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000552985.jpg"
+  },
+  {
+    "prompt": "Is the man wearing glasses?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000028525.jpg"
+  },
+  {
+    "prompt": "Is the woman a mother?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000300577.jpg"
+  },
+  {
+    "prompt": "Is the person floating?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000290602.jpg"
+  },
+  {
+    "prompt": "Is the man bored?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000175619.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a helmet?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000373212.jpg"
+  },
+  {
+    "prompt": "What is the man wearing on his feet?",
+    "answer": "skis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000193901.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing sneakers?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000095483.jpg"
+  },
+  {
+    "prompt": "Is the person going up or coming down?",
+    "answer": "down",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000430346.jpg"
+  },
+  {
+    "prompt": "Are they leaving tracks?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000515577.jpg"
+  },
+  {
+    "prompt": "Is the man bare-chested?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000503799.jpg"
+  },
+  {
+    "prompt": "Are all men wearing ties?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000328730.jpg"
+  },
+  {
+    "prompt": "Is the person wearing sneakers?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000398087.jpg"
+  },
+  {
+    "prompt": "Is the man snowboarding?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000351288.jpg"
+  },
+  {
+    "prompt": "Is the man wearing glasses?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000576973.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a helmet?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000397373.jpg"
+  },
+  {
+    "prompt": "Are they friends?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000457476.jpg"
+  },
+  {
+    "prompt": "What is the person wearing on their head?",
+    "answer": "hat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000424434.jpg"
+  },
+  {
+    "prompt": "Are they having fun?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000437290.jpg"
+  },
+  {
+    "prompt": "What is the woman in red doing?",
+    "answer": "standing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000393553.jpg"
+  },
+  {
+    "prompt": "Is he playing on a tennis court?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000310104.jpg"
+  },
+  {
+    "prompt": "What is the man wearing?",
+    "answer": "shorts",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000516199.jpg"
+  },
+  {
+    "prompt": "Is the woman in the blue jacket wearing shorts?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000446307.jpg"
+  },
+  {
+    "prompt": "Is the man sitting outside his home?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000130885.jpg"
+  },
+  {
+    "prompt": "Is the man in the photograph having fun?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000389503.jpg"
+  },
+  {
+    "prompt": "Are they surfing on a longboard?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000255017.jpg"
+  },
+  {
+    "prompt": "Are they flying kites at the beach?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000208333.jpg"
+  },
+  {
+    "prompt": "What is the woman eating?",
+    "answer": "cake",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000392725.jpg"
+  },
+  {
+    "prompt": "Is the man in a suit?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000006744.jpg"
+  },
+  {
+    "prompt": "Are they both standing on their boards?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000160658.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000074838.jpg"
+  },
+  {
+    "prompt": "What is the woman on the left carrying?",
+    "answer": "purse",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000304091.jpg"
+  },
+  {
+    "prompt": "What is the person holding up to their face?",
+    "answer": "phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000482326.jpg"
+  },
+  {
+    "prompt": "What is the man in blue doing?",
+    "answer": "standing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000015195.jpg"
+  },
+  {
+    "prompt": "Are they at the beach?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000493846.jpg"
+  },
+  {
+    "prompt": "Is this person traveling by horse?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000094674.jpg"
+  },
+  {
+    "prompt": "Are they eating right now?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000443602.jpg"
+  },
+  {
+    "prompt": "Are they going to eat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000526987.jpg"
+  },
+  {
+    "prompt": "What is the woman holding up to her head?",
+    "answer": "cell phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000119647.jpg"
+  },
+  {
+    "prompt": "What is the man holding in his hands?",
+    "answer": "cane",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000340308.jpg"
+  },
+  {
+    "prompt": "What is the woman on the bicycle holding?",
+    "answer": "handlebars",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000380706.jpg"
+  },
+  {
+    "prompt": "Is this person performing surgery?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000360808.jpg"
+  },
+  {
+    "prompt": "Is this person smiling?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000036827.jpg"
+  },
+  {
+    "prompt": "Is the man sitting down wearing a watch?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000115875.jpg"
+  },
+  {
+    "prompt": "Are they biking to work?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000456042.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing a necklace?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000453219.jpg"
+  },
+  {
+    "prompt": "Are they playing in the street?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000228664.jpg"
+  },
+  {
+    "prompt": "Is this woman throwing something?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000149356.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000016483.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000292187.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000385612.jpg"
+  },
+  {
+    "prompt": "What is the woman drinking?",
+    "answer": "wine",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000126625.jpg"
+  },
+  {
+    "prompt": "Is the woman happy?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000215776.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000121222.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000207033.jpg"
+  },
+  {
+    "prompt": "Are they playing a game?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000207463.jpg"
+  },
+  {
+    "prompt": "What is the man carrying?",
+    "answer": "surfboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000381475.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "snowboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000256743.jpg"
+  },
+  {
+    "prompt": "Is the person wearing shoes?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000086591.jpg"
+  },
+  {
+    "prompt": "Is the man wearing shorts or pants?",
+    "answer": "shorts",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000139945.jpg"
+  },
+  {
+    "prompt": "Is the man on the left smiling at the elephant?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000471136.jpg"
+  },
+  {
+    "prompt": "Are they in the water?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000252962.jpg"
+  },
+  {
+    "prompt": "Is the man moving?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000008653.jpg"
+  },
+  {
+    "prompt": "What is the man wearing on his left wrist?",
+    "answer": "watch",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000553314.jpg"
+  },
+  {
+    "prompt": "What is the man doing on the skateboard?",
+    "answer": "trick",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000006709.jpg"
+  },
+  {
+    "prompt": "What is the person doing?",
+    "answer": "snowboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000462964.jpg"
+  },
+  {
+    "prompt": "Is he a tourist?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000094420.jpg"
+  },
+  {
+    "prompt": "Is the man in the air?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000417650.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a tie?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000384289.jpg"
+  },
+  {
+    "prompt": "Are they wearing wetsuits?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000174274.jpg"
+  },
+  {
+    "prompt": "Is the person in this image an adult?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000042680.jpg"
+  },
+  {
+    "prompt": "What is the woman holding in her left hand?",
+    "answer": "handle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000298906.jpg"
+  },
+  {
+    "prompt": "Are they ripe?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000157860.jpg"
+  },
+  {
+    "prompt": "What is the man wearing on his head?",
+    "answer": "hat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000019838.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "tennis racket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000510791.jpg"
+  },
+  {
+    "prompt": "What is the man eating?",
+    "answer": "donut",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000026893.jpg"
+  },
+  {
+    "prompt": "What is the person wearing?",
+    "answer": "t shirt and jeans",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000543220.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing a wristwatch?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000557582.jpg"
+  },
+  {
+    "prompt": "What is the man eating?",
+    "answer": "pizza",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000052844.jpg"
+  },
+  {
+    "prompt": "Is the person wearing a life jacket?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000424536.jpg"
+  },
+  {
+    "prompt": "What is the man in the back wearing?",
+    "answer": "clothes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000105756.jpg"
+  },
+  {
+    "prompt": "Are the men in the photo going downhill?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000323668.jpg"
+  },
+  {
+    "prompt": "Are they  all going the same way?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000154995.jpg"
+  },
+  {
+    "prompt": "Are they playing computer games?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000180778.jpg"
+  },
+  {
+    "prompt": "Is the person on the couch interested in how this game plays out?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000340971.jpg"
+  },
+  {
+    "prompt": "Is the man playing with other people?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000253479.jpg"
+  },
+  {
+    "prompt": "Are they on the beach?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000521775.jpg"
+  },
+  {
+    "prompt": "What is the woman holding?",
+    "answer": "remote",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000300323.jpg"
+  },
+  {
+    "prompt": "Is the person going to injure himself?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000082704.jpg"
+  },
+  {
+    "prompt": "What is the woman riding?",
+    "answer": "skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000383048.jpg"
+  },
+  {
+    "prompt": "Is the man disappointed about something?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000028702.jpg"
+  },
+  {
+    "prompt": "What is the man to the right doing?",
+    "answer": "hitting ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000216296.jpg"
+  },
+  {
+    "prompt": "Is he big for his species?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000186124.jpg"
+  },
+  {
+    "prompt": "Is this woman upset and sad?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000224292.jpg"
+  },
+  {
+    "prompt": "Are they at a skate park?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000490347.jpg"
+  },
+  {
+    "prompt": "IS the man wearing a jacket?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000056262.jpg"
+  },
+  {
+    "prompt": "What is the man riding?",
+    "answer": "bus",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000130645.jpg"
+  },
+  {
+    "prompt": "Is this person athletic?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000059313.jpg"
+  },
+  {
+    "prompt": "What is the woman carrying?",
+    "answer": "baby",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000267315.jpg"
+  },
+  {
+    "prompt": "What is the man drinking?",
+    "answer": "juice",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000157186.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a helmet?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000036041.jpg"
+  },
+  {
+    "prompt": "What is the person doing?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000567571.jpg"
+  },
+  {
+    "prompt": "What is the person holding against his stomach?",
+    "answer": "phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000383807.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a button up shirt?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000351590.jpg"
+  },
+  {
+    "prompt": "What is the man doing to the elephant?",
+    "answer": "cleaning",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000167781.jpg"
+  },
+  {
+    "prompt": "What is the man eating?",
+    "answer": "donut",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000164793.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000316970.jpg"
+  },
+  {
+    "prompt": "Is the man white?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000545002.jpg"
+  },
+  {
+    "prompt": "What is the man riding on?",
+    "answer": "skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000438237.jpg"
+  },
+  {
+    "prompt": "Is one woman sitting on the ground?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000201184.jpg"
+  },
+  {
+    "prompt": "What is the man riding on?",
+    "answer": "skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000061046.jpg"
+  },
+  {
+    "prompt": "Is he doing a trick?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000570824.jpg"
+  },
+  {
+    "prompt": "Is the person who lives here neat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000416656.jpg"
+  },
+  {
+    "prompt": "What is the man riding on?",
+    "answer": "skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000344782.jpg"
+  },
+  {
+    "prompt": "What is the man wearing?",
+    "answer": "suit",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000404403.jpg"
+  },
+  {
+    "prompt": "Is he getting ready to throw or catch the ball?",
+    "answer": "throw",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000345466.jpg"
+  },
+  {
+    "prompt": "Is the man trying to catch some fish?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000327005.jpg"
+  },
+  {
+    "prompt": "Is he right or left handed?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000426152.jpg"
+  },
+  {
+    "prompt": "Is the woman kissing a sheep?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000026356.jpg"
+  },
+  {
+    "prompt": "What is the man looking at?",
+    "answer": "guitar",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000498997.jpg"
+  },
+  {
+    "prompt": "What is the person holding?",
+    "answer": "donut",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000257620.jpg"
+  },
+  {
+    "prompt": "Is the man holding a racket?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000065456.jpg"
+  },
+  {
+    "prompt": "Is the man about to fall?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000382527.jpg"
+  },
+  {
+    "prompt": "Is he wearing protective gear?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000018882.jpg"
+  },
+  {
+    "prompt": "Is he wearing a tie?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000498045.jpg"
+  },
+  {
+    "prompt": "Is the man playing with the dogs?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000032700.jpg"
+  },
+  {
+    "prompt": "What is the woman sitting on?",
+    "answer": "chair",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000464317.jpg"
+  },
+  {
+    "prompt": "What is the man in the background holding?",
+    "answer": "camera",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000365310.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "tennis racket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000271136.jpg"
+  },
+  {
+    "prompt": "What is the person playing?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000118436.jpg"
+  },
+  {
+    "prompt": "Is he a professional player?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000368836.jpg"
+  },
+  {
+    "prompt": "Is the man in the ocean?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000205670.jpg"
+  },
+  {
+    "prompt": "Is the man skiing?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000263275.jpg"
+  },
+  {
+    "prompt": "Is the man attentive?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000085160.jpg"
+  },
+  {
+    "prompt": "What is the person wearing in the background for safety?",
+    "answer": "helmet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000337991.jpg"
+  },
+  {
+    "prompt": "Is the man in the water?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000527002.jpg"
+  },
+  {
+    "prompt": "Are they wearing helmets?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000260482.jpg"
+  },
+  {
+    "prompt": "Is he sweaty?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000184266.jpg"
+  },
+  {
+    "prompt": "What is the woman doing with the giraffe?",
+    "answer": "feeding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000355652.jpg"
+  },
+  {
+    "prompt": "What is the person holding?",
+    "answer": "phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000566955.jpg"
+  },
+  {
+    "prompt": "What is the woman behind the counter doing?",
+    "answer": "listening to music",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000143764.jpg"
+  },
+  {
+    "prompt": "Are they playing a game?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000215003.jpg"
+  },
+  {
+    "prompt": "Are they in the water?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000280622.jpg"
+  },
+  {
+    "prompt": "Is the man wearing glasses?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000104973.jpg"
+  },
+  {
+    "prompt": "Are they cooking eggs?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000580629.jpg"
+  },
+  {
+    "prompt": "What is the man looking at that is catching his attention?",
+    "answer": "tree",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000056739.jpg"
+  },
+  {
+    "prompt": "What is the man on?",
+    "answer": "motorcycle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000286632.jpg"
+  },
+  {
+    "prompt": "Is the woman happy?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000064342.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "microphone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000087263.jpg"
+  },
+  {
+    "prompt": "What is the man doing a trick with?",
+    "answer": "skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000012979.jpg"
+  },
+  {
+    "prompt": "Is the woman adequately dressed?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000550481.jpg"
+  },
+  {
+    "prompt": "What Is the person sitting on?",
+    "answer": "rug",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000102319.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "scissors",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000027074.jpg"
+  },
+  {
+    "prompt": "What is the woman smiling at?",
+    "answer": "child",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000128539.jpg"
+  },
+  {
+    "prompt": "Is the person barefooted?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000385644.jpg"
+  },
+  {
+    "prompt": "Is the man wearing glasses?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000543830.jpg"
+  },
+  {
+    "prompt": "Is he out?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000432891.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a hat?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000051793.jpg"
+  },
+  {
+    "prompt": "Is he holding a smartphone?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000301582.jpg"
+  },
+  {
+    "prompt": "Is the man relaxing?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000023927.jpg"
+  },
+  {
+    "prompt": "What is the person on the right doing with the ball?",
+    "answer": "serving",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000052094.jpg"
+  },
+  {
+    "prompt": "Is the woman taller than the man?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000338618.jpg"
+  },
+  {
+    "prompt": "What is the woman biting into?",
+    "answer": "hot dog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000346095.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing a dress?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000060903.jpg"
+  },
+  {
+    "prompt": "Is the woman going uphill?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000212438.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000008190.jpg"
+  },
+  {
+    "prompt": "Are they the same picture?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000047973.jpg"
+  },
+  {
+    "prompt": "Are they playing soccer indoors?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000487642.jpg"
+  },
+  {
+    "prompt": "Is the man holding a purse?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000512282.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a red jacket?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000422836.jpg"
+  },
+  {
+    "prompt": "Are both men smiling?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000003827.jpg"
+  },
+  {
+    "prompt": "Is this person digging a hole?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000364126.jpg"
+  },
+  {
+    "prompt": "Is the woman drinking water?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000077841.jpg"
+  },
+  {
+    "prompt": "Is he going to catch this ball?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000381116.jpg"
+  },
+  {
+    "prompt": "Is he going to catch it?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000496127.jpg"
+  },
+  {
+    "prompt": "Is the man in a train?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000284991.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "racket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000361907.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "blender",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000435495.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing mom jeans?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000035558.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "sitting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000440904.jpg"
+  },
+  {
+    "prompt": "Is the man wearing shoes?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000279422.jpg"
+  },
+  {
+    "prompt": "What is the woman pulling on?",
+    "answer": "arm",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000548773.jpg"
+  },
+  {
+    "prompt": "What is the man preparing to do?",
+    "answer": "play tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000334769.jpg"
+  },
+  {
+    "prompt": "What is the man closest to the viewer, holding?",
+    "answer": "bat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000145926.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "horseback riding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000215763.jpg"
+  },
+  {
+    "prompt": "What is the woman holding in the right hand?",
+    "answer": "hot dog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000567340.jpg"
+  },
+  {
+    "prompt": "Is the man skating through orange cones?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000562174.jpg"
+  },
+  {
+    "prompt": "Is the person male or female?",
+    "answer": "male",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000380474.jpg"
+  },
+  {
+    "prompt": "Are they all mature animals?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000431731.jpg"
+  },
+  {
+    "prompt": "Is the man with the sign left-wing or right-wing?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000571916.jpg"
+  },
+  {
+    "prompt": "Are they in a garage?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000136943.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a helmet?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000092247.jpg"
+  },
+  {
+    "prompt": "Is this person happy?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000553503.jpg"
+  },
+  {
+    "prompt": "Is the man in the picture wearing glasses?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000092694.jpg"
+  },
+  {
+    "prompt": "Is the woman in the back ignoring the others?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000355050.jpg"
+  },
+  {
+    "prompt": "Is he sitting in the chair correctly?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000161190.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a jacket?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000432898.jpg"
+  },
+  {
+    "prompt": "What is the man wearing on his back?",
+    "answer": "backpack",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000453409.jpg"
+  },
+  {
+    "prompt": "What is the man on the bike right next too?",
+    "answer": "sign",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000289343.jpg"
+  },
+  {
+    "prompt": "What is the person holding in his hand?",
+    "answer": "bottle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000390826.jpg"
+  },
+  {
+    "prompt": "Is this woman wearing a fancy hat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000549563.jpg"
+  },
+  {
+    "prompt": "What is the person standing on?",
+    "answer": "surfboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000037830.jpg"
+  },
+  {
+    "prompt": "What is the man playing?",
+    "answer": "keyboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000326088.jpg"
+  },
+  {
+    "prompt": "What is the man standing next to?",
+    "answer": "pole",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000369589.jpg"
+  },
+  {
+    "prompt": "Is the man parasailing in the ocean?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000553165.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a wedding band?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000512503.jpg"
+  },
+  {
+    "prompt": "What is the woman doing?",
+    "answer": "cooking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000142240.jpg"
+  },
+  {
+    "prompt": "Are they having macaroni and cheese?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000189646.jpg"
+  },
+  {
+    "prompt": "Is the woman worried?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000094318.jpg"
+  },
+  {
+    "prompt": "Is the man playing a video game?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000090869.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000201561.jpg"
+  },
+  {
+    "prompt": "Is he playing doubles?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000075234.jpg"
+  },
+  {
+    "prompt": "What is the man in the picture doing?",
+    "answer": "taking picture",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000178789.jpg"
+  },
+  {
+    "prompt": "Is the man hitting something?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000146294.jpg"
+  },
+  {
+    "prompt": "Are they family?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000122560.jpg"
+  },
+  {
+    "prompt": "What is the man eating?",
+    "answer": "cake",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000094194.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a backpack?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000473354.jpg"
+  },
+  {
+    "prompt": "What is the woman on the right sitting on?",
+    "answer": "moped",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000139099.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing a necklace?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000142481.jpg"
+  },
+  {
+    "prompt": "Is he riding off road?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000382554.jpg"
+  },
+  {
+    "prompt": "What is the man playing with?",
+    "answer": "racket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000085053.jpg"
+  },
+  {
+    "prompt": "Is the woman smiling?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000383828.jpg"
+  },
+  {
+    "prompt": "Is the man in black a priest?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000279175.jpg"
+  },
+  {
+    "prompt": "What is the man wearing?",
+    "answer": "coat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000424551.jpg"
+  },
+  {
+    "prompt": "Is the man drowning?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000110480.jpg"
+  },
+  {
+    "prompt": "Is this woman outside of the car?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000518303.jpg"
+  },
+  {
+    "prompt": "Are they playing a funny game?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000392974.jpg"
+  },
+  {
+    "prompt": "Is the woman standing?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000057702.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a jacket?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000343200.jpg"
+  },
+  {
+    "prompt": "Is the man getting wet?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000285526.jpg"
+  },
+  {
+    "prompt": "Is the man riding a horse in the street?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000232762.jpg"
+  },
+  {
+    "prompt": "What is the woman holding?",
+    "answer": "kite string",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000306879.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing shoes?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000081761.jpg"
+  },
+  {
+    "prompt": "Is he wearing Nike shoes?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000225307.jpg"
+  },
+  {
+    "prompt": "Is this person wearing a helmet?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000403948.jpg"
+  },
+  {
+    "prompt": "Is this person a cook?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000015968.jpg"
+  },
+  {
+    "prompt": "What is the man holding in his hand?",
+    "answer": "antenna",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000232231.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing shoes?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000468428.jpg"
+  },
+  {
+    "prompt": "Are the men Chef's?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000545375.jpg"
+  },
+  {
+    "prompt": "Are they having a picnic?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000349480.jpg"
+  },
+  {
+    "prompt": "What is the person squatting called?",
+    "answer": "catcher",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000197632.jpg"
+  },
+  {
+    "prompt": "Are they taking a break?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000043444.jpg"
+  },
+  {
+    "prompt": "Are these men working?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000574885.jpg"
+  },
+  {
+    "prompt": "Are they kissing?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000303250.jpg"
+  },
+  {
+    "prompt": "What is the person doing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000510245.jpg"
+  },
+  {
+    "prompt": "Are they about to board a train?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000116957.jpg"
+  },
+  {
+    "prompt": "Are the men in a street or on a sidewalk?",
+    "answer": "sidewalk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000042591.jpg"
+  },
+  {
+    "prompt": "Is the person male or female?",
+    "answer": "male",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000116210.jpg"
+  },
+  {
+    "prompt": "Is the man fixing the toilet?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000307190.jpg"
+  },
+  {
+    "prompt": "What is the person holding?",
+    "answer": "child",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000282835.jpg"
+  },
+  {
+    "prompt": "Is the man wet?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000402387.jpg"
+  },
+  {
+    "prompt": "What is the man riding on?",
+    "answer": "skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000342185.jpg"
+  },
+  {
+    "prompt": "What is the person standing on?",
+    "answer": "skis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000437759.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "baseball bat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000292349.jpg"
+  },
+  {
+    "prompt": "Are they playing Xbox?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000303763.jpg"
+  },
+  {
+    "prompt": "What is the woman wearing?",
+    "answer": "bathing suit",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000481137.jpg"
+  },
+  {
+    "prompt": "Is the man young?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000571318.jpg"
+  },
+  {
+    "prompt": "What is the man holding as he pets the dog?",
+    "answer": "controller",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000195408.jpg"
+  },
+  {
+    "prompt": "What is the man squatting for?",
+    "answer": "posing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000440904.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000083739.jpg"
+  },
+  {
+    "prompt": "Is this person going for a walk in the snow?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000566234.jpg"
+  },
+  {
+    "prompt": "Is the man looking to his left or right?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000431062.jpg"
+  },
+  {
+    "prompt": "What is the woman standing on?",
+    "answer": "floor",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000111922.jpg"
+  },
+  {
+    "prompt": "Is the man going to enter the car?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000046563.jpg"
+  },
+  {
+    "prompt": "What is the man eating?",
+    "answer": "hot dog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000330955.jpg"
+  },
+  {
+    "prompt": "Is this woman walking in front of a fancy house?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000232227.jpg"
+  },
+  {
+    "prompt": "Is the woman surfing?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000017137.jpg"
+  },
+  {
+    "prompt": "Is this person old?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000515612.jpg"
+  },
+  {
+    "prompt": "Is this woman wearing a bracelet?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000211048.jpg"
+  },
+  {
+    "prompt": "Is the man playing a game?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000252859.jpg"
+  },
+  {
+    "prompt": "Is he wearing a hat?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000441228.jpg"
+  },
+  {
+    "prompt": "Is the man scared?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000299802.jpg"
+  },
+  {
+    "prompt": "What is the man talking on?",
+    "answer": "phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000330901.jpg"
+  },
+  {
+    "prompt": "Are the men wearing shorts?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000055050.jpg"
+  },
+  {
+    "prompt": "What is the woman wearing on her head?",
+    "answer": "umbrella",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000367389.jpg"
+  },
+  {
+    "prompt": "Are they at a practice?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000558808.jpg"
+  },
+  {
+    "prompt": "Is the man going to surf?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000021164.jpg"
+  },
+  {
+    "prompt": "Is the man doing a rescuer?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000277069.jpg"
+  },
+  {
+    "prompt": "What is the person riding on in the water?",
+    "answer": "surfboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000310128.jpg"
+  },
+  {
+    "prompt": "Is this person focusing on something?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000068812.jpg"
+  },
+  {
+    "prompt": "Is he wearing sunglasses?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000576792.jpg"
+  },
+  {
+    "prompt": "Is the man holding a filet knife?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000545251.jpg"
+  },
+  {
+    "prompt": "What is the man about to throw?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000050429.jpg"
+  },
+  {
+    "prompt": "Is the man inside or outside of the line?",
+    "answer": "outside",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000020012.jpg"
+  },
+  {
+    "prompt": "What is the man doing in the picture?",
+    "answer": "feeding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000563592.jpg"
+  },
+  {
+    "prompt": "Are  they going surfing?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000063906.jpg"
+  },
+  {
+    "prompt": "Is the person wearing a hat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000384037.jpg"
+  },
+  {
+    "prompt": "What is the man standing behind the catcher called?",
+    "answer": "umpire",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000246875.jpg"
+  },
+  {
+    "prompt": "Is this person skiing downhill?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000504178.jpg"
+  },
+  {
+    "prompt": "Are they both wearing glasses?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000093083.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000434805.jpg"
+  },
+  {
+    "prompt": "Is the man about to drown?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000282209.jpg"
+  },
+  {
+    "prompt": "What is the person doing?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000574506.jpg"
+  },
+  {
+    "prompt": "Is he a professional?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000453490.jpg"
+  },
+  {
+    "prompt": "Is the man above the wave?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000578961.jpg"
+  },
+  {
+    "prompt": "What is the man wearing on his head?",
+    "answer": "hat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000187134.jpg"
+  },
+  {
+    "prompt": "Is the man smelling the banana?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000182812.jpg"
+  },
+  {
+    "prompt": "Are they all cooking?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000502508.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "eating",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000563727.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing boots?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000047639.jpg"
+  },
+  {
+    "prompt": "What is the person drinking?",
+    "answer": "beer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000058864.jpg"
+  },
+  {
+    "prompt": "Is the man walking in front of the car?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000034786.jpg"
+  },
+  {
+    "prompt": "What is the man looking at?",
+    "answer": "computer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000405740.jpg"
+  },
+  {
+    "prompt": "Are they having a summer party?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000108572.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing glasses?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000464857.jpg"
+  },
+  {
+    "prompt": "What is the man standing on?",
+    "answer": "carpet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000296477.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "sitting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000386267.jpg"
+  },
+  {
+    "prompt": "Are the men bald?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000075258.jpg"
+  },
+  {
+    "prompt": "Is this woman making a lot of money at the market?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000006407.jpg"
+  },
+  {
+    "prompt": "Are they not tiring the elephant?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000139144.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000482326.jpg"
+  },
+  {
+    "prompt": "Are they related?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000016253.jpg"
+  },
+  {
+    "prompt": "Are the men walking towards the photographer in this picture?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000436649.jpg"
+  },
+  {
+    "prompt": "Are they Amish?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000550746.jpg"
+  },
+  {
+    "prompt": "Is the man balding?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000555906.jpg"
+  },
+  {
+    "prompt": "What is the woman on?",
+    "answer": "dock",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000097078.jpg"
+  },
+  {
+    "prompt": "Are they outdoors?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000397819.jpg"
+  },
+  {
+    "prompt": "Is he going to swing the bat?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000056718.jpg"
+  },
+  {
+    "prompt": "Are they wearing pants?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000052107.jpg"
+  },
+  {
+    "prompt": "What is the man about to do?",
+    "answer": "pitch",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000073190.jpg"
+  },
+  {
+    "prompt": "Is the person looking at the camera?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000111944.jpg"
+  },
+  {
+    "prompt": "Is the woman holding a tennis ball?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000425542.jpg"
+  },
+  {
+    "prompt": "Are the men wearing pants?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000271250.jpg"
+  },
+  {
+    "prompt": "Are they in a restaurant?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000276711.jpg"
+  },
+  {
+    "prompt": "What is the man holding in his hand?",
+    "answer": "cell phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000385182.jpg"
+  },
+  {
+    "prompt": "Is he standing up?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000464615.jpg"
+  },
+  {
+    "prompt": "Is he holding a box?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000214589.jpg"
+  },
+  {
+    "prompt": "What is the man in the middle of the picture doing?",
+    "answer": "listening",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000389292.jpg"
+  },
+  {
+    "prompt": "Is the man wearing jeans?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000433723.jpg"
+  },
+  {
+    "prompt": "Is the person sitting on a chair?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000353590.jpg"
+  },
+  {
+    "prompt": "What is the man riding?",
+    "answer": "surfboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000094548.jpg"
+  },
+  {
+    "prompt": "What is the man doing below the toilet seat?",
+    "answer": "cleaning",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000064111.jpg"
+  },
+  {
+    "prompt": "What is the person wearing on the head?",
+    "answer": "hat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000455496.jpg"
+  },
+  {
+    "prompt": "Is the man a professional tennis player?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000052094.jpg"
+  },
+  {
+    "prompt": "Is this woman enjoying herself?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000096027.jpg"
+  },
+  {
+    "prompt": "Is the man wearing all white?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000298545.jpg"
+  },
+  {
+    "prompt": "Are they at a zoo?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000000025.jpg"
+  },
+  {
+    "prompt": "Is he in a forest?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000355550.jpg"
+  },
+  {
+    "prompt": "Is the woman trying to cross the street?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000526362.jpg"
+  },
+  {
+    "prompt": "What is the person doing?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000113233.jpg"
+  },
+  {
+    "prompt": "Is the man in the hat watching the women?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000208396.jpg"
+  },
+  {
+    "prompt": "What is the person in the photo doing?",
+    "answer": "walking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000045455.jpg"
+  },
+  {
+    "prompt": "Is the man still in contact with his surfboard?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000195418.jpg"
+  },
+  {
+    "prompt": "What is the man sitting on?",
+    "answer": "toilet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000494629.jpg"
+  },
+  {
+    "prompt": "Are they wearing helmets?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000546765.jpg"
+  },
+  {
+    "prompt": "Is the man close to shore?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000222346.jpg"
+  },
+  {
+    "prompt": "Are they in jail?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000397819.jpg"
+  },
+  {
+    "prompt": "Is this person alone?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000487994.jpg"
+  },
+  {
+    "prompt": "Is this person wearing a ball cap?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000255115.jpg"
+  },
+  {
+    "prompt": "Is the man in danger?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000309979.jpg"
+  },
+  {
+    "prompt": "Is the person texting?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000252093.jpg"
+  },
+  {
+    "prompt": "Is this person skiing or snowboarding?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000471774.jpg"
+  },
+  {
+    "prompt": "Is the man getting into the water?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000270478.jpg"
+  },
+  {
+    "prompt": "What is the woman looking at?",
+    "answer": "phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000454404.jpg"
+  },
+  {
+    "prompt": "Is this person wearing a hat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000291141.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000417700.jpg"
+  },
+  {
+    "prompt": "Is the person ill?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000300864.jpg"
+  },
+  {
+    "prompt": "Is the man riding on a road?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000481894.jpg"
+  },
+  {
+    "prompt": "Are they playing a game?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000370851.jpg"
+  },
+  {
+    "prompt": "What is the person doing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000471609.jpg"
+  },
+  {
+    "prompt": "What is the person doing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000531385.jpg"
+  },
+  {
+    "prompt": "Is he hurt?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000509538.jpg"
+  },
+  {
+    "prompt": "Is this person skiing?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000244862.jpg"
+  },
+  {
+    "prompt": "Is he there to hunt animals?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000324553.jpg"
+  },
+  {
+    "prompt": "Are they eating outside?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000153909.jpg"
+  },
+  {
+    "prompt": "Are they flying?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000153888.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a ring?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000525876.jpg"
+  },
+  {
+    "prompt": "Is the man having trouble with his umbrella?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000016069.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "walking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000188388.jpg"
+  },
+  {
+    "prompt": "Are the men playing a video game?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000124069.jpg"
+  },
+  {
+    "prompt": "Are they happy?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000509864.jpg"
+  },
+  {
+    "prompt": "Is the woman sitting?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000439987.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "water skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000463884.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing cowboy boots?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000385753.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "camera",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000402960.jpg"
+  },
+  {
+    "prompt": "Are they working together?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000296631.jpg"
+  },
+  {
+    "prompt": "Are they grapefruits or oranges?",
+    "answer": "oranges",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000264992.jpg"
+  },
+  {
+    "prompt": "Is the man playing on a team?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000455393.jpg"
+  },
+  {
+    "prompt": "Is the woman playing the Wii?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000366137.jpg"
+  },
+  {
+    "prompt": "Is the man smiling?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000321786.jpg"
+  },
+  {
+    "prompt": "Is he throwing a ball?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000311015.jpg"
+  },
+  {
+    "prompt": "Is this person going downhill?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000071344.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000030779.jpg"
+  },
+  {
+    "prompt": "Is he wearing clothes?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000001790.jpg"
+  },
+  {
+    "prompt": "Is he wearing black?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000524844.jpg"
+  },
+  {
+    "prompt": "Is he grazing?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000263600.jpg"
+  },
+  {
+    "prompt": "What is the man sitting on?",
+    "answer": "ground",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000057570.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000410328.jpg"
+  },
+  {
+    "prompt": "Is the person on the skateboard wearing shorts?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000266805.jpg"
+  },
+  {
+    "prompt": "What is the man hitting?",
+    "answer": "tennis ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000219385.jpg"
+  },
+  {
+    "prompt": "Is he on the ground?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000540027.jpg"
+  },
+  {
+    "prompt": "What is the man carrying?",
+    "answer": "surfboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000494856.jpg"
+  },
+  {
+    "prompt": "Are the men wearing the same color shirt?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000299838.jpg"
+  },
+  {
+    "prompt": "Are they both wearing eyeglasses?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000027516.jpg"
+  },
+  {
+    "prompt": "Is he about to do a trick?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000310317.jpg"
+  },
+  {
+    "prompt": "Are they all the same height?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000038490.jpg"
+  },
+  {
+    "prompt": "What is the man cuddling with?",
+    "answer": "woman",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000562777.jpg"
+  },
+  {
+    "prompt": "What is the man wearing over his shirt?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000034993.jpg"
+  },
+  {
+    "prompt": "Is the man on a boat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000390841.jpg"
+  },
+  {
+    "prompt": "What is the man on the left holding?",
+    "answer": "knife",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000469203.jpg"
+  },
+  {
+    "prompt": "Is the person taking the picture the only one on the platform?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000393943.jpg"
+  },
+  {
+    "prompt": "Is the man drinking red wine?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000102004.jpg"
+  },
+  {
+    "prompt": "Is this person focusing on something?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000173745.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a ring?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000529529.jpg"
+  },
+  {
+    "prompt": "Is he surfing or kneeboarding?",
+    "answer": "neither",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000539937.jpg"
+  },
+  {
+    "prompt": "Is the man going to fall?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000399710.jpg"
+  },
+  {
+    "prompt": "What is the person riding on?",
+    "answer": "surfboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000376763.jpg"
+  },
+  {
+    "prompt": "What is the woman holding?",
+    "answer": "knife",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000158956.jpg"
+  },
+  {
+    "prompt": "Is the woman smiling?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000038828.jpg"
+  },
+  {
+    "prompt": "What is the man called behind the batter?",
+    "answer": "catcher",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000085211.jpg"
+  },
+  {
+    "prompt": "What is the man holding to his mouth?",
+    "answer": "toothbrush",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000391162.jpg"
+  },
+  {
+    "prompt": "Is he wearing glasses?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000365404.jpg"
+  },
+  {
+    "prompt": "Is the man using his hands to eat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000141862.jpg"
+  },
+  {
+    "prompt": "Is this woman expecting a child?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000531457.jpg"
+  },
+  {
+    "prompt": "What is the man cooking on the grill?",
+    "answer": "hot dogs",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000017578.jpg"
+  },
+  {
+    "prompt": "What is the man using to paint?",
+    "answer": "spray paint",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000031514.jpg"
+  },
+  {
+    "prompt": "Are they eating outside?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000378440.jpg"
+  },
+  {
+    "prompt": "Is the woman in the photo lost?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000553800.jpg"
+  },
+  {
+    "prompt": "What is the woman wearing in the front?",
+    "answer": "coat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000369777.jpg"
+  },
+  {
+    "prompt": "What is the man riding?",
+    "answer": "motorcycle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000137586.jpg"
+  },
+  {
+    "prompt": "What is the person holding?",
+    "answer": "phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000239307.jpg"
+  },
+  {
+    "prompt": "Are they happy?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000068812.jpg"
+  },
+  {
+    "prompt": "Is the person properly dressed for this activity?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000562519.jpg"
+  },
+  {
+    "prompt": "What is the man wearing?",
+    "answer": "wetsuit",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000251511.jpg"
+  },
+  {
+    "prompt": "Is he wearing ski goggles?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000103366.jpg"
+  },
+  {
+    "prompt": "What is the man wearing?",
+    "answer": "shorts",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000401766.jpg"
+  },
+  {
+    "prompt": "What is the man leaning on?",
+    "answer": "boogie board",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000352178.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a party outfit?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000388852.jpg"
+  },
+  {
+    "prompt": "What is the woman doing?",
+    "answer": "talking on phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000225530.jpg"
+  },
+  {
+    "prompt": "What is the person standing on?",
+    "answer": "log",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000382958.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "cell phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000549845.jpg"
+  },
+  {
+    "prompt": "What is the man looking at the camera using the ski polls for at the time the picture was taken?",
+    "answer": "confused",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000003461.jpg"
+  },
+  {
+    "prompt": "What is the man portraying the banana to be?",
+    "answer": "smile",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000122939.jpg"
+  },
+  {
+    "prompt": "IS the man standing?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000169945.jpg"
+  },
+  {
+    "prompt": "Is the woman enjoying the pizza?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000265810.jpg"
+  },
+  {
+    "prompt": "Is the man about to ride the wave?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000050756.jpg"
+  },
+  {
+    "prompt": "Is he water skiing?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000379230.jpg"
+  },
+  {
+    "prompt": "Is the man swinging the bat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000379965.jpg"
+  },
+  {
+    "prompt": "Is the woman happy?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000517916.jpg"
+  },
+  {
+    "prompt": "Is the man frowning?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000488915.jpg"
+  },
+  {
+    "prompt": "Is the person drinking a beverage?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000325837.jpg"
+  },
+  {
+    "prompt": "What is the man riding on?",
+    "answer": "snowboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000127393.jpg"
+  },
+  {
+    "prompt": "What is the woman holding?",
+    "answer": "banana",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000057719.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "baseball bat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000142771.jpg"
+  },
+  {
+    "prompt": "Is this person in mid air?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000560437.jpg"
+  },
+  {
+    "prompt": "Are they wearing wetsuits?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000311615.jpg"
+  },
+  {
+    "prompt": "Is the man wearing glasses?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000306627.jpg"
+  },
+  {
+    "prompt": "What is the man looking at?",
+    "answer": "camera",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000445892.jpg"
+  },
+  {
+    "prompt": "Are they high in the mountains?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000456399.jpg"
+  },
+  {
+    "prompt": "Is he wearing sunglasses?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000050046.jpg"
+  },
+  {
+    "prompt": "Is the man wearing sunglasses?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000023949.jpg"
+  },
+  {
+    "prompt": "What is the person in the water doing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000170874.jpg"
+  },
+  {
+    "prompt": "Is the man a pro skater?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000024621.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing Hijab?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000292488.jpg"
+  },
+  {
+    "prompt": "Is the woman about to sneeze?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000369323.jpg"
+  },
+  {
+    "prompt": "Is this woman snowboarding?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000284406.jpg"
+  },
+  {
+    "prompt": "Is the person dry?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000381457.jpg"
+  },
+  {
+    "prompt": "Is he going uphill or downhill?",
+    "answer": "downhill",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000205559.jpg"
+  },
+  {
+    "prompt": "Is the person on vacation?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000161093.jpg"
+  },
+  {
+    "prompt": "Is he probably a nerd?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000450737.jpg"
+  },
+  {
+    "prompt": "Is the man swimming?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000325595.jpg"
+  },
+  {
+    "prompt": "Are they eating?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000155268.jpg"
+  },
+  {
+    "prompt": "Are they snowboarding?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000301281.jpg"
+  },
+  {
+    "prompt": "Is this woman trying to be sexy?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000335578.jpg"
+  },
+  {
+    "prompt": "What is the man doing in the picture?",
+    "answer": "talking on phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000371493.jpg"
+  },
+  {
+    "prompt": "Is he going upward or downward?",
+    "answer": "down",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000439621.jpg"
+  },
+  {
+    "prompt": "Is the man at the podium receiving an award?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000506515.jpg"
+  },
+  {
+    "prompt": "What is the woman drinking?",
+    "answer": "wine",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000514346.jpg"
+  },
+  {
+    "prompt": "What is the person doing?",
+    "answer": "snowboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000411226.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000181805.jpg"
+  },
+  {
+    "prompt": "Is this person wearing pants?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000523037.jpg"
+  },
+  {
+    "prompt": "Is the man smiling?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000105110.jpg"
+  },
+  {
+    "prompt": "Is the man smiling?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000393224.jpg"
+  },
+  {
+    "prompt": "Is the woman waiting for someone?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000257109.jpg"
+  },
+  {
+    "prompt": "What is the man sitting on?",
+    "answer": "horse",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000575029.jpg"
+  },
+  {
+    "prompt": "Is this person wearing protective gear?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000279195.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing a straw hat?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000081809.jpg"
+  },
+  {
+    "prompt": "What is the person sitting on?",
+    "answer": "toilet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000018396.jpg"
+  },
+  {
+    "prompt": "Is the man on the right winning the race?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000143992.jpg"
+  },
+  {
+    "prompt": "Are they in a barn?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000028738.jpg"
+  },
+  {
+    "prompt": "Is the man going uphill or downhill?",
+    "answer": "down",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000495722.jpg"
+  },
+  {
+    "prompt": "Are they racing?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000197847.jpg"
+  },
+  {
+    "prompt": "Is the woman happy?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000498462.jpg"
+  },
+  {
+    "prompt": "What is the man looking at?",
+    "answer": "computer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000209041.jpg"
+  },
+  {
+    "prompt": "Is the person on the left a man or a woman?",
+    "answer": "man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000092694.jpg"
+  },
+  {
+    "prompt": "Are both men wearing collared shirts?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000331395.jpg"
+  },
+  {
+    "prompt": "Are these men young?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000390663.jpg"
+  },
+  {
+    "prompt": "Is the man walking with a cane?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000142804.jpg"
+  },
+  {
+    "prompt": "What is the woman focusing on?",
+    "answer": "street",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000029715.jpg"
+  },
+  {
+    "prompt": "Is this person wearing a tie?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000349870.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a belt?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000433766.jpg"
+  },
+  {
+    "prompt": "Is he taking a side selfie?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000403666.jpg"
+  },
+  {
+    "prompt": "Is the person looking in the mirror?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000441196.jpg"
+  },
+  {
+    "prompt": "Is this person a man or a woman?",
+    "answer": "man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000294107.jpg"
+  },
+  {
+    "prompt": "Is he in a house or in some sort of transportation?",
+    "answer": "transportation",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000129068.jpg"
+  },
+  {
+    "prompt": "Are these men hanging out in a kitchen?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000263041.jpg"
+  },
+  {
+    "prompt": "Are they standing in a mud puddle?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000000312.jpg"
+  },
+  {
+    "prompt": "Is the man standing straight up?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000579758.jpg"
+  },
+  {
+    "prompt": "Is this woman having fun?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000454566.jpg"
+  },
+  {
+    "prompt": "What is the woman eating?",
+    "answer": "sandwich",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000405324.jpg"
+  },
+  {
+    "prompt": "Is the man wearing shades?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000149314.jpg"
+  },
+  {
+    "prompt": "Is he eating a donut?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000268900.jpg"
+  },
+  {
+    "prompt": "What is the man flying?",
+    "answer": "airplane",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000436579.jpg"
+  },
+  {
+    "prompt": "Are they in the living room?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000385445.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "tennis racket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000113512.jpg"
+  },
+  {
+    "prompt": "Is the man in front wearing a pink vest?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000523494.jpg"
+  },
+  {
+    "prompt": "Is the person in the right corner waiting to bat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000405906.jpg"
+  },
+  {
+    "prompt": "Is he serving?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000052094.jpg"
+  },
+  {
+    "prompt": "Are they marching?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000408846.jpg"
+  },
+  {
+    "prompt": "What is the person riding?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000409796.jpg"
+  },
+  {
+    "prompt": "Is this person a novice?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000168377.jpg"
+  },
+  {
+    "prompt": "What is the man wearing?",
+    "answer": "wetsuit",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000380750.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a watch?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000329386.jpg"
+  },
+  {
+    "prompt": "Is he on the pitchers mound?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000548802.jpg"
+  },
+  {
+    "prompt": "What is the person holding?",
+    "answer": "teddy bear",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000297779.jpg"
+  },
+  {
+    "prompt": "Is the person flying?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000097882.jpg"
+  },
+  {
+    "prompt": "Are they wearing helmets?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000329055.jpg"
+  },
+  {
+    "prompt": "What is the person doing?",
+    "answer": "talking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000372405.jpg"
+  },
+  {
+    "prompt": "Is the man wearing glasses?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000194312.jpg"
+  },
+  {
+    "prompt": "Is one woman far behind?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000321181.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "playing tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000166699.jpg"
+  },
+  {
+    "prompt": "Is the person barefoot?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000553965.jpg"
+  },
+  {
+    "prompt": "Is he ready for the ball?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000132476.jpg"
+  },
+  {
+    "prompt": "What is the person wearing?",
+    "answer": "coat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000387558.jpg"
+  },
+  {
+    "prompt": "Is the man selling these vegetables?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000130458.jpg"
+  },
+  {
+    "prompt": "Are they playing Cricket?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000246137.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a one-piece outfit?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000290700.jpg"
+  },
+  {
+    "prompt": "Are they talking to each other?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000394766.jpg"
+  },
+  {
+    "prompt": "Are they going for a walk?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000156700.jpg"
+  },
+  {
+    "prompt": "Is he outside?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000184320.jpg"
+  },
+  {
+    "prompt": "What is the man talking to?",
+    "answer": "phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000386880.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "soccer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000250639.jpg"
+  },
+  {
+    "prompt": "Are they dressed up?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000369443.jpg"
+  },
+  {
+    "prompt": "Is he wearing a hard hat?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000263609.jpg"
+  },
+  {
+    "prompt": "Is the man standing in water?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000521775.jpg"
+  },
+  {
+    "prompt": "Is this person an experienced surfer?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000013540.jpg"
+  },
+  {
+    "prompt": "Is he smiling?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000571825.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000238197.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "ski poles",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000131450.jpg"
+  },
+  {
+    "prompt": "Is the man wearing black jacket?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000224241.jpg"
+  },
+  {
+    "prompt": "What is the person in the center back using to eat?",
+    "answer": "chopsticks",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000294730.jpg"
+  },
+  {
+    "prompt": "Is this woman wearing a dress?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000095873.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000427135.jpg"
+  },
+  {
+    "prompt": "Is the man happy or sad?",
+    "answer": "happy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000321633.jpg"
+  },
+  {
+    "prompt": "Is he wearing a medal?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000145227.jpg"
+  },
+  {
+    "prompt": "Are they both the same animal?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000194847.jpg"
+  },
+  {
+    "prompt": "Is the man a young man?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000429059.jpg"
+  },
+  {
+    "prompt": "Are the men fighting?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000267831.jpg"
+  },
+  {
+    "prompt": "Is the man attempting to juggle?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000489573.jpg"
+  },
+  {
+    "prompt": "Is this person being active?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000056075.jpg"
+  },
+  {
+    "prompt": "What is the man holding in his left hand?",
+    "answer": "game controller",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000057579.jpg"
+  },
+  {
+    "prompt": "What is the man on the left waiting for the other man to do?",
+    "answer": "drive",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000377809.jpg"
+  },
+  {
+    "prompt": "What is the man doing to the cop?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000129565.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "wii remote",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000490441.jpg"
+  },
+  {
+    "prompt": "What is the man drinking?",
+    "answer": "beer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000209530.jpg"
+  },
+  {
+    "prompt": "What is the man wearing?",
+    "answer": "clothes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000230031.jpg"
+  },
+  {
+    "prompt": "What is the person holding?",
+    "answer": "bags",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000272743.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a hat?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000065189.jpg"
+  },
+  {
+    "prompt": "Is this person about to fall off their board?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000463301.jpg"
+  },
+  {
+    "prompt": "Is the man talking on the phone?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000121749.jpg"
+  },
+  {
+    "prompt": "Is the man horizontal?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000051680.jpg"
+  },
+  {
+    "prompt": "Are they all in college?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000518948.jpg"
+  },
+  {
+    "prompt": "Is the person wearing a hat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000538281.jpg"
+  },
+  {
+    "prompt": "Are they sitting on the ground?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000064470.jpg"
+  },
+  {
+    "prompt": "What is the man standing on?",
+    "answer": "surfboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000238724.jpg"
+  },
+  {
+    "prompt": "Is the man wearing sunglasses?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000064470.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a hat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000548451.jpg"
+  },
+  {
+    "prompt": "Is the woman on a chair?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000104943.jpg"
+  },
+  {
+    "prompt": "Is the man working on the laptop?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000098922.jpg"
+  },
+  {
+    "prompt": "Is he skating?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000105079.jpg"
+  },
+  {
+    "prompt": "Is the woman in the yellow shirts stomach showing?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000544312.jpg"
+  },
+  {
+    "prompt": "Is the man moving uphill?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000522534.jpg"
+  },
+  {
+    "prompt": "What is the person in the image standing on?",
+    "answer": "sand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000220072.jpg"
+  },
+  {
+    "prompt": "What is the woman looking at?",
+    "answer": "kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000579713.jpg"
+  },
+  {
+    "prompt": "Is the person wearing blue jeans?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000095752.jpg"
+  },
+  {
+    "prompt": "Are they at the beach?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000378048.jpg"
+  },
+  {
+    "prompt": "What is the man looking at?",
+    "answer": "toilet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000485629.jpg"
+  },
+  {
+    "prompt": "What is the man near the pole doing with his legs?",
+    "answer": "standing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000198799.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a red shirt?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000159465.jpg"
+  },
+  {
+    "prompt": "Is this person barefoot?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000551921.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000063365.jpg"
+  },
+  {
+    "prompt": "Is the man eating a donut?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000284507.jpg"
+  },
+  {
+    "prompt": "Is the man taking the picture balding?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000233292.jpg"
+  },
+  {
+    "prompt": "Is this person running?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000173682.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a jacket?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000578332.jpg"
+  },
+  {
+    "prompt": "Are they playing a game?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000131277.jpg"
+  },
+  {
+    "prompt": "What is the woman wearing around her head?",
+    "answer": "cap",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000064462.jpg"
+  },
+  {
+    "prompt": "Is the man in red playing too?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000477179.jpg"
+  },
+  {
+    "prompt": "Is the man heading straight or going into a turn?",
+    "answer": "straight",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000429113.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing a dress?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000531016.jpg"
+  },
+  {
+    "prompt": "Is he at the beach?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000052870.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a helmet?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000258559.jpg"
+  },
+  {
+    "prompt": "What is the man about to do?",
+    "answer": "serve",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000294621.jpg"
+  },
+  {
+    "prompt": "What is the man teaching the kids?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000122527.jpg"
+  },
+  {
+    "prompt": "Are they studying?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000132310.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a hat?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000136922.jpg"
+  },
+  {
+    "prompt": "What is the woman sitting on?",
+    "answer": "chair",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000479443.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "donut",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000413472.jpg"
+  },
+  {
+    "prompt": "What is the man riding on?",
+    "answer": "bicycle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000353748.jpg"
+  },
+  {
+    "prompt": "What is the man wearing on his head?",
+    "answer": "hat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000397455.jpg"
+  },
+  {
+    "prompt": "Is the man wearing sunglasses?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000117736.jpg"
+  },
+  {
+    "prompt": "What is the man in black called?",
+    "answer": "baseball player",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000211172.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "paper",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000248854.jpg"
+  },
+  {
+    "prompt": "What is the man eating?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000314112.jpg"
+  },
+  {
+    "prompt": "Is he working?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000279941.jpg"
+  },
+  {
+    "prompt": "Is this person driving around a curve?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000462081.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "playing wii",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000416117.jpg"
+  },
+  {
+    "prompt": "Is the man in the picture smiling?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000324316.jpg"
+  },
+  {
+    "prompt": "Is the man swinging?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000270248.jpg"
+  },
+  {
+    "prompt": "What is the woman holding?",
+    "answer": "racket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000371848.jpg"
+  },
+  {
+    "prompt": "Is he in a skating ring?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000297672.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a hat?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000317061.jpg"
+  },
+  {
+    "prompt": "Is the man videotaping the other man?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000198717.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000497246.jpg"
+  },
+  {
+    "prompt": "Is the person swimming?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000359677.jpg"
+  },
+  {
+    "prompt": "Is the man cooking?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000095595.jpg"
+  },
+  {
+    "prompt": "Are they feeding the animals?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000531366.jpg"
+  },
+  {
+    "prompt": "Is the man sitting?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000370637.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "flying kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000020157.jpg"
+  },
+  {
+    "prompt": "Is the man moving at a fast rate down the mountain?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000093075.jpg"
+  },
+  {
+    "prompt": "What is the man doing in the picture?",
+    "answer": "flying kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000352866.jpg"
+  },
+  {
+    "prompt": "Are they brushing their teeth?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000020146.jpg"
+  },
+  {
+    "prompt": "Is the person facing the sun or facing away from the sun?",
+    "answer": "away",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000499763.jpg"
+  },
+  {
+    "prompt": "What is the man riding?",
+    "answer": "bicycle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000061982.jpg"
+  },
+  {
+    "prompt": "Is the man hairy?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000179522.jpg"
+  },
+  {
+    "prompt": "Is the man skinny?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000402113.jpg"
+  },
+  {
+    "prompt": "Are they sitting at a desk?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000479461.jpg"
+  },
+  {
+    "prompt": "Are the men Caucasian?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000129438.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000216029.jpg"
+  },
+  {
+    "prompt": "What is the person in the center by himself doing?",
+    "answer": "playing video game",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000040643.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "riding horse",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000037864.jpg"
+  },
+  {
+    "prompt": "Are they playing golf or tennis?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000231568.jpg"
+  },
+  {
+    "prompt": "Is he eating with his hands?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000434409.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "glove",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000162177.jpg"
+  },
+  {
+    "prompt": "What is the man on the court doing?",
+    "answer": "playing tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000431854.jpg"
+  },
+  {
+    "prompt": "Is the woman excited about what she's doing?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000575060.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing a winter outfit?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000483489.jpg"
+  },
+  {
+    "prompt": "Is the man wearing contacts or glasses?",
+    "answer": "glasses",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000472686.jpg"
+  },
+  {
+    "prompt": "Is the man wearing tennis shoes?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000163992.jpg"
+  },
+  {
+    "prompt": "What is the person doing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000250777.jpg"
+  },
+  {
+    "prompt": "Is the man wearing socks?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000400305.jpg"
+  },
+  {
+    "prompt": "Is the man going to spend the night in the snow?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000345981.jpg"
+  },
+  {
+    "prompt": "Is this person wearing any pants?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000332844.jpg"
+  },
+  {
+    "prompt": "Is he a novice snowboarder?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000249046.jpg"
+  },
+  {
+    "prompt": "Is the person resting?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000005360.jpg"
+  },
+  {
+    "prompt": "Is he playing tennis?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000472502.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a tie?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000270844.jpg"
+  },
+  {
+    "prompt": "What is the man making?",
+    "answer": "pot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000151566.jpg"
+  },
+  {
+    "prompt": "Is the man paddling a canoe?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000327005.jpg"
+  },
+  {
+    "prompt": "What is the woman on the left wearing around her head?",
+    "answer": "bandana",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000480947.jpg"
+  },
+  {
+    "prompt": "Is the man throwing or catching the ball?",
+    "answer": "throwing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000339108.jpg"
+  },
+  {
+    "prompt": "Is he planning on drinking a lot?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000536741.jpg"
+  },
+  {
+    "prompt": "Are they happy?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000046764.jpg"
+  },
+  {
+    "prompt": "Is the man at a railway station?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000247919.jpg"
+  },
+  {
+    "prompt": "What is the man doing in the kitchen?",
+    "answer": "playing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000086956.jpg"
+  },
+  {
+    "prompt": "What is the man holding in his right hand?",
+    "answer": "shade",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000329640.jpg"
+  },
+  {
+    "prompt": "Is the man on the right attracted to the older woman?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000008657.jpg"
+  },
+  {
+    "prompt": "What is the person holding?",
+    "answer": "wii remote",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000483080.jpg"
+  },
+  {
+    "prompt": "What is the man hitting?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000452759.jpg"
+  },
+  {
+    "prompt": "Are these men playing tennis?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000465941.jpg"
+  },
+  {
+    "prompt": "Are they both under the same umbrella?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000310878.jpg"
+  },
+  {
+    "prompt": "What is the man holding in his hand?",
+    "answer": "bat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000163992.jpg"
+  },
+  {
+    "prompt": "Is the man cutting the cake?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000497244.jpg"
+  },
+  {
+    "prompt": "Is the man facing towards or away from the \"p\"?",
+    "answer": "away",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000034877.jpg"
+  },
+  {
+    "prompt": "Is the person afraid of the elephants?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000014990.jpg"
+  },
+  {
+    "prompt": "Is he riding a bike?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000077345.jpg"
+  },
+  {
+    "prompt": "What is the man looking at?",
+    "answer": "kids",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000345884.jpg"
+  },
+  {
+    "prompt": "Are both men wearing helmets?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000400118.jpg"
+  },
+  {
+    "prompt": "Is this woman trying to give the kids an uncooked cake?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000216510.jpg"
+  },
+  {
+    "prompt": "Is he bundled up?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000367639.jpg"
+  },
+  {
+    "prompt": "Is the man riding a horse?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000299623.jpg"
+  },
+  {
+    "prompt": "Is the man falling off the skateboard?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000192964.jpg"
+  },
+  {
+    "prompt": "Is this person submerged in the water?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000050756.jpg"
+  },
+  {
+    "prompt": "Is the man excited?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000176852.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "bat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000245336.jpg"
+  },
+  {
+    "prompt": "Is he wearing flip flops?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000319521.jpg"
+  },
+  {
+    "prompt": "Are they watching something?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000376241.jpg"
+  },
+  {
+    "prompt": "Is the woman poor?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000282048.jpg"
+  },
+  {
+    "prompt": "What is the woman doing?",
+    "answer": "walking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000017364.jpg"
+  },
+  {
+    "prompt": "Is he doing a trick?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000550453.jpg"
+  },
+  {
+    "prompt": "What is the man talking on?",
+    "answer": "computer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000546730.jpg"
+  },
+  {
+    "prompt": "Is the man mad?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000069559.jpg"
+  },
+  {
+    "prompt": "Are both men wearing tennis shoes?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000271546.jpg"
+  },
+  {
+    "prompt": "What is the man carrying?",
+    "answer": "surfboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000561042.jpg"
+  },
+  {
+    "prompt": "Is the man wearing glasses?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000250401.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "sitting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000421131.jpg"
+  },
+  {
+    "prompt": "Is the person on the right wearing red?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000059358.jpg"
+  },
+  {
+    "prompt": "Is he in the ready position?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000014537.jpg"
+  },
+  {
+    "prompt": "Is the person in blue a woman?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000017667.jpg"
+  },
+  {
+    "prompt": "What is the person doing?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000268129.jpg"
+  },
+  {
+    "prompt": "What is the man holding in his mouth?",
+    "answer": "pen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000471945.jpg"
+  },
+  {
+    "prompt": "Is the man a marine?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000300353.jpg"
+  },
+  {
+    "prompt": "What is the woman doing?",
+    "answer": "talking on phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000061288.jpg"
+  },
+  {
+    "prompt": "Is the man sitting on luggage?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000428000.jpg"
+  },
+  {
+    "prompt": "Are the men wearing matching hats?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000058539.jpg"
+  },
+  {
+    "prompt": "Are they in captivity?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000108982.jpg"
+  },
+  {
+    "prompt": "Are they going to eat all of it?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000440285.jpg"
+  },
+  {
+    "prompt": "What is the person flying?",
+    "answer": "kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000446497.jpg"
+  },
+  {
+    "prompt": "Is he winning?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000378970.jpg"
+  },
+  {
+    "prompt": "Is the woman playing tennis?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000106001.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "rope",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000427035.jpg"
+  },
+  {
+    "prompt": "Is the man doing  move?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000519906.jpg"
+  },
+  {
+    "prompt": "Are they in the sea?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000042563.jpg"
+  },
+  {
+    "prompt": "What is the woman holding onto in her left hand?",
+    "answer": "phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000120059.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "cooking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000099966.jpg"
+  },
+  {
+    "prompt": "What is the woman holding in her hand?",
+    "answer": "hay",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000274286.jpg"
+  },
+  {
+    "prompt": "Is he eating?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000144705.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing any visible jewelry?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000522069.jpg"
+  },
+  {
+    "prompt": "Is this woman skiing?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000401482.jpg"
+  },
+  {
+    "prompt": "Is he swimming in a pool?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000274386.jpg"
+  },
+  {
+    "prompt": "Is the man excited about the pizza?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000232389.jpg"
+  },
+  {
+    "prompt": "Is the man in the background playing singles or doubles?",
+    "answer": "doubles",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000086248.jpg"
+  },
+  {
+    "prompt": "Is the man in the water?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000018444.jpg"
+  },
+  {
+    "prompt": "What is the man holding the cake with?",
+    "answer": "hand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000306627.jpg"
+  },
+  {
+    "prompt": "Is the person trying to catch the ball?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000007809.jpg"
+  },
+  {
+    "prompt": "What is the person doing?",
+    "answer": "peeing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000218956.jpg"
+  },
+  {
+    "prompt": "Is he wearing safety gear?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000284989.jpg"
+  },
+  {
+    "prompt": "Is he wearing safety gear?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000297198.jpg"
+  },
+  {
+    "prompt": "What is the woman leaning on?",
+    "answer": "door",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000269253.jpg"
+  },
+  {
+    "prompt": "Are they wearing coats?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000119982.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "racket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000156236.jpg"
+  },
+  {
+    "prompt": "Is he wearing protective gear?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000439539.jpg"
+  },
+  {
+    "prompt": "Is the woman looking up or down?",
+    "answer": "up",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000209533.jpg"
+  },
+  {
+    "prompt": "What is the person in the back wearing on their ears?",
+    "answer": "headphones",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000028038.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing glasses?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000538534.jpg"
+  },
+  {
+    "prompt": "What is the person sitting on?",
+    "answer": "grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000005312.jpg"
+  },
+  {
+    "prompt": "Are they dressed up for something?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000178144.jpg"
+  },
+  {
+    "prompt": "Are they wearing hats?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000153920.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000266773.jpg"
+  },
+  {
+    "prompt": "What is the woman holding in her hands?",
+    "answer": "phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000378204.jpg"
+  },
+  {
+    "prompt": "Is the person looking to their right?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000141002.jpg"
+  },
+  {
+    "prompt": "What is the man  looking at?",
+    "answer": "cell phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000348522.jpg"
+  },
+  {
+    "prompt": "Is the man a goalkeeper?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000382263.jpg"
+  },
+  {
+    "prompt": "Is he wearing a shirt?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000175703.jpg"
+  },
+  {
+    "prompt": "Is this person in the bathroom?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000098494.jpg"
+  },
+  {
+    "prompt": "Is this person wearing goggles?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000328397.jpg"
+  },
+  {
+    "prompt": "Is the man singing?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000057306.jpg"
+  },
+  {
+    "prompt": "Is the man holding a cane?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000288150.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "playing tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000318284.jpg"
+  },
+  {
+    "prompt": "What is the woman wearing on her face?",
+    "answer": "sunglasses",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000232187.jpg"
+  },
+  {
+    "prompt": "Is the woman wearing pants?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000230096.jpg"
+  },
+  {
+    "prompt": "Is the man wearing sunglasses?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000350518.jpg"
+  },
+  {
+    "prompt": "Are they in motion?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000560787.jpg"
+  },
+  {
+    "prompt": "Is the man drunk?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000406062.jpg"
+  },
+  {
+    "prompt": "What is the person sitting in?",
+    "answer": "shopping cart",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000407130.jpg"
+  },
+  {
+    "prompt": "Is he talking on a cell phone?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000511915.jpg"
+  },
+  {
+    "prompt": "What is the man to the far right doing?",
+    "answer": "typing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000247259.jpg"
+  },
+  {
+    "prompt": "What is the person holding in the snow?",
+    "answer": "umbrella",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000493245.jpg"
+  },
+  {
+    "prompt": "What is the man standing in?",
+    "answer": "snow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000398260.jpg"
+  },
+  {
+    "prompt": "Is this person elderly?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000134832.jpg"
+  },
+  {
+    "prompt": "Is the man in an office?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000259924.jpg"
+  },
+  {
+    "prompt": "Are they near water?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000461283.jpg"
+  },
+  {
+    "prompt": "Is the man at the top or bottom of the 'bowl'?",
+    "answer": "top",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000086987.jpg"
+  },
+  {
+    "prompt": "What is the man in the background doing?",
+    "answer": "taking pictures",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000467384.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000070733.jpg"
+  },
+  {
+    "prompt": "Is the woman sitting or standing?",
+    "answer": "standing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000510616.jpg"
+  },
+  {
+    "prompt": "Is the man holding a tennis racket bad?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000409165.jpg"
+  },
+  {
+    "prompt": "Is he a fat guy?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000430455.jpg"
+  },
+  {
+    "prompt": "What is the woman holding?",
+    "answer": "stuffed animal",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000290684.jpg"
+  },
+  {
+    "prompt": "Is the person following the other holding a camera?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000489971.jpg"
+  },
+  {
+    "prompt": "Is the man skateboarding?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000576754.jpg"
+  },
+  {
+    "prompt": "Is the woman eating something?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000192806.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "tennis racket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000365194.jpg"
+  },
+  {
+    "prompt": "What is the man cutting?",
+    "answer": "cake",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000393251.jpg"
+  },
+  {
+    "prompt": "What is the man standing near that is green?",
+    "answer": "grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000104602.jpg"
+  },
+  {
+    "prompt": "What is the woman doing?",
+    "answer": "walking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000354167.jpg"
+  },
+  {
+    "prompt": "Is the person on the left a man or woman?",
+    "answer": "man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000023539.jpg"
+  },
+  {
+    "prompt": "What is the person on the right of the picture holding?",
+    "answer": "baby",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000449959.jpg"
+  },
+  {
+    "prompt": "Is he a professional food preparer?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000236260.jpg"
+  },
+  {
+    "prompt": "Is the woman walking a dog?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000347101.jpg"
+  },
+  {
+    "prompt": "Is the man swimming?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000089915.jpg"
+  },
+  {
+    "prompt": "Is the woman in the picture naked?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000340440.jpg"
+  },
+  {
+    "prompt": "Is the man cutting a fish to eat?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000046371.jpg"
+  },
+  {
+    "prompt": "What is the man holding is his left hand?",
+    "answer": "baseball bat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000117867.jpg"
+  },
+  {
+    "prompt": "Is the  person male or female?",
+    "answer": "male",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000241959.jpg"
+  },
+  {
+    "prompt": "Is he on the ground?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000432702.jpg"
+  },
+  {
+    "prompt": "What is the person holding in the picture?",
+    "answer": "wii remote",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000157046.jpg"
+  },
+  {
+    "prompt": "What is the man doing?",
+    "answer": "sitting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000348522.jpg"
+  },
+  {
+    "prompt": "What is the man doing with the donkeys?",
+    "answer": "petting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000545312.jpg"
+  },
+  {
+    "prompt": "Is the man wearing a hat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000213020.jpg"
+  },
+  {
+    "prompt": "What is the man holding?",
+    "answer": "kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000118934.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nWe need to remember that in decades past it was believed that monetary policy was most effective when it was least transparent.\nStance:",
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nTheir trade accounts tend to be in surplus, in some cases substantially, an indication that they are supplying more goods into the global economy than they are demanding.\nStance:",
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nMonetary Policy But it is monetary policy--and the Fed's principal monetary lever, the federal funds rate, which is the interest rate on overnight loans of reserves between depository institutions--that earns the Federal Reserve all that ink and airtime.\nStance:",
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nNonetheless, the members also noted that the rise in compensation increases had been damped and that there continued to be few indications of accelerating price inflation in the statistical and anecdotal information available at this time\nStance:",
+    "answer": "C"
+  }
+]

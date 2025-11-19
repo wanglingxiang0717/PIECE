@@ -1,0 +1,1028 @@
+[2025-10-21 21:49:26,782] [INFO] [real_accelerator.py:254:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-10-21 21:49:28,884] [INFO] [logging.py:107:log_dist] [Rank -1] [TorchCheckpointEngine] Initialized with serialization = False
+[2025-10-21 21:49:29,097] [WARNING] [runner.py:220:fetch_hostfile] Unable to find hostfile, will proceed with training with local resources only.
+[2025-10-21 21:49:29,097] [INFO] [runner.py:610:main] cmd = /home/TAP/anaconda3/envs/llama2/bin/python -u -m deepspeed.launcher.launch --world_info=eyJsb2NhbGhvc3QiOiBbMCwgMSwgMiwgM119 --master_addr=127.0.0.1 --master_port=25893 --enable_each_rank_log=None training/main.py --data_path /data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000/ScienceQA --model_name_or_path /data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_epoch5_Llama3Exp_0.001/5 --per_device_train_batch_size 2 --per_device_eval_batch_size 1 --max_prompt_len 1024 --max_ans_len 512 --learning_rate 1e-5 --weight_decay 0. --num_train_epochs 5 --gradient_accumulation_steps 8 --lr_scheduler_type cosine --num_warmup_steps 0 --seed 42 --zero_stage 2 --deepspeed --print_loss --CL_method base --enable_tensorboard --tensorboard_path /data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001/log/ --offload --ood_eval_dir /data2/TAP/data/continue_eval_loss_data_small --mask_method ours --top_ratio 0.001 --target_name ScienceQA --output_dir /data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001 --test_file_dir /data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000
+[2025-10-21 21:49:30,987] [INFO] [real_accelerator.py:254:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-10-21 21:49:33,025] [INFO] [logging.py:107:log_dist] [Rank -1] [TorchCheckpointEngine] Initialized with serialization = False
+[2025-10-21 21:49:33,230] [INFO] [launch.py:146:main] WORLD INFO DICT: {'localhost': [0, 1, 2, 3]}
+[2025-10-21 21:49:33,230] [INFO] [launch.py:152:main] nnodes=1, num_local_procs=4, node_rank=0
+[2025-10-21 21:49:33,230] [INFO] [launch.py:163:main] global_rank_mapping=defaultdict(<class 'list'>, {'localhost': [0, 1, 2, 3]})
+[2025-10-21 21:49:33,230] [INFO] [launch.py:164:main] dist_world_size=4
+[2025-10-21 21:49:33,230] [INFO] [launch.py:168:main] Setting CUDA_VISIBLE_DEVICES=0,1,2,3
+[2025-10-21 21:49:33,230] [INFO] [launch.py:256:main] process 1943723 spawned with command: ['/home/TAP/anaconda3/envs/llama2/bin/python', '-u', 'training/main.py', '--local_rank=0', '--data_path', '/data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000/ScienceQA', '--model_name_or_path', '/data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_epoch5_Llama3Exp_0.001/5', '--per_device_train_batch_size', '2', '--per_device_eval_batch_size', '1', '--max_prompt_len', '1024', '--max_ans_len', '512', '--learning_rate', '1e-5', '--weight_decay', '0.', '--num_train_epochs', '5', '--gradient_accumulation_steps', '8', '--lr_scheduler_type', 'cosine', '--num_warmup_steps', '0', '--seed', '42', '--zero_stage', '2', '--deepspeed', '--print_loss', '--CL_method', 'base', '--enable_tensorboard', '--tensorboard_path', '/data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001/log/', '--offload', '--ood_eval_dir', '/data2/TAP/data/continue_eval_loss_data_small', '--mask_method', 'ours', '--top_ratio', '0.001', '--target_name', 'ScienceQA', '--output_dir', '/data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001', '--test_file_dir', '/data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000']
+[2025-10-21 21:49:33,231] [INFO] [launch.py:256:main] process 1943724 spawned with command: ['/home/TAP/anaconda3/envs/llama2/bin/python', '-u', 'training/main.py', '--local_rank=1', '--data_path', '/data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000/ScienceQA', '--model_name_or_path', '/data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_epoch5_Llama3Exp_0.001/5', '--per_device_train_batch_size', '2', '--per_device_eval_batch_size', '1', '--max_prompt_len', '1024', '--max_ans_len', '512', '--learning_rate', '1e-5', '--weight_decay', '0.', '--num_train_epochs', '5', '--gradient_accumulation_steps', '8', '--lr_scheduler_type', 'cosine', '--num_warmup_steps', '0', '--seed', '42', '--zero_stage', '2', '--deepspeed', '--print_loss', '--CL_method', 'base', '--enable_tensorboard', '--tensorboard_path', '/data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001/log/', '--offload', '--ood_eval_dir', '/data2/TAP/data/continue_eval_loss_data_small', '--mask_method', 'ours', '--top_ratio', '0.001', '--target_name', 'ScienceQA', '--output_dir', '/data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001', '--test_file_dir', '/data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000']
+[2025-10-21 21:49:33,231] [INFO] [launch.py:256:main] process 1943725 spawned with command: ['/home/TAP/anaconda3/envs/llama2/bin/python', '-u', 'training/main.py', '--local_rank=2', '--data_path', '/data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000/ScienceQA', '--model_name_or_path', '/data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_epoch5_Llama3Exp_0.001/5', '--per_device_train_batch_size', '2', '--per_device_eval_batch_size', '1', '--max_prompt_len', '1024', '--max_ans_len', '512', '--learning_rate', '1e-5', '--weight_decay', '0.', '--num_train_epochs', '5', '--gradient_accumulation_steps', '8', '--lr_scheduler_type', 'cosine', '--num_warmup_steps', '0', '--seed', '42', '--zero_stage', '2', '--deepspeed', '--print_loss', '--CL_method', 'base', '--enable_tensorboard', '--tensorboard_path', '/data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001/log/', '--offload', '--ood_eval_dir', '/data2/TAP/data/continue_eval_loss_data_small', '--mask_method', 'ours', '--top_ratio', '0.001', '--target_name', 'ScienceQA', '--output_dir', '/data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001', '--test_file_dir', '/data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000']
+[2025-10-21 21:49:33,232] [INFO] [launch.py:256:main] process 1943726 spawned with command: ['/home/TAP/anaconda3/envs/llama2/bin/python', '-u', 'training/main.py', '--local_rank=3', '--data_path', '/data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000/ScienceQA', '--model_name_or_path', '/data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_epoch5_Llama3Exp_0.001/5', '--per_device_train_batch_size', '2', '--per_device_eval_batch_size', '1', '--max_prompt_len', '1024', '--max_ans_len', '512', '--learning_rate', '1e-5', '--weight_decay', '0.', '--num_train_epochs', '5', '--gradient_accumulation_steps', '8', '--lr_scheduler_type', 'cosine', '--num_warmup_steps', '0', '--seed', '42', '--zero_stage', '2', '--deepspeed', '--print_loss', '--CL_method', 'base', '--enable_tensorboard', '--tensorboard_path', '/data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001/log/', '--offload', '--ood_eval_dir', '/data2/TAP/data/continue_eval_loss_data_small', '--mask_method', 'ours', '--top_ratio', '0.001', '--target_name', 'ScienceQA', '--output_dir', '/data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001', '--test_file_dir', '/data2/TAP/data/TRACE-Benchmark/LLM-CL-Benchmark_1000']
+[2025-10-21 21:49:37,087] [INFO] [real_accelerator.py:254:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-10-21 21:49:37,099] [INFO] [real_accelerator.py:254:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-10-21 21:49:37,160] [INFO] [real_accelerator.py:254:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-10-21 21:49:37,195] [INFO] [real_accelerator.py:254:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-10-21 21:49:39,013] [INFO] [logging.py:107:log_dist] [Rank -1] [TorchCheckpointEngine] Initialized with serialization = False
+[2025-10-21 21:49:39,024] [INFO] [logging.py:107:log_dist] [Rank -1] [TorchCheckpointEngine] Initialized with serialization = False
+[2025-10-21 21:49:39,031] [INFO] [logging.py:107:log_dist] [Rank -1] [TorchCheckpointEngine] Initialized with serialization = False
+[2025-10-21 21:49:39,033] [INFO] [logging.py:107:log_dist] [Rank -1] [TorchCheckpointEngine] Initialized with serialization = False
+Using integrations.HfDeepSpeedConfig (new API)
+Using integrations.HfDeepSpeedConfig (new API)
+Using integrations.HfDeepSpeedConfig (new API)
+Using integrations.HfDeepSpeedConfig (new API)
+/data1/TAP/model_exp_2b/1020_ScienceQA_ours_parameters_test_epoch1_random_1000/parameters_import_new_2/top0.001
+/data1/TAP/model_exp_2b/1020_ScienceQA_ours_parameters_test_epoch1_random_1000/parameters_import_new_2/top0.001
+/data1/TAP/model_exp_2b/1020_ScienceQA_ours_parameters_test_epoch1_random_1000/parameters_import_new_2/top0.001
+/data1/TAP/model_exp_2b/1020_ScienceQA_ours_parameters_test_epoch1_random_1000/parameters_import_new_2/top0.001
+[2025-10-21 21:49:40,186] [INFO] [comm.py:675:init_distributed] cdb=None
+[2025-10-21 21:49:40,186] [INFO] [comm.py:706:init_distributed] Initializing TorchBackend in DeepSpeed with backend nccl
+[2025-10-21 21:49:40,404] [INFO] [comm.py:675:init_distributed] cdb=None
+[2025-10-21 21:49:40,420] [INFO] [comm.py:675:init_distributed] cdb=None
+[2025-10-21 21:49:40,428] [INFO] [comm.py:675:init_distributed] cdb=None
+ninja: no work to do.
+Time to load cpu_adam op: 2.3510663509368896 seconds
+Adam Optimizer #0 is created with AVX512 arithmetic capability.
+Config: alpha=0.000010, betas=(0.900000, 0.950000), weight_decay=0.000000, adam_w=1
+[2025-10-21 21:52:27,807] [INFO] [config.py:655:__init__] Config mesh_device None world_size = 4
+ninja: no work to do.
+Time to load cpu_adam op: 2.346017837524414 seconds
+Adam Optimizer #0 is created with AVX512 arithmetic capability.
+Config: alpha=0.000010, betas=(0.900000, 0.950000), weight_decay=0.000000, adam_w=1
+[2025-10-21 21:52:27,862] [INFO] [config.py:655:__init__] Config mesh_device None world_size = 4
+ninja: no work to do.
+Time to load cpu_adam op: 2.4455599784851074 seconds
+Adam Optimizer #0 is created with AVX512 arithmetic capability.
+Config: alpha=0.000010, betas=(0.900000, 0.950000), weight_decay=0.000000, adam_w=1
+[2025-10-21 21:52:27,962] [INFO] [config.py:655:__init__] Config mesh_device None world_size = 4
+Time to load cpu_adam op: 2.5410397052764893 seconds
+Adam Optimizer #0 is created with AVX512 arithmetic capability.
+Config: alpha=0.000010, betas=(0.900000, 0.950000), weight_decay=0.000000, adam_w=1
+[2025-10-21 21:52:28,056] [INFO] [logging.py:107:log_dist] [Rank 0] DeepSpeed info: version=0.17.1, git-hash=unknown, git-branch=unknown
+[2025-10-21 21:52:28,057] [INFO] [comm.py:700:init_distributed] Distributed backend already initialized
+[2025-10-21 21:52:28,057] [INFO] [config.py:655:__init__] Config mesh_device None world_size = 4
+[2025-10-21 21:52:30,511] [INFO] [engine.py:1325:_configure_distributed_model] ********** distributed groups summary **********
+	 self.dp_world_size=4
+	 self.mp_world_size=1
+	 self.seq_dp_world_size=4
+	 self.sequence_parallel_size=1
+***********************************************
+[2025-10-21 21:52:35,519] [INFO] [logging.py:107:log_dist] [Rank 0] DeepSpeed Flops Profiler Enabled: False
+[2025-10-21 21:52:35,521] [INFO] [logging.py:107:log_dist] [Rank 0] Using client Optimizer as basic optimizer
+[2025-10-21 21:52:35,521] [INFO] [logging.py:107:log_dist] [Rank 0] Removing param_group that has no 'params' in the basic Optimizer
+[2025-10-21 21:52:35,545] [INFO] [logging.py:107:log_dist] [Rank 0] DeepSpeed Basic Optimizer = DeepSpeedCPUAdam
+[2025-10-21 21:52:35,546] [INFO] [utils.py:59:is_zero_supported_optimizer] Checking ZeRO support for optimizer=DeepSpeedCPUAdam type=<class 'deepspeed.ops.adam.cpu_adam.DeepSpeedCPUAdam'>
+[2025-10-21 21:52:35,546] [INFO] [logging.py:107:log_dist] [Rank 0] Creating torch.float32 ZeRO stage 2 optimizer
+[2025-10-21 21:52:35,546] [INFO] [stage_1_and_2.py:151:__init__] Reduce bucket size 500000000
+[2025-10-21 21:52:35,546] [INFO] [stage_1_and_2.py:152:__init__] Allgather bucket size 500000000
+[2025-10-21 21:52:35,546] [INFO] [stage_1_and_2.py:153:__init__] CPU Offload: True
+[2025-10-21 21:52:35,546] [INFO] [stage_1_and_2.py:154:__init__] Round robin gradient partitioning: False
+[2025-10-21 21:52:45,767] [INFO] [utils.py:781:see_memory_usage] Before initializing optimizer states
+[2025-10-21 21:52:45,768] [INFO] [utils.py:782:see_memory_usage] MA 4.91 GB         Max_MA 4.91 GB         CA 4.91 GB         Max_CA 5 GB 
+[2025-10-21 21:52:45,768] [INFO] [utils.py:789:see_memory_usage] CPU Virtual Memory:  used = 60.64 GB, percent = 6.0%
+[2025-10-21 21:52:46,040] [INFO] [utils.py:781:see_memory_usage] After initializing optimizer states
+[2025-10-21 21:52:46,041] [INFO] [utils.py:782:see_memory_usage] MA 4.91 GB         Max_MA 4.91 GB         CA 4.91 GB         Max_CA 5 GB 
+[2025-10-21 21:52:46,041] [INFO] [utils.py:789:see_memory_usage] CPU Virtual Memory:  used = 62.39 GB, percent = 6.2%
+[2025-10-21 21:52:46,041] [INFO] [stage_1_and_2.py:573:__init__] optimizer state initialized
+[2025-10-21 21:52:46,205] [INFO] [utils.py:781:see_memory_usage] After initializing ZeRO optimizer
+[2025-10-21 21:52:46,206] [INFO] [utils.py:782:see_memory_usage] MA 4.91 GB         Max_MA 4.91 GB         CA 4.91 GB         Max_CA 5 GB 
+[2025-10-21 21:52:46,206] [INFO] [utils.py:789:see_memory_usage] CPU Virtual Memory:  used = 62.38 GB, percent = 6.2%
+[2025-10-21 21:52:46,208] [INFO] [logging.py:107:log_dist] [Rank 0] DeepSpeed Final Optimizer = DeepSpeedZeroOptimizer
+[2025-10-21 21:52:46,208] [INFO] [logging.py:107:log_dist] [Rank 0] DeepSpeed using client LR scheduler
+[2025-10-21 21:52:46,208] [INFO] [logging.py:107:log_dist] [Rank 0] DeepSpeed LR Scheduler = <torch.optim.lr_scheduler.LambdaLR object at 0x71ac405b5840>
+[2025-10-21 21:52:46,208] [INFO] [logging.py:107:log_dist] [Rank 0] step=0, skipped=0, lr=[1e-05], mom=[(0.9, 0.95)]
+[2025-10-21 21:52:46,209] [INFO] [logging.py:107:log_dist] [Rank 0] [TorchCheckpointEngine] Initialized with serialization = True
+[2025-10-21 21:52:46,209] [INFO] [config.py:921:print] DeepSpeedEngine configuration:
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   activation_checkpointing_config  {
+    "partition_activations": false, 
+    "contiguous_memory_optimization": false, 
+    "cpu_checkpointing": false, 
+    "number_checkpoints": null, 
+    "synchronize_checkpoint_boundary": false, 
+    "profile": false
+}
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   aio_config ................... {'block_size': 1048576, 'queue_depth': 8, 'intra_op_parallelism': 1, 'single_submit': False, 'overlap_events': True, 'use_gds': False}
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   amp_enabled .................. False
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   amp_params ................... False
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   autotuning_config ............ {
+    "enabled": false, 
+    "start_step": null, 
+    "end_step": null, 
+    "metric_path": null, 
+    "arg_mappings": null, 
+    "metric": "throughput", 
+    "model_info": null, 
+    "results_dir": "autotuning_results", 
+    "exps_dir": "autotuning_exps", 
+    "overwrite": true, 
+    "fast": true, 
+    "start_profile_step": 3, 
+    "end_profile_step": 5, 
+    "tuner_type": "gridsearch", 
+    "tuner_early_stopping": 5, 
+    "tuner_num_trials": 50, 
+    "model_info_path": null, 
+    "mp_size": 1, 
+    "max_train_batch_size": null, 
+    "min_train_batch_size": 1, 
+    "max_train_micro_batch_size_per_gpu": 1.024000e+03, 
+    "min_train_micro_batch_size_per_gpu": 1, 
+    "num_tuning_micro_batch_sizes": 3
+}
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   bfloat16_config .............. enabled=False immediate_grad_update=False check_grad_overflow=False
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   checkpoint_config ............ {'tag_validation': 'WARN', 'checkpoint_serialization': True, 'writer': None}
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   checkpoint_parallel_write_pipeline  False
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   checkpoint_tag_validation_enabled  True
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   checkpoint_tag_validation_fail  False
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   comms_config ................. <deepspeed.comm.config.DeepSpeedCommsConfig object at 0x71ac405b4130>
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   communication_data_type ...... None
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   compile_config ............... deepcompile=False free_activation=False offload_activation=False offload_opt_states=False double_buffer=True symmetric_memory=False debug_log=False offload_parameters=False sync_before_reduce=False sync_after_reduce=False sync_before_allgather=False sync_after_allgather=False
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   compression_config ........... {'weight_quantization': {'shared_parameters': {'enabled': False, 'quantizer_kernel': False, 'schedule_offset': 0, 'quantize_groups': 1, 'quantize_verbose': False, 'quantization_type': 'symmetric', 'quantize_weight_in_forward': False, 'rounding': 'nearest', 'fp16_mixed_quantize': False, 'quantize_change_ratio': 0.001}, 'different_groups': {}}, 'activation_quantization': {'shared_parameters': {'enabled': False, 'quantization_type': 'symmetric', 'range_calibration': 'dynamic', 'schedule_offset': 1000}, 'different_groups': {}}, 'sparse_pruning': {'shared_parameters': {'enabled': False, 'method': 'l1', 'schedule_offset': 1000}, 'different_groups': {}}, 'row_pruning': {'shared_parameters': {'enabled': False, 'method': 'l1', 'schedule_offset': 1000}, 'different_groups': {}}, 'head_pruning': {'shared_parameters': {'enabled': False, 'method': 'topk', 'schedule_offset': 1000}, 'different_groups': {}}, 'channel_pruning': {'shared_parameters': {'enabled': False, 'method': 'l1', 'schedule_offset': 1000}, 'different_groups': {}}, 'layer_reduction': {'enabled': False}}
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   curriculum_enabled_legacy .... False
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   curriculum_params_legacy ..... False
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   data_efficiency_config ....... {'enabled': False, 'seed': 1234, 'data_sampling': {'enabled': False, 'num_epochs': 1000, 'num_workers': 0, 'pin_memory': False, 'curriculum_learning': {'enabled': False}, 'dynamic_batching': {'enabled': False, 'lr_scaling_method': 'linear', 'min_batch_size': 1, 'max_batch_size': None, 'sequence_picking_order': 'dataloader', 'verbose': False}}, 'data_routing': {'enabled': False, 'random_ltd': {'enabled': False, 'layer_token_lr_schedule': {'enabled': False}}}}
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   data_efficiency_enabled ...... False
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   dataloader_drop_last ......... False
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   disable_allgather ............ False
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   dump_state ................... False
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   eigenvalue_enabled ........... False
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   eigenvalue_gas_boundary_resolution  1
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   eigenvalue_layer_name ........ bert.encoder.layer
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   eigenvalue_layer_num ......... 0
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   eigenvalue_max_iter .......... 100
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   eigenvalue_stability ......... 1e-06
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   eigenvalue_tol ............... 0.01
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   eigenvalue_verbose ........... False
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   elasticity_enabled ........... False
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   float16_config ............... enabled=False auto_cast=False loss_scale=0.0 initial_scale_power=16 loss_scale_window=1000 hysteresis=2 consecutive_hysteresis=False min_loss_scale=1 fp16_master_weights_and_grads=False
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   flops_profiler_config ........ {
+    "enabled": false, 
+    "recompute_fwd_factor": 0.0, 
+    "profile_step": 1, 
+    "module_depth": -1, 
+    "top_modules": 1, 
+    "detailed": true, 
+    "output_file": null
+}
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   global_rank .................. 0
+[2025-10-21 21:52:46,210] [INFO] [config.py:925:print]   grad_accum_dtype ............. None
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   gradient_accumulation_steps .. 8
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   gradient_clipping ............ 1.0
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   gradient_predivide_factor .... 1.0
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   graph_harvesting ............. False
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   hybrid_engine ................ enabled=False max_out_tokens=512 inference_tp_size=1 release_inference_cache=False pin_parameters=True tp_gather_partition_size=8
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   load_universal_checkpoint .... False
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   memory_breakdown ............. False
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   mics_hierarchial_params_gather  False
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   mics_shard_size .............. -1
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   monitor_config ............... tensorboard=TensorBoardConfig(enabled=True, output_path='/data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001/log//ds_tensorboard_logs/', job_name='v2_sft_tensorboard') comet=CometConfig(enabled=False, samples_log_interval=100, project=None, workspace=None, api_key=None, experiment_name=None, experiment_key=None, online=None, mode=None) wandb=WandbConfig(enabled=False, group=None, team=None, project='deepspeed') csv_monitor=CSVConfig(enabled=False, output_path='', job_name='DeepSpeedJobName')
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   nebula_config ................ {
+    "enabled": false, 
+    "persistent_storage_path": null, 
+    "persistent_time_interval": 100, 
+    "num_of_version_in_retention": 2, 
+    "enable_nebula_load": true, 
+    "load_path": null
+}
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   optimizer_legacy_fusion ...... False
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   optimizer_name ............... None
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   optimizer_params ............. None
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   pipeline ..................... {'stages': 'auto', 'partition': 'best', 'seed_layers': False, 'activation_checkpoint_interval': 0, 'pipe_partitioned': True, 'grad_partitioned': True}
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   pld_enabled .................. False
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   pld_params ................... False
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   prescale_gradients ........... False
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   scheduler_name ............... None
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   scheduler_params ............. None
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   seq_parallel_communication_data_type  torch.float32
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   sparse_attention ............. None
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   sparse_gradients_enabled ..... False
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   steps_per_print .............. 10
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   tensor_parallel_config ....... dtype=torch.float16 autotp_size=0 tp_overlap_comm=False tensor_parallel=TPConfig(tp_size=1, tp_grain_size=1, mpu=None, tp_group=None) injection_policy_tuple=None keep_module_on_host=False replace_with_kernel_inject=False
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   timers_config ................ enabled=True synchronized=True
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   train_batch_size ............. 64
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   train_micro_batch_size_per_gpu  2
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   use_data_before_expert_parallel_  False
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   use_node_local_storage ....... False
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   wall_clock_breakdown ......... False
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   weight_quantization_config ... None
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   world_size ................... 4
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   zero_allow_untested_optimizer  False
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   zero_config .................. stage=2 contiguous_gradients=True reduce_scatter=True reduce_bucket_size=500000000 use_multi_rank_bucket_allreduce=True allgather_partitions=True allgather_bucket_size=500000000 overlap_comm=False load_from_fp32_weights=True elastic_checkpoint=False offload_param=DeepSpeedZeroOffloadParamConfig(device='cpu', nvme_path=None, buffer_count=5, buffer_size=100000000, max_in_cpu=1000000000, pin_memory=False) offload_optimizer=DeepSpeedZeroOffloadOptimizerConfig(device='cpu', nvme_path=None, buffer_count=4, pin_memory=False, pipeline_read=False, pipeline_write=False, fast_init=False, ratio=1.0) sub_group_size=1000000000 cpu_offload_param=None cpu_offload_use_pin_memory=None cpu_offload=None prefetch_bucket_size=30000000 param_persistence_threshold=10000 model_persistence_threshold=9223372036854775807 max_live_parameters=30000000 max_reuse_distance=1000000000 gather_16bit_weights_on_model_save=False module_granularity_threshold=0 use_all_reduce_for_fetch_params=False stage3_gather_fp16_weights_on_model_save=False ignore_unused_parameters=True legacy_stage1=False round_robin_gradients=False zero_hpz_partition_size=1 zero_quantized_weights=False zero_quantized_nontrainable_weights=False zero_quantized_gradients=False zeropp_loco_param=None mics_shard_size=-1 mics_hierarchical_params_gather=False memory_efficient_linear=False pipeline_loading_checkpoint=False override_module_apply=True log_trace_cache_warnings=False
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   zero_enabled ................. True
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   zero_force_ds_cpu_optimizer .. True
+[2025-10-21 21:52:46,211] [INFO] [config.py:925:print]   zero_optimization_stage ...... 2
+[2025-10-21 21:52:46,211] [INFO] [config.py:911:print_user_config]   json = {
+    "train_batch_size": 64, 
+    "train_micro_batch_size_per_gpu": 2, 
+    "steps_per_print": 10, 
+    "zero_optimization": {
+        "stage": 2, 
+        "offload_param": {
+            "device": "cpu"
+        }, 
+        "offload_optimizer": {
+            "device": "cpu"
+        }, 
+        "stage3_param_persistence_threshold": 1.000000e+04, 
+        "stage3_max_live_parameters": 3.000000e+07, 
+        "stage3_prefetch_bucket_size": 3.000000e+07, 
+        "memory_efficient_linear": false
+    }, 
+    "bfloat16": {
+        "enabled": "auto"
+    }, 
+    "gradient_clipping": 1.0, 
+    "prescale_gradients": false, 
+    "wall_clock_breakdown": false, 
+    "hybrid_engine": {
+        "enabled": false, 
+        "max_out_tokens": 512, 
+        "inference_tp_size": 1, 
+        "release_inference_cache": false, 
+        "pin_parameters": true, 
+        "tp_gather_partition_size": 8
+    }, 
+    "tensorboard": {
+        "enabled": true, 
+        "output_path": "/data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001/log//ds_tensorboard_logs/", 
+        "job_name": "v2_sft_tensorboard"
+    }
+}
+***** Running training *****
+Beginning of Epoch 1/5, Total Micro Batches 125
+***** Evaluating perplexity, Epoch 1/5, step 0.0 *****
+[eval loss, ppl] step:0.0, 	loss: 1.664658784866333, 	ppl: 5.294064521789551
+[eval_CSTANCE loss, ppl] step:0.0, 	loss: 0.3968259394168854, 	ppl: 1.542842984199524
+[eval_20Minuten loss, ppl] step:0.0, 	loss: 1.9060240983963013, 	ppl: 7.116612434387207
+[eval_FOMC loss, ppl] step:0.0, 	loss: 0.5160034894943237, 	ppl: 1.504992961883545
+[eval_NumGLUEcm loss, ppl] step:0.0, 	loss: 2.234096050262451, 	ppl: 8.93277359008789
+[eval_ScienceQA loss, ppl] step:0.0, 	loss: 1.6273142099380493, 	ppl: 5.258644104003906
+[eval_NumGLUEds loss, ppl] step:0.0, 	loss: 2.852001905441284, 	ppl: 21.27478790283203
+[eval_Py150 loss, ppl] step:0.0, 	loss: 2.943221092224121, 	ppl: 17.581890106201172
+[eval_MeetingBank loss, ppl] step:0.0, 	loss: 1.5493725538253784, 	ppl: 4.475993633270264
+***** Evaluating perplexity, Epoch 1/5, step 1.0 *****
+[eval loss, ppl] step:1.0, 	loss: 1.6023997068405151, 	ppl: 4.937323570251465
+[eval_CSTANCE loss, ppl] step:1.0, 	loss: 0.40221431851387024, 	ppl: 1.542853832244873
+[eval_20Minuten loss, ppl] step:1.0, 	loss: 1.8945600986480713, 	ppl: 7.054363250732422
+[eval_FOMC loss, ppl] step:1.0, 	loss: 0.5193257331848145, 	ppl: 1.5105310678482056
+[eval_NumGLUEcm loss, ppl] step:1.0, 	loss: 2.390913963317871, 	ppl: 10.710098266601562
+[eval_ScienceQA loss, ppl] step:1.0, 	loss: 1.571282982826233, 	ppl: 4.942988872528076
+[eval_NumGLUEds loss, ppl] step:1.0, 	loss: 3.087959051132202, 	ppl: 25.693626403808594
+[eval_Py150 loss, ppl] step:1.0, 	loss: 2.964498996734619, 	ppl: 18.0971736907959
+[eval_MeetingBank loss, ppl] step:1.0, 	loss: 1.5505999326705933, 	ppl: 4.4874773025512695
+***** Evaluating perplexity, Epoch 1/5, step 2.0 *****
+[eval loss, ppl] step:2.0, 	loss: 1.5447264909744263, 	ppl: 4.636103630065918
+[eval_CSTANCE loss, ppl] step:2.0, 	loss: 0.39555975794792175, 	ppl: 1.534998893737793
+[eval_20Minuten loss, ppl] step:2.0, 	loss: 1.8866496086120605, 	ppl: 6.987246036529541
+[eval_FOMC loss, ppl] step:2.0, 	loss: 0.5274859666824341, 	ppl: 1.5151774883270264
+[eval_NumGLUEcm loss, ppl] step:2.0, 	loss: 2.7005233764648438, 	ppl: 14.87760066986084
+[eval_ScienceQA loss, ppl] step:2.0, 	loss: 1.5151852369308472, 	ppl: 4.661227703094482
+[eval_NumGLUEds loss, ppl] step:2.0, 	loss: 3.4290246963500977, 	ppl: 33.91288375854492
+[eval_Py150 loss, ppl] step:2.0, 	loss: 3.007038116455078, 	ppl: 18.917722702026367
+[eval_MeetingBank loss, ppl] step:2.0, 	loss: 1.5553498268127441, 	ppl: 4.505175590515137
+***** Evaluating perplexity, Epoch 1/5, step 3.0 *****
+[eval loss, ppl] step:3.0, 	loss: 1.5167030096054077, 	ppl: 4.511472702026367
+[eval_CSTANCE loss, ppl] step:3.0, 	loss: 0.3989349901676178, 	ppl: 1.530367136001587
+[eval_20Minuten loss, ppl] step:3.0, 	loss: 1.8858330249786377, 	ppl: 6.966434001922607
+[eval_FOMC loss, ppl] step:3.0, 	loss: 0.5248739719390869, 	ppl: 1.510988473892212
+[eval_NumGLUEcm loss, ppl] step:3.0, 	loss: 2.8829588890075684, 	ppl: 19.003643035888672
+[eval_ScienceQA loss, ppl] step:3.0, 	loss: 1.4880919456481934, 	ppl: 4.525879859924316
+[eval_NumGLUEds loss, ppl] step:3.0, 	loss: 3.661808729171753, 	ppl: 40.55331039428711
+[eval_Py150 loss, ppl] step:3.0, 	loss: 3.0292253494262695, 	ppl: 19.315305709838867
+[eval_MeetingBank loss, ppl] step:3.0, 	loss: 1.5569758415222168, 	ppl: 4.516173362731934
+***** Evaluating perplexity, Epoch 1/5, step 4.0 *****
+[eval loss, ppl] step:4.0, 	loss: 1.4871387481689453, 	ppl: 4.393290042877197
+[eval_CSTANCE loss, ppl] step:4.0, 	loss: 0.39019402861595154, 	ppl: 1.5175727605819702
+[eval_20Minuten loss, ppl] step:4.0, 	loss: 1.8813040256500244, 	ppl: 6.9497833251953125
+[eval_FOMC loss, ppl] step:4.0, 	loss: 0.5378982424736023, 	ppl: 1.5238527059555054
+[eval_NumGLUEcm loss, ppl] step:4.0, 	loss: 3.2035186290740967, 	ppl: 27.814374923706055
+[eval_ScienceQA loss, ppl] step:4.0, 	loss: 1.4598206281661987, 	ppl: 4.382627964019775
+[eval_NumGLUEds loss, ppl] step:4.0, 	loss: 4.010781288146973, 	ppl: 54.75095748901367
+[eval_Py150 loss, ppl] step:4.0, 	loss: 3.048969030380249, 	ppl: 19.816333770751953
+[eval_MeetingBank loss, ppl] step:4.0, 	loss: 1.5655975341796875, 	ppl: 4.551783561706543
+***** Evaluating perplexity, Epoch 1/5, step 5.0 *****
+[eval loss, ppl] step:5.0, 	loss: 1.4663268327713013, 	ppl: 4.3112382888793945
+[eval_CSTANCE loss, ppl] step:5.0, 	loss: 0.3964847922325134, 	ppl: 1.5196751356124878
+[eval_20Minuten loss, ppl] step:5.0, 	loss: 1.880705714225769, 	ppl: 6.943174362182617
+[eval_FOMC loss, ppl] step:5.0, 	loss: 0.542746365070343, 	ppl: 1.5239970684051514
+[eval_NumGLUEcm loss, ppl] step:5.0, 	loss: 3.394505262374878, 	ppl: 34.250877380371094
+[eval_ScienceQA loss, ppl] step:5.0, 	loss: 1.4385417699813843, 	ppl: 4.282010555267334
+[eval_NumGLUEds loss, ppl] step:5.0, 	loss: 4.209375858306885, 	ppl: 64.44174194335938
+[eval_Py150 loss, ppl] step:5.0, 	loss: 3.0636227130889893, 	ppl: 20.062950134277344
+[eval_MeetingBank loss, ppl] step:5.0, 	loss: 1.5722055435180664, 	ppl: 4.581977367401123
+***** Evaluating perplexity, Epoch 1/5, step 6.0 *****
+[eval loss, ppl] step:6.0, 	loss: 1.4505410194396973, 	ppl: 4.250458717346191
+[eval_CSTANCE loss, ppl] step:6.0, 	loss: 0.40518245100975037, 	ppl: 1.5301035642623901
+[eval_20Minuten loss, ppl] step:6.0, 	loss: 1.8794571161270142, 	ppl: 6.941777229309082
+[eval_FOMC loss, ppl] step:6.0, 	loss: 0.5510686635971069, 	ppl: 1.5375949144363403
+[eval_NumGLUEcm loss, ppl] step:6.0, 	loss: 3.5550107955932617, 	ppl: 40.862060546875
+[eval_ScienceQA loss, ppl] step:6.0, 	loss: 1.42156183719635, 	ppl: 4.204672813415527
+[eval_NumGLUEds loss, ppl] step:6.0, 	loss: 4.353347301483154, 	ppl: 73.32494354248047
+[eval_Py150 loss, ppl] step:6.0, 	loss: 3.0770082473754883, 	ppl: 20.289207458496094
+[eval_MeetingBank loss, ppl] step:6.0, 	loss: 1.5729947090148926, 	ppl: 4.597548484802246
+***** Evaluating perplexity, Epoch 1/5, step 7.0 *****
+[eval loss, ppl] step:7.0, 	loss: 1.4370218515396118, 	ppl: 4.195083141326904
+[eval_CSTANCE loss, ppl] step:7.0, 	loss: 0.411600261926651, 	ppl: 1.5351284742355347
+[eval_20Minuten loss, ppl] step:7.0, 	loss: 1.878503680229187, 	ppl: 6.932215690612793
+[eval_FOMC loss, ppl] step:7.0, 	loss: 0.5651548504829407, 	ppl: 1.5521796941757202
+[eval_NumGLUEcm loss, ppl] step:7.0, 	loss: 3.6333084106445312, 	ppl: 44.244773864746094
+[eval_ScienceQA loss, ppl] step:7.0, 	loss: 1.407297968864441, 	ppl: 4.1457672119140625
+[eval_NumGLUEds loss, ppl] step:7.0, 	loss: 4.4307708740234375, 	ppl: 77.54359436035156
+[eval_Py150 loss, ppl] step:7.0, 	loss: 3.0743744373321533, 	ppl: 20.310596466064453
+[eval_MeetingBank loss, ppl] step:7.0, 	loss: 1.5790141820907593, 	ppl: 4.616612434387207
+***** Evaluating perplexity, Epoch 1/5, step 8.0 *****
+[eval loss, ppl] step:8.0, 	loss: 1.4229099750518799, 	ppl: 4.139358043670654
+[eval_CSTANCE loss, ppl] step:8.0, 	loss: 0.4176532030105591, 	ppl: 1.5395244359970093
+[eval_20Minuten loss, ppl] step:8.0, 	loss: 1.8791354894638062, 	ppl: 6.928063869476318
+[eval_FOMC loss, ppl] step:8.0, 	loss: 0.5660856366157532, 	ppl: 1.5539579391479492
+[eval_NumGLUEcm loss, ppl] step:8.0, 	loss: 3.675078868865967, 	ppl: 46.87196350097656
+[eval_ScienceQA loss, ppl] step:8.0, 	loss: 1.3934111595153809, 	ppl: 4.084719657897949
+[eval_NumGLUEds loss, ppl] step:8.0, 	loss: 4.450717926025391, 	ppl: 79.86327362060547
+[eval_Py150 loss, ppl] step:8.0, 	loss: 3.0790939331054688, 	ppl: 20.263412475585938
+[eval_MeetingBank loss, ppl] step:8.0, 	loss: 1.5811820030212402, 	ppl: 4.632938385009766
+***** Evaluating perplexity, Epoch 1/5, step 9.0 *****
+[eval loss, ppl] step:9.0, 	loss: 1.4094008207321167, 	ppl: 4.084212303161621
+[eval_CSTANCE loss, ppl] step:9.0, 	loss: 0.4329952597618103, 	ppl: 1.5540739297866821
+[eval_20Minuten loss, ppl] step:9.0, 	loss: 1.8789560794830322, 	ppl: 6.927724838256836
+[eval_FOMC loss, ppl] step:9.0, 	loss: 0.5736005902290344, 	ppl: 1.5604037046432495
+[eval_NumGLUEcm loss, ppl] step:9.0, 	loss: 3.713754177093506, 	ppl: 49.41082763671875
+[eval_ScienceQA loss, ppl] step:9.0, 	loss: 1.3783823251724243, 	ppl: 4.02296257019043
+[eval_NumGLUEds loss, ppl] step:9.0, 	loss: 4.486837863922119, 	ppl: 80.21473693847656
+[eval_Py150 loss, ppl] step:9.0, 	loss: 3.0745530128479004, 	ppl: 20.16765594482422
+[eval_MeetingBank loss, ppl] step:9.0, 	loss: 1.5834317207336426, 	ppl: 4.645797252655029
+[2025-10-21 21:58:53,382] [INFO] [logging.py:107:log_dist] [Rank 0] step=10, skipped=0, lr=[1e-05], mom=[(0.9, 0.95)]
+[2025-10-21 21:58:53,592] [INFO] [timer.py:264:stop] epoch=0/micro_step=80/global_step=10, RunningAvgSamplesPerSec=4.679004966622383, CurrSamplesPerSec=4.673455323514714, MemAllocated=9.86GB, MaxMemAllocated=26.87GB
+***** Evaluating perplexity, Epoch 1/5, step 10.0 *****
+[eval loss, ppl] step:10.0, 	loss: 1.3961526155471802, 	ppl: 4.03343391418457
+[eval_CSTANCE loss, ppl] step:10.0, 	loss: 0.4281173348426819, 	ppl: 1.5496057271957397
+[eval_20Minuten loss, ppl] step:10.0, 	loss: 1.8785300254821777, 	ppl: 6.919741630554199
+[eval_FOMC loss, ppl] step:10.0, 	loss: 0.5765583515167236, 	ppl: 1.5639785528182983
+[eval_NumGLUEcm loss, ppl] step:10.0, 	loss: 3.6959705352783203, 	ppl: 48.96923828125
+[eval_ScienceQA loss, ppl] step:10.0, 	loss: 1.3644343614578247, 	ppl: 3.963843584060669
+[eval_NumGLUEds loss, ppl] step:10.0, 	loss: 4.488095283508301, 	ppl: 80.7198486328125
+[eval_Py150 loss, ppl] step:10.0, 	loss: 3.0673980712890625, 	ppl: 20.077041625976562
+[eval_MeetingBank loss, ppl] step:10.0, 	loss: 1.5863327980041504, 	ppl: 4.650648593902588
+***** Evaluating perplexity, Epoch 1/5, step 11.0 *****
+[eval loss, ppl] step:11.0, 	loss: 1.3841760158538818, 	ppl: 3.9867939949035645
+[eval_CSTANCE loss, ppl] step:11.0, 	loss: 0.4281928241252899, 	ppl: 1.5582143068313599
+[eval_20Minuten loss, ppl] step:11.0, 	loss: 1.8781664371490479, 	ppl: 6.929905414581299
+[eval_FOMC loss, ppl] step:11.0, 	loss: 0.574682354927063, 	ppl: 1.5590872764587402
+[eval_NumGLUEcm loss, ppl] step:11.0, 	loss: 3.722675085067749, 	ppl: 49.69926834106445
+[eval_ScienceQA loss, ppl] step:11.0, 	loss: 1.3510509729385376, 	ppl: 3.9096384048461914
+[eval_NumGLUEds loss, ppl] step:11.0, 	loss: 4.481940269470215, 	ppl: 78.9704360961914
+[eval_Py150 loss, ppl] step:11.0, 	loss: 3.0549325942993164, 	ppl: 19.849267959594727
+[eval_MeetingBank loss, ppl] step:11.0, 	loss: 1.5891066789627075, 	ppl: 4.663200855255127
+***** Evaluating perplexity, Epoch 1/5, step 12.0 *****
+[eval loss, ppl] step:12.0, 	loss: 1.3717840909957886, 	ppl: 3.9407668113708496
+[eval_CSTANCE loss, ppl] step:12.0, 	loss: 0.43228378891944885, 	ppl: 1.5537109375
+[eval_20Minuten loss, ppl] step:12.0, 	loss: 1.8782598972320557, 	ppl: 6.924195289611816
+[eval_FOMC loss, ppl] step:12.0, 	loss: 0.5792708396911621, 	ppl: 1.5634113550186157
+[eval_NumGLUEcm loss, ppl] step:12.0, 	loss: 3.6859302520751953, 	ppl: 48.891239166259766
+[eval_ScienceQA loss, ppl] step:12.0, 	loss: 1.338777780532837, 	ppl: 3.8566410541534424
+[eval_NumGLUEds loss, ppl] step:12.0, 	loss: 4.4688029289245605, 	ppl: 77.79310607910156
+[eval_Py150 loss, ppl] step:12.0, 	loss: 3.0538113117218018, 	ppl: 19.70379066467285
+[eval_MeetingBank loss, ppl] step:12.0, 	loss: 1.5911011695861816, 	ppl: 4.666135311126709
+***** Evaluating perplexity, Epoch 1/5, step 13.0 *****
+[eval loss, ppl] step:13.0, 	loss: 1.3606666326522827, 	ppl: 3.8998403549194336
+[eval_CSTANCE loss, ppl] step:13.0, 	loss: 0.4373004138469696, 	ppl: 1.5586403608322144
+[eval_20Minuten loss, ppl] step:13.0, 	loss: 1.8801292181015015, 	ppl: 6.931793212890625
+[eval_FOMC loss, ppl] step:13.0, 	loss: 0.5686233043670654, 	ppl: 1.5586224794387817
+[eval_NumGLUEcm loss, ppl] step:13.0, 	loss: 3.6564061641693115, 	ppl: 47.626976013183594
+[eval_ScienceQA loss, ppl] step:13.0, 	loss: 1.3279813528060913, 	ppl: 3.813390016555786
+[eval_NumGLUEds loss, ppl] step:13.0, 	loss: 4.441298007965088, 	ppl: 75.50535583496094
+[eval_Py150 loss, ppl] step:13.0, 	loss: 3.044389486312866, 	ppl: 19.441585540771484
+[eval_MeetingBank loss, ppl] step:13.0, 	loss: 1.5920655727386475, 	ppl: 4.670714378356934
+***** Evaluating perplexity, Epoch 1/5, step 14.0 *****
+[eval loss, ppl] step:14.0, 	loss: 1.3502402305603027, 	ppl: 3.861539840698242
+[eval_CSTANCE loss, ppl] step:14.0, 	loss: 0.43345141410827637, 	ppl: 1.5641489028930664
+[eval_20Minuten loss, ppl] step:14.0, 	loss: 1.880528211593628, 	ppl: 6.940835475921631
+[eval_FOMC loss, ppl] step:14.0, 	loss: 0.5545260310173035, 	ppl: 1.5483338832855225
+[eval_NumGLUEcm loss, ppl] step:14.0, 	loss: 3.620593786239624, 	ppl: 45.90531921386719
+[eval_ScienceQA loss, ppl] step:14.0, 	loss: 1.3195455074310303, 	ppl: 3.776515007019043
+[eval_NumGLUEds loss, ppl] step:14.0, 	loss: 4.402058124542236, 	ppl: 72.46833038330078
+[eval_Py150 loss, ppl] step:14.0, 	loss: 3.036200523376465, 	ppl: 19.277196884155273
+[eval_MeetingBank loss, ppl] step:14.0, 	loss: 1.5923027992248535, 	ppl: 4.678701400756836
+saving model to /data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001/1...
+Sucessful saving model after epoch 1
+Beginning of Epoch 2/5, Total Micro Batches 125
+***** Evaluating perplexity, Epoch 2/5, step 0.0 *****
+[eval loss, ppl] step:15.625, 	loss: 1.330288052558899, 	ppl: 3.7878150939941406
+[eval_CSTANCE loss, ppl] step:15.625, 	loss: 0.4287719130516052, 	ppl: 1.5621684789657593
+[eval_20Minuten loss, ppl] step:15.625, 	loss: 1.8809295892715454, 	ppl: 6.959717750549316
+[eval_FOMC loss, ppl] step:15.625, 	loss: 0.5575163960456848, 	ppl: 1.5439330339431763
+[eval_NumGLUEcm loss, ppl] step:15.625, 	loss: 3.5409889221191406, 	ppl: 42.89678192138672
+[eval_ScienceQA loss, ppl] step:15.625, 	loss: 1.300446629524231, 	ppl: 3.6973206996917725
+[eval_NumGLUEds loss, ppl] step:15.625, 	loss: 4.338245391845703, 	ppl: 67.93463134765625
+[eval_Py150 loss, ppl] step:15.625, 	loss: 3.010207414627075, 	ppl: 18.887317657470703
+[eval_MeetingBank loss, ppl] step:15.625, 	loss: 1.594913125038147, 	ppl: 4.6838812828063965
+***** Evaluating perplexity, Epoch 2/5, step 1.0 *****
+[eval loss, ppl] step:16.625, 	loss: 1.3210504055023193, 	ppl: 3.7535316944122314
+[eval_CSTANCE loss, ppl] step:16.625, 	loss: 0.4177160859107971, 	ppl: 1.5631650686264038
+[eval_20Minuten loss, ppl] step:16.625, 	loss: 1.8833824396133423, 	ppl: 6.960419654846191
+[eval_FOMC loss, ppl] step:16.625, 	loss: 0.5548326373100281, 	ppl: 1.5433236360549927
+[eval_NumGLUEcm loss, ppl] step:16.625, 	loss: 3.5221400260925293, 	ppl: 41.64789962768555
+[eval_ScienceQA loss, ppl] step:16.625, 	loss: 1.292664885520935, 	ppl: 3.667391300201416
+[eval_NumGLUEds loss, ppl] step:16.625, 	loss: 4.3291449546813965, 	ppl: 66.39653015136719
+[eval_Py150 loss, ppl] step:16.625, 	loss: 3.0039901733398438, 	ppl: 18.69855308532715
+[eval_MeetingBank loss, ppl] step:16.625, 	loss: 1.59666109085083, 	ppl: 4.685887813568115
+***** Evaluating perplexity, Epoch 2/5, step 2.0 *****
+[eval loss, ppl] step:17.625, 	loss: 1.3121238946914673, 	ppl: 3.7209670543670654
+[eval_CSTANCE loss, ppl] step:17.625, 	loss: 0.4289393723011017, 	ppl: 1.5792162418365479
+[eval_20Minuten loss, ppl] step:17.625, 	loss: 1.8823952674865723, 	ppl: 6.977114677429199
+[eval_FOMC loss, ppl] step:17.625, 	loss: 0.5584253668785095, 	ppl: 1.5439863204956055
+[eval_NumGLUEcm loss, ppl] step:17.625, 	loss: 3.5089008808135986, 	ppl: 41.49367904663086
+[eval_ScienceQA loss, ppl] step:17.625, 	loss: 1.2854204177856445, 	ppl: 3.6348419189453125
+[eval_NumGLUEds loss, ppl] step:17.625, 	loss: 4.29843282699585, 	ppl: 65.19184875488281
+[eval_Py150 loss, ppl] step:17.625, 	loss: 2.996870994567871, 	ppl: 18.502485275268555
+[eval_MeetingBank loss, ppl] step:17.625, 	loss: 1.598097801208496, 	ppl: 4.694404602050781
+***** Evaluating perplexity, Epoch 2/5, step 3.0 *****
+[eval loss, ppl] step:18.625, 	loss: 1.3036606311798096, 	ppl: 3.689944267272949
+[eval_CSTANCE loss, ppl] step:18.625, 	loss: 0.42339634895324707, 	ppl: 1.5819265842437744
+[eval_20Minuten loss, ppl] step:18.625, 	loss: 1.885770559310913, 	ppl: 6.9849748611450195
+[eval_FOMC loss, ppl] step:18.625, 	loss: 0.5506428480148315, 	ppl: 1.5381531715393066
+[eval_NumGLUEcm loss, ppl] step:18.625, 	loss: 3.511420249938965, 	ppl: 40.8276481628418
+[eval_ScienceQA loss, ppl] step:18.625, 	loss: 1.27753746509552, 	ppl: 3.605696439743042
+[eval_NumGLUEds loss, ppl] step:18.625, 	loss: 4.287757396697998, 	ppl: 64.30274963378906
+[eval_Py150 loss, ppl] step:18.625, 	loss: 2.989645481109619, 	ppl: 18.385129928588867
+[eval_MeetingBank loss, ppl] step:18.625, 	loss: 1.5980010032653809, 	ppl: 4.695527076721191
+[2025-10-21 22:04:00,608] [INFO] [logging.py:107:log_dist] [Rank 0] step=20, skipped=0, lr=[1e-05], mom=[(0.9, 0.95)]
+[2025-10-21 22:04:00,832] [INFO] [timer.py:264:stop] epoch=0/micro_step=160/global_step=20, RunningAvgSamplesPerSec=4.749366396155932, CurrSamplesPerSec=4.708406587740255, MemAllocated=9.21GB, MaxMemAllocated=26.87GB
+***** Evaluating perplexity, Epoch 2/5, step 4.0 *****
+[eval loss, ppl] step:19.625, 	loss: 1.2955316305160522, 	ppl: 3.659489631652832
+[eval_CSTANCE loss, ppl] step:19.625, 	loss: 0.41989585757255554, 	ppl: 1.579744815826416
+[eval_20Minuten loss, ppl] step:19.625, 	loss: 1.8873074054718018, 	ppl: 6.997013092041016
+[eval_FOMC loss, ppl] step:19.625, 	loss: 0.5503968596458435, 	ppl: 1.5430306196212769
+[eval_NumGLUEcm loss, ppl] step:19.625, 	loss: 3.4928736686706543, 	ppl: 40.61629867553711
+[eval_ScienceQA loss, ppl] step:19.625, 	loss: 1.2708330154418945, 	ppl: 3.5790915489196777
+[eval_NumGLUEds loss, ppl] step:19.625, 	loss: 4.288667678833008, 	ppl: 64.19035339355469
+[eval_Py150 loss, ppl] step:19.625, 	loss: 2.9815359115600586, 	ppl: 18.332881927490234
+[eval_MeetingBank loss, ppl] step:19.625, 	loss: 1.6027073860168457, 	ppl: 4.710004806518555
+***** Evaluating perplexity, Epoch 2/5, step 5.0 *****
+[eval loss, ppl] step:20.625, 	loss: 1.2877510786056519, 	ppl: 3.6308345794677734
+[eval_CSTANCE loss, ppl] step:20.625, 	loss: 0.42422354221343994, 	ppl: 1.5832147598266602
+[eval_20Minuten loss, ppl] step:20.625, 	loss: 1.8887149095535278, 	ppl: 7.017511367797852
+[eval_FOMC loss, ppl] step:20.625, 	loss: 0.5463358163833618, 	ppl: 1.540311574935913
+[eval_NumGLUEcm loss, ppl] step:20.625, 	loss: 3.5040557384490967, 	ppl: 41.843284606933594
+[eval_ScienceQA loss, ppl] step:20.625, 	loss: 1.2644976377487183, 	ppl: 3.55419921875
+[eval_NumGLUEds loss, ppl] step:20.625, 	loss: 4.3117570877075195, 	ppl: 64.70366668701172
+[eval_Py150 loss, ppl] step:20.625, 	loss: 2.9838876724243164, 	ppl: 18.326416015625
+[eval_MeetingBank loss, ppl] step:20.625, 	loss: 1.6033692359924316, 	ppl: 4.71278190612793
+***** Evaluating perplexity, Epoch 2/5, step 6.0 *****
+[eval loss, ppl] step:21.625, 	loss: 1.2797071933746338, 	ppl: 3.602181911468506
+[eval_CSTANCE loss, ppl] step:21.625, 	loss: 0.43334218859672546, 	ppl: 1.598663568496704
+[eval_20Minuten loss, ppl] step:21.625, 	loss: 1.8918339014053345, 	ppl: 7.03466272354126
+[eval_FOMC loss, ppl] step:21.625, 	loss: 0.5431061387062073, 	ppl: 1.5466039180755615
+[eval_NumGLUEcm loss, ppl] step:21.625, 	loss: 3.552234172821045, 	ppl: 42.72712707519531
+[eval_ScienceQA loss, ppl] step:21.625, 	loss: 1.2573727369308472, 	ppl: 3.52884578704834
+[eval_NumGLUEds loss, ppl] step:21.625, 	loss: 4.356459140777588, 	ppl: 67.42269134521484
+[eval_Py150 loss, ppl] step:21.625, 	loss: 2.9832417964935303, 	ppl: 18.26779556274414
+[eval_MeetingBank loss, ppl] step:21.625, 	loss: 1.603034257888794, 	ppl: 4.727795124053955
+***** Evaluating perplexity, Epoch 2/5, step 7.0 *****
+[eval loss, ppl] step:22.625, 	loss: 1.2725470066070557, 	ppl: 3.576124429702759
+[eval_CSTANCE loss, ppl] step:22.625, 	loss: 0.43001899123191833, 	ppl: 1.5954015254974365
+[eval_20Minuten loss, ppl] step:22.625, 	loss: 1.8944542407989502, 	ppl: 7.0535101890563965
+[eval_FOMC loss, ppl] step:22.625, 	loss: 0.5536349415779114, 	ppl: 1.5526485443115234
+[eval_NumGLUEcm loss, ppl] step:22.625, 	loss: 3.590505838394165, 	ppl: 45.55792999267578
+[eval_ScienceQA loss, ppl] step:22.625, 	loss: 1.2496261596679688, 	ppl: 3.5028605461120605
+[eval_NumGLUEds loss, ppl] step:22.625, 	loss: 4.409669399261475, 	ppl: 70.41029357910156
+[eval_Py150 loss, ppl] step:22.625, 	loss: 2.9918439388275146, 	ppl: 18.48225212097168
+[eval_MeetingBank loss, ppl] step:22.625, 	loss: 1.605405330657959, 	ppl: 4.730890274047852
+***** Evaluating perplexity, Epoch 2/5, step 8.0 *****
+[eval loss, ppl] step:23.625, 	loss: 1.2651209831237793, 	ppl: 3.5498266220092773
+[eval_CSTANCE loss, ppl] step:23.625, 	loss: 0.420696496963501, 	ppl: 1.6029295921325684
+[eval_20Minuten loss, ppl] step:23.625, 	loss: 1.8977994918823242, 	ppl: 7.085551738739014
+[eval_FOMC loss, ppl] step:23.625, 	loss: 0.5581775903701782, 	ppl: 1.5628037452697754
+[eval_NumGLUEcm loss, ppl] step:23.625, 	loss: 3.661221742630005, 	ppl: 48.53272247314453
+[eval_ScienceQA loss, ppl] step:23.625, 	loss: 1.2428884506225586, 	ppl: 3.47935152053833
+[eval_NumGLUEds loss, ppl] step:23.625, 	loss: 4.48859977722168, 	ppl: 75.07600402832031
+[eval_Py150 loss, ppl] step:23.625, 	loss: 2.999821186065674, 	ppl: 18.599287033081055
+[eval_MeetingBank loss, ppl] step:23.625, 	loss: 1.6080219745635986, 	ppl: 4.743516445159912
+***** Evaluating perplexity, Epoch 2/5, step 9.0 *****
+[eval loss, ppl] step:24.625, 	loss: 1.258551001548767, 	ppl: 3.5266380310058594
+[eval_CSTANCE loss, ppl] step:24.625, 	loss: 0.4179809093475342, 	ppl: 1.610182285308838
+[eval_20Minuten loss, ppl] step:24.625, 	loss: 1.9017070531845093, 	ppl: 7.104682445526123
+[eval_FOMC loss, ppl] step:24.625, 	loss: 0.5620478987693787, 	ppl: 1.5680513381958008
+[eval_NumGLUEcm loss, ppl] step:24.625, 	loss: 3.7454702854156494, 	ppl: 52.65332794189453
+[eval_ScienceQA loss, ppl] step:24.625, 	loss: 1.2370516061782837, 	ppl: 3.456122398376465
+[eval_NumGLUEds loss, ppl] step:24.625, 	loss: 4.553107738494873, 	ppl: 80.25244140625
+[eval_Py150 loss, ppl] step:24.625, 	loss: 3.011566162109375, 	ppl: 18.812776565551758
+[eval_MeetingBank loss, ppl] step:24.625, 	loss: 1.6092877388000488, 	ppl: 4.751116752624512
+***** Evaluating perplexity, Epoch 2/5, step 10.0 *****
+[eval loss, ppl] step:25.625, 	loss: 1.2522556781768799, 	ppl: 3.5043044090270996
+[eval_CSTANCE loss, ppl] step:25.625, 	loss: 0.41976702213287354, 	ppl: 1.6109727621078491
+[eval_20Minuten loss, ppl] step:25.625, 	loss: 1.9064481258392334, 	ppl: 7.137077808380127
+[eval_FOMC loss, ppl] step:25.625, 	loss: 0.560577929019928, 	ppl: 1.5729516744613647
+[eval_NumGLUEcm loss, ppl] step:25.625, 	loss: 3.7900784015655518, 	ppl: 56.537967681884766
+[eval_ScienceQA loss, ppl] step:25.625, 	loss: 1.230733871459961, 	ppl: 3.4353044033050537
+[eval_NumGLUEds loss, ppl] step:25.625, 	loss: 4.639615535736084, 	ppl: 87.0204849243164
+[eval_Py150 loss, ppl] step:25.625, 	loss: 3.0242364406585693, 	ppl: 19.039457321166992
+[eval_MeetingBank loss, ppl] step:25.625, 	loss: 1.6149665117263794, 	ppl: 4.773857116699219
+***** Evaluating perplexity, Epoch 2/5, step 11.0 *****
+[eval loss, ppl] step:26.625, 	loss: 1.2459466457366943, 	ppl: 3.4833223819732666
+[eval_CSTANCE loss, ppl] step:26.625, 	loss: 0.4226112961769104, 	ppl: 1.6095876693725586
+[eval_20Minuten loss, ppl] step:26.625, 	loss: 1.9080102443695068, 	ppl: 7.153101921081543
+[eval_FOMC loss, ppl] step:26.625, 	loss: 0.5699281692504883, 	ppl: 1.5820040702819824
+[eval_NumGLUEcm loss, ppl] step:26.625, 	loss: 3.8612568378448486, 	ppl: 60.29507064819336
+[eval_ScienceQA loss, ppl] step:26.625, 	loss: 1.2256015539169312, 	ppl: 3.4171478748321533
+[eval_NumGLUEds loss, ppl] step:26.625, 	loss: 4.719071388244629, 	ppl: 92.0484619140625
+[eval_Py150 loss, ppl] step:26.625, 	loss: 3.031820297241211, 	ppl: 19.258817672729492
+[eval_MeetingBank loss, ppl] step:26.625, 	loss: 1.6148457527160645, 	ppl: 4.780995845794678
+***** Evaluating perplexity, Epoch 2/5, step 12.0 *****
+[eval loss, ppl] step:27.625, 	loss: 1.2396684885025024, 	ppl: 3.4619064331054688
+[eval_CSTANCE loss, ppl] step:27.625, 	loss: 0.4136309325695038, 	ppl: 1.6133830547332764
+[eval_20Minuten loss, ppl] step:27.625, 	loss: 1.9105093479156494, 	ppl: 7.176053047180176
+[eval_FOMC loss, ppl] step:27.625, 	loss: 0.5638448596000671, 	ppl: 1.586225152015686
+[eval_NumGLUEcm loss, ppl] step:27.625, 	loss: 3.8937385082244873, 	ppl: 62.906463623046875
+[eval_ScienceQA loss, ppl] step:27.625, 	loss: 1.2207095623016357, 	ppl: 3.396428108215332
+[eval_NumGLUEds loss, ppl] step:27.625, 	loss: 4.777426719665527, 	ppl: 97.02627563476562
+[eval_Py150 loss, ppl] step:27.625, 	loss: 3.049098014831543, 	ppl: 19.5408992767334
+[eval_MeetingBank loss, ppl] step:27.625, 	loss: 1.618131399154663, 	ppl: 4.7927727699279785
+***** Evaluating perplexity, Epoch 2/5, step 13.0 *****
+[eval loss, ppl] step:28.625, 	loss: 1.2335827350616455, 	ppl: 3.4406654834747314
+[eval_CSTANCE loss, ppl] step:28.625, 	loss: 0.42624059319496155, 	ppl: 1.6241366863250732
+[eval_20Minuten loss, ppl] step:28.625, 	loss: 1.9143612384796143, 	ppl: 7.198801040649414
+[eval_FOMC loss, ppl] step:28.625, 	loss: 0.5753442645072937, 	ppl: 1.5958693027496338
+[eval_NumGLUEcm loss, ppl] step:28.625, 	loss: 3.963871479034424, 	ppl: 67.35272979736328
+[eval_ScienceQA loss, ppl] step:28.625, 	loss: 1.2161104679107666, 	ppl: 3.376323938369751
+[eval_NumGLUEds loss, ppl] step:28.625, 	loss: 4.840816497802734, 	ppl: 102.81520080566406
+[eval_Py150 loss, ppl] step:28.625, 	loss: 3.057274341583252, 	ppl: 19.700363159179688
+[eval_MeetingBank loss, ppl] step:28.625, 	loss: 1.6190131902694702, 	ppl: 4.811334133148193
+[2025-10-21 22:09:17,083] [INFO] [logging.py:107:log_dist] [Rank 0] step=30, skipped=0, lr=[1e-05], mom=[(0.9, 0.95)]
+[2025-10-21 22:09:17,257] [INFO] [timer.py:264:stop] epoch=0/micro_step=240/global_step=30, RunningAvgSamplesPerSec=4.771906608231475, CurrSamplesPerSec=4.809860974413357, MemAllocated=9.15GB, MaxMemAllocated=26.87GB
+***** Evaluating perplexity, Epoch 2/5, step 14.0 *****
+[eval loss, ppl] step:29.625, 	loss: 1.2269457578659058, 	ppl: 3.418266534805298
+[eval_CSTANCE loss, ppl] step:29.625, 	loss: 0.4204338788986206, 	ppl: 1.6242551803588867
+[eval_20Minuten loss, ppl] step:29.625, 	loss: 1.9153597354888916, 	ppl: 7.214165687561035
+[eval_FOMC loss, ppl] step:29.625, 	loss: 0.5770370364189148, 	ppl: 1.6049671173095703
+[eval_NumGLUEcm loss, ppl] step:29.625, 	loss: 4.000510215759277, 	ppl: 69.40045928955078
+[eval_ScienceQA loss, ppl] step:29.625, 	loss: 1.2104394435882568, 	ppl: 3.3558616638183594
+[eval_NumGLUEds loss, ppl] step:29.625, 	loss: 4.852811336517334, 	ppl: 104.91328430175781
+[eval_Py150 loss, ppl] step:29.625, 	loss: 3.067082166671753, 	ppl: 19.92581558227539
+[eval_MeetingBank loss, ppl] step:29.625, 	loss: 1.622279405593872, 	ppl: 4.820401191711426
+saving model to /data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001/2...
+Sucessful saving model after epoch 2
+Beginning of Epoch 3/5, Total Micro Batches 125
+***** Evaluating perplexity, Epoch 3/5, step 0.0 *****
+[eval loss, ppl] step:31.25, 	loss: 1.2137078046798706, 	ppl: 3.3743808269500732
+[eval_CSTANCE loss, ppl] step:31.25, 	loss: 0.4196217656135559, 	ppl: 1.642127275466919
+[eval_20Minuten loss, ppl] step:31.25, 	loss: 1.9155079126358032, 	ppl: 7.241874694824219
+[eval_FOMC loss, ppl] step:31.25, 	loss: 0.5602648854255676, 	ppl: 1.6058393716812134
+[eval_NumGLUEcm loss, ppl] step:31.25, 	loss: 4.007124423980713, 	ppl: 72.0688705444336
+[eval_ScienceQA loss, ppl] step:31.25, 	loss: 1.1990221738815308, 	ppl: 3.3146700859069824
+[eval_NumGLUEds loss, ppl] step:31.25, 	loss: 4.889795780181885, 	ppl: 108.8294906616211
+[eval_Py150 loss, ppl] step:31.25, 	loss: 3.086353063583374, 	ppl: 20.335708618164062
+[eval_MeetingBank loss, ppl] step:31.25, 	loss: 1.6257039308547974, 	ppl: 4.844664573669434
+***** Evaluating perplexity, Epoch 3/5, step 1.0 *****
+[eval loss, ppl] step:32.25, 	loss: 1.2070623636245728, 	ppl: 3.3530726432800293
+[eval_CSTANCE loss, ppl] step:32.25, 	loss: 0.4258774518966675, 	ppl: 1.6433484554290771
+[eval_20Minuten loss, ppl] step:32.25, 	loss: 1.9205999374389648, 	ppl: 7.261231422424316
+[eval_FOMC loss, ppl] step:32.25, 	loss: 0.5633789300918579, 	ppl: 1.612898826599121
+[eval_NumGLUEcm loss, ppl] step:32.25, 	loss: 4.019373416900635, 	ppl: 71.94606018066406
+[eval_ScienceQA loss, ppl] step:32.25, 	loss: 1.1945610046386719, 	ppl: 3.2959389686584473
+[eval_NumGLUEds loss, ppl] step:32.25, 	loss: 4.925963401794434, 	ppl: 110.9637222290039
+[eval_Py150 loss, ppl] step:32.25, 	loss: 3.1042935848236084, 	ppl: 20.587329864501953
+[eval_MeetingBank loss, ppl] step:32.25, 	loss: 1.627347707748413, 	ppl: 4.8538737297058105
+***** Evaluating perplexity, Epoch 3/5, step 2.0 *****
+[eval loss, ppl] step:33.25, 	loss: 1.2007300853729248, 	ppl: 3.332155704498291
+[eval_CSTANCE loss, ppl] step:33.25, 	loss: 0.4246622323989868, 	ppl: 1.646545171737671
+[eval_20Minuten loss, ppl] step:33.25, 	loss: 1.9239013195037842, 	ppl: 7.276447296142578
+[eval_FOMC loss, ppl] step:33.25, 	loss: 0.5636553764343262, 	ppl: 1.6077277660369873
+[eval_NumGLUEcm loss, ppl] step:33.25, 	loss: 4.019484043121338, 	ppl: 72.56535339355469
+[eval_ScienceQA loss, ppl] step:33.25, 	loss: 1.1896765232086182, 	ppl: 3.2775697708129883
+[eval_NumGLUEds loss, ppl] step:33.25, 	loss: 4.9174065589904785, 	ppl: 110.63540649414062
+[eval_Py150 loss, ppl] step:33.25, 	loss: 3.102471351623535, 	ppl: 20.768190383911133
+[eval_MeetingBank loss, ppl] step:33.25, 	loss: 1.626859188079834, 	ppl: 4.857032299041748
+***** Evaluating perplexity, Epoch 3/5, step 3.0 *****
+[eval loss, ppl] step:34.25, 	loss: 1.1941215991973877, 	ppl: 3.311476707458496
+[eval_CSTANCE loss, ppl] step:34.25, 	loss: 0.424719899892807, 	ppl: 1.64002525806427
+[eval_20Minuten loss, ppl] step:34.25, 	loss: 1.9240787029266357, 	ppl: 7.280671119689941
+[eval_FOMC loss, ppl] step:34.25, 	loss: 0.5647668838500977, 	ppl: 1.6057196855545044
+[eval_NumGLUEcm loss, ppl] step:34.25, 	loss: 3.996145486831665, 	ppl: 72.09500122070312
+[eval_ScienceQA loss, ppl] step:34.25, 	loss: 1.1849148273468018, 	ppl: 3.257622241973877
+[eval_NumGLUEds loss, ppl] step:34.25, 	loss: 4.9204254150390625, 	ppl: 110.88674926757812
+[eval_Py150 loss, ppl] step:34.25, 	loss: 3.1157844066619873, 	ppl: 20.8946533203125
+[eval_MeetingBank loss, ppl] step:34.25, 	loss: 1.6296658515930176, 	ppl: 4.865381240844727
+***** Evaluating perplexity, Epoch 3/5, step 4.0 *****
+[eval loss, ppl] step:35.25, 	loss: 1.1879194974899292, 	ppl: 3.2917912006378174
+[eval_CSTANCE loss, ppl] step:35.25, 	loss: 0.41952916979789734, 	ppl: 1.6505916118621826
+[eval_20Minuten loss, ppl] step:35.25, 	loss: 1.9245555400848389, 	ppl: 7.295598030090332
+[eval_FOMC loss, ppl] step:35.25, 	loss: 0.5702950954437256, 	ppl: 1.607047200202942
+[eval_NumGLUEcm loss, ppl] step:35.25, 	loss: 4.014269828796387, 	ppl: 72.5542984008789
+[eval_ScienceQA loss, ppl] step:35.25, 	loss: 1.178797721862793, 	ppl: 3.238701343536377
+[eval_NumGLUEds loss, ppl] step:35.25, 	loss: 4.922348499298096, 	ppl: 111.2818832397461
+[eval_Py150 loss, ppl] step:35.25, 	loss: 3.1269004344940186, 	ppl: 21.09408187866211
+[eval_MeetingBank loss, ppl] step:35.25, 	loss: 1.6305289268493652, 	ppl: 4.874541282653809
+***** Evaluating perplexity, Epoch 3/5, step 5.0 *****
+[eval loss, ppl] step:36.25, 	loss: 1.1817104816436768, 	ppl: 3.272697925567627
+[eval_CSTANCE loss, ppl] step:36.25, 	loss: 0.42091524600982666, 	ppl: 1.6480622291564941
+[eval_20Minuten loss, ppl] step:36.25, 	loss: 1.9291069507598877, 	ppl: 7.307445049285889
+[eval_FOMC loss, ppl] step:36.25, 	loss: 0.5624605417251587, 	ppl: 1.6036235094070435
+[eval_NumGLUEcm loss, ppl] step:36.25, 	loss: 4.005532741546631, 	ppl: 72.44163513183594
+[eval_ScienceQA loss, ppl] step:36.25, 	loss: 1.1734421253204346, 	ppl: 3.2194652557373047
+[eval_NumGLUEds loss, ppl] step:36.25, 	loss: 4.932204246520996, 	ppl: 111.19042205810547
+[eval_Py150 loss, ppl] step:36.25, 	loss: 3.130396842956543, 	ppl: 21.282041549682617
+[eval_MeetingBank loss, ppl] step:36.25, 	loss: 1.6317836046218872, 	ppl: 4.875885486602783
+***** Evaluating perplexity, Epoch 3/5, step 6.0 *****
+[eval loss, ppl] step:37.25, 	loss: 1.1758142709732056, 	ppl: 3.254307985305786
+[eval_CSTANCE loss, ppl] step:37.25, 	loss: 0.4193248450756073, 	ppl: 1.6555287837982178
+[eval_20Minuten loss, ppl] step:37.25, 	loss: 1.9304851293563843, 	ppl: 7.321855545043945
+[eval_FOMC loss, ppl] step:37.25, 	loss: 0.5644631385803223, 	ppl: 1.6071616411209106
+[eval_NumGLUEcm loss, ppl] step:37.25, 	loss: 4.002610206604004, 	ppl: 72.24014282226562
+[eval_ScienceQA loss, ppl] step:37.25, 	loss: 1.1682212352752686, 	ppl: 3.2011115550994873
+[eval_NumGLUEds loss, ppl] step:37.25, 	loss: 4.946389675140381, 	ppl: 113.21337890625
+[eval_Py150 loss, ppl] step:37.25, 	loss: 3.144197463989258, 	ppl: 21.474681854248047
+[eval_MeetingBank loss, ppl] step:37.25, 	loss: 1.6336525678634644, 	ppl: 4.888696193695068
+***** Evaluating perplexity, Epoch 3/5, step 7.0 *****
+[eval loss, ppl] step:38.25, 	loss: 1.1695040464401245, 	ppl: 3.235689401626587
+[eval_CSTANCE loss, ppl] step:38.25, 	loss: 0.4199736714363098, 	ppl: 1.6563007831573486
+[eval_20Minuten loss, ppl] step:38.25, 	loss: 1.9328737258911133, 	ppl: 7.334245681762695
+[eval_FOMC loss, ppl] step:38.25, 	loss: 0.5596362352371216, 	ppl: 1.6039427518844604
+[eval_NumGLUEcm loss, ppl] step:38.25, 	loss: 4.005765438079834, 	ppl: 72.95020294189453
+[eval_ScienceQA loss, ppl] step:38.25, 	loss: 1.1628961563110352, 	ppl: 3.18289852142334
+[eval_NumGLUEds loss, ppl] step:38.25, 	loss: 4.950520038604736, 	ppl: 112.962158203125
+[eval_Py150 loss, ppl] step:38.25, 	loss: 3.1493842601776123, 	ppl: 21.644235610961914
+[eval_MeetingBank loss, ppl] step:38.25, 	loss: 1.636176347732544, 	ppl: 4.895016193389893
+[2025-10-21 22:14:22,094] [INFO] [logging.py:107:log_dist] [Rank 0] step=40, skipped=0, lr=[1e-05], mom=[(0.9, 0.95)]
+[2025-10-21 22:14:22,268] [INFO] [timer.py:264:stop] epoch=0/micro_step=320/global_step=40, RunningAvgSamplesPerSec=4.799834168792813, CurrSamplesPerSec=4.986256912732699, MemAllocated=9.41GB, MaxMemAllocated=26.87GB
+***** Evaluating perplexity, Epoch 3/5, step 8.0 *****
+[eval loss, ppl] step:39.25, 	loss: 1.1639379262924194, 	ppl: 3.218148708343506
+[eval_CSTANCE loss, ppl] step:39.25, 	loss: 0.42438071966171265, 	ppl: 1.6594593524932861
+[eval_20Minuten loss, ppl] step:39.25, 	loss: 1.9316916465759277, 	ppl: 7.345047950744629
+[eval_FOMC loss, ppl] step:39.25, 	loss: 0.5636507272720337, 	ppl: 1.6049861907958984
+[eval_NumGLUEcm loss, ppl] step:39.25, 	loss: 4.030404090881348, 	ppl: 73.71178436279297
+[eval_ScienceQA loss, ppl] step:39.25, 	loss: 1.1577600240707397, 	ppl: 3.165348529815674
+[eval_NumGLUEds loss, ppl] step:39.25, 	loss: 4.946236610412598, 	ppl: 113.47438049316406
+[eval_Py150 loss, ppl] step:39.25, 	loss: 3.1559786796569824, 	ppl: 21.765155792236328
+[eval_MeetingBank loss, ppl] step:39.25, 	loss: 1.634821891784668, 	ppl: 4.8970842361450195
+***** Evaluating perplexity, Epoch 3/5, step 9.0 *****
+[eval loss, ppl] step:40.25, 	loss: 1.1582175493240356, 	ppl: 3.201268196105957
+[eval_CSTANCE loss, ppl] step:40.25, 	loss: 0.42103058099746704, 	ppl: 1.6501480340957642
+[eval_20Minuten loss, ppl] step:40.25, 	loss: 1.9345743656158447, 	ppl: 7.347235679626465
+[eval_FOMC loss, ppl] step:40.25, 	loss: 0.570723831653595, 	ppl: 1.615410566329956
+[eval_NumGLUEcm loss, ppl] step:40.25, 	loss: 4.023800849914551, 	ppl: 73.93231201171875
+[eval_ScienceQA loss, ppl] step:40.25, 	loss: 1.1516566276550293, 	ppl: 3.1461992263793945
+[eval_NumGLUEds loss, ppl] step:40.25, 	loss: 4.973852634429932, 	ppl: 115.93840026855469
+[eval_Py150 loss, ppl] step:40.25, 	loss: 3.160905599594116, 	ppl: 21.85277557373047
+[eval_MeetingBank loss, ppl] step:40.25, 	loss: 1.6361918449401855, 	ppl: 4.902771949768066
+***** Evaluating perplexity, Epoch 3/5, step 10.0 *****
+[eval loss, ppl] step:41.25, 	loss: 1.1525113582611084, 	ppl: 3.1835880279541016
+[eval_CSTANCE loss, ppl] step:41.25, 	loss: 0.42468205094337463, 	ppl: 1.6574742794036865
+[eval_20Minuten loss, ppl] step:41.25, 	loss: 1.9322367906570435, 	ppl: 7.348269462585449
+[eval_FOMC loss, ppl] step:41.25, 	loss: 0.5753219127655029, 	ppl: 1.619893193244934
+[eval_NumGLUEcm loss, ppl] step:41.25, 	loss: 4.022959232330322, 	ppl: 74.38030242919922
+[eval_ScienceQA loss, ppl] step:41.25, 	loss: 1.1463963985443115, 	ppl: 3.127502202987671
+[eval_NumGLUEds loss, ppl] step:41.25, 	loss: 4.985602378845215, 	ppl: 115.7584228515625
+[eval_Py150 loss, ppl] step:41.25, 	loss: 3.1651172637939453, 	ppl: 21.978862762451172
+[eval_MeetingBank loss, ppl] step:41.25, 	loss: 1.638344407081604, 	ppl: 4.91123104095459
+***** Evaluating perplexity, Epoch 3/5, step 11.0 *****
+[eval loss, ppl] step:42.25, 	loss: 1.1467256546020508, 	ppl: 3.1653757095336914
+[eval_CSTANCE loss, ppl] step:42.25, 	loss: 0.42869460582733154, 	ppl: 1.663209319114685
+[eval_20Minuten loss, ppl] step:42.25, 	loss: 1.935627818107605, 	ppl: 7.349593639373779
+[eval_FOMC loss, ppl] step:42.25, 	loss: 0.5802093148231506, 	ppl: 1.6243516206741333
+[eval_NumGLUEcm loss, ppl] step:42.25, 	loss: 4.038268566131592, 	ppl: 75.72432708740234
+[eval_ScienceQA loss, ppl] step:42.25, 	loss: 1.140738844871521, 	ppl: 3.110198974609375
+[eval_NumGLUEds loss, ppl] step:42.25, 	loss: 5.00220251083374, 	ppl: 118.00845336914062
+[eval_Py150 loss, ppl] step:42.25, 	loss: 3.166435956954956, 	ppl: 22.07777214050293
+[eval_MeetingBank loss, ppl] step:42.25, 	loss: 1.638183355331421, 	ppl: 4.913149833679199
+***** Evaluating perplexity, Epoch 3/5, step 12.0 *****
+[eval loss, ppl] step:43.25, 	loss: 1.1411752700805664, 	ppl: 3.1476235389709473
+[eval_CSTANCE loss, ppl] step:43.25, 	loss: 0.4178691804409027, 	ppl: 1.6512237787246704
+[eval_20Minuten loss, ppl] step:43.25, 	loss: 1.9360328912734985, 	ppl: 7.366002559661865
+[eval_FOMC loss, ppl] step:43.25, 	loss: 0.5880721211433411, 	ppl: 1.627708911895752
+[eval_NumGLUEcm loss, ppl] step:43.25, 	loss: 4.068820953369141, 	ppl: 77.7685317993164
+[eval_ScienceQA loss, ppl] step:43.25, 	loss: 1.1347839832305908, 	ppl: 3.0923330783843994
+[eval_NumGLUEds loss, ppl] step:43.25, 	loss: 5.044872760772705, 	ppl: 121.15914916992188
+[eval_Py150 loss, ppl] step:43.25, 	loss: 3.179100751876831, 	ppl: 22.271263122558594
+[eval_MeetingBank loss, ppl] step:43.25, 	loss: 1.6412619352340698, 	ppl: 4.923574447631836
+***** Evaluating perplexity, Epoch 3/5, step 13.0 *****
+[eval loss, ppl] step:44.25, 	loss: 1.1353665590286255, 	ppl: 3.1299591064453125
+[eval_CSTANCE loss, ppl] step:44.25, 	loss: 0.42798516154289246, 	ppl: 1.6633907556533813
+[eval_20Minuten loss, ppl] step:44.25, 	loss: 1.9368938207626343, 	ppl: 7.367906093597412
+[eval_FOMC loss, ppl] step:44.25, 	loss: 0.5944979786872864, 	ppl: 1.644241213798523
+[eval_NumGLUEcm loss, ppl] step:44.25, 	loss: 4.100801944732666, 	ppl: 81.14925384521484
+[eval_ScienceQA loss, ppl] step:44.25, 	loss: 1.128693699836731, 	ppl: 3.072805881500244
+[eval_NumGLUEds loss, ppl] step:44.25, 	loss: 5.091854572296143, 	ppl: 125.53868103027344
+[eval_Py150 loss, ppl] step:44.25, 	loss: 3.1941652297973633, 	ppl: 22.49144744873047
+[eval_MeetingBank loss, ppl] step:44.25, 	loss: 1.6411738395690918, 	ppl: 4.927514553070068
+***** Evaluating perplexity, Epoch 3/5, step 14.0 *****
+[eval loss, ppl] step:45.25, 	loss: 1.1295695304870605, 	ppl: 3.1114089488983154
+[eval_CSTANCE loss, ppl] step:45.25, 	loss: 0.429769903421402, 	ppl: 1.6576639413833618
+[eval_20Minuten loss, ppl] step:45.25, 	loss: 1.9371756315231323, 	ppl: 7.369475364685059
+[eval_FOMC loss, ppl] step:45.25, 	loss: 0.6003565192222595, 	ppl: 1.6558611392974854
+[eval_NumGLUEcm loss, ppl] step:45.25, 	loss: 4.133899688720703, 	ppl: 83.93854522705078
+[eval_ScienceQA loss, ppl] step:45.25, 	loss: 1.1232744455337524, 	ppl: 3.053241729736328
+[eval_NumGLUEds loss, ppl] step:45.25, 	loss: 5.129403114318848, 	ppl: 131.03753662109375
+[eval_Py150 loss, ppl] step:45.25, 	loss: 3.202841281890869, 	ppl: 22.673023223876953
+[eval_MeetingBank loss, ppl] step:45.25, 	loss: 1.6420011520385742, 	ppl: 4.938503742218018
+saving model to /data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001/3...
+Sucessful saving model after epoch 3
+Beginning of Epoch 4/5, Total Micro Batches 125
+***** Evaluating perplexity, Epoch 4/5, step 0.0 *****
+[eval loss, ppl] step:46.875, 	loss: 1.1243456602096558, 	ppl: 3.0939319133758545
+[eval_CSTANCE loss, ppl] step:46.875, 	loss: 0.4261467456817627, 	ppl: 1.6611446142196655
+[eval_20Minuten loss, ppl] step:46.875, 	loss: 1.9402437210083008, 	ppl: 7.382855415344238
+[eval_FOMC loss, ppl] step:46.875, 	loss: 0.6091651320457458, 	ppl: 1.6679039001464844
+[eval_NumGLUEcm loss, ppl] step:46.875, 	loss: 4.1830291748046875, 	ppl: 89.36979675292969
+[eval_ScienceQA loss, ppl] step:46.875, 	loss: 1.1172105073928833, 	ppl: 3.0352563858032227
+[eval_NumGLUEds loss, ppl] step:46.875, 	loss: 5.183940887451172, 	ppl: 138.55349731445312
+[eval_Py150 loss, ppl] step:46.875, 	loss: 3.213871955871582, 	ppl: 22.862159729003906
+[eval_MeetingBank loss, ppl] step:46.875, 	loss: 1.642421007156372, 	ppl: 4.9420037269592285
+***** Evaluating perplexity, Epoch 4/5, step 1.0 *****
+[eval loss, ppl] step:47.875, 	loss: 1.1188539266586304, 	ppl: 3.075791358947754
+[eval_CSTANCE loss, ppl] step:47.875, 	loss: 0.4185302257537842, 	ppl: 1.6690770387649536
+[eval_20Minuten loss, ppl] step:47.875, 	loss: 1.941362738609314, 	ppl: 7.397477149963379
+[eval_FOMC loss, ppl] step:47.875, 	loss: 0.6162186861038208, 	ppl: 1.6944499015808105
+[eval_NumGLUEcm loss, ppl] step:47.875, 	loss: 4.198288440704346, 	ppl: 92.67725372314453
+[eval_ScienceQA loss, ppl] step:47.875, 	loss: 1.1118568181991577, 	ppl: 3.0182385444641113
+[eval_NumGLUEds loss, ppl] step:47.875, 	loss: 5.221739292144775, 	ppl: 143.23294067382812
+[eval_Py150 loss, ppl] step:47.875, 	loss: 3.2136197090148926, 	ppl: 23.07945442199707
+[eval_MeetingBank loss, ppl] step:47.875, 	loss: 1.6436063051223755, 	ppl: 4.948581218719482
+***** Evaluating perplexity, Epoch 4/5, step 2.0 *****
+[eval loss, ppl] step:48.875, 	loss: 1.1132675409317017, 	ppl: 3.057927370071411
+[eval_CSTANCE loss, ppl] step:48.875, 	loss: 0.427941232919693, 	ppl: 1.6721820831298828
+[eval_20Minuten loss, ppl] step:48.875, 	loss: 1.9415720701217651, 	ppl: 7.389835357666016
+[eval_FOMC loss, ppl] step:48.875, 	loss: 0.6306017637252808, 	ppl: 1.7263505458831787
+[eval_NumGLUEcm loss, ppl] step:48.875, 	loss: 4.243322849273682, 	ppl: 95.54544067382812
+[eval_ScienceQA loss, ppl] step:48.875, 	loss: 1.10624361038208, 	ppl: 3.0008749961853027
+[eval_NumGLUEds loss, ppl] step:48.875, 	loss: 5.2577643394470215, 	ppl: 147.2470703125
+[eval_Py150 loss, ppl] step:48.875, 	loss: 3.234041690826416, 	ppl: 23.289335250854492
+[eval_MeetingBank loss, ppl] step:48.875, 	loss: 1.6450746059417725, 	ppl: 4.954627990722656
+[2025-10-21 22:19:44,650] [INFO] [logging.py:107:log_dist] [Rank 0] step=50, skipped=0, lr=[1e-05], mom=[(0.9, 0.95)]
+[2025-10-21 22:19:44,895] [INFO] [timer.py:264:stop] epoch=0/micro_step=400/global_step=50, RunningAvgSamplesPerSec=4.816207335924802, CurrSamplesPerSec=4.730692522457469, MemAllocated=9.21GB, MaxMemAllocated=26.87GB
+***** Evaluating perplexity, Epoch 4/5, step 3.0 *****
+[eval loss, ppl] step:49.875, 	loss: 1.1078764200210571, 	ppl: 3.040557384490967
+[eval_CSTANCE loss, ppl] step:49.875, 	loss: 0.418809711933136, 	ppl: 1.6698369979858398
+[eval_20Minuten loss, ppl] step:49.875, 	loss: 1.941606879234314, 	ppl: 7.4001874923706055
+[eval_FOMC loss, ppl] step:49.875, 	loss: 0.6493182182312012, 	ppl: 1.7537806034088135
+[eval_NumGLUEcm loss, ppl] step:49.875, 	loss: 4.260143280029297, 	ppl: 97.35247802734375
+[eval_ScienceQA loss, ppl] step:49.875, 	loss: 1.1004455089569092, 	ppl: 2.9824533462524414
+[eval_NumGLUEds loss, ppl] step:49.875, 	loss: 5.2661004066467285, 	ppl: 149.685302734375
+[eval_Py150 loss, ppl] step:49.875, 	loss: 3.233947515487671, 	ppl: 23.455169677734375
+[eval_MeetingBank loss, ppl] step:49.875, 	loss: 1.6453793048858643, 	ppl: 4.960593223571777
+***** Evaluating perplexity, Epoch 4/5, step 4.0 *****
+[eval loss, ppl] step:50.875, 	loss: 1.1027764081954956, 	ppl: 3.022029399871826
+[eval_CSTANCE loss, ppl] step:50.875, 	loss: 0.424423485994339, 	ppl: 1.6717246770858765
+[eval_20Minuten loss, ppl] step:50.875, 	loss: 1.9429333209991455, 	ppl: 7.400842666625977
+[eval_FOMC loss, ppl] step:50.875, 	loss: 0.6517778635025024, 	ppl: 1.7547904253005981
+[eval_NumGLUEcm loss, ppl] step:50.875, 	loss: 4.250236511230469, 	ppl: 96.45732116699219
+[eval_ScienceQA loss, ppl] step:50.875, 	loss: 1.0939425230026245, 	ppl: 2.9648537635803223
+[eval_NumGLUEds loss, ppl] step:50.875, 	loss: 5.2638983726501465, 	ppl: 148.85374450683594
+[eval_Py150 loss, ppl] step:50.875, 	loss: 3.238379955291748, 	ppl: 23.560962677001953
+[eval_MeetingBank loss, ppl] step:50.875, 	loss: 1.6441820859909058, 	ppl: 4.961513042449951
+***** Evaluating perplexity, Epoch 4/5, step 5.0 *****
+[eval loss, ppl] step:51.875, 	loss: 1.0972561836242676, 	ppl: 3.0047566890716553
+[eval_CSTANCE loss, ppl] step:51.875, 	loss: 0.4291279911994934, 	ppl: 1.672064185142517
+[eval_20Minuten loss, ppl] step:51.875, 	loss: 1.9436081647872925, 	ppl: 7.398709297180176
+[eval_FOMC loss, ppl] step:51.875, 	loss: 0.6443918943405151, 	ppl: 1.7527096271514893
+[eval_NumGLUEcm loss, ppl] step:51.875, 	loss: 4.2379937171936035, 	ppl: 95.66488647460938
+[eval_ScienceQA loss, ppl] step:51.875, 	loss: 1.0882647037506104, 	ppl: 2.947275400161743
+[eval_NumGLUEds loss, ppl] step:51.875, 	loss: 5.257495880126953, 	ppl: 147.9061737060547
+[eval_Py150 loss, ppl] step:51.875, 	loss: 3.2352888584136963, 	ppl: 23.496170043945312
+[eval_MeetingBank loss, ppl] step:51.875, 	loss: 1.6460192203521729, 	ppl: 4.96482515335083
+***** Evaluating perplexity, Epoch 4/5, step 6.0 *****
+[eval loss, ppl] step:52.875, 	loss: 1.0917712450027466, 	ppl: 2.9875550270080566
+[eval_CSTANCE loss, ppl] step:52.875, 	loss: 0.429126501083374, 	ppl: 1.6784276962280273
+[eval_20Minuten loss, ppl] step:52.875, 	loss: 1.9439997673034668, 	ppl: 7.403534889221191
+[eval_FOMC loss, ppl] step:52.875, 	loss: 0.6435056924819946, 	ppl: 1.7583633661270142
+[eval_NumGLUEcm loss, ppl] step:52.875, 	loss: 4.231368064880371, 	ppl: 95.08206939697266
+[eval_ScienceQA loss, ppl] step:52.875, 	loss: 1.0824533700942993, 	ppl: 2.9294891357421875
+[eval_NumGLUEds loss, ppl] step:52.875, 	loss: 5.270656108856201, 	ppl: 149.0153350830078
+[eval_Py150 loss, ppl] step:52.875, 	loss: 3.238859176635742, 	ppl: 23.473588943481445
+[eval_MeetingBank loss, ppl] step:52.875, 	loss: 1.6465179920196533, 	ppl: 4.967953205108643
+***** Evaluating perplexity, Epoch 4/5, step 7.0 *****
+[eval loss, ppl] step:53.875, 	loss: 1.0866246223449707, 	ppl: 2.971055269241333
+[eval_CSTANCE loss, ppl] step:53.875, 	loss: 0.4247645437717438, 	ppl: 1.6812005043029785
+[eval_20Minuten loss, ppl] step:53.875, 	loss: 1.9440652132034302, 	ppl: 7.410072326660156
+[eval_FOMC loss, ppl] step:53.875, 	loss: 0.6529802680015564, 	ppl: 1.7654876708984375
+[eval_NumGLUEcm loss, ppl] step:53.875, 	loss: 4.211063385009766, 	ppl: 94.80313110351562
+[eval_ScienceQA loss, ppl] step:53.875, 	loss: 1.0749731063842773, 	ppl: 2.9107508659362793
+[eval_NumGLUEds loss, ppl] step:53.875, 	loss: 5.268930435180664, 	ppl: 147.2416534423828
+[eval_Py150 loss, ppl] step:53.875, 	loss: 3.247446298599243, 	ppl: 23.648195266723633
+[eval_MeetingBank loss, ppl] step:53.875, 	loss: 1.646498680114746, 	ppl: 4.969454288482666
+***** Evaluating perplexity, Epoch 4/5, step 8.0 *****
+[eval loss, ppl] step:54.875, 	loss: 1.0814768075942993, 	ppl: 2.9549832344055176
+[eval_CSTANCE loss, ppl] step:54.875, 	loss: 0.4262925684452057, 	ppl: 1.6787827014923096
+[eval_20Minuten loss, ppl] step:54.875, 	loss: 1.943810224533081, 	ppl: 7.416818618774414
+[eval_FOMC loss, ppl] step:54.875, 	loss: 0.65058434009552, 	ppl: 1.759098768234253
+[eval_NumGLUEcm loss, ppl] step:54.875, 	loss: 4.237353324890137, 	ppl: 96.0190658569336
+[eval_ScienceQA loss, ppl] step:54.875, 	loss: 1.0691872835159302, 	ppl: 2.8948192596435547
+[eval_NumGLUEds loss, ppl] step:54.875, 	loss: 5.2698283195495605, 	ppl: 148.8081817626953
+[eval_Py150 loss, ppl] step:54.875, 	loss: 3.2534449100494385, 	ppl: 23.761369705200195
+[eval_MeetingBank loss, ppl] step:54.875, 	loss: 1.644896149635315, 	ppl: 4.96624231338501
+***** Evaluating perplexity, Epoch 4/5, step 9.0 *****
+[eval loss, ppl] step:55.875, 	loss: 1.0766050815582275, 	ppl: 2.936530113220215
+[eval_CSTANCE loss, ppl] step:55.875, 	loss: 0.43132153153419495, 	ppl: 1.6887054443359375
+[eval_20Minuten loss, ppl] step:55.875, 	loss: 1.9471838474273682, 	ppl: 7.423161506652832
+[eval_FOMC loss, ppl] step:55.875, 	loss: 0.6494677662849426, 	ppl: 1.7544572353363037
+[eval_NumGLUEcm loss, ppl] step:55.875, 	loss: 4.229199409484863, 	ppl: 96.1419677734375
+[eval_ScienceQA loss, ppl] step:55.875, 	loss: 1.0627422332763672, 	ppl: 2.8800742626190186
+[eval_NumGLUEds loss, ppl] step:55.875, 	loss: 5.262735366821289, 	ppl: 148.45899963378906
+[eval_Py150 loss, ppl] step:55.875, 	loss: 3.2565624713897705, 	ppl: 23.867258071899414
+[eval_MeetingBank loss, ppl] step:55.875, 	loss: 1.645185112953186, 	ppl: 4.96689510345459
+***** Evaluating perplexity, Epoch 4/5, step 10.0 *****
+[eval loss, ppl] step:56.875, 	loss: 1.071887493133545, 	ppl: 2.919501781463623
+[eval_CSTANCE loss, ppl] step:56.875, 	loss: 0.43492624163627625, 	ppl: 1.6804474592208862
+[eval_20Minuten loss, ppl] step:56.875, 	loss: 1.9455815553665161, 	ppl: 7.429492950439453
+[eval_FOMC loss, ppl] step:56.875, 	loss: 0.6361303329467773, 	ppl: 1.7411584854125977
+[eval_NumGLUEcm loss, ppl] step:56.875, 	loss: 4.230495452880859, 	ppl: 95.72709655761719
+[eval_ScienceQA loss, ppl] step:56.875, 	loss: 1.0584253072738647, 	ppl: 2.8670198917388916
+[eval_NumGLUEds loss, ppl] step:56.875, 	loss: 5.285213470458984, 	ppl: 149.47100830078125
+[eval_Py150 loss, ppl] step:56.875, 	loss: 3.2646753787994385, 	ppl: 23.984012603759766
+[eval_MeetingBank loss, ppl] step:56.875, 	loss: 1.6451245546340942, 	ppl: 4.969084739685059
+***** Evaluating perplexity, Epoch 4/5, step 11.0 *****
+[eval loss, ppl] step:57.875, 	loss: 1.0668954849243164, 	ppl: 2.902989387512207
+[eval_CSTANCE loss, ppl] step:57.875, 	loss: 0.43064725399017334, 	ppl: 1.682898759841919
+[eval_20Minuten loss, ppl] step:57.875, 	loss: 1.9469176530838013, 	ppl: 7.439126968383789
+[eval_FOMC loss, ppl] step:57.875, 	loss: 0.6405618786811829, 	ppl: 1.7448149919509888
+[eval_NumGLUEcm loss, ppl] step:57.875, 	loss: 4.234091281890869, 	ppl: 97.23509216308594
+[eval_ScienceQA loss, ppl] step:57.875, 	loss: 1.0535967350006104, 	ppl: 2.851508378982544
+[eval_NumGLUEds loss, ppl] step:57.875, 	loss: 5.312708377838135, 	ppl: 151.82566833496094
+[eval_Py150 loss, ppl] step:57.875, 	loss: 3.270468235015869, 	ppl: 24.25652503967285
+[eval_MeetingBank loss, ppl] step:57.875, 	loss: 1.6460518836975098, 	ppl: 4.973518371582031
+***** Evaluating perplexity, Epoch 4/5, step 12.0 *****
+[eval loss, ppl] step:58.875, 	loss: 1.0620259046554565, 	ppl: 2.8873450756073
+[eval_CSTANCE loss, ppl] step:58.875, 	loss: 0.42744067311286926, 	ppl: 1.6845593452453613
+[eval_20Minuten loss, ppl] step:58.875, 	loss: 1.9485747814178467, 	ppl: 7.445173263549805
+[eval_FOMC loss, ppl] step:58.875, 	loss: 0.6326514482498169, 	ppl: 1.728940725326538
+[eval_NumGLUEcm loss, ppl] step:58.875, 	loss: 4.254247188568115, 	ppl: 99.20086669921875
+[eval_ScienceQA loss, ppl] step:58.875, 	loss: 1.048460602760315, 	ppl: 2.8366706371307373
+[eval_NumGLUEds loss, ppl] step:58.875, 	loss: 5.295895576477051, 	ppl: 150.25828552246094
+[eval_Py150 loss, ppl] step:58.875, 	loss: 3.2788469791412354, 	ppl: 24.368408203125
+[eval_MeetingBank loss, ppl] step:58.875, 	loss: 1.6465961933135986, 	ppl: 4.976342678070068
+[2025-10-21 22:24:59,789] [INFO] [logging.py:107:log_dist] [Rank 0] step=60, skipped=0, lr=[1e-05], mom=[(0.9, 0.95)]
+[2025-10-21 22:25:00,060] [INFO] [timer.py:264:stop] epoch=0/micro_step=480/global_step=60, RunningAvgSamplesPerSec=4.823779513121302, CurrSamplesPerSec=4.816214458877828, MemAllocated=9.6GB, MaxMemAllocated=26.87GB
+***** Evaluating perplexity, Epoch 4/5, step 13.0 *****
+[eval loss, ppl] step:59.875, 	loss: 1.057279109954834, 	ppl: 2.871854305267334
+[eval_CSTANCE loss, ppl] step:59.875, 	loss: 0.4264460802078247, 	ppl: 1.6871955394744873
+[eval_20Minuten loss, ppl] step:59.875, 	loss: 1.948765754699707, 	ppl: 7.457883358001709
+[eval_FOMC loss, ppl] step:59.875, 	loss: 0.6274887919425964, 	ppl: 1.7245163917541504
+[eval_NumGLUEcm loss, ppl] step:59.875, 	loss: 4.252505302429199, 	ppl: 100.91242980957031
+[eval_ScienceQA loss, ppl] step:59.875, 	loss: 1.042465329170227, 	ppl: 2.8211569786071777
+[eval_NumGLUEds loss, ppl] step:59.875, 	loss: 5.320347785949707, 	ppl: 153.1793212890625
+[eval_Py150 loss, ppl] step:59.875, 	loss: 3.2935216426849365, 	ppl: 24.614437103271484
+[eval_MeetingBank loss, ppl] step:59.875, 	loss: 1.6458381414413452, 	ppl: 4.972329616546631
+***** Evaluating perplexity, Epoch 4/5, step 14.0 *****
+[eval loss, ppl] step:60.875, 	loss: 1.052585482597351, 	ppl: 2.8576619625091553
+[eval_CSTANCE loss, ppl] step:60.875, 	loss: 0.4287079870700836, 	ppl: 1.6857304573059082
+[eval_20Minuten loss, ppl] step:60.875, 	loss: 1.9536712169647217, 	ppl: 7.476309776306152
+[eval_FOMC loss, ppl] step:60.875, 	loss: 0.614189088344574, 	ppl: 1.7104485034942627
+[eval_NumGLUEcm loss, ppl] step:60.875, 	loss: 4.246304035186768, 	ppl: 100.28001403808594
+[eval_ScienceQA loss, ppl] step:60.875, 	loss: 1.0374581813812256, 	ppl: 2.8058879375457764
+[eval_NumGLUEds loss, ppl] step:60.875, 	loss: 5.297811985015869, 	ppl: 151.61627197265625
+[eval_Py150 loss, ppl] step:60.875, 	loss: 3.290886163711548, 	ppl: 24.723297119140625
+[eval_MeetingBank loss, ppl] step:60.875, 	loss: 1.6469788551330566, 	ppl: 4.979883193969727
+saving model to /data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001/4...
+Sucessful saving model after epoch 4
+Beginning of Epoch 5/5, Total Micro Batches 125
+***** Evaluating perplexity, Epoch 5/5, step 0.0 *****
+[eval loss, ppl] step:62.5, 	loss: 1.043690800666809, 	ppl: 2.8326056003570557
+[eval_CSTANCE loss, ppl] step:62.5, 	loss: 0.4309656322002411, 	ppl: 1.6841734647750854
+[eval_20Minuten loss, ppl] step:62.5, 	loss: 1.956696629524231, 	ppl: 7.508631229400635
+[eval_FOMC loss, ppl] step:62.5, 	loss: 0.612004816532135, 	ppl: 1.7035167217254639
+[eval_NumGLUEcm loss, ppl] step:62.5, 	loss: 4.2690582275390625, 	ppl: 103.72996520996094
+[eval_ScienceQA loss, ppl] step:62.5, 	loss: 1.0289218425750732, 	ppl: 2.780872344970703
+[eval_NumGLUEds loss, ppl] step:62.5, 	loss: 5.340686798095703, 	ppl: 158.64503479003906
+[eval_Py150 loss, ppl] step:62.5, 	loss: 3.316971778869629, 	ppl: 25.263376235961914
+[eval_MeetingBank loss, ppl] step:62.5, 	loss: 1.6449716091156006, 	ppl: 4.978824138641357
+***** Evaluating perplexity, Epoch 5/5, step 1.0 *****
+[eval loss, ppl] step:63.5, 	loss: 1.0389004945755005, 	ppl: 2.8202760219573975
+[eval_CSTANCE loss, ppl] step:63.5, 	loss: 0.4257223904132843, 	ppl: 1.6827287673950195
+[eval_20Minuten loss, ppl] step:63.5, 	loss: 1.958980917930603, 	ppl: 7.534978866577148
+[eval_FOMC loss, ppl] step:63.5, 	loss: 0.6147228479385376, 	ppl: 1.70456862449646
+[eval_NumGLUEcm loss, ppl] step:63.5, 	loss: 4.3036088943481445, 	ppl: 109.65444946289062
+[eval_ScienceQA loss, ppl] step:63.5, 	loss: 1.0258631706237793, 	ppl: 2.768354654312134
+[eval_NumGLUEds loss, ppl] step:63.5, 	loss: 5.3907341957092285, 	ppl: 163.67843627929688
+[eval_Py150 loss, ppl] step:63.5, 	loss: 3.3208348751068115, 	ppl: 25.522600173950195
+[eval_MeetingBank loss, ppl] step:63.5, 	loss: 1.6470547914505005, 	ppl: 4.988547325134277
+***** Evaluating perplexity, Epoch 5/5, step 2.0 *****
+[eval loss, ppl] step:64.5, 	loss: 1.034394383430481, 	ppl: 2.8083701133728027
+[eval_CSTANCE loss, ppl] step:64.5, 	loss: 0.4286032021045685, 	ppl: 1.6913939714431763
+[eval_20Minuten loss, ppl] step:64.5, 	loss: 1.9651827812194824, 	ppl: 7.561341762542725
+[eval_FOMC loss, ppl] step:64.5, 	loss: 0.6195313334465027, 	ppl: 1.7061632871627808
+[eval_NumGLUEcm loss, ppl] step:64.5, 	loss: 4.331968784332275, 	ppl: 113.32689666748047
+[eval_ScienceQA loss, ppl] step:64.5, 	loss: 1.021438479423523, 	ppl: 2.75624942779541
+[eval_NumGLUEds loss, ppl] step:64.5, 	loss: 5.403728008270264, 	ppl: 168.4190673828125
+[eval_Py150 loss, ppl] step:64.5, 	loss: 3.3410723209381104, 	ppl: 25.89734649658203
+[eval_MeetingBank loss, ppl] step:64.5, 	loss: 1.6489020586013794, 	ppl: 4.990365982055664
+***** Evaluating perplexity, Epoch 5/5, step 3.0 *****
+[eval loss, ppl] step:65.5, 	loss: 1.0294612646102905, 	ppl: 2.796619415283203
+[eval_CSTANCE loss, ppl] step:65.5, 	loss: 0.4294830560684204, 	ppl: 1.6949368715286255
+[eval_20Minuten loss, ppl] step:65.5, 	loss: 1.9682087898254395, 	ppl: 7.584507942199707
+[eval_FOMC loss, ppl] step:65.5, 	loss: 0.6234404444694519, 	ppl: 1.703241229057312
+[eval_NumGLUEcm loss, ppl] step:65.5, 	loss: 4.3776535987854, 	ppl: 118.22557067871094
+[eval_ScienceQA loss, ppl] step:65.5, 	loss: 1.0171722173690796, 	ppl: 2.7421586513519287
+[eval_NumGLUEds loss, ppl] step:65.5, 	loss: 5.464466571807861, 	ppl: 177.42971801757812
+[eval_Py150 loss, ppl] step:65.5, 	loss: 3.350087881088257, 	ppl: 26.04505729675293
+[eval_MeetingBank loss, ppl] step:65.5, 	loss: 1.647801399230957, 	ppl: 4.996652603149414
+***** Evaluating perplexity, Epoch 5/5, step 4.0 *****
+[eval loss, ppl] step:66.5, 	loss: 1.024677038192749, 	ppl: 2.7842483520507812
+[eval_CSTANCE loss, ppl] step:66.5, 	loss: 0.4278569519519806, 	ppl: 1.6962401866912842
+[eval_20Minuten loss, ppl] step:66.5, 	loss: 1.974680781364441, 	ppl: 7.629565238952637
+[eval_FOMC loss, ppl] step:66.5, 	loss: 0.6290198564529419, 	ppl: 1.7144811153411865
+[eval_NumGLUEcm loss, ppl] step:66.5, 	loss: 4.4317240715026855, 	ppl: 126.57041931152344
+[eval_ScienceQA loss, ppl] step:66.5, 	loss: 1.0121043920516968, 	ppl: 2.7270169258117676
+[eval_NumGLUEds loss, ppl] step:66.5, 	loss: 5.524510383605957, 	ppl: 184.99339294433594
+[eval_Py150 loss, ppl] step:66.5, 	loss: 3.3667151927948, 	ppl: 26.503868103027344
+[eval_MeetingBank loss, ppl] step:66.5, 	loss: 1.6495249271392822, 	ppl: 5.008020401000977
+***** Evaluating perplexity, Epoch 5/5, step 5.0 *****
+[eval loss, ppl] step:67.5, 	loss: 1.019856333732605, 	ppl: 2.772982358932495
+[eval_CSTANCE loss, ppl] step:67.5, 	loss: 0.4306207597255707, 	ppl: 1.6964300870895386
+[eval_20Minuten loss, ppl] step:67.5, 	loss: 1.9755656719207764, 	ppl: 7.65056037902832
+[eval_FOMC loss, ppl] step:67.5, 	loss: 0.6314485669136047, 	ppl: 1.7187268733978271
+[eval_NumGLUEcm loss, ppl] step:67.5, 	loss: 4.460407733917236, 	ppl: 130.95481872558594
+[eval_ScienceQA loss, ppl] step:67.5, 	loss: 1.0072904825210571, 	ppl: 2.7126657962799072
+[eval_NumGLUEds loss, ppl] step:67.5, 	loss: 5.542203903198242, 	ppl: 191.00949096679688
+[eval_Py150 loss, ppl] step:67.5, 	loss: 3.3787310123443604, 	ppl: 26.768962860107422
+[eval_MeetingBank loss, ppl] step:67.5, 	loss: 1.6492509841918945, 	ppl: 5.007966041564941
+***** Evaluating perplexity, Epoch 5/5, step 6.0 *****
+[eval loss, ppl] step:68.5, 	loss: 1.0152095556259155, 	ppl: 2.7619128227233887
+[eval_CSTANCE loss, ppl] step:68.5, 	loss: 0.43448731303215027, 	ppl: 1.6998884677886963
+[eval_20Minuten loss, ppl] step:68.5, 	loss: 1.9801331758499146, 	ppl: 7.680813312530518
+[eval_FOMC loss, ppl] step:68.5, 	loss: 0.6342604756355286, 	ppl: 1.736714243888855
+[eval_NumGLUEcm loss, ppl] step:68.5, 	loss: 4.5230584144592285, 	ppl: 138.00848388671875
+[eval_ScienceQA loss, ppl] step:68.5, 	loss: 1.0024155378341675, 	ppl: 2.698801040649414
+[eval_NumGLUEds loss, ppl] step:68.5, 	loss: 5.619009017944336, 	ppl: 201.29132080078125
+[eval_Py150 loss, ppl] step:68.5, 	loss: 3.3858654499053955, 	ppl: 27.018936157226562
+[eval_MeetingBank loss, ppl] step:68.5, 	loss: 1.6512746810913086, 	ppl: 5.0136542320251465
+[2025-10-21 22:30:04,449] [INFO] [logging.py:107:log_dist] [Rank 0] step=70, skipped=0, lr=[1e-05], mom=[(0.9, 0.95)]
+[2025-10-21 22:30:04,837] [INFO] [timer.py:264:stop] epoch=0/micro_step=560/global_step=70, RunningAvgSamplesPerSec=4.829888201438439, CurrSamplesPerSec=4.772567333962749, MemAllocated=9.24GB, MaxMemAllocated=26.87GB
+***** Evaluating perplexity, Epoch 5/5, step 7.0 *****
+[eval loss, ppl] step:69.5, 	loss: 1.0104620456695557, 	ppl: 2.7502031326293945
+[eval_CSTANCE loss, ppl] step:69.5, 	loss: 0.43874332308769226, 	ppl: 1.7110424041748047
+[eval_20Minuten loss, ppl] step:69.5, 	loss: 1.9830197095870972, 	ppl: 7.704541206359863
+[eval_FOMC loss, ppl] step:69.5, 	loss: 0.6470799446105957, 	ppl: 1.7509881258010864
+[eval_NumGLUEcm loss, ppl] step:69.5, 	loss: 4.581380844116211, 	ppl: 147.52537536621094
+[eval_ScienceQA loss, ppl] step:69.5, 	loss: 0.9973199367523193, 	ppl: 2.6849024295806885
+[eval_NumGLUEds loss, ppl] step:69.5, 	loss: 5.665926456451416, 	ppl: 212.099609375
+[eval_Py150 loss, ppl] step:69.5, 	loss: 3.396038293838501, 	ppl: 27.342130661010742
+[eval_MeetingBank loss, ppl] step:69.5, 	loss: 1.6527327299118042, 	ppl: 5.026124000549316
+***** Evaluating perplexity, Epoch 5/5, step 8.0 *****
+[eval loss, ppl] step:70.5, 	loss: 1.0063047409057617, 	ppl: 2.740109920501709
+[eval_CSTANCE loss, ppl] step:70.5, 	loss: 0.4385412037372589, 	ppl: 1.70805025100708
+[eval_20Minuten loss, ppl] step:70.5, 	loss: 1.986281394958496, 	ppl: 7.732961177825928
+[eval_FOMC loss, ppl] step:70.5, 	loss: 0.6562110781669617, 	ppl: 1.771826148033142
+[eval_NumGLUEcm loss, ppl] step:70.5, 	loss: 4.639675140380859, 	ppl: 156.59768676757812
+[eval_ScienceQA loss, ppl] step:70.5, 	loss: 0.9925686120986938, 	ppl: 2.670811653137207
+[eval_NumGLUEds loss, ppl] step:70.5, 	loss: 5.710994243621826, 	ppl: 221.45611572265625
+[eval_Py150 loss, ppl] step:70.5, 	loss: 3.412374496459961, 	ppl: 27.66011619567871
+[eval_MeetingBank loss, ppl] step:70.5, 	loss: 1.6539835929870605, 	ppl: 5.037161350250244
+***** Evaluating perplexity, Epoch 5/5, step 9.0 *****
+[eval loss, ppl] step:71.5, 	loss: 1.001791000366211, 	ppl: 2.7286529541015625
+[eval_CSTANCE loss, ppl] step:71.5, 	loss: 0.4518316090106964, 	ppl: 1.7146241664886475
+[eval_20Minuten loss, ppl] step:71.5, 	loss: 1.9901787042617798, 	ppl: 7.755687236785889
+[eval_FOMC loss, ppl] step:71.5, 	loss: 0.6572093963623047, 	ppl: 1.7901740074157715
+[eval_NumGLUEcm loss, ppl] step:71.5, 	loss: 4.679345607757568, 	ppl: 165.15074157714844
+[eval_ScienceQA loss, ppl] step:71.5, 	loss: 0.9883430600166321, 	ppl: 2.658562660217285
+[eval_NumGLUEds loss, ppl] step:71.5, 	loss: 5.730173110961914, 	ppl: 226.69361877441406
+[eval_Py150 loss, ppl] step:71.5, 	loss: 3.417987108230591, 	ppl: 27.957048416137695
+[eval_MeetingBank loss, ppl] step:71.5, 	loss: 1.6553418636322021, 	ppl: 5.047651290893555
+***** Evaluating perplexity, Epoch 5/5, step 10.0 *****
+[eval loss, ppl] step:72.5, 	loss: 0.9970929622650146, 	ppl: 2.7178399562835693
+[eval_CSTANCE loss, ppl] step:72.5, 	loss: 0.44784873723983765, 	ppl: 1.7190217971801758
+[eval_20Minuten loss, ppl] step:72.5, 	loss: 1.9950530529022217, 	ppl: 7.7898077964782715
+[eval_FOMC loss, ppl] step:72.5, 	loss: 0.6703319549560547, 	ppl: 1.8158661127090454
+[eval_NumGLUEcm loss, ppl] step:72.5, 	loss: 4.723756313323975, 	ppl: 169.56443786621094
+[eval_ScienceQA loss, ppl] step:72.5, 	loss: 0.9847446084022522, 	ppl: 2.645794630050659
+[eval_NumGLUEds loss, ppl] step:72.5, 	loss: 5.794684886932373, 	ppl: 237.13711547851562
+[eval_Py150 loss, ppl] step:72.5, 	loss: 3.429358959197998, 	ppl: 28.182422637939453
+[eval_MeetingBank loss, ppl] step:72.5, 	loss: 1.6567779779434204, 	ppl: 5.054892539978027
+***** Evaluating perplexity, Epoch 5/5, step 11.0 *****
+[eval loss, ppl] step:73.5, 	loss: 0.9923079013824463, 	ppl: 2.7067337036132812
+[eval_CSTANCE loss, ppl] step:73.5, 	loss: 0.4557311534881592, 	ppl: 1.719525694847107
+[eval_20Minuten loss, ppl] step:73.5, 	loss: 1.9982061386108398, 	ppl: 7.828086853027344
+[eval_FOMC loss, ppl] step:73.5, 	loss: 0.6851193904876709, 	ppl: 1.852846384048462
+[eval_NumGLUEcm loss, ppl] step:73.5, 	loss: 4.761690139770508, 	ppl: 177.65074157714844
+[eval_ScienceQA loss, ppl] step:73.5, 	loss: 0.9794732332229614, 	ppl: 2.6311635971069336
+[eval_NumGLUEds loss, ppl] step:73.5, 	loss: 5.827994346618652, 	ppl: 242.15440368652344
+[eval_Py150 loss, ppl] step:73.5, 	loss: 3.4416589736938477, 	ppl: 28.515214920043945
+[eval_MeetingBank loss, ppl] step:73.5, 	loss: 1.6601603031158447, 	ppl: 5.062794208526611
+***** Evaluating perplexity, Epoch 5/5, step 12.0 *****
+[eval loss, ppl] step:74.5, 	loss: 0.9877336621284485, 	ppl: 2.6937708854675293
+[eval_CSTANCE loss, ppl] step:74.5, 	loss: 0.454114705324173, 	ppl: 1.7267136573791504
+[eval_20Minuten loss, ppl] step:74.5, 	loss: 2.001513957977295, 	ppl: 7.842817783355713
+[eval_FOMC loss, ppl] step:74.5, 	loss: 0.6930158734321594, 	ppl: 1.8620662689208984
+[eval_NumGLUEcm loss, ppl] step:74.5, 	loss: 4.746405124664307, 	ppl: 183.1947021484375
+[eval_ScienceQA loss, ppl] step:74.5, 	loss: 0.9762866497039795, 	ppl: 2.6193933486938477
+[eval_NumGLUEds loss, ppl] step:74.5, 	loss: 5.82695198059082, 	ppl: 248.30409240722656
+[eval_Py150 loss, ppl] step:74.5, 	loss: 3.4549641609191895, 	ppl: 28.79501724243164
+[eval_MeetingBank loss, ppl] step:74.5, 	loss: 1.660146951675415, 	ppl: 5.066334247589111
+***** Evaluating perplexity, Epoch 5/5, step 13.0 *****
+[eval loss, ppl] step:75.5, 	loss: 0.9830135703086853, 	ppl: 2.6818203926086426
+[eval_CSTANCE loss, ppl] step:75.5, 	loss: 0.45613333582878113, 	ppl: 1.7250432968139648
+[eval_20Minuten loss, ppl] step:75.5, 	loss: 2.0058393478393555, 	ppl: 7.88430643081665
+[eval_FOMC loss, ppl] step:75.5, 	loss: 0.7057523131370544, 	ppl: 1.8844234943389893
+[eval_NumGLUEcm loss, ppl] step:75.5, 	loss: 4.774355888366699, 	ppl: 187.16183471679688
+[eval_ScienceQA loss, ppl] step:75.5, 	loss: 0.971616268157959, 	ppl: 2.6053009033203125
+[eval_NumGLUEds loss, ppl] step:75.5, 	loss: 5.851131916046143, 	ppl: 251.87234497070312
+[eval_Py150 loss, ppl] step:75.5, 	loss: 3.4681196212768555, 	ppl: 29.059478759765625
+[eval_MeetingBank loss, ppl] step:75.5, 	loss: 1.6615478992462158, 	ppl: 5.077816963195801
+***** Evaluating perplexity, Epoch 5/5, step 14.0 *****
+[eval loss, ppl] step:76.5, 	loss: 0.9782909750938416, 	ppl: 2.6697468757629395
+[eval_CSTANCE loss, ppl] step:76.5, 	loss: 0.47159212827682495, 	ppl: 1.7329695224761963
+[eval_20Minuten loss, ppl] step:76.5, 	loss: 2.0087802410125732, 	ppl: 7.905814170837402
+[eval_FOMC loss, ppl] step:76.5, 	loss: 0.7049687504768372, 	ppl: 1.8920526504516602
+[eval_NumGLUEcm loss, ppl] step:76.5, 	loss: 4.789456367492676, 	ppl: 189.99423217773438
+[eval_ScienceQA loss, ppl] step:76.5, 	loss: 0.9665570259094238, 	ppl: 2.593510627746582
+[eval_NumGLUEds loss, ppl] step:76.5, 	loss: 5.857691287994385, 	ppl: 253.30783081054688
+[eval_Py150 loss, ppl] step:76.5, 	loss: 3.4741992950439453, 	ppl: 29.257383346557617
+[eval_MeetingBank loss, ppl] step:76.5, 	loss: 1.660768747329712, 	ppl: 5.081113815307617
+saving model to /data1/TAP/model_con/1020/ours_C-STANCE_FOMC_MeetingBank_ScienceQA_epoch5_Llama3Exp_0.001/5...
+[2025-10-21 22:34:20,122] [INFO] [launch.py:351:main] Process 1943724 exits successfully.
+[2025-10-21 22:34:20,123] [INFO] [launch.py:351:main] Process 1943725 exits successfully.
+[2025-10-21 22:34:20,123] [INFO] [launch.py:351:main] Process 1943726 exits successfully.
+Sucessful saving model after epoch 5
+[2025-10-21 22:34:30,134] [INFO] [launch.py:351:main] Process 1943723 exits successfully.

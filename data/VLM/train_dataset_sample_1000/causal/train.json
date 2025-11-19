@@ -1,0 +1,5002 @@
+[
+  {
+    "prompt": "Why is the sun shining?",
+    "answer": "daytime",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000259498.jpg"
+  },
+  {
+    "prompt": "Why are the ears on this bear straight up?",
+    "answer": "listening",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000239888.jpg"
+  },
+  {
+    "prompt": "Why is the man wearing gloves?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000135163.jpg"
+  },
+  {
+    "prompt": "Why do you think the intended consumer of this meal might be very hungry?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000272991.jpg"
+  },
+  {
+    "prompt": "Why are the women using an umbrella?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000219909.jpg"
+  },
+  {
+    "prompt": "Why is the man raising his eyebrow?",
+    "answer": "surprised",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000231378.jpg"
+  },
+  {
+    "prompt": "Why would he be dressed like this?",
+    "answer": "work",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000307316.jpg"
+  },
+  {
+    "prompt": "Why is this rescue vehicle in the field?",
+    "answer": "display",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000401235.jpg"
+  },
+  {
+    "prompt": "Why is train smoking?",
+    "answer": "fire",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000097599.jpg"
+  },
+  {
+    "prompt": "Why are the cows walking down the road?",
+    "answer": "cows",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000580418.jpg"
+  },
+  {
+    "prompt": "Why does the cat have an Elizabethan collar on?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000189617.jpg"
+  },
+  {
+    "prompt": "Why are they standing this way?",
+    "answer": "posing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000535517.jpg"
+  },
+  {
+    "prompt": "Why are the scissors in the basket with the nuts?",
+    "answer": "top",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000389335.jpg"
+  },
+  {
+    "prompt": "Why is there a jacket in the picture?",
+    "answer": "cold",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000218956.jpg"
+  },
+  {
+    "prompt": "Why aren't the columns of lights at 90 degree angles to each other?",
+    "answer": "not sure",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000486541.jpg"
+  },
+  {
+    "prompt": "Why are the people wearing wetsuits?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000516345.jpg"
+  },
+  {
+    "prompt": "Why are the players wearing jack o lantern tops?",
+    "answer": "don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000385795.jpg"
+  },
+  {
+    "prompt": "Why is the cat in the sink?",
+    "answer": "resting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000327769.jpg"
+  },
+  {
+    "prompt": "Why is the sign red?",
+    "answer": "stop sign",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000388744.jpg"
+  },
+  {
+    "prompt": "Why does the horse have a number \"4\" on its back?",
+    "answer": "racing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000385804.jpg"
+  },
+  {
+    "prompt": "Why does the bus have 2 floors?",
+    "answer": "cool",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000044494.jpg"
+  },
+  {
+    "prompt": "Why does the skier have his knees bent?",
+    "answer": "jumping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000288223.jpg"
+  },
+  {
+    "prompt": "Why is the zebra alone?",
+    "answer": "zoo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000230305.jpg"
+  },
+  {
+    "prompt": "Why are the lights blurred?",
+    "answer": "it's raining",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000530919.jpg"
+  },
+  {
+    "prompt": "Why would tourists gather here?",
+    "answer": "bus station",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000208927.jpg"
+  },
+  {
+    "prompt": "Why is there a ladder on the pole?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000523955.jpg"
+  },
+  {
+    "prompt": "Why don't the two men have shirts on?",
+    "answer": "hot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000030247.jpg"
+  },
+  {
+    "prompt": "Why are his pockets bulging out?",
+    "answer": "balls",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000487112.jpg"
+  },
+  {
+    "prompt": "Why is the lady hugging this fire hydrant?",
+    "answer": "love",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000215776.jpg"
+  },
+  {
+    "prompt": "Why are they dressed in pink?",
+    "answer": "uniform",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000008305.jpg"
+  },
+  {
+    "prompt": "Why style of skiing are the people doing?",
+    "answer": "cross country",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000017018.jpg"
+  },
+  {
+    "prompt": "Why are there three pieces of paper on the nightstand?",
+    "answer": "art",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000059704.jpg"
+  },
+  {
+    "prompt": "Why is this blue and green?",
+    "answer": "plants",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000363570.jpg"
+  },
+  {
+    "prompt": "Why is the board tethered?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000323091.jpg"
+  },
+  {
+    "prompt": "Why is there no color?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000449947.jpg"
+  },
+  {
+    "prompt": "Why is the man bearing this teeth?",
+    "answer": "brushing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000376241.jpg"
+  },
+  {
+    "prompt": "Why is the dog so happy?",
+    "answer": "drinking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000372128.jpg"
+  },
+  {
+    "prompt": "Why are they so happy on?",
+    "answer": "phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000137715.jpg"
+  },
+  {
+    "prompt": "Why does he seem suspended in the air?",
+    "answer": "jumping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000149185.jpg"
+  },
+  {
+    "prompt": "Why are the trees bare?",
+    "answer": "dead",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000192818.jpg"
+  },
+  {
+    "prompt": "Why is everything white?",
+    "answer": "snow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000142123.jpg"
+  },
+  {
+    "prompt": "Why is there a blue strap on the front of the white truck?",
+    "answer": "towing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000041233.jpg"
+  },
+  {
+    "prompt": "Why isn't the car on the right, the one with it's headlights, not moving?",
+    "answer": "red light",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000260048.jpg"
+  },
+  {
+    "prompt": "Why are there two spigots instead of one?",
+    "answer": "design",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000489606.jpg"
+  },
+  {
+    "prompt": "Why is this man standing?",
+    "answer": "posing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000016080.jpg"
+  },
+  {
+    "prompt": "Why are they doing this?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000146397.jpg"
+  },
+  {
+    "prompt": "Why so much to eat?",
+    "answer": "hungry",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000395745.jpg"
+  },
+  {
+    "prompt": "Why is the paddle board in the air?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000563163.jpg"
+  },
+  {
+    "prompt": "Why is there so much steam on top of the train?",
+    "answer": "coal",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000519601.jpg"
+  },
+  {
+    "prompt": "Why is the plane not moving?",
+    "answer": "parked",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000511146.jpg"
+  },
+  {
+    "prompt": "Why are the man's arms stretched forward?",
+    "answer": "flying kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000371201.jpg"
+  },
+  {
+    "prompt": "Why do the blue lines fade with distance from the flag?",
+    "answer": "don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000194525.jpg"
+  },
+  {
+    "prompt": "Why are they wearing goggles?",
+    "answer": "they aren't",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000510342.jpg"
+  },
+  {
+    "prompt": "Why are people wearing sunglasses when there is snow on the ground?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000322507.jpg"
+  },
+  {
+    "prompt": "Why isn't the man standing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000094026.jpg"
+  },
+  {
+    "prompt": "Why is this a non-stop bus?",
+    "answer": "unknown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000219144.jpg"
+  },
+  {
+    "prompt": "Why is there a border around the stop sign?",
+    "answer": "visibility",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000391436.jpg"
+  },
+  {
+    "prompt": "Why is he hugging his racket?",
+    "answer": "comfort",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000236288.jpg"
+  },
+  {
+    "prompt": "Why is it safe for the pedestrian to cross?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000496401.jpg"
+  },
+  {
+    "prompt": "Why is there so many lights?",
+    "answer": "nighttime",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000036864.jpg"
+  },
+  {
+    "prompt": "Why are the elephants following one another?",
+    "answer": "herd",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000216332.jpg"
+  },
+  {
+    "prompt": "Why is he wearing a wetsuit?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000395341.jpg"
+  },
+  {
+    "prompt": "Why is there a chair in the bathtub?",
+    "answer": "stool",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000019428.jpg"
+  },
+  {
+    "prompt": "Why type of boat is this?",
+    "answer": "yacht",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000235177.jpg"
+  },
+  {
+    "prompt": "Why is the toilet paper low?",
+    "answer": "people",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000458592.jpg"
+  },
+  {
+    "prompt": "Why is the train stopped?",
+    "answer": "passengers",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000211788.jpg"
+  },
+  {
+    "prompt": "Why is there a net over the court?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000007023.jpg"
+  },
+  {
+    "prompt": "Why might a large beacon light be stationed onboard this boat?",
+    "answer": "fishing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000325265.jpg"
+  },
+  {
+    "prompt": "Why is she looking back?",
+    "answer": "looking at camera",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000427166.jpg"
+  },
+  {
+    "prompt": "Why do people take the train?",
+    "answer": "transportation",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000405677.jpg"
+  },
+  {
+    "prompt": "Why is pizza in the drawer?",
+    "answer": "box",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000092331.jpg"
+  },
+  {
+    "prompt": "Why are they wearing yellow suits?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000454940.jpg"
+  },
+  {
+    "prompt": "Why are eyes placed on this hydrant?",
+    "answer": "fun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000020398.jpg"
+  },
+  {
+    "prompt": "Why aren't the men wearing tennis shoes on the beach?",
+    "answer": "sand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000246782.jpg"
+  },
+  {
+    "prompt": "Why is there only one bird feeding?",
+    "answer": "not sure",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000540656.jpg"
+  },
+  {
+    "prompt": "Why are the men jumping?",
+    "answer": "playing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000453932.jpg"
+  },
+  {
+    "prompt": "Why are there several elephants gathered at this place?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000291117.jpg"
+  },
+  {
+    "prompt": "Why are they standing in the surf?",
+    "answer": "kayaking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000068662.jpg"
+  },
+  {
+    "prompt": "Why are people watching the animals?",
+    "answer": "dog show",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000355234.jpg"
+  },
+  {
+    "prompt": "Why are the cars there?",
+    "answer": "gas",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000406699.jpg"
+  },
+  {
+    "prompt": "Why is the mirror posted here?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000083246.jpg"
+  },
+  {
+    "prompt": "Why isn't he wearing a shirt?",
+    "answer": "hot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000219486.jpg"
+  },
+  {
+    "prompt": "Why are they playing this game?",
+    "answer": "for fun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000207668.jpg"
+  },
+  {
+    "prompt": "Why is the road flooded?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000007819.jpg"
+  },
+  {
+    "prompt": "Why are they wearing such bright colors?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000401330.jpg"
+  },
+  {
+    "prompt": "Why can't the street lamp be illuminated?",
+    "answer": "broken",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000219905.jpg"
+  },
+  {
+    "prompt": "Why is this cat a nuisance at the time in the picture?",
+    "answer": "sleeping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000157405.jpg"
+  },
+  {
+    "prompt": "Why is the person using an umbrella?",
+    "answer": "raining",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000001216.jpg"
+  },
+  {
+    "prompt": "Why is it dark outside?",
+    "answer": "night",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000412901.jpg"
+  },
+  {
+    "prompt": "Why are there wires in the black bag?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000032610.jpg"
+  },
+  {
+    "prompt": "Why does the skier have numbers on their shirt?",
+    "answer": "racing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000328605.jpg"
+  },
+  {
+    "prompt": "Why would one think the owner of this vehicle is a surfer?",
+    "answer": "surfboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000514127.jpg"
+  },
+  {
+    "prompt": "Why are they wearing stickers?",
+    "answer": "meeting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000044827.jpg"
+  },
+  {
+    "prompt": "Why is the lid down?",
+    "answer": "don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000556202.jpg"
+  },
+  {
+    "prompt": "Why is this toilet different from other toilets?",
+    "answer": "wooden",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000289344.jpg"
+  },
+  {
+    "prompt": "Why is it too deep?",
+    "answer": "it's not",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000074415.jpg"
+  },
+  {
+    "prompt": "Why is the bear in the washing machine?",
+    "answer": "dirty",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000079559.jpg"
+  },
+  {
+    "prompt": "Why is the image of the vehicle blurred?",
+    "answer": "distance",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000151599.jpg"
+  },
+  {
+    "prompt": "Why are the animals marked with orange?",
+    "answer": "horses",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000491739.jpg"
+  },
+  {
+    "prompt": "Why is there a white tag on the luggage?",
+    "answer": "identification",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000089694.jpg"
+  },
+  {
+    "prompt": "Why are there chains on the fire hydrant?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000487698.jpg"
+  },
+  {
+    "prompt": "Why do the men look so serious?",
+    "answer": "meeting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000040906.jpg"
+  },
+  {
+    "prompt": "Why is there fencing around the tree?",
+    "answer": "giraffes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000313518.jpg"
+  },
+  {
+    "prompt": "Why is the immature one in the middle?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000266696.jpg"
+  },
+  {
+    "prompt": "Why is the tram blurry?",
+    "answer": "moving",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000157314.jpg"
+  },
+  {
+    "prompt": "Why does this man have his feet on a stool?",
+    "answer": "comfort",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000053431.jpg"
+  },
+  {
+    "prompt": "Why is there a mask on the horse's face?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000213432.jpg"
+  },
+  {
+    "prompt": "Why do the cows have bells around their necks?",
+    "answer": "i don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000541556.jpg"
+  },
+  {
+    "prompt": "Why is this picture not in color?",
+    "answer": "old",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000128729.jpg"
+  },
+  {
+    "prompt": "Why is a man in the picture wearing sunglasses?",
+    "answer": "bright",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000077783.jpg"
+  },
+  {
+    "prompt": "Why are the lights blurry?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000164036.jpg"
+  },
+  {
+    "prompt": "Why is he wearing a helmet?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000103699.jpg"
+  },
+  {
+    "prompt": "Why is the sky partially under the snow in the background?",
+    "answer": "i don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000510096.jpg"
+  },
+  {
+    "prompt": "Why do they wear protection on their heads?",
+    "answer": "cold",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000382643.jpg"
+  },
+  {
+    "prompt": "Why is the cat looking out of the window?",
+    "answer": "curious",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000326116.jpg"
+  },
+  {
+    "prompt": "Why is there a reflection under the sink?",
+    "answer": "light",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000427736.jpg"
+  },
+  {
+    "prompt": "Why is the windshield so big?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000366282.jpg"
+  },
+  {
+    "prompt": "Why is the guy surfing?",
+    "answer": "fun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000225126.jpg"
+  },
+  {
+    "prompt": "Why is are the people on the skateboard in danger?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000002686.jpg"
+  },
+  {
+    "prompt": "Why is there a seat on the toilet bowl?",
+    "answer": "comfort",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000389455.jpg"
+  },
+  {
+    "prompt": "Why are the lights on?",
+    "answer": "foggy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000006733.jpg"
+  },
+  {
+    "prompt": "Why are the lights on?",
+    "answer": "dark",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000029308.jpg"
+  },
+  {
+    "prompt": "Why is the dog's mouth open?",
+    "answer": "to catch frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000314953.jpg"
+  },
+  {
+    "prompt": "Why are there straps on the suitcase?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000185432.jpg"
+  },
+  {
+    "prompt": "Why type of dog is this?",
+    "answer": "mutt",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000491660.jpg"
+  },
+  {
+    "prompt": "Why is the bear hanging on the fence?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000204603.jpg"
+  },
+  {
+    "prompt": "Why do they have art on the walls?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000493114.jpg"
+  },
+  {
+    "prompt": "Why do these items make you think of a policeman?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000104589.jpg"
+  },
+  {
+    "prompt": "Why is the bridge opening?",
+    "answer": "protest",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000074739.jpg"
+  },
+  {
+    "prompt": "Why is the bear holding baby items?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000252457.jpg"
+  },
+  {
+    "prompt": "Why so many people?",
+    "answer": "bikes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000241291.jpg"
+  },
+  {
+    "prompt": "Why can't the cat get out the window?",
+    "answer": "closed",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000468132.jpg"
+  },
+  {
+    "prompt": "Why is the man in the restaurant by himself eating a slice of pizza?",
+    "answer": "eating",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000252311.jpg"
+  },
+  {
+    "prompt": "Why is the man wearing a hat inside?",
+    "answer": "cold",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000161929.jpg"
+  },
+  {
+    "prompt": "Why is the stick in his belt?",
+    "answer": "it's not",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000052582.jpg"
+  },
+  {
+    "prompt": "Why are the scissor handles purple?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000416157.jpg"
+  },
+  {
+    "prompt": "Why is the person running?",
+    "answer": "surf",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000051157.jpg"
+  },
+  {
+    "prompt": "Why does the girl have hand protection on?",
+    "answer": "biking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000006489.jpg"
+  },
+  {
+    "prompt": "Why is part of this image in black and white?",
+    "answer": "old",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000082874.jpg"
+  },
+  {
+    "prompt": "Why would there be so many flowers?",
+    "answer": "surprise",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000422037.jpg"
+  },
+  {
+    "prompt": "Why do you think the dog is on the surfboard?",
+    "answer": "playing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000495048.jpg"
+  },
+  {
+    "prompt": "Why is the ground wet?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000135966.jpg"
+  },
+  {
+    "prompt": "Why are the electronics plugged into the wall?",
+    "answer": "charging",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000239427.jpg"
+  },
+  {
+    "prompt": "Why is he wearing a wet-suit?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000382527.jpg"
+  },
+  {
+    "prompt": "Why does the sky look gray?",
+    "answer": "clouds",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000286742.jpg"
+  },
+  {
+    "prompt": "Why is he sitting down?",
+    "answer": "resting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000170439.jpg"
+  },
+  {
+    "prompt": "Why is the man holding the shirt and tie by the jacket?",
+    "answer": "posing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000385555.jpg"
+  },
+  {
+    "prompt": "Why is the sky so blue?",
+    "answer": "dusk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000241790.jpg"
+  },
+  {
+    "prompt": "Why have these animals been tagged?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000388074.jpg"
+  },
+  {
+    "prompt": "Why do the people have umbrellas?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000330907.jpg"
+  },
+  {
+    "prompt": "Why are there toothpicks in the sandwich?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000415933.jpg"
+  },
+  {
+    "prompt": "Why are the windows open in the classroom?",
+    "answer": "hot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000126814.jpg"
+  },
+  {
+    "prompt": "Why is this black and white?",
+    "answer": "it isn't",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000379743.jpg"
+  },
+  {
+    "prompt": "Why are these people carrying umbrellas?",
+    "answer": "sunny",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000460294.jpg"
+  },
+  {
+    "prompt": "Why is there a bush on the road?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000539509.jpg"
+  },
+  {
+    "prompt": "Why is this area dimly lit?",
+    "answer": "buildings",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000478249.jpg"
+  },
+  {
+    "prompt": "Why are there holes in the photo?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000080556.jpg"
+  },
+  {
+    "prompt": "Why is the bike against the sign?",
+    "answer": "parked",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000399252.jpg"
+  },
+  {
+    "prompt": "Why is it empty?",
+    "answer": "rainy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000221754.jpg"
+  },
+  {
+    "prompt": "Why is the man wearing gloves?",
+    "answer": "batter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000005152.jpg"
+  },
+  {
+    "prompt": "Why are there so many stickers on this laptop?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000388412.jpg"
+  },
+  {
+    "prompt": "Why does the nest look like a mess?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000575758.jpg"
+  },
+  {
+    "prompt": "Why does the image appear warped?",
+    "answer": "painted",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000419449.jpg"
+  },
+  {
+    "prompt": "Why is the person using scissors to cut the meal?",
+    "answer": "easy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000176841.jpg"
+  },
+  {
+    "prompt": "Why are the toothbrushes encased in plastic?",
+    "answer": "new",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000075230.jpg"
+  },
+  {
+    "prompt": "Why is she wearing a potholder on her arm?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000014629.jpg"
+  },
+  {
+    "prompt": "Why is the apple so perfectly shaped?",
+    "answer": "fake",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000290942.jpg"
+  },
+  {
+    "prompt": "Why are all these people on a boat?",
+    "answer": "rowing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000460030.jpg"
+  },
+  {
+    "prompt": "Why was this picture taken so far away?",
+    "answer": "landscape",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000016362.jpg"
+  },
+  {
+    "prompt": "Why is the train stopped?",
+    "answer": "loading",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000253098.jpg"
+  },
+  {
+    "prompt": "Why is he wearing a black suit?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000010698.jpg"
+  },
+  {
+    "prompt": "Why are the train lights on now?",
+    "answer": "they aren't",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000320271.jpg"
+  },
+  {
+    "prompt": "Why are all the pots outside?",
+    "answer": "cooking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000442557.jpg"
+  },
+  {
+    "prompt": "Why painted white color?",
+    "answer": "clean",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000368347.jpg"
+  },
+  {
+    "prompt": "Why is the guy jumping?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000247360.jpg"
+  },
+  {
+    "prompt": "Why is the one on the right missing a pepperoni?",
+    "answer": "eaten",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000284703.jpg"
+  },
+  {
+    "prompt": "Why does the wave look green?",
+    "answer": "reflection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000309551.jpg"
+  },
+  {
+    "prompt": "Why is there a tree in the room?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000532239.jpg"
+  },
+  {
+    "prompt": "Why is the laptop tilted?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000416644.jpg"
+  },
+  {
+    "prompt": "Why is the player looking backwards?",
+    "answer": "ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000033005.jpg"
+  },
+  {
+    "prompt": "Why do you like this photo?",
+    "answer": "bmw",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000324537.jpg"
+  },
+  {
+    "prompt": "Why is he wearing a scarf?",
+    "answer": "cold",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000042752.jpg"
+  },
+  {
+    "prompt": "Why is the tennis racket look so big?",
+    "answer": "close up",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000037140.jpg"
+  },
+  {
+    "prompt": "Why is the temperature of the orange so high?",
+    "answer": "light",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000326390.jpg"
+  },
+  {
+    "prompt": "Why is the baseball playing staring at?",
+    "answer": "pitcher",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000393027.jpg"
+  },
+  {
+    "prompt": "Why is this man upset?",
+    "answer": "cell phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000239307.jpg"
+  },
+  {
+    "prompt": "Why is he jumping so high?",
+    "answer": "playing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000222654.jpg"
+  },
+  {
+    "prompt": "Why is a microphone being held in front of the man?",
+    "answer": "talking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000107204.jpg"
+  },
+  {
+    "prompt": "Why can't the cow eat grass here?",
+    "answer": "no grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000179405.jpg"
+  },
+  {
+    "prompt": "Why is the cat on the chair?",
+    "answer": "sitting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000227826.jpg"
+  },
+  {
+    "prompt": "Why there is a fence there?",
+    "answer": "boundaries",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000153973.jpg"
+  },
+  {
+    "prompt": "Why is he wearing a knit hat?",
+    "answer": "cold",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000465814.jpg"
+  },
+  {
+    "prompt": "Why are the lights on the ambulance on?",
+    "answer": "emergency",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000507776.jpg"
+  },
+  {
+    "prompt": "Why is the teddy bear laying on the sidewalk?",
+    "answer": "reading",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000127654.jpg"
+  },
+  {
+    "prompt": "Why are there toothpicks in the sandwich?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000475421.jpg"
+  },
+  {
+    "prompt": "Why are the lights out?",
+    "answer": "daytime",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000185473.jpg"
+  },
+  {
+    "prompt": "Why is there soap on the sink?",
+    "answer": "cleaning",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000268130.jpg"
+  },
+  {
+    "prompt": "Why is light reflecting off the loveseat?",
+    "answer": "lamp",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000358066.jpg"
+  },
+  {
+    "prompt": "Why is there fire everywhere?",
+    "answer": "fire",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000244171.jpg"
+  },
+  {
+    "prompt": "Why is there no ice in the water?",
+    "answer": "cool",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000515660.jpg"
+  },
+  {
+    "prompt": "Why is the board tied to a leash?",
+    "answer": "control",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000531396.jpg"
+  },
+  {
+    "prompt": "Why is the sign near the dog in German?",
+    "answer": "it's not",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000507028.jpg"
+  },
+  {
+    "prompt": "Why is the girl wearing a tie?",
+    "answer": "don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000182957.jpg"
+  },
+  {
+    "prompt": "Why are his hands outstretched?",
+    "answer": "balance",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000320461.jpg"
+  },
+  {
+    "prompt": "Why might these people be campers?",
+    "answer": "tent",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000347496.jpg"
+  },
+  {
+    "prompt": "Why are some people wearing ponchos?",
+    "answer": "raining",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000213922.jpg"
+  },
+  {
+    "prompt": "Why is the bench red?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000157610.jpg"
+  },
+  {
+    "prompt": "Why is there a man behind the catcher?",
+    "answer": "umpire",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000573107.jpg"
+  },
+  {
+    "prompt": "Why do the zebras have their heads down?",
+    "answer": "eating",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000242100.jpg"
+  },
+  {
+    "prompt": "Why is the man smiling?",
+    "answer": "happy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000525012.jpg"
+  },
+  {
+    "prompt": "Why does he wear that hard hat?",
+    "answer": "construction",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000351134.jpg"
+  },
+  {
+    "prompt": "Why are there two soap holders?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000495518.jpg"
+  },
+  {
+    "prompt": "Why are the horses heads bent down?",
+    "answer": "walking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000224845.jpg"
+  },
+  {
+    "prompt": "Why are the people wearing hats?",
+    "answer": "cold",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000573750.jpg"
+  },
+  {
+    "prompt": "Why are they on the sill?",
+    "answer": "relaxing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000002606.jpg"
+  },
+  {
+    "prompt": "Why does she look like she is taking a poo?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000240243.jpg"
+  },
+  {
+    "prompt": "Why is this man in this stance?",
+    "answer": "playing frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000552188.jpg"
+  },
+  {
+    "prompt": "Why would people have curtains on the window?",
+    "answer": "privacy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000354517.jpg"
+  },
+  {
+    "prompt": "Why is there a fire?",
+    "answer": "fireplace",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000485080.jpg"
+  },
+  {
+    "prompt": "Why is the snow in the air?",
+    "answer": "jumping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000152211.jpg"
+  },
+  {
+    "prompt": "Why is the grown up beside the child?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000221317.jpg"
+  },
+  {
+    "prompt": "Why are there indentations on the sink in the shape of a square?",
+    "answer": "tiles",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000116078.jpg"
+  },
+  {
+    "prompt": "Why are the two older men standing to the far right?",
+    "answer": "posing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000096765.jpg"
+  },
+  {
+    "prompt": "Why is there so much foam in the cases?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000244540.jpg"
+  },
+  {
+    "prompt": "Why does the giraffe have lumps on its head?",
+    "answer": "balance",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000148808.jpg"
+  },
+  {
+    "prompt": "Why is the little girl holding her arms up?",
+    "answer": "flying kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000570075.jpg"
+  },
+  {
+    "prompt": "Why is the boy happy?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000090149.jpg"
+  },
+  {
+    "prompt": "Why are there green cones on the pavement?",
+    "answer": "cones",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000570078.jpg"
+  },
+  {
+    "prompt": "Why are the cars lights on?",
+    "answer": "raining",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000069117.jpg"
+  },
+  {
+    "prompt": "Why are the dogs eyes green?",
+    "answer": "light",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000535265.jpg"
+  },
+  {
+    "prompt": "Why is the man blurry?",
+    "answer": "in motion",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000117317.jpg"
+  },
+  {
+    "prompt": "Why is the sofa so low?",
+    "answer": "design",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000119488.jpg"
+  },
+  {
+    "prompt": "Why can we only see one of the woman's hands?",
+    "answer": "baseball glove",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000157696.jpg"
+  },
+  {
+    "prompt": "Why is the street dark on the side of the bus?",
+    "answer": "dusk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000093262.jpg"
+  },
+  {
+    "prompt": "Why is this bear in a tree?",
+    "answer": "taking picture",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000458132.jpg"
+  },
+  {
+    "prompt": "Why are the images dark?",
+    "answer": "night",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000325243.jpg"
+  },
+  {
+    "prompt": "Why are they all dressed in Santa suits?",
+    "answer": "parade",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000492975.jpg"
+  },
+  {
+    "prompt": "Why is this plane shooting out red material onto a forest?",
+    "answer": "it's not",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000059565.jpg"
+  },
+  {
+    "prompt": "Why is the fridge open?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000048037.jpg"
+  },
+  {
+    "prompt": "Why is the lighthouse here?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000446452.jpg"
+  },
+  {
+    "prompt": "Why are the two men behind the player dressed exactly alike?",
+    "answer": "team",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000327810.jpg"
+  },
+  {
+    "prompt": "Why is the horse tied up this way?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000355571.jpg"
+  },
+  {
+    "prompt": "Why is the man wearing a wetsuit?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000115898.jpg"
+  },
+  {
+    "prompt": "Why is he wearing a hoodie sweater?",
+    "answer": "cold",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000043324.jpg"
+  },
+  {
+    "prompt": "Why do the cat's ears look transparent?",
+    "answer": "sunlight",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000291490.jpg"
+  },
+  {
+    "prompt": "Why is the person holding a racket?",
+    "answer": "playing tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000228161.jpg"
+  },
+  {
+    "prompt": "Why is this cat laying on the bed?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000522441.jpg"
+  },
+  {
+    "prompt": "Why is only one person not facing the camera?",
+    "answer": "leaving",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000036123.jpg"
+  },
+  {
+    "prompt": "Why do the people have umbrellas?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000074902.jpg"
+  },
+  {
+    "prompt": "Why do the pet's eyes seem to glow?",
+    "answer": "light",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000390262.jpg"
+  },
+  {
+    "prompt": "Why is that truck there?",
+    "answer": "safari",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000178034.jpg"
+  },
+  {
+    "prompt": "Why type of flooring do you see?",
+    "answer": "wood",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000005060.jpg"
+  },
+  {
+    "prompt": "Why are patches of paint missing from the bus?",
+    "answer": "old",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000439390.jpg"
+  },
+  {
+    "prompt": "Why do these animals have fur?",
+    "answer": "warmth",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000161757.jpg"
+  },
+  {
+    "prompt": "Why is he wearing all black?",
+    "answer": "fashion",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000407225.jpg"
+  },
+  {
+    "prompt": "Why is the blond man smiling?",
+    "answer": "happy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000348331.jpg"
+  },
+  {
+    "prompt": "Why is the pizza inside of a glass case?",
+    "answer": "display",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000329675.jpg"
+  },
+  {
+    "prompt": "Why is a person in the background on the ground?",
+    "answer": "fell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000383933.jpg"
+  },
+  {
+    "prompt": "Why is the doll in bed?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000025717.jpg"
+  },
+  {
+    "prompt": "Why is this bus so much taller than the one next to it?",
+    "answer": "double decker",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000533107.jpg"
+  },
+  {
+    "prompt": "Why are the birds spreading their wings?",
+    "answer": "flying",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000085472.jpg"
+  },
+  {
+    "prompt": "Why are two of the traffic lights light at once?",
+    "answer": "broken",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000171758.jpg"
+  },
+  {
+    "prompt": "Why is the man's hand up in the air?",
+    "answer": "hitting ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000123968.jpg"
+  },
+  {
+    "prompt": "Why are the people getting on the plane?",
+    "answer": "flying",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000390496.jpg"
+  },
+  {
+    "prompt": "Why type of room is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000132313.jpg"
+  },
+  {
+    "prompt": "Why is he coming down the stairs?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000105901.jpg"
+  },
+  {
+    "prompt": "Why are there fences around the plants in the back?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000171468.jpg"
+  },
+  {
+    "prompt": "Why is part of the computer in the shade?",
+    "answer": "keyboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000451213.jpg"
+  },
+  {
+    "prompt": "Why this man is too happy?",
+    "answer": "he isn't",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000135326.jpg"
+  },
+  {
+    "prompt": "Why are the animals in the shade?",
+    "answer": "hot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000431569.jpg"
+  },
+  {
+    "prompt": "Why is she wearing gloves?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000371514.jpg"
+  },
+  {
+    "prompt": "Why the piggy back?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000309434.jpg"
+  },
+  {
+    "prompt": "Why is the duck in the water?",
+    "answer": "swimming",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000408502.jpg"
+  },
+  {
+    "prompt": "Why would a person have three computers on one desk?",
+    "answer": "work",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000516916.jpg"
+  },
+  {
+    "prompt": "Why are the donuts so small?",
+    "answer": "advertisement",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000285397.jpg"
+  },
+  {
+    "prompt": "Why are there sheep on the grass?",
+    "answer": "grazing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000501346.jpg"
+  },
+  {
+    "prompt": "Why does the sandwich have stripes on it?",
+    "answer": "grilled",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000104891.jpg"
+  },
+  {
+    "prompt": "Why is there a fence between the elephant and the people?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000309206.jpg"
+  },
+  {
+    "prompt": "Why is the bus out of focus in this photograph?",
+    "answer": "moving",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000449250.jpg"
+  },
+  {
+    "prompt": "Why is the man's tie flying?",
+    "answer": "running",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000551316.jpg"
+  },
+  {
+    "prompt": "Why aren't people's faces visible?",
+    "answer": "hat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000064417.jpg"
+  },
+  {
+    "prompt": "Why would most people find this image distasteful?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000039913.jpg"
+  },
+  {
+    "prompt": "Why are there waves in the water?",
+    "answer": "wind",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000388297.jpg"
+  },
+  {
+    "prompt": "Why is the boy looking so serious?",
+    "answer": "can't tell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000417549.jpg"
+  },
+  {
+    "prompt": "Why does the desk look like its glowing in the dark?",
+    "answer": "lights",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000390311.jpg"
+  },
+  {
+    "prompt": "Why are there no passengers in this train station?",
+    "answer": "closed",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000017198.jpg"
+  },
+  {
+    "prompt": "Why ARE THE CHEESE AND CRACKERS SERVED?",
+    "answer": "party",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000569214.jpg"
+  },
+  {
+    "prompt": "Why are three of the oversized teddy bear's heads down on the table?",
+    "answer": "sleeping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000126163.jpg"
+  },
+  {
+    "prompt": "Why does the bus have to stop?",
+    "answer": "stop sign",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000342051.jpg"
+  },
+  {
+    "prompt": "Why are these men so happy?",
+    "answer": "birthday",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000301148.jpg"
+  },
+  {
+    "prompt": "Why are there balloons on the tablecloth?",
+    "answer": "birthday",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000023315.jpg"
+  },
+  {
+    "prompt": "Why is it so foggy?",
+    "answer": "raining",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000142581.jpg"
+  },
+  {
+    "prompt": "Why would someone live near there?",
+    "answer": "fun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000551015.jpg"
+  },
+  {
+    "prompt": "Why is his hat yellow?",
+    "answer": "it's not",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000108327.jpg"
+  },
+  {
+    "prompt": "Why is the stove outside?",
+    "answer": "broken",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000197266.jpg"
+  },
+  {
+    "prompt": "Why is this man in this stance?",
+    "answer": "to hit ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000048728.jpg"
+  },
+  {
+    "prompt": "Why is the laptop sitting above a larger keyboard?",
+    "answer": "not sure",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000434145.jpg"
+  },
+  {
+    "prompt": "Why is the cat on the sofa?",
+    "answer": "sleeping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000481313.jpg"
+  },
+  {
+    "prompt": "Why would it be hard for the sheep to engage in their regular eating habits?",
+    "answer": "no grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000525665.jpg"
+  },
+  {
+    "prompt": "Why is the toilet paper low?",
+    "answer": "it's not",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000146705.jpg"
+  },
+  {
+    "prompt": "Why are there so many clothes on the bed?",
+    "answer": "clean",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000381577.jpg"
+  },
+  {
+    "prompt": "Why is there smoke in the room?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000349915.jpg"
+  },
+  {
+    "prompt": "Why is the couch on top of the truck?",
+    "answer": "moving",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000028333.jpg"
+  },
+  {
+    "prompt": "Why is he wearing goggles?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000426754.jpg"
+  },
+  {
+    "prompt": "Why is she smiling?",
+    "answer": "happy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000380754.jpg"
+  },
+  {
+    "prompt": "Why is the elephant scratching its head against the tree?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000052145.jpg"
+  },
+  {
+    "prompt": "Why is the building red?",
+    "answer": "brick",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000045026.jpg"
+  },
+  {
+    "prompt": "Why are they sitting there?",
+    "answer": "resting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000380859.jpg"
+  },
+  {
+    "prompt": "Why did the man stop riding his skateboard?",
+    "answer": "texting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000057157.jpg"
+  },
+  {
+    "prompt": "Why is the man jumping up?",
+    "answer": "to hit ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000398798.jpg"
+  },
+  {
+    "prompt": "Why does the boy wearing blue have gloves on?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000581181.jpg"
+  },
+  {
+    "prompt": "Why is the woman laying down?",
+    "answer": "sunbathing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000014494.jpg"
+  },
+  {
+    "prompt": "Why is the dog in the purse?",
+    "answer": "comfort",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000365236.jpg"
+  },
+  {
+    "prompt": "Why are the mirrors at different heights?",
+    "answer": "handicap",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000468287.jpg"
+  },
+  {
+    "prompt": "Why does a red pole extend up from the fire hydrant?",
+    "answer": "visibility",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000313820.jpg"
+  },
+  {
+    "prompt": "Why is the man standing?",
+    "answer": "playing tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000033005.jpg"
+  },
+  {
+    "prompt": "Why is that dog so happy?",
+    "answer": "food",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000256628.jpg"
+  },
+  {
+    "prompt": "Why are the shadows cast?",
+    "answer": "sun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000167891.jpg"
+  },
+  {
+    "prompt": "Why is the beach dirty?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000208473.jpg"
+  },
+  {
+    "prompt": "Why are there stickers on the oranges?",
+    "answer": "brand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000133161.jpg"
+  },
+  {
+    "prompt": "Why is the street painted with lines?",
+    "answer": "crosswalk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000406909.jpg"
+  },
+  {
+    "prompt": "Why is the baby wearing a diaper?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000498418.jpg"
+  },
+  {
+    "prompt": "Why is the man in the hat sitting on a rock while animals move about?",
+    "answer": "resting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000450381.jpg"
+  },
+  {
+    "prompt": "Why is there a mirror on the ceiling?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000410350.jpg"
+  },
+  {
+    "prompt": "Why does the truck have orange flags on it?",
+    "answer": "caution",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000384164.jpg"
+  },
+  {
+    "prompt": "Why isn't someone getting rid of all this junk?",
+    "answer": "moving",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000105564.jpg"
+  },
+  {
+    "prompt": "Why are there 5 glasses?",
+    "answer": "foreground",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000576831.jpg"
+  },
+  {
+    "prompt": "Why are there umbrellas?",
+    "answer": "lighting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000509037.jpg"
+  },
+  {
+    "prompt": "Why is no one sitting on the bench?",
+    "answer": "can't tell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000263246.jpg"
+  },
+  {
+    "prompt": "Why are they standing?",
+    "answer": "leaving",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000418736.jpg"
+  },
+  {
+    "prompt": "Why is the shadow cast?",
+    "answer": "sun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000122182.jpg"
+  },
+  {
+    "prompt": "Why does the man have his hand out?",
+    "answer": "feeding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000279012.jpg"
+  },
+  {
+    "prompt": "Why are the other players in the background?",
+    "answer": "waiting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000498204.jpg"
+  },
+  {
+    "prompt": "Why does the person have an umbrella?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000411108.jpg"
+  },
+  {
+    "prompt": "Why is the toilet seat open?",
+    "answer": "male",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000563029.jpg"
+  },
+  {
+    "prompt": "Why is the top pizza blurry?",
+    "answer": "out of focus",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000131343.jpg"
+  },
+  {
+    "prompt": "Why is he smiling?",
+    "answer": "happy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000129068.jpg"
+  },
+  {
+    "prompt": "Why is there a ball where the seat should be?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000391480.jpg"
+  },
+  {
+    "prompt": "Why is the persons face covered?",
+    "answer": "cold",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000525813.jpg"
+  },
+  {
+    "prompt": "Why are the men wearing aprons?",
+    "answer": "cooking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000525180.jpg"
+  },
+  {
+    "prompt": "Why is the other man mad?",
+    "answer": "bored",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000230044.jpg"
+  },
+  {
+    "prompt": "Why are there no trees?",
+    "answer": "ocean",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000163436.jpg"
+  },
+  {
+    "prompt": "Why is this kid wet?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000099119.jpg"
+  },
+  {
+    "prompt": "Why are the sheep behind a gate?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000120524.jpg"
+  },
+  {
+    "prompt": "Why are the people wearing wetsuits?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000287760.jpg"
+  },
+  {
+    "prompt": "Why does she need an umbrella indoors?",
+    "answer": "photograph",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000318168.jpg"
+  },
+  {
+    "prompt": "Why does the bed appear to be distorted in the photograph?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000369973.jpg"
+  },
+  {
+    "prompt": "Why is the phone lying on top of a calculator?",
+    "answer": "not sure",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000561366.jpg"
+  },
+  {
+    "prompt": "Why is the umbrella so bright?",
+    "answer": "flashlight",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000178865.jpg"
+  },
+  {
+    "prompt": "Why are the people lying on their boards instead of standing on them?",
+    "answer": "for fun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000319542.jpg"
+  },
+  {
+    "prompt": "Why did the horse wander away?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000171208.jpg"
+  },
+  {
+    "prompt": "Why is it next to the street?",
+    "answer": "fire hydrant",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000192796.jpg"
+  },
+  {
+    "prompt": "Why would this man be bringing the dog along?",
+    "answer": "walk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000195463.jpg"
+  },
+  {
+    "prompt": "Why is the tennis player holding two tennis balls?",
+    "answer": "practice",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000273069.jpg"
+  },
+  {
+    "prompt": "Why is the woman smiling?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000375902.jpg"
+  },
+  {
+    "prompt": "Why would someone leave this toaster on the sidewalk?",
+    "answer": "broken",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000266914.jpg"
+  },
+  {
+    "prompt": "Why are there two computers?",
+    "answer": "2 people",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000163829.jpg"
+  },
+  {
+    "prompt": "Why are there old buildings in this area?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000377955.jpg"
+  },
+  {
+    "prompt": "Why is there a horse on the beach?",
+    "answer": "run",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000407102.jpg"
+  },
+  {
+    "prompt": "Why are the cat's eyes shining?",
+    "answer": "reflection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000423742.jpg"
+  },
+  {
+    "prompt": "Why is the image inside of a circle?",
+    "answer": "camera",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000053956.jpg"
+  },
+  {
+    "prompt": "Why is this dog sticking his head out?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000250801.jpg"
+  },
+  {
+    "prompt": "Why is there a metal door behind him?",
+    "answer": "security",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000165488.jpg"
+  },
+  {
+    "prompt": "Why isn't the man using the surfboard to surf?",
+    "answer": "no water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000084498.jpg"
+  },
+  {
+    "prompt": "Why is the child on the chair?",
+    "answer": "microwave",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000511392.jpg"
+  },
+  {
+    "prompt": "Why is the little boy grinning?",
+    "answer": "doughnut",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000201322.jpg"
+  },
+  {
+    "prompt": "Why are there circular shapes in the background?",
+    "answer": "food",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000445628.jpg"
+  },
+  {
+    "prompt": "Why are these people standing on top of the bus?",
+    "answer": "for photo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000433081.jpg"
+  },
+  {
+    "prompt": "Why are people looking at the animals?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000325055.jpg"
+  },
+  {
+    "prompt": "Why is the rear elephant touching the rope?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000173202.jpg"
+  },
+  {
+    "prompt": "Why is the man wearing protective gear?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000205002.jpg"
+  },
+  {
+    "prompt": "Why isn't he wearing shoes?",
+    "answer": "sand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000525100.jpg"
+  },
+  {
+    "prompt": "Why is he holding a phone?",
+    "answer": "selfie",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000184834.jpg"
+  },
+  {
+    "prompt": "Why is the bus parked along the side of the road?",
+    "answer": "boarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000086169.jpg"
+  },
+  {
+    "prompt": "Why is the man wearing a hat and gloves?",
+    "answer": "cold",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000194605.jpg"
+  },
+  {
+    "prompt": "Why is the little boy wearing a tie?",
+    "answer": "not",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000255010.jpg"
+  },
+  {
+    "prompt": "Why are the cows wearing ribbons?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000220770.jpg"
+  },
+  {
+    "prompt": "Why are scissors mounted like this?",
+    "answer": "art",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000559262.jpg"
+  },
+  {
+    "prompt": "Why do planes fly like this at times?",
+    "answer": "descending",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000287049.jpg"
+  },
+  {
+    "prompt": "Why can't you see the head of the giraffe in the background?",
+    "answer": "tree",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000094231.jpg"
+  },
+  {
+    "prompt": "Why use an umbrella today?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000381808.jpg"
+  },
+  {
+    "prompt": "Why is the teddy bear so dark?",
+    "answer": "old",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000093743.jpg"
+  },
+  {
+    "prompt": "Why is the paint discolored on the red door?",
+    "answer": "age",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000349958.jpg"
+  },
+  {
+    "prompt": "Why is the vase on the roof?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000213650.jpg"
+  },
+  {
+    "prompt": "Why is someone on top of the airplane?",
+    "answer": "flying",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000303637.jpg"
+  },
+  {
+    "prompt": "Why is the computer so high?",
+    "answer": "air",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000498690.jpg"
+  },
+  {
+    "prompt": "Why the boy is standing?",
+    "answer": "looking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000398488.jpg"
+  },
+  {
+    "prompt": "Why is this player wearing gloves?",
+    "answer": "to catch ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000027345.jpg"
+  },
+  {
+    "prompt": "Why is the man reaching up?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000495031.jpg"
+  },
+  {
+    "prompt": "Why is the ground wet?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000040342.jpg"
+  },
+  {
+    "prompt": "Why is the bird in a bowl?",
+    "answer": "picture",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000462589.jpg"
+  },
+  {
+    "prompt": "Why is the food left out?",
+    "answer": "dry",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000410715.jpg"
+  },
+  {
+    "prompt": "Why is the bottle not made of clear glass?",
+    "answer": "beer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000486714.jpg"
+  },
+  {
+    "prompt": "Why is the giraffe standing in the park?",
+    "answer": "captivity",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000341513.jpg"
+  },
+  {
+    "prompt": "Why is there a wall between the zebras?",
+    "answer": "competition",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000011948.jpg"
+  },
+  {
+    "prompt": "Why is the ground reflective?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000105825.jpg"
+  },
+  {
+    "prompt": "Why is there traffic?",
+    "answer": "red light",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000446481.jpg"
+  },
+  {
+    "prompt": "Why is one of these not like the other ones?",
+    "answer": "upside down",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000320344.jpg"
+  },
+  {
+    "prompt": "Why is the smoke coming from the nose wheels?",
+    "answer": "broken",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000485268.jpg"
+  },
+  {
+    "prompt": "Why is this man so focus on his tennis racket?",
+    "answer": "falling",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000110136.jpg"
+  },
+  {
+    "prompt": "Why is the bus stop here?",
+    "answer": "bus stop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000239997.jpg"
+  },
+  {
+    "prompt": "Why is the tin all rusted?",
+    "answer": "old",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000026745.jpg"
+  },
+  {
+    "prompt": "Why do they all wear head protection?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000502324.jpg"
+  },
+  {
+    "prompt": "Why is he walking up-hill?",
+    "answer": "he isn't",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000457191.jpg"
+  },
+  {
+    "prompt": "Why is he in the water?",
+    "answer": "flood",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000419056.jpg"
+  },
+  {
+    "prompt": "Why is the sign leaning to the left?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000219173.jpg"
+  },
+  {
+    "prompt": "Why would someone eat the food?",
+    "answer": "hungry",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000242467.jpg"
+  },
+  {
+    "prompt": "Why is the man sitting?",
+    "answer": "flying kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000520259.jpg"
+  },
+  {
+    "prompt": "Why bring horses to a beach?",
+    "answer": "fun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000360751.jpg"
+  },
+  {
+    "prompt": "Why do the sheep have blue markings on them?",
+    "answer": "identification",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000532059.jpg"
+  },
+  {
+    "prompt": "Why is there black on the pepperoni?",
+    "answer": "spinach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000283196.jpg"
+  },
+  {
+    "prompt": "Why does this woman look relaxed?",
+    "answer": "eating",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000480936.jpg"
+  },
+  {
+    "prompt": "Why are there two computers on the desk?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000123921.jpg"
+  },
+  {
+    "prompt": "Why are the planets lined up?",
+    "answer": "take off",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000140565.jpg"
+  },
+  {
+    "prompt": "Why is the cat on the laptop?",
+    "answer": "sleeping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000041505.jpg"
+  },
+  {
+    "prompt": "Why does the roof on the bus open?",
+    "answer": "desktop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000132336.jpg"
+  },
+  {
+    "prompt": "Why isn't the car on the right, the one with it's headlights, not moving?",
+    "answer": "red light",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000338105.jpg"
+  },
+  {
+    "prompt": "Why are the two men behind the player dressed exactly alike?",
+    "answer": "twins",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000283955.jpg"
+  },
+  {
+    "prompt": "Why is that person in the air?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000381476.jpg"
+  },
+  {
+    "prompt": "Why are there two arches in the brickwork?",
+    "answer": "design",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000064626.jpg"
+  },
+  {
+    "prompt": "Why is the dog on a leash?",
+    "answer": "he isn't",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000102915.jpg"
+  },
+  {
+    "prompt": "Why are all the birds white?",
+    "answer": "seagulls",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000155885.jpg"
+  },
+  {
+    "prompt": "Why is the wall to the right tiled?",
+    "answer": "design",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000090026.jpg"
+  },
+  {
+    "prompt": "Why are there umbrellas set up in this location?",
+    "answer": "shade",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000237464.jpg"
+  },
+  {
+    "prompt": "Why does the person have padding on his butt?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000077345.jpg"
+  },
+  {
+    "prompt": "Why is the man on the stagecoach armed with a gun?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000481634.jpg"
+  },
+  {
+    "prompt": "Why aren't the man's feet on the ground?",
+    "answer": "jumping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000237798.jpg"
+  },
+  {
+    "prompt": "Why is the lid on the floor?",
+    "answer": "broken",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000572985.jpg"
+  },
+  {
+    "prompt": "Why are there so many bikes around?",
+    "answer": "street",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000213687.jpg"
+  },
+  {
+    "prompt": "Why is there a stool in the middle of the kitchen?",
+    "answer": "sitting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000563898.jpg"
+  },
+  {
+    "prompt": "Why is it so cloudy?",
+    "answer": "storm",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000373315.jpg"
+  },
+  {
+    "prompt": "Why is the banana turning brown?",
+    "answer": "ripe",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000182812.jpg"
+  },
+  {
+    "prompt": "Why are the women holding umbrellas?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000272255.jpg"
+  },
+  {
+    "prompt": "Why is this surfing board yellow?",
+    "answer": "paint",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000456425.jpg"
+  },
+  {
+    "prompt": "Why aren't the ladie's fingernails painted?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000319430.jpg"
+  },
+  {
+    "prompt": "Why does the player have one leg lifted up?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000281586.jpg"
+  },
+  {
+    "prompt": "Why sports person are serious?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000086738.jpg"
+  },
+  {
+    "prompt": "Why are there tracks in the road?",
+    "answer": "trolley",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000443599.jpg"
+  },
+  {
+    "prompt": "Why was the food only partially eaten?",
+    "answer": "donut",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000517438.jpg"
+  },
+  {
+    "prompt": "Why are the cars stopped?",
+    "answer": "unsure",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000312184.jpg"
+  },
+  {
+    "prompt": "Why is the man wearing a head wrap?",
+    "answer": "arabic",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000293733.jpg"
+  },
+  {
+    "prompt": "Why are there no people on the deck?",
+    "answer": "closed",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000234938.jpg"
+  },
+  {
+    "prompt": "Why are there so many papers on the desk?",
+    "answer": "working",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000561479.jpg"
+  },
+  {
+    "prompt": "Why do they wear helmets?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000560615.jpg"
+  },
+  {
+    "prompt": "Why are these animals inside a fence?",
+    "answer": "captivity",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000535766.jpg"
+  },
+  {
+    "prompt": "Why are the leaves on the branch brown?",
+    "answer": "dead",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000228334.jpg"
+  },
+  {
+    "prompt": "Why are there so many plants under the water?",
+    "answer": "seaweed",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000249200.jpg"
+  },
+  {
+    "prompt": "Why is the umbrella open?",
+    "answer": "raining",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000448376.jpg"
+  },
+  {
+    "prompt": "Why are the buses empty?",
+    "answer": "can't tell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000292498.jpg"
+  },
+  {
+    "prompt": "Why is this bus so much taller than the one next to it?",
+    "answer": "double decker",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000388395.jpg"
+  },
+  {
+    "prompt": "Why are the people gathered?",
+    "answer": "parade",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000515387.jpg"
+  },
+  {
+    "prompt": "Why are the people standing in a glass box?",
+    "answer": "bus station",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000168993.jpg"
+  },
+  {
+    "prompt": "Why is the table reflecting light?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000550333.jpg"
+  },
+  {
+    "prompt": "Why is he holding the ball?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000181278.jpg"
+  },
+  {
+    "prompt": "Why does the cow have a tag in its ear?",
+    "answer": "identification",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000283589.jpg"
+  },
+  {
+    "prompt": "Why are these oxen yoked together?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000527689.jpg"
+  },
+  {
+    "prompt": "Why carry an open umbrella if it isn't raining?",
+    "answer": "shade",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000468456.jpg"
+  },
+  {
+    "prompt": "Why are there red boxes draped across the street?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000341838.jpg"
+  },
+  {
+    "prompt": "Why are the lights on?",
+    "answer": "night time",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000127467.jpg"
+  },
+  {
+    "prompt": "Why does this woman have a tennis racket strapped to her neck?",
+    "answer": "fun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000388255.jpg"
+  },
+  {
+    "prompt": "Why is the woman looking up?",
+    "answer": "taking picture",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000435312.jpg"
+  },
+  {
+    "prompt": "Why is the sky black?",
+    "answer": "night",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000155451.jpg"
+  },
+  {
+    "prompt": "Why are the motorcycles parked here?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000220843.jpg"
+  },
+  {
+    "prompt": "Why isn't the whiteboard being used?",
+    "answer": "phones",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000484151.jpg"
+  },
+  {
+    "prompt": "Why are the people in this picture using parachutes?",
+    "answer": "jumping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000120038.jpg"
+  },
+  {
+    "prompt": "Why are the cars' lights on?",
+    "answer": "day",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000525510.jpg"
+  },
+  {
+    "prompt": "Why isn't this person wearing a shirt?",
+    "answer": "heat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000223955.jpg"
+  },
+  {
+    "prompt": "Why are there some dark spots?",
+    "answer": "mushrooms",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000199332.jpg"
+  },
+  {
+    "prompt": "Why is there a newspaper in the bathroom?",
+    "answer": "reading",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000136793.jpg"
+  },
+  {
+    "prompt": "Why is the man wearing gloves?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000054515.jpg"
+  },
+  {
+    "prompt": "Why is the lady smiling?",
+    "answer": "pizza",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000292024.jpg"
+  },
+  {
+    "prompt": "Why is the woman wearing a crown?",
+    "answer": "birthday",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000209178.jpg"
+  },
+  {
+    "prompt": "Why are there stickers on the stop sign?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000036557.jpg"
+  },
+  {
+    "prompt": "Why is this person wet?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000078684.jpg"
+  },
+  {
+    "prompt": "Why isn't the sign higher?",
+    "answer": "old",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000516708.jpg"
+  },
+  {
+    "prompt": "Why is the smaller animal laying in dirt?",
+    "answer": "resting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000326156.jpg"
+  },
+  {
+    "prompt": "Why are the two men pointing an object toward the center of the room?",
+    "answer": "playing wii",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000329715.jpg"
+  },
+  {
+    "prompt": "Why is the dog so sad?",
+    "answer": "hungry",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000420316.jpg"
+  },
+  {
+    "prompt": "Why are the people on the elephants?",
+    "answer": "riding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000000061.jpg"
+  },
+  {
+    "prompt": "Why is there a letter on the racket?",
+    "answer": "brand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000223451.jpg"
+  },
+  {
+    "prompt": "Why is the clock's out metal covering green?",
+    "answer": "copper",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000523035.jpg"
+  },
+  {
+    "prompt": "Why are the tracks surrounded by power lines?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000537412.jpg"
+  },
+  {
+    "prompt": "Why is she holding an umbrella?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000334032.jpg"
+  },
+  {
+    "prompt": "Why is there a toilet in the center of everything?",
+    "answer": "trash",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000230600.jpg"
+  },
+  {
+    "prompt": "Why does the sidewalk bulge out?",
+    "answer": "driveway",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000577035.jpg"
+  },
+  {
+    "prompt": "Why are all these boats parked here?",
+    "answer": "dock",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000263176.jpg"
+  },
+  {
+    "prompt": "Why is this man slightly squatting?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000203989.jpg"
+  },
+  {
+    "prompt": "Why is the man leaning in the road?",
+    "answer": "talking on phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000286569.jpg"
+  },
+  {
+    "prompt": "Why did the dog jump?",
+    "answer": "catch frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000489328.jpg"
+  },
+  {
+    "prompt": "Why is the man's face missing from the photo?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000565849.jpg"
+  },
+  {
+    "prompt": "Why is the animal eating the grass?",
+    "answer": "hungry",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000321578.jpg"
+  },
+  {
+    "prompt": "Why is she playing Wii?",
+    "answer": "for fun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000132973.jpg"
+  },
+  {
+    "prompt": "Why are the chairs outside?",
+    "answer": "cafe",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000133114.jpg"
+  },
+  {
+    "prompt": "Why are there candles on a slice of cake?",
+    "answer": "birthday",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000335249.jpg"
+  },
+  {
+    "prompt": "Why is the man's face have a serious expression?",
+    "answer": "tying tie",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000134924.jpg"
+  },
+  {
+    "prompt": "Why might someone assume this has yet to be used?",
+    "answer": "clean",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000190547.jpg"
+  },
+  {
+    "prompt": "Why are the men wearing orange?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000076468.jpg"
+  },
+  {
+    "prompt": "Why are the lights on?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000446094.jpg"
+  },
+  {
+    "prompt": "Why is the object in this photo out of place?",
+    "answer": "for photo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000418305.jpg"
+  },
+  {
+    "prompt": "Why is the wall so old?",
+    "answer": "time",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000057075.jpg"
+  },
+  {
+    "prompt": "Why is this room warm?",
+    "answer": "oven",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000495456.jpg"
+  },
+  {
+    "prompt": "Why are there cars parked behind her?",
+    "answer": "parking lot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000508055.jpg"
+  },
+  {
+    "prompt": "Why are they all wearing orange vests?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000446984.jpg"
+  },
+  {
+    "prompt": "Why is the cat in that bag?",
+    "answer": "luggage",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000144746.jpg"
+  },
+  {
+    "prompt": "Why is the man standing in front of the basketball?",
+    "answer": "waiting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000197195.jpg"
+  },
+  {
+    "prompt": "Why is the bear hook up like that?",
+    "answer": "cute",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000456422.jpg"
+  },
+  {
+    "prompt": "Why is the photo blurry?",
+    "answer": "motion",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000423114.jpg"
+  },
+  {
+    "prompt": "Why are the people in the photo?",
+    "answer": "waiting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000434877.jpg"
+  },
+  {
+    "prompt": "Why are there sticks in the snow?",
+    "answer": "skis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000250292.jpg"
+  },
+  {
+    "prompt": "Why do these sheep have red markings on them?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000511496.jpg"
+  },
+  {
+    "prompt": "Why is there a hydrant in this location?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000087875.jpg"
+  },
+  {
+    "prompt": "Why is the man on the right standing in the street?",
+    "answer": "crossing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000538640.jpg"
+  },
+  {
+    "prompt": "Why is that person laying on the ground?",
+    "answer": "sleeping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000302512.jpg"
+  },
+  {
+    "prompt": "Why is her umbrella blue?",
+    "answer": "don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000530962.jpg"
+  },
+  {
+    "prompt": "Why is the zebra standing still?",
+    "answer": "tired",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000242757.jpg"
+  },
+  {
+    "prompt": "Why is this man upset?",
+    "answer": "i don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000102862.jpg"
+  },
+  {
+    "prompt": "Why is there so much shade?",
+    "answer": "bridge",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000064537.jpg"
+  },
+  {
+    "prompt": "Why are the umbrellas open?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000065420.jpg"
+  },
+  {
+    "prompt": "Why are these people wearing wetsuits?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000517464.jpg"
+  },
+  {
+    "prompt": "Why are there houses near the tennis court?",
+    "answer": "living",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000248112.jpg"
+  },
+  {
+    "prompt": "Why are the numbers not in order?",
+    "answer": "11:55",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000238184.jpg"
+  },
+  {
+    "prompt": "Why is the teddy bear lying in the hallway?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000083348.jpg"
+  },
+  {
+    "prompt": "Why is the table reflecting light?",
+    "answer": "cover",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000073549.jpg"
+  },
+  {
+    "prompt": "Why do the chairs have covers?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000250424.jpg"
+  },
+  {
+    "prompt": "Why are there green umbrellas on the sidewalk?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000045165.jpg"
+  },
+  {
+    "prompt": "Why is this man standing in a cow pasture with skis?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000365345.jpg"
+  },
+  {
+    "prompt": "Why is one bus taller than the other bus?",
+    "answer": "double decker",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000313712.jpg"
+  },
+  {
+    "prompt": "Why is there writing on the door of the truck?",
+    "answer": "advertisement",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000294499.jpg"
+  },
+  {
+    "prompt": "Why is the baseball bat blurry?",
+    "answer": "swinging",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000300772.jpg"
+  },
+  {
+    "prompt": "Why is the person pointing at the sandwich?",
+    "answer": "cucumber",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000111705.jpg"
+  },
+  {
+    "prompt": "Why is the man wearing rubber gloves?",
+    "answer": "cooking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000371786.jpg"
+  },
+  {
+    "prompt": "Why is the man not on the horse?",
+    "answer": "in water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000552911.jpg"
+  },
+  {
+    "prompt": "Why does the frosting have bits of yellow in it?",
+    "answer": "sprinkles",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000024433.jpg"
+  },
+  {
+    "prompt": "Why is the bus parked?",
+    "answer": "waiting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000265333.jpg"
+  },
+  {
+    "prompt": "Why can't we see the back elephant's right eye?",
+    "answer": "shadow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000472157.jpg"
+  },
+  {
+    "prompt": "Why are the lights so bright?",
+    "answer": "nighttime",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000004068.jpg"
+  },
+  {
+    "prompt": "Why is the shine so strong?",
+    "answer": "reflection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000307954.jpg"
+  },
+  {
+    "prompt": "Why is part of the photo blurry?",
+    "answer": "out of focus",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000458453.jpg"
+  },
+  {
+    "prompt": "Why is the sign there?",
+    "answer": "no parking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000174902.jpg"
+  },
+  {
+    "prompt": "Why is the man walking in the snow with a surfboard?",
+    "answer": "he isn't",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000008504.jpg"
+  },
+  {
+    "prompt": "Why is the man's shirt splattered?",
+    "answer": "design",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000438329.jpg"
+  },
+  {
+    "prompt": "Why is the giraffe so close to the humans?",
+    "answer": "eating",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000124663.jpg"
+  },
+  {
+    "prompt": "Why is the lady looking sad?",
+    "answer": "laptop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000101312.jpg"
+  },
+  {
+    "prompt": "Why is there so much smoke?",
+    "answer": "fire",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000393633.jpg"
+  },
+  {
+    "prompt": "Why is there a backpack simply sitting by the road in the background?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000503015.jpg"
+  },
+  {
+    "prompt": "Why is the man looking at the lady?",
+    "answer": "umbrella",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000370486.jpg"
+  },
+  {
+    "prompt": "Why are these clothes such boring colors?",
+    "answer": "cold",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000505391.jpg"
+  },
+  {
+    "prompt": "Why is one man particularly happy?",
+    "answer": "playing wii",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000557081.jpg"
+  },
+  {
+    "prompt": "Why a tow?",
+    "answer": "home",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000498587.jpg"
+  },
+  {
+    "prompt": "Why is there a seat in the shower?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000364385.jpg"
+  },
+  {
+    "prompt": "Why is the cloud red?",
+    "answer": "sunset",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000286284.jpg"
+  },
+  {
+    "prompt": "Why are the horses running?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000580923.jpg"
+  },
+  {
+    "prompt": "Why did someone set this scene up?",
+    "answer": "i don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000403547.jpg"
+  },
+  {
+    "prompt": "Why is she feeding this animal?",
+    "answer": "for fun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000574619.jpg"
+  },
+  {
+    "prompt": "Why is there a vertical line near the right end of the wall mirror?",
+    "answer": "i don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000127921.jpg"
+  },
+  {
+    "prompt": "Why is the coffee cup on the table?",
+    "answer": "drink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000558426.jpg"
+  },
+  {
+    "prompt": "Why is this refrigerator kept outside of the home?",
+    "answer": "broken",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000536947.jpg"
+  },
+  {
+    "prompt": "Why is the street deserted?",
+    "answer": "parade",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000133827.jpg"
+  },
+  {
+    "prompt": "Why do the men look puzzled?",
+    "answer": "empty",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000046764.jpg"
+  },
+  {
+    "prompt": "Why are the zebras showing their teeth?",
+    "answer": "fighting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000098328.jpg"
+  },
+  {
+    "prompt": "Why are the men jumping?",
+    "answer": "to catch frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000034378.jpg"
+  },
+  {
+    "prompt": "Why is this person sitting down?",
+    "answer": "resting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000096664.jpg"
+  },
+  {
+    "prompt": "Why is this photograph funny?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000147775.jpg"
+  },
+  {
+    "prompt": "Why is there so many signs there?",
+    "answer": "advertisement",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000079710.jpg"
+  },
+  {
+    "prompt": "Why have they gotten a cake?",
+    "answer": "congratulations",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000078701.jpg"
+  },
+  {
+    "prompt": "Why is the man wearing eye protection?",
+    "answer": "riding motorcycle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000506631.jpg"
+  },
+  {
+    "prompt": "Why is the piano on the street corner?",
+    "answer": "trash",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000499164.jpg"
+  },
+  {
+    "prompt": "Why is this creepy?",
+    "answer": "knives",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000280228.jpg"
+  },
+  {
+    "prompt": "Why are these animal smelling the ground?",
+    "answer": "eating",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000189587.jpg"
+  },
+  {
+    "prompt": "Why are some of the seats empty?",
+    "answer": "not possible",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000450175.jpg"
+  },
+  {
+    "prompt": "Why are the men sitting down?",
+    "answer": "resting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000544690.jpg"
+  },
+  {
+    "prompt": "Why is it dark outside?",
+    "answer": "night",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000391518.jpg"
+  },
+  {
+    "prompt": "Why is the woman standing?",
+    "answer": "waiting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000563070.jpg"
+  },
+  {
+    "prompt": "Why are some holding umbrellas?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000115505.jpg"
+  },
+  {
+    "prompt": "Why are there wires running from the forks?",
+    "answer": "electricity",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000563904.jpg"
+  },
+  {
+    "prompt": "Why isn't he wearing a jacket?",
+    "answer": "sunny",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000205981.jpg"
+  },
+  {
+    "prompt": "Why does the person wear a black long sleeve top?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000163436.jpg"
+  },
+  {
+    "prompt": "Why is everything on the bed?",
+    "answer": "packing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000179476.jpg"
+  },
+  {
+    "prompt": "Why is a space shuttle on top of the large plane?",
+    "answer": "transport",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000480447.jpg"
+  },
+  {
+    "prompt": "Why is there a camera around the bear's neck?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000506066.jpg"
+  },
+  {
+    "prompt": "Why are people gathered on the street?",
+    "answer": "parade",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000539498.jpg"
+  },
+  {
+    "prompt": "Why is the rocks white?",
+    "answer": "sun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000448426.jpg"
+  },
+  {
+    "prompt": "Why is the skier pointed this way on the mountain?",
+    "answer": "control",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000443497.jpg"
+  },
+  {
+    "prompt": "Why is he the only one in color?",
+    "answer": "camera",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000260696.jpg"
+  },
+  {
+    "prompt": "Why do they wear head protection?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000525300.jpg"
+  },
+  {
+    "prompt": "Why are the doughnuts being boiled?",
+    "answer": "cooked",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000124360.jpg"
+  },
+  {
+    "prompt": "Why can't you stop here at the posted times?",
+    "answer": "construction",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000514531.jpg"
+  },
+  {
+    "prompt": "Why is the guy in the middle standing on one leg?",
+    "answer": "batting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000455995.jpg"
+  },
+  {
+    "prompt": "Why is the bus carrying a bike?",
+    "answer": "passenger",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000259049.jpg"
+  },
+  {
+    "prompt": "Why is the woman wearing glasses?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000117508.jpg"
+  },
+  {
+    "prompt": "Why would someone want to keep these empty bottles?",
+    "answer": "display",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000011262.jpg"
+  },
+  {
+    "prompt": "Why is there two of everything?",
+    "answer": "mirror",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000486320.jpg"
+  },
+  {
+    "prompt": "Why is her pocket bulging?",
+    "answer": "tennis ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000075968.jpg"
+  },
+  {
+    "prompt": "Why are there cables leading from the girls' ankles?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000235163.jpg"
+  },
+  {
+    "prompt": "Why is the ground wet?",
+    "answer": "fountain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000264598.jpg"
+  },
+  {
+    "prompt": "Why do we see two of the same bed in this picture?",
+    "answer": "mirror",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000315387.jpg"
+  },
+  {
+    "prompt": "Why is water shooting from the ground?",
+    "answer": "fire hydrant",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000229507.jpg"
+  },
+  {
+    "prompt": "Why is there a bike on a boat?",
+    "answer": "not sure",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000187042.jpg"
+  },
+  {
+    "prompt": "Why is this person taking a photo of a bottle?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000533506.jpg"
+  },
+  {
+    "prompt": "Why is the woman holding the sign?",
+    "answer": "protest",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000195826.jpg"
+  },
+  {
+    "prompt": "Why can't you enter this street?",
+    "answer": "dead end",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000323813.jpg"
+  },
+  {
+    "prompt": "Why are there two water hydrant?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000516540.jpg"
+  },
+  {
+    "prompt": "Why are they having umbrellas?",
+    "answer": "it's raining",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000057645.jpg"
+  },
+  {
+    "prompt": "Why is the wall two different colors?",
+    "answer": "design",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000305084.jpg"
+  },
+  {
+    "prompt": "Why is the cat crouching?",
+    "answer": "not sure",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000104494.jpg"
+  },
+  {
+    "prompt": "Why are they on their phones?",
+    "answer": "texting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000251195.jpg"
+  },
+  {
+    "prompt": "Why is there a hole in the chair?",
+    "answer": "toilet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000335659.jpg"
+  },
+  {
+    "prompt": "Why are people taking pictures of the objects on the right?",
+    "answer": "vacation",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000381154.jpg"
+  },
+  {
+    "prompt": "Why is the medicine cabinet mounted so high?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000062210.jpg"
+  },
+  {
+    "prompt": "Why is the guy in white almost on his knees?",
+    "answer": "falling",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000332273.jpg"
+  },
+  {
+    "prompt": "Why is the man riding backwards?",
+    "answer": "he's not",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000150559.jpg"
+  },
+  {
+    "prompt": "Why does the man look so stunned?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000381533.jpg"
+  },
+  {
+    "prompt": "Why is the fruit wet?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000436117.jpg"
+  },
+  {
+    "prompt": "Why is there fencing around the tree bark?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000373613.jpg"
+  },
+  {
+    "prompt": "Why is the sign there?",
+    "answer": "direction",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000310703.jpg"
+  },
+  {
+    "prompt": "Why isn't the boat floating in water?",
+    "answer": "no water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000382850.jpg"
+  },
+  {
+    "prompt": "Why is the water rippled?",
+    "answer": "wind",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000405730.jpg"
+  },
+  {
+    "prompt": "Why do the people have hats on their heads?",
+    "answer": "cold",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000516198.jpg"
+  },
+  {
+    "prompt": "Why is the player bending over?",
+    "answer": "hit ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000281646.jpg"
+  },
+  {
+    "prompt": "Why would someone eat this?",
+    "answer": "birthday cake",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000186265.jpg"
+  },
+  {
+    "prompt": "Why do the people have umbrellas?",
+    "answer": "it's raining",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000005756.jpg"
+  },
+  {
+    "prompt": "Why is the man standing near luggage?",
+    "answer": "traveling",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000092951.jpg"
+  },
+  {
+    "prompt": "Why does this black and white photo of a street sign say thirteen an half st?",
+    "answer": "don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000504999.jpg"
+  },
+  {
+    "prompt": "Why is there such a fancy room?",
+    "answer": "photography",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000341354.jpg"
+  },
+  {
+    "prompt": "Why is this just wrong?",
+    "answer": "it's not",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000347469.jpg"
+  },
+  {
+    "prompt": "Why is a stop sign here?",
+    "answer": "hill",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000164249.jpg"
+  },
+  {
+    "prompt": "Why is the umbrella up?",
+    "answer": "raining",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000209664.jpg"
+  },
+  {
+    "prompt": "Why is there a cup beside the bike?",
+    "answer": "drink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000003682.jpg"
+  },
+  {
+    "prompt": "Why are they laying down?",
+    "answer": "resting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000083960.jpg"
+  },
+  {
+    "prompt": "Why is the boy happy?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000157989.jpg"
+  },
+  {
+    "prompt": "Why is the truck orange?",
+    "answer": "paint",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000395425.jpg"
+  },
+  {
+    "prompt": "Why does the woman have an object in her hand?",
+    "answer": "playing game",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000343165.jpg"
+  },
+  {
+    "prompt": "Why do you think she might like animals?",
+    "answer": "child",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000292249.jpg"
+  },
+  {
+    "prompt": "Why is there a piece of the donut missing?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000020818.jpg"
+  },
+  {
+    "prompt": "Why aren't two of the individuals in the picture wearing jerseys?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000218985.jpg"
+  },
+  {
+    "prompt": "Why are the buttons on the wall different colors?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000104952.jpg"
+  },
+  {
+    "prompt": "Why are the birds flying around the ship?",
+    "answer": "food",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000539557.jpg"
+  },
+  {
+    "prompt": "Why are the train lights on now?",
+    "answer": "dark",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000114784.jpg"
+  },
+  {
+    "prompt": "Why are there so many suitcases?",
+    "answer": "packing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000096808.jpg"
+  },
+  {
+    "prompt": "Why can you not see the man clearly?",
+    "answer": "spots",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000356494.jpg"
+  },
+  {
+    "prompt": "Why are the people just standing there?",
+    "answer": "flying kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000510391.jpg"
+  },
+  {
+    "prompt": "Why was the train running behind?",
+    "answer": "accident",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000419790.jpg"
+  },
+  {
+    "prompt": "Why carry an umbrella now?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000414961.jpg"
+  },
+  {
+    "prompt": "Why is the child playing a video game so early in the morning?",
+    "answer": "for fun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000159808.jpg"
+  },
+  {
+    "prompt": "Why are the girls waiting at the corner?",
+    "answer": "ride",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000523037.jpg"
+  },
+  {
+    "prompt": "Why is this person bending their knees?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000063703.jpg"
+  },
+  {
+    "prompt": "Why is the door open?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000380931.jpg"
+  },
+  {
+    "prompt": "Why is the giraffe bending over?",
+    "answer": "eating",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000077380.jpg"
+  },
+  {
+    "prompt": "Why is the man on the left sleepy?",
+    "answer": "unknown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000318403.jpg"
+  },
+  {
+    "prompt": "Why are the vehicles stopped?",
+    "answer": "traffic",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000195294.jpg"
+  },
+  {
+    "prompt": "Why is the glass upside down?",
+    "answer": "empty",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000073460.jpg"
+  },
+  {
+    "prompt": "Why is there a propeller on the pole?",
+    "answer": "boat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000511299.jpg"
+  },
+  {
+    "prompt": "Why is one boy in the air?",
+    "answer": "jumping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000127560.jpg"
+  },
+  {
+    "prompt": "Why is the desk so close to the sofa?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000351972.jpg"
+  },
+  {
+    "prompt": "Why are the people laying under umbrellas?",
+    "answer": "relaxing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000042858.jpg"
+  },
+  {
+    "prompt": "Why is the cat sitting on the bench?",
+    "answer": "resting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000469424.jpg"
+  },
+  {
+    "prompt": "Why would a person have three computers on one desk?",
+    "answer": "work",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000370513.jpg"
+  },
+  {
+    "prompt": "Why is the fruit in the bowl?",
+    "answer": "apple",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000540270.jpg"
+  },
+  {
+    "prompt": "Why does this guy have so many monitors?",
+    "answer": "not sure",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000299859.jpg"
+  },
+  {
+    "prompt": "Why do her arms look so odd?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000405931.jpg"
+  },
+  {
+    "prompt": "Why is the cat's face blurred?",
+    "answer": "moving",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000566016.jpg"
+  },
+  {
+    "prompt": "Why are they doing this?",
+    "answer": "moving",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000027611.jpg"
+  },
+  {
+    "prompt": "Why is he in the air?",
+    "answer": "trick",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000430615.jpg"
+  },
+  {
+    "prompt": "Why is the toilet at this location?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000151670.jpg"
+  },
+  {
+    "prompt": "Why is this motorcycle look dangerous to ride on?",
+    "answer": "helmet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000406424.jpg"
+  },
+  {
+    "prompt": "Why is the boy looking down?",
+    "answer": "jumping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000391304.jpg"
+  },
+  {
+    "prompt": "Why have all these birds gathered?",
+    "answer": "food",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000369734.jpg"
+  },
+  {
+    "prompt": "Why are the street wet?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000391170.jpg"
+  },
+  {
+    "prompt": "Why is the man off the surfboard?",
+    "answer": "fell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000252364.jpg"
+  },
+  {
+    "prompt": "Why is the front of the vehicle decorated with black and yellow stripes?",
+    "answer": "caution",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000119666.jpg"
+  },
+  {
+    "prompt": "Why style of urban art is in the photo?",
+    "answer": "urban",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000158848.jpg"
+  },
+  {
+    "prompt": "Why are the animals fenced in?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000075883.jpg"
+  },
+  {
+    "prompt": "Why is one leg blurry?",
+    "answer": "moving",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000283768.jpg"
+  },
+  {
+    "prompt": "Why is the man in a flamboyant pose?",
+    "answer": "playing game",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000212967.jpg"
+  },
+  {
+    "prompt": "Why do you think this might have sentimental value?",
+    "answer": "flower",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000130880.jpg"
+  },
+  {
+    "prompt": "Why are both feet off the ground?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000493905.jpg"
+  },
+  {
+    "prompt": "Why are the people wearing hats?",
+    "answer": "chef",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000419503.jpg"
+  },
+  {
+    "prompt": "Why is the woman holding an umbrella?",
+    "answer": "shade",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000463168.jpg"
+  },
+  {
+    "prompt": "Why are the keyboard keys white?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000234341.jpg"
+  },
+  {
+    "prompt": "Why is the clock in the trees?",
+    "answer": "it's not",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000176728.jpg"
+  },
+  {
+    "prompt": "Why are the mountains covered with snow?",
+    "answer": "cold",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000293980.jpg"
+  },
+  {
+    "prompt": "Why are they posing for a picture?",
+    "answer": "team",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000554587.jpg"
+  },
+  {
+    "prompt": "Why is the child playing a video game so early in the morning?",
+    "answer": "fun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000449291.jpg"
+  },
+  {
+    "prompt": "Why are the items sitting on the counter?",
+    "answer": "paper",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000122602.jpg"
+  },
+  {
+    "prompt": "Why might this skier be involved in some kind of competition?",
+    "answer": "he isn't",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000443497.jpg"
+  },
+  {
+    "prompt": "Why are there stripes on the runway?",
+    "answer": "parking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000419682.jpg"
+  },
+  {
+    "prompt": "Why are the train track barricades there?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000295924.jpg"
+  },
+  {
+    "prompt": "Why does he need all those screens?",
+    "answer": "work",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000108688.jpg"
+  },
+  {
+    "prompt": "Why does the man have a beard?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000126408.jpg"
+  },
+  {
+    "prompt": "Why is there a huge red umbrella in the picture?",
+    "answer": "advertisement",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000230567.jpg"
+  },
+  {
+    "prompt": "Why is the bath mat hanging in the shower?",
+    "answer": "to dry",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000153219.jpg"
+  },
+  {
+    "prompt": "Why is one of his feet off the ground?",
+    "answer": "jumping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000471558.jpg"
+  },
+  {
+    "prompt": "Why is the little girl wearing a helmet?",
+    "answer": "riding bike",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000137699.jpg"
+  },
+  {
+    "prompt": "Why is the stripe down the middle?",
+    "answer": "zebra",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000028019.jpg"
+  },
+  {
+    "prompt": "Why should those wine bottles not be near the stove?",
+    "answer": "heat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000475659.jpg"
+  },
+  {
+    "prompt": "Why does the door have a brass covered hole in it?",
+    "answer": "unknown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000265622.jpg"
+  },
+  {
+    "prompt": "Why is the young woman holding a skateboard?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000534297.jpg"
+  },
+  {
+    "prompt": "Why are his arms in the air?",
+    "answer": "balance",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000515751.jpg"
+  },
+  {
+    "prompt": "Why are the men wearing yellow and orange vests?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000034820.jpg"
+  },
+  {
+    "prompt": "Why is the cat fuzzy?",
+    "answer": "fur",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000540750.jpg"
+  },
+  {
+    "prompt": "Why is it snow on the ground?",
+    "answer": "winter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000188498.jpg"
+  },
+  {
+    "prompt": "Why is the pole in front striped orange and white?",
+    "answer": "construction",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000337394.jpg"
+  },
+  {
+    "prompt": "Why is the ground wet?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000460997.jpg"
+  },
+  {
+    "prompt": "Why are there three sails in the background?",
+    "answer": "kites",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000058021.jpg"
+  },
+  {
+    "prompt": "Why are these kids in costumes?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000424464.jpg"
+  },
+  {
+    "prompt": "Why is the ground white?",
+    "answer": "snow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000194050.jpg"
+  },
+  {
+    "prompt": "Why is the van stopped?",
+    "answer": "red light",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000083029.jpg"
+  },
+  {
+    "prompt": "Why are these players posing?",
+    "answer": "picture",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000173812.jpg"
+  },
+  {
+    "prompt": "Why are the cows tagged?",
+    "answer": "identification",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000541510.jpg"
+  },
+  {
+    "prompt": "Why is the person airborne?",
+    "answer": "jumped",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000127067.jpg"
+  },
+  {
+    "prompt": "Why does the dog has snow on his face?",
+    "answer": "snowing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000340343.jpg"
+  },
+  {
+    "prompt": "Why does the lady have an umbrella?",
+    "answer": "shade",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000322610.jpg"
+  },
+  {
+    "prompt": "Why is the refrigerator door open?",
+    "answer": "food",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000294346.jpg"
+  },
+  {
+    "prompt": "Why is it possible to see inside this shower without actually opening the door?",
+    "answer": "glass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000165499.jpg"
+  },
+  {
+    "prompt": "Why is the man wearing a helmet?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000433454.jpg"
+  },
+  {
+    "prompt": "Why is the umbrella being used?",
+    "answer": "snow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000541734.jpg"
+  },
+  {
+    "prompt": "Why is the man doing this?",
+    "answer": "for fun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000138473.jpg"
+  },
+  {
+    "prompt": "Why is that woman enjoying the sun?",
+    "answer": "flying kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000547448.jpg"
+  },
+  {
+    "prompt": "Why is there a rubber ducky?",
+    "answer": "not sure",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000534735.jpg"
+  },
+  {
+    "prompt": "Why is the condiment packet taped to the box?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000192928.jpg"
+  },
+  {
+    "prompt": "Why does the bird stand out in the photo?",
+    "answer": "color",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000542751.jpg"
+  },
+  {
+    "prompt": "Why can't you do things like that skater is doing?",
+    "answer": "practice",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000245497.jpg"
+  },
+  {
+    "prompt": "Why does the bus have its headlights on during the day?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000394964.jpg"
+  },
+  {
+    "prompt": "Why are they down?",
+    "answer": "resting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000335866.jpg"
+  },
+  {
+    "prompt": "Why are all of these bikes in this room?",
+    "answer": "storage",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000435745.jpg"
+  },
+  {
+    "prompt": "Why is the standing man wearing sunglasses?",
+    "answer": "bright",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000069197.jpg"
+  },
+  {
+    "prompt": "Why are there no leaves on the trees?",
+    "answer": "winter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000257013.jpg"
+  },
+  {
+    "prompt": "Why is there a antenna on top of the boat?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000040325.jpg"
+  },
+  {
+    "prompt": "Why does the woman have the banana in her mouth?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000528562.jpg"
+  },
+  {
+    "prompt": "Why is there an orange on the ground?",
+    "answer": "fell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000402170.jpg"
+  },
+  {
+    "prompt": "Why is the animal fenced in?",
+    "answer": "zoo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000239618.jpg"
+  },
+  {
+    "prompt": "Why is part of this image in black and white?",
+    "answer": "cow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000135467.jpg"
+  },
+  {
+    "prompt": "Why does the man wear a wetsuit?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000349754.jpg"
+  },
+  {
+    "prompt": "Why would someone eat this?",
+    "answer": "hungry",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000197265.jpg"
+  },
+  {
+    "prompt": "Why did the man take off one glove?",
+    "answer": "hot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000477475.jpg"
+  },
+  {
+    "prompt": "Why is there tape on items in this room?",
+    "answer": "painting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000200857.jpg"
+  },
+  {
+    "prompt": "Why is he wearing an umbrella?",
+    "answer": "for fun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000427341.jpg"
+  },
+  {
+    "prompt": "Why is she sitting on the floor?",
+    "answer": "eating",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000038532.jpg"
+  },
+  {
+    "prompt": "Why are the elephants in the water?",
+    "answer": "walking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000105817.jpg"
+  },
+  {
+    "prompt": "Why is the picture blurry?",
+    "answer": "movement",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000309295.jpg"
+  },
+  {
+    "prompt": "Why is there a picture in front of the fireplace?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000479914.jpg"
+  },
+  {
+    "prompt": "Why is she covering her eye?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000329016.jpg"
+  },
+  {
+    "prompt": "Why are the girls pupils red?",
+    "answer": "light",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000406490.jpg"
+  },
+  {
+    "prompt": "Why is liquid dripping from the cow's muzzle?",
+    "answer": "drinking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000211956.jpg"
+  },
+  {
+    "prompt": "Why are there dark lines on the bread?",
+    "answer": "grilled",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000105594.jpg"
+  },
+  {
+    "prompt": "Why are cats so unfriendly?",
+    "answer": "don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000290659.jpg"
+  },
+  {
+    "prompt": "Why is there an umbrella on top of this truck in the foreground?",
+    "answer": "shade",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000419353.jpg"
+  },
+  {
+    "prompt": "Why is the girl holding up her phone?",
+    "answer": "picture",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000510861.jpg"
+  },
+  {
+    "prompt": "Why are there so many desserts on the table?",
+    "answer": "display",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000003579.jpg"
+  },
+  {
+    "prompt": "Why is the truck in a ditch?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000121903.jpg"
+  },
+  {
+    "prompt": "Why is the person using an umbrella?",
+    "answer": "shade",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000429371.jpg"
+  },
+  {
+    "prompt": "Why isn't the kite in the air?",
+    "answer": "don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000114925.jpg"
+  },
+  {
+    "prompt": "Why do the birds feathers look that way?",
+    "answer": "wet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000101304.jpg"
+  },
+  {
+    "prompt": "Why is the woman's foot bent?",
+    "answer": "movement",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000405093.jpg"
+  },
+  {
+    "prompt": "Why is the rider in the rear holding his arm up?",
+    "answer": "he isn't",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000025804.jpg"
+  },
+  {
+    "prompt": "Why is the person wearing snowboards?",
+    "answer": "snowboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000403792.jpg"
+  },
+  {
+    "prompt": "Why is this guy's face all red?",
+    "answer": "heavy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000285437.jpg"
+  },
+  {
+    "prompt": "Why are there rocks in between the tracks?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000399600.jpg"
+  },
+  {
+    "prompt": "Why is there an umbrella covering the couple?",
+    "answer": "privacy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000345436.jpg"
+  },
+  {
+    "prompt": "Why are the people dressed like this?",
+    "answer": "picnic",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000074945.jpg"
+  },
+  {
+    "prompt": "Why is the television off?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000531388.jpg"
+  },
+  {
+    "prompt": "Why is the wrap red?",
+    "answer": "warning",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000504851.jpg"
+  },
+  {
+    "prompt": "Why does the stop sign look pixelated?",
+    "answer": "camera",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000361830.jpg"
+  },
+  {
+    "prompt": "Why are they wearing yellow suits?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000359131.jpg"
+  },
+  {
+    "prompt": "Why is traffic stopped?",
+    "answer": "accident",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000292243.jpg"
+  },
+  {
+    "prompt": "Why is his hand up?",
+    "answer": "balance",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000057062.jpg"
+  },
+  {
+    "prompt": "Why aren't these people sharing a pizza?",
+    "answer": "not sure",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000093133.jpg"
+  },
+  {
+    "prompt": "Why is the ceiling light on?",
+    "answer": "to see",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000019637.jpg"
+  },
+  {
+    "prompt": "Why is the umbrella up?",
+    "answer": "sunny",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000433547.jpg"
+  },
+  {
+    "prompt": "Why are there children on the floor?",
+    "answer": "sitting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000179898.jpg"
+  },
+  {
+    "prompt": "Why is the mirror divided into three panels?",
+    "answer": "cabinets",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000107249.jpg"
+  },
+  {
+    "prompt": "Why is the sky so blue?",
+    "answer": "clear",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000270906.jpg"
+  },
+  {
+    "prompt": "Why are they carrying an umbrella?",
+    "answer": "light",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000509037.jpg"
+  },
+  {
+    "prompt": "Why are there cows in the road?",
+    "answer": "crossing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000118895.jpg"
+  },
+  {
+    "prompt": "Why are these people all extending their arms?",
+    "answer": "waving",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000338304.jpg"
+  },
+  {
+    "prompt": "Why is the woman touching the horse?",
+    "answer": "hugging",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000127324.jpg"
+  },
+  {
+    "prompt": "Why are some holding umbrellas?",
+    "answer": "sun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000333207.jpg"
+  },
+  {
+    "prompt": "Why is this aircraft sitting next to a window?",
+    "answer": "boarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000005356.jpg"
+  },
+  {
+    "prompt": "Why are they riding horses?",
+    "answer": "fun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000178031.jpg"
+  },
+  {
+    "prompt": "Why is the ocean so wavy?",
+    "answer": "waves",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000357533.jpg"
+  },
+  {
+    "prompt": "Why is the woman wearing boots?",
+    "answer": "cold",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000170982.jpg"
+  },
+  {
+    "prompt": "Why is the person blurry?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000527229.jpg"
+  },
+  {
+    "prompt": "Why isn't he wearing a shirt?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000343438.jpg"
+  },
+  {
+    "prompt": "Why is there a mirror on the ceiling?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000215982.jpg"
+  },
+  {
+    "prompt": "Why is there a fence around the tree?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000442143.jpg"
+  },
+  {
+    "prompt": "Why is the pizza cut into small pieces?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000379914.jpg"
+  },
+  {
+    "prompt": "Why is the person lying on the ground?",
+    "answer": "fell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000558134.jpg"
+  },
+  {
+    "prompt": "Why is there a drain in the floor?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000214210.jpg"
+  },
+  {
+    "prompt": "Why is the dog wearing this hat?",
+    "answer": "birthday",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000232660.jpg"
+  },
+  {
+    "prompt": "Why aren't there any people on the street?",
+    "answer": "construction",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000075560.jpg"
+  },
+  {
+    "prompt": "Why is there bare ground under the tree?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000442523.jpg"
+  },
+  {
+    "prompt": "Why is the elephant gray?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000324436.jpg"
+  },
+  {
+    "prompt": "Why are they holding umbrellas?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000554620.jpg"
+  },
+  {
+    "prompt": "Why are they riding on the street?",
+    "answer": "don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000071603.jpg"
+  },
+  {
+    "prompt": "Why is there a fence between the elephant and the people?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000578808.jpg"
+  },
+  {
+    "prompt": "Why are they not red?",
+    "answer": "nature",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000352377.jpg"
+  },
+  {
+    "prompt": "Why would someone leave this toaster on the sidewalk?",
+    "answer": "broken",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000491579.jpg"
+  },
+  {
+    "prompt": "Why keep these things in a container?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000031680.jpg"
+  },
+  {
+    "prompt": "Why is the zebra sad?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000306506.jpg"
+  },
+  {
+    "prompt": "Why are they surrounded by trees?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000135082.jpg"
+  },
+  {
+    "prompt": "Why are some areas of the photo light and dark?",
+    "answer": "computer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000164751.jpg"
+  },
+  {
+    "prompt": "Why is it so difficult to run in the sand?",
+    "answer": "hot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000105998.jpg"
+  },
+  {
+    "prompt": "Why is the child's arm raised?",
+    "answer": "waving",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000519588.jpg"
+  },
+  {
+    "prompt": "Why do some of the refrigerators not have doors?",
+    "answer": "broken",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000384085.jpg"
+  },
+  {
+    "prompt": "Why is the cow in the truck?",
+    "answer": "transport",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000539406.jpg"
+  },
+  {
+    "prompt": "Why do the cars need to yield to the yellow vehicle in the center?",
+    "answer": "fire truck",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000533799.jpg"
+  },
+  {
+    "prompt": "Why is the pavement cracked?",
+    "answer": "age",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000427166.jpg"
+  },
+  {
+    "prompt": "Why did Nicholas spell his name with upper and lower case letters?",
+    "answer": "can't tell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000273358.jpg"
+  },
+  {
+    "prompt": "Why is there only one bird feeding?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000564068.jpg"
+  },
+  {
+    "prompt": "Why is one of the guys almost on his knees?",
+    "answer": "catcher",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000267925.jpg"
+  },
+  {
+    "prompt": "Why are the two people bending down?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000286061.jpg"
+  },
+  {
+    "prompt": "Why are the shirts different colors?",
+    "answer": "different teams",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000409628.jpg"
+  },
+  {
+    "prompt": "Why might this woman be trying to touch the screen?",
+    "answer": "work",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000535278.jpg"
+  },
+  {
+    "prompt": "Why is the cat there?",
+    "answer": "resting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000015474.jpg"
+  },
+  {
+    "prompt": "Why is there no ice in the water?",
+    "answer": "hot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000535933.jpg"
+  },
+  {
+    "prompt": "Why is the boy barefoot?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000183762.jpg"
+  },
+  {
+    "prompt": "Why is his hat on backwards?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000554357.jpg"
+  },
+  {
+    "prompt": "Why would someone put a cover on the back of their truck?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000365655.jpg"
+  },
+  {
+    "prompt": "Why is the snow disturbed?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000522898.jpg"
+  },
+  {
+    "prompt": "Why do the cars have their lights on?",
+    "answer": "sunset",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000378583.jpg"
+  },
+  {
+    "prompt": "Why is there a yellow tag on the bear?",
+    "answer": "luggage",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000386321.jpg"
+  },
+  {
+    "prompt": "Why are some keyboards black?",
+    "answer": "design",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000055323.jpg"
+  },
+  {
+    "prompt": "Why does this guy have his arms in that position?",
+    "answer": "balance",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000056118.jpg"
+  },
+  {
+    "prompt": "Why are these people happy?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000492138.jpg"
+  },
+  {
+    "prompt": "Why are all the cars clustered in one area?",
+    "answer": "stop light",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000447511.jpg"
+  },
+  {
+    "prompt": "Why are the cooked foods shiny?",
+    "answer": "oil",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000189359.jpg"
+  },
+  {
+    "prompt": "Why is the bus out of focus in this photograph?",
+    "answer": "background",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000288607.jpg"
+  },
+  {
+    "prompt": "Why are they in the water?",
+    "answer": "drinking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000055443.jpg"
+  },
+  {
+    "prompt": "Why type of tree are the zebras standing beneath?",
+    "answer": "shade",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000351787.jpg"
+  },
+  {
+    "prompt": "Why is the image blurry?",
+    "answer": "motion",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000281133.jpg"
+  },
+  {
+    "prompt": "Why are people standing by the trucks?",
+    "answer": "waiting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000396851.jpg"
+  },
+  {
+    "prompt": "Why are there toothpicks in the sandwiches?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000283445.jpg"
+  },
+  {
+    "prompt": "Why are these people carrying poles in each hand?",
+    "answer": "balance",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000121792.jpg"
+  },
+  {
+    "prompt": "Why is this a popular location for this activity?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000364098.jpg"
+  },
+  {
+    "prompt": "Why is he on the elephant?",
+    "answer": "riding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000500194.jpg"
+  },
+  {
+    "prompt": "Why are the other players in the background?",
+    "answer": "waiting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000206697.jpg"
+  },
+  {
+    "prompt": "Why is the other controller not being used?",
+    "answer": "broken",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000030288.jpg"
+  },
+  {
+    "prompt": "Why is the giraffe behind bars?",
+    "answer": "cage",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000542602.jpg"
+  },
+  {
+    "prompt": "Why painted white color?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000463619.jpg"
+  },
+  {
+    "prompt": "Why is there a chair in the bathtub?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000156739.jpg"
+  },
+  {
+    "prompt": "Why is the accident sign there?",
+    "answer": "warning",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000066543.jpg"
+  },
+  {
+    "prompt": "Why are these two people in this photo?",
+    "answer": "playing tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000516582.jpg"
+  },
+  {
+    "prompt": "Why is the cat in the sink?",
+    "answer": "sitting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000325356.jpg"
+  },
+  {
+    "prompt": "Why is the bread not toasted?",
+    "answer": "don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000577808.jpg"
+  },
+  {
+    "prompt": "Why are there tracks on the ground?",
+    "answer": "train",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000041116.jpg"
+  },
+  {
+    "prompt": "Why are the baby elephants ears turned downward?",
+    "answer": "eating",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000102252.jpg"
+  },
+  {
+    "prompt": "Why are these wine glasses less than half full?",
+    "answer": "drinking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000197663.jpg"
+  },
+  {
+    "prompt": "Why is the woman holding the child?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000478035.jpg"
+  },
+  {
+    "prompt": "Why are there so many children skiing?",
+    "answer": "competition",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000002402.jpg"
+  },
+  {
+    "prompt": "Why are the lights on?",
+    "answer": "night",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000038838.jpg"
+  },
+  {
+    "prompt": "Why is the person so blurry?",
+    "answer": "moving",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000350837.jpg"
+  },
+  {
+    "prompt": "Why is the water white?",
+    "answer": "current",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000386363.jpg"
+  },
+  {
+    "prompt": "Why are they riding horses in the street?",
+    "answer": "transportation",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000435451.jpg"
+  },
+  {
+    "prompt": "Why is there no fork in this picture?",
+    "answer": "soup",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000306638.jpg"
+  },
+  {
+    "prompt": "Why is it necessary to have your cat declawed?",
+    "answer": "it isn't",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000403231.jpg"
+  },
+  {
+    "prompt": "Why does the animal have on number on his ear?",
+    "answer": "for sale",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000193951.jpg"
+  },
+  {
+    "prompt": "Why is the giraffe's tail sticking straight out?",
+    "answer": "pooping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000286212.jpg"
+  },
+  {
+    "prompt": "Why is his heel off the ski?",
+    "answer": "broken",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000339189.jpg"
+  },
+  {
+    "prompt": "Why are there so many elephant there?",
+    "answer": "zoo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000521201.jpg"
+  },
+  {
+    "prompt": "Why is the reflection broken?",
+    "answer": "waves",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000246312.jpg"
+  },
+  {
+    "prompt": "Why he is eating brush?",
+    "answer": "fun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000464461.jpg"
+  },
+  {
+    "prompt": "Why is there a gate separating the tracks?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000399600.jpg"
+  },
+  {
+    "prompt": "Why is the woman laying down?",
+    "answer": "sunbathing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000481239.jpg"
+  },
+  {
+    "prompt": "Why are they on display?",
+    "answer": "museum",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000305905.jpg"
+  },
+  {
+    "prompt": "Why is the background blurry?",
+    "answer": "foggy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000420427.jpg"
+  },
+  {
+    "prompt": "Why are there cones on the road?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000295280.jpg"
+  },
+  {
+    "prompt": "Why is there a antenna on top of the boat?",
+    "answer": "balance",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000369697.jpg"
+  },
+  {
+    "prompt": "Why are the lights red?",
+    "answer": "stop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000465996.jpg"
+  },
+  {
+    "prompt": "Why are they in shirts?",
+    "answer": "playing frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000062896.jpg"
+  },
+  {
+    "prompt": "Why is there a flag hanging up?",
+    "answer": "4th of july",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000073470.jpg"
+  },
+  {
+    "prompt": "Why is the water two different colors?",
+    "answer": "waves",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000419748.jpg"
+  },
+  {
+    "prompt": "Why is she wearing a crown?",
+    "answer": "birthday",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000389256.jpg"
+  },
+  {
+    "prompt": "Why is there a band aid on the laptop?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000115885.jpg"
+  },
+  {
+    "prompt": "Why is the bike on the shelf?",
+    "answer": "display",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000049428.jpg"
+  },
+  {
+    "prompt": "Why did the man stop riding his skateboard?",
+    "answer": "fell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000323889.jpg"
+  },
+  {
+    "prompt": "Why are there no leaves on many trees?",
+    "answer": "winter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000471774.jpg"
+  },
+  {
+    "prompt": "Why do most of the people have umbrellas?",
+    "answer": "sun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000464917.jpg"
+  },
+  {
+    "prompt": "Why is the dog jumping?",
+    "answer": "to catch frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000280709.jpg"
+  },
+  {
+    "prompt": "Why is there a basket high on the pole?",
+    "answer": "food",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000300179.jpg"
+  },
+  {
+    "prompt": "Why do you think there are no people here?",
+    "answer": "empty",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000085744.jpg"
+  },
+  {
+    "prompt": "Why is the table a different color?",
+    "answer": "unknown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000384263.jpg"
+  },
+  {
+    "prompt": "Why is there foam on the water?",
+    "answer": "waves",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000066667.jpg"
+  },
+  {
+    "prompt": "Why can't you see the player's eyes?",
+    "answer": "sunglasses",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000533550.jpg"
+  },
+  {
+    "prompt": "Why would someone eat this?",
+    "answer": "hungry",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000468585.jpg"
+  },
+  {
+    "prompt": "Why is there a white bow on the front of the bus?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000511373.jpg"
+  },
+  {
+    "prompt": "Why is there a pole near the hydrant?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000072041.jpg"
+  },
+  {
+    "prompt": "Why do people get on these machines?",
+    "answer": "travel",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000481928.jpg"
+  },
+  {
+    "prompt": "Why are two of the heads snow white?",
+    "answer": "don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000230932.jpg"
+  },
+  {
+    "prompt": "Why are there baskets hanging?",
+    "answer": "food",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000374023.jpg"
+  },
+  {
+    "prompt": "Why is a candle lit?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000085798.jpg"
+  },
+  {
+    "prompt": "Why are the girls looking in that direction?",
+    "answer": "shore",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000235163.jpg"
+  },
+  {
+    "prompt": "Why do the horses have a thick coat right now?",
+    "answer": "winter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000559891.jpg"
+  },
+  {
+    "prompt": "Why are there clouds on the horizon?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000047101.jpg"
+  },
+  {
+    "prompt": "Why is there a yellow tomato in there with the rest of the tomatoes?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000340529.jpg"
+  },
+  {
+    "prompt": "Why do some of the slices have crust on two sides?",
+    "answer": "cut",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000090151.jpg"
+  },
+  {
+    "prompt": "Why are the two zebra's standing together?",
+    "answer": "friends",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000417844.jpg"
+  },
+  {
+    "prompt": "Why are the flowers wilted?",
+    "answer": "no water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000030875.jpg"
+  },
+  {
+    "prompt": "Why are the people wearing eye protection?",
+    "answer": "to see",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000341886.jpg"
+  },
+  {
+    "prompt": "Why is there a bench in front of the bed?",
+    "answer": "sitting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000112622.jpg"
+  },
+  {
+    "prompt": "Why would he be dressed like this?",
+    "answer": "wedding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000393924.jpg"
+  },
+  {
+    "prompt": "Why is there a bowl on the floor?",
+    "answer": "dog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000135907.jpg"
+  },
+  {
+    "prompt": "Why is this woman wearing a hair net?",
+    "answer": "baking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000306426.jpg"
+  },
+  {
+    "prompt": "Why is the man wearing eye protection?",
+    "answer": "safety",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000177505.jpg"
+  },
+  {
+    "prompt": "Why is she standing on one leg?",
+    "answer": "hitting ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000271282.jpg"
+  },
+  {
+    "prompt": "Why is the one man wearing a yellow jacket with silver stripes?",
+    "answer": "i don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000185547.jpg"
+  },
+  {
+    "prompt": "Why were these subjects not smiling?",
+    "answer": "sad",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000449921.jpg"
+  },
+  {
+    "prompt": "Why is the coffee table empty?",
+    "answer": "clean",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000490993.jpg"
+  },
+  {
+    "prompt": "Why are they dressed like that?",
+    "answer": "festival",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000224407.jpg"
+  },
+  {
+    "prompt": "Why did they use the image of a cartoon skull instead of a real one?",
+    "answer": "not sure",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000225587.jpg"
+  },
+  {
+    "prompt": "Why are the stars not visible in this image?",
+    "answer": "lights",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000079837.jpg"
+  },
+  {
+    "prompt": "Why are its front legs spread so wide?",
+    "answer": "walking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000564938.jpg"
+  },
+  {
+    "prompt": "Why are there cones on the road?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000226455.jpg"
+  },
+  {
+    "prompt": "Why is there waves?",
+    "answer": "wind",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000306384.jpg"
+  },
+  {
+    "prompt": "Why is he clapping?",
+    "answer": "happy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000187196.jpg"
+  },
+  {
+    "prompt": "Why are there two computers?",
+    "answer": "desk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000124911.jpg"
+  },
+  {
+    "prompt": "Why is the racket blurry?",
+    "answer": "in motion",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000178598.jpg"
+  },
+  {
+    "prompt": "Why are they waiting?",
+    "answer": "traffic",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000368833.jpg"
+  },
+  {
+    "prompt": "Why is the horse walking down the street?",
+    "answer": "carriage",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000084625.jpg"
+  },
+  {
+    "prompt": "Why are the person's arms out?",
+    "answer": "balance",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000334301.jpg"
+  },
+  {
+    "prompt": "Why is the horse on the ground?",
+    "answer": "resting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000535211.jpg"
+  },
+  {
+    "prompt": "Why do some of the slices have crust on two sides?",
+    "answer": "corner",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000242467.jpg"
+  },
+  {
+    "prompt": "Why do the people probably have umbrellas opened?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000389031.jpg"
+  },
+  {
+    "prompt": "Why is there a straw on the tray?",
+    "answer": "drink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000287400.jpg"
+  },
+  {
+    "prompt": "Why are there sticks in the snow?",
+    "answer": "poles",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000418091.jpg"
+  },
+  {
+    "prompt": "Why can't this white cow relax?",
+    "answer": "hot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000052347.jpg"
+  },
+  {
+    "prompt": "Why is the bike parked in the street?",
+    "answer": "parked",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000208991.jpg"
+  },
+  {
+    "prompt": "Why is this man so tired?",
+    "answer": "baby",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000468162.jpg"
+  },
+  {
+    "prompt": "Why does the dog want the plastic disk?",
+    "answer": "play",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000475380.jpg"
+  },
+  {
+    "prompt": "Why is there a hair dryer on the wall?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000579846.jpg"
+  },
+  {
+    "prompt": "Why is there something hanging from the ceiling that blocks the mirror?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000231253.jpg"
+  },
+  {
+    "prompt": "Why is it black?",
+    "answer": "color",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000091113.jpg"
+  },
+  {
+    "prompt": "Why is the motorcyclist wearing a helmet?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000374487.jpg"
+  },
+  {
+    "prompt": "Why is she wearing a visor?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000360480.jpg"
+  },
+  {
+    "prompt": "Why is the man's mouth white?",
+    "answer": "brushing his teeth",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000537860.jpg"
+  },
+  {
+    "prompt": "Why is the ground wet?",
+    "answer": "raining",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000392183.jpg"
+  },
+  {
+    "prompt": "Why is she getting ready to go and watching the clock at the same time?",
+    "answer": "home",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000277003.jpg"
+  },
+  {
+    "prompt": "Why does the man have no shirt on?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000516199.jpg"
+  },
+  {
+    "prompt": "Why is this black and white?",
+    "answer": "picture",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000248834.jpg"
+  },
+  {
+    "prompt": "Why are people watching the llama?",
+    "answer": "zoo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000053615.jpg"
+  },
+  {
+    "prompt": "Why is the ground surface near the train a different color?",
+    "answer": "pavement",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000319299.jpg"
+  },
+  {
+    "prompt": "Why is the picture in black and white?",
+    "answer": "it's not",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000365831.jpg"
+  },
+  {
+    "prompt": "Why is the hood open?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000561126.jpg"
+  },
+  {
+    "prompt": "Why does the man have no shirt on?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000089915.jpg"
+  },
+  {
+    "prompt": "Why is he in a tuxedo?",
+    "answer": "wedding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000416188.jpg"
+  },
+  {
+    "prompt": "Why are there signs posted in the middle of the fruit?",
+    "answer": "12",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000382979.jpg"
+  },
+  {
+    "prompt": "Why is he shirtless?",
+    "answer": "heat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000540614.jpg"
+  },
+  {
+    "prompt": "Why is there food next to a urinal?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000329534.jpg"
+  },
+  {
+    "prompt": "Why is this bathroom black?",
+    "answer": "paint",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000531023.jpg"
+  },
+  {
+    "prompt": "Why do they put tags on an animals ears?",
+    "answer": "identification",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000002178.jpg"
+  },
+  {
+    "prompt": "Why is this man shirtless?",
+    "answer": "he isn't",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000150435.jpg"
+  },
+  {
+    "prompt": "Why are the car's lights on?",
+    "answer": "dark",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000276545.jpg"
+  },
+  {
+    "prompt": "Why is the umbrella being used?",
+    "answer": "shade",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000569561.jpg"
+  },
+  {
+    "prompt": "Why are there so many boats?",
+    "answer": "dock",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000125263.jpg"
+  },
+  {
+    "prompt": "Why would a person enter this room?",
+    "answer": "shower",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000068283.jpg"
+  },
+  {
+    "prompt": "Why is the elephant's forehead striped?",
+    "answer": "age",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000470907.jpg"
+  },
+  {
+    "prompt": "Why is she wearing those colors?",
+    "answer": "fashion",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000383324.jpg"
+  },
+  {
+    "prompt": "Why do the borders only have one boot clamped on the board?",
+    "answer": "balance",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000210890.jpg"
+  },
+  {
+    "prompt": "Why has the man raised his arms?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000109042.jpg"
+  },
+  {
+    "prompt": "Why would a smoker find this bathroom inconvenient?",
+    "answer": "no smoking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000186074.jpg"
+  },
+  {
+    "prompt": "Why are the racers leaning?",
+    "answer": "turning",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000098408.jpg"
+  },
+  {
+    "prompt": "Why are the men holding umbrellas?",
+    "answer": "raining",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000528351.jpg"
+  },
+  {
+    "prompt": "Why is the hairbrush next to the baby?",
+    "answer": "accident",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000154245.jpg"
+  },
+  {
+    "prompt": "Why is the man wearing glasses?",
+    "answer": "he's not",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000257620.jpg"
+  },
+  {
+    "prompt": "Why is the truck so tall?",
+    "answer": "style",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000049283.jpg"
+  },
+  {
+    "prompt": "Why is the man's head tilted?",
+    "answer": "on phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000240706.jpg"
+  },
+  {
+    "prompt": "Why are there numerous laptops on the table?",
+    "answer": "conference",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000009760.jpg"
+  },
+  {
+    "prompt": "Why is the caution barrier on top of the fire hydrant?",
+    "answer": "cone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000418701.jpg"
+  },
+  {
+    "prompt": "Why is a shower curtain needed?",
+    "answer": "privacy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000570280.jpg"
+  },
+  {
+    "prompt": "Why are there kids there?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000011411.jpg"
+  },
+  {
+    "prompt": "Why is there orange color in the clouds?",
+    "answer": "sunset",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000328036.jpg"
+  },
+  {
+    "prompt": "Why are there shadows?",
+    "answer": "lights",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000407246.jpg"
+  },
+  {
+    "prompt": "Why is the woman dress that way?",
+    "answer": "cold",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000552444.jpg"
+  },
+  {
+    "prompt": "Why is the man bald?",
+    "answer": "genetics",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000028702.jpg"
+  },
+  {
+    "prompt": "Why this man is too happy?",
+    "answer": "game",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000263385.jpg"
+  },
+  {
+    "prompt": "Why did the bat break?",
+    "answer": "hit ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000167006.jpg"
+  },
+  {
+    "prompt": "Why does the elephant have a blanket?",
+    "answer": "comfort",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000120006.jpg"
+  },
+  {
+    "prompt": "Why are people sitting under umbrellas?",
+    "answer": "lifeguard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000254042.jpg"
+  },
+  {
+    "prompt": "Why is the curb painted yellow?",
+    "answer": "caution",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000513690.jpg"
+  },
+  {
+    "prompt": "Why are they riding in pairs?",
+    "answer": "protection",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000128974.jpg"
+  },
+  {
+    "prompt": "Why this person standing so far from the court?",
+    "answer": "skating",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000569432.jpg"
+  },
+  {
+    "prompt": "Why is his hair hook up?",
+    "answer": "ponytail",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000570512.jpg"
+  },
+  {
+    "prompt": "Why are the TV and chair on the curb?",
+    "answer": "trash",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000533942.jpg"
+  },
+  {
+    "prompt": "Why are there no people here?",
+    "answer": "cold",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000404988.jpg"
+  },
+  {
+    "prompt": "Why is he dressed up and holding a flower in a box?",
+    "answer": "he isn't",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000363957.jpg"
+  },
+  {
+    "prompt": "Why are the cows tagged?",
+    "answer": "identification",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000093764.jpg"
+  },
+  {
+    "prompt": "Why is there a lighthouse here?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000018952.jpg"
+  },
+  {
+    "prompt": "Why is everything all wet?",
+    "answer": "raining",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000486163.jpg"
+  },
+  {
+    "prompt": "Why don't the horses have saddles?",
+    "answer": "relaxing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000328289.jpg"
+  },
+  {
+    "prompt": "Why is the boy under an umbrella?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000112031.jpg"
+  },
+  {
+    "prompt": "Why are they carrying an umbrella?",
+    "answer": "they aren't",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000073690.jpg"
+  },
+  {
+    "prompt": "Why is the horse hitched to the vehicle?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000421024.jpg"
+  },
+  {
+    "prompt": "Why are the Zebras in the water?",
+    "answer": "drinking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000323468.jpg"
+  },
+  {
+    "prompt": "Why are there wires?",
+    "answer": "electronics",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000424342.jpg"
+  },
+  {
+    "prompt": "Why is the player wearing his cap the wrong way?",
+    "answer": "fashion",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000029894.jpg"
+  },
+  {
+    "prompt": "Why are the lights all on?",
+    "answer": "to see",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000578175.jpg"
+  },
+  {
+    "prompt": "Why is the toothpaste tube rolled up at the bottom?",
+    "answer": "empty",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000003782.jpg"
+  },
+  {
+    "prompt": "Why are the bird on there?",
+    "answer": "resting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000244231.jpg"
+  },
+  {
+    "prompt": "Why are all the umbrellas closed?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000147772.jpg"
+  },
+  {
+    "prompt": "Why is everyone standing around watching this guy?",
+    "answer": "cool",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000127067.jpg"
+  },
+  {
+    "prompt": "Why is  this child biting down real hard on the pizza?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000386937.jpg"
+  }
+]

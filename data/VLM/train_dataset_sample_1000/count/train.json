@@ -1,0 +1,5002 @@
+[
+  {
+    "prompt": "How many decks does the bus in the front have?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000493936.jpg"
+  },
+  {
+    "prompt": "How many candles need to be blown out?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000355440.jpg"
+  },
+  {
+    "prompt": "How many colors is the dogs fur?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000021048.jpg"
+  },
+  {
+    "prompt": "How many people are seated?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000491140.jpg"
+  },
+  {
+    "prompt": "How many stuffed animals are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000475567.jpg"
+  },
+  {
+    "prompt": "How many cars are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000080928.jpg"
+  },
+  {
+    "prompt": "How many computers are on the desk?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000499300.jpg"
+  },
+  {
+    "prompt": "How many R's are on the plane?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000119822.jpg"
+  },
+  {
+    "prompt": "How many flags are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000021051.jpg"
+  },
+  {
+    "prompt": "How many animals are seen?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000207117.jpg"
+  },
+  {
+    "prompt": "How many green balls are in the bowl?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000571279.jpg"
+  },
+  {
+    "prompt": "How many televisions in this room?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000032888.jpg"
+  },
+  {
+    "prompt": "How many lamps?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000523096.jpg"
+  },
+  {
+    "prompt": "How many lifts are visible?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000259687.jpg"
+  },
+  {
+    "prompt": "What number is in the bottom left corner?",
+    "answer": "unknown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000316528.jpg"
+  },
+  {
+    "prompt": "How many umbrellas are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000056594.jpg"
+  },
+  {
+    "prompt": "How many animals do you see?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000510915.jpg"
+  },
+  {
+    "prompt": "How many chairs are in this picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000348857.jpg"
+  },
+  {
+    "prompt": "How many people are behind the glass?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000144022.jpg"
+  },
+  {
+    "prompt": "How many bird is there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000140582.jpg"
+  },
+  {
+    "prompt": "How many arrows are visible?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000267463.jpg"
+  },
+  {
+    "prompt": "How many hands is the snowboarder using to grab his snowboard?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000205945.jpg"
+  },
+  {
+    "prompt": "How many animals are there?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000152731.jpg"
+  },
+  {
+    "prompt": "How many levels of tracks are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000437145.jpg"
+  },
+  {
+    "prompt": "How many vehicles are near the plane?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000340252.jpg"
+  },
+  {
+    "prompt": "How many slices of bread are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000570890.jpg"
+  },
+  {
+    "prompt": "How many circles are in this picture?",
+    "answer": "14",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000399560.jpg"
+  },
+  {
+    "prompt": "How many people are shown?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000294307.jpg"
+  },
+  {
+    "prompt": "How many people are riding bikes?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000310695.jpg"
+  },
+  {
+    "prompt": "How many clocks are in the picture?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000421533.jpg"
+  },
+  {
+    "prompt": "How many cars are on this train?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000537412.jpg"
+  },
+  {
+    "prompt": "How many people are in the closest boat?",
+    "answer": "12",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000209106.jpg"
+  },
+  {
+    "prompt": "How many chairs are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000343009.jpg"
+  },
+  {
+    "prompt": "How many towels are hanging up?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000273863.jpg"
+  },
+  {
+    "prompt": "How many white horse are in the picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000102461.jpg"
+  },
+  {
+    "prompt": "How many people are in the picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000301376.jpg"
+  },
+  {
+    "prompt": "How many barstools are in the kitchen?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000309060.jpg"
+  },
+  {
+    "prompt": "How many bottles are pictured?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000054803.jpg"
+  },
+  {
+    "prompt": "How many round white lights are beneath the clocks?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000338528.jpg"
+  },
+  {
+    "prompt": "How many elephants are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000373641.jpg"
+  },
+  {
+    "prompt": "How many people are in the background?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000044117.jpg"
+  },
+  {
+    "prompt": "How many people are wearing ties?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000290215.jpg"
+  },
+  {
+    "prompt": "How many buildings are visible?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000247977.jpg"
+  },
+  {
+    "prompt": "How many engines are visible?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000132773.jpg"
+  },
+  {
+    "prompt": "How many care do you see?",
+    "answer": "11",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000543332.jpg"
+  },
+  {
+    "prompt": "How many chairs can you count?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000116588.jpg"
+  },
+  {
+    "prompt": "How many elephants are there?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000332131.jpg"
+  },
+  {
+    "prompt": "How many people are touching a ball?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000072156.jpg"
+  },
+  {
+    "prompt": "How many elephants are present in the picture?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000374563.jpg"
+  },
+  {
+    "prompt": "How many mountains are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000099238.jpg"
+  },
+  {
+    "prompt": "How many people are here?",
+    "answer": "10",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000328792.jpg"
+  },
+  {
+    "prompt": "How many people are wearing hats?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000212083.jpg"
+  },
+  {
+    "prompt": "How many people are seated?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000392974.jpg"
+  },
+  {
+    "prompt": "How many bicycles are there?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000356849.jpg"
+  },
+  {
+    "prompt": "How many people are on the slopes?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000204049.jpg"
+  },
+  {
+    "prompt": "How many cows are in the picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000235857.jpg"
+  },
+  {
+    "prompt": "How many flags are in front of the building?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000125201.jpg"
+  },
+  {
+    "prompt": "How many slices of this sandwich are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000063084.jpg"
+  },
+  {
+    "prompt": "How many elephants are in this photo?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000151908.jpg"
+  },
+  {
+    "prompt": "How many animals are crossing the road?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000558646.jpg"
+  },
+  {
+    "prompt": "How many slices are there?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000117679.jpg"
+  },
+  {
+    "prompt": "How many paddles are in the image?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000263582.jpg"
+  },
+  {
+    "prompt": "How many utensils are visible in this picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000335316.jpg"
+  },
+  {
+    "prompt": "How many vegetables on the table?",
+    "answer": "10",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000256938.jpg"
+  },
+  {
+    "prompt": "How many sheep are in the picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000064348.jpg"
+  },
+  {
+    "prompt": "How many vases on the table?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000528970.jpg"
+  },
+  {
+    "prompt": "How many employees are visible?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000405520.jpg"
+  },
+  {
+    "prompt": "How many boats are here?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000551692.jpg"
+  },
+  {
+    "prompt": "What number is on the post?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000396073.jpg"
+  },
+  {
+    "prompt": "How many steps are visible in the background?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000127135.jpg"
+  },
+  {
+    "prompt": "How many children are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000542651.jpg"
+  },
+  {
+    "prompt": "How many horses are in this picture?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000545361.jpg"
+  },
+  {
+    "prompt": "How many boards are lined up?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000478266.jpg"
+  },
+  {
+    "prompt": "How many red skiers do you see?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000005083.jpg"
+  },
+  {
+    "prompt": "How many arms are in view?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000407806.jpg"
+  },
+  {
+    "prompt": "How many people probably sleep here?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000160952.jpg"
+  },
+  {
+    "prompt": "How many plates of food are on this table?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000152340.jpg"
+  },
+  {
+    "prompt": "How many windows are on the front of the plane?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000336690.jpg"
+  },
+  {
+    "prompt": "How many toys are in this room?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000288890.jpg"
+  },
+  {
+    "prompt": "How many dogs are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000010005.jpg"
+  },
+  {
+    "prompt": "How many animals are here?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000091844.jpg"
+  },
+  {
+    "prompt": "How many pieces of toast are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000208633.jpg"
+  },
+  {
+    "prompt": "How many crackers are in the photo?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000186968.jpg"
+  },
+  {
+    "prompt": "How many sets of train tracks are here?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000390546.jpg"
+  },
+  {
+    "prompt": "How many wicker baskets are in the picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000348134.jpg"
+  },
+  {
+    "prompt": "How many people can you detect?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000008010.jpg"
+  },
+  {
+    "prompt": "How many people are in the picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000350405.jpg"
+  },
+  {
+    "prompt": "What number is on the motorcycle?",
+    "answer": "19",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000521221.jpg"
+  },
+  {
+    "prompt": "How many people are standing outside of the bus?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000162996.jpg"
+  },
+  {
+    "prompt": "How many people in this shot?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000257231.jpg"
+  },
+  {
+    "prompt": "How many different kinds of flowers?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000171154.jpg"
+  },
+  {
+    "prompt": "How many glasses are filled with a drink?",
+    "answer": "10",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000507979.jpg"
+  },
+  {
+    "prompt": "How many flowers are there?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000417161.jpg"
+  },
+  {
+    "prompt": "How many planes are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000485237.jpg"
+  },
+  {
+    "prompt": "How many elephants form the line?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000366295.jpg"
+  },
+  {
+    "prompt": "How many buildings can be seen?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000261026.jpg"
+  },
+  {
+    "prompt": "How many zebras are next to the water?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000474545.jpg"
+  },
+  {
+    "prompt": "How many flags are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000552486.jpg"
+  },
+  {
+    "prompt": "How many different types of vehicles are there?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000302141.jpg"
+  },
+  {
+    "prompt": "How many people in the picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000074990.jpg"
+  },
+  {
+    "prompt": "How many of these fruits are shown?",
+    "answer": "20",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000307480.jpg"
+  },
+  {
+    "prompt": "How many people are wearing glasses?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000108575.jpg"
+  },
+  {
+    "prompt": "How many suitcases  are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000361520.jpg"
+  },
+  {
+    "prompt": "How many boats are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000113294.jpg"
+  },
+  {
+    "prompt": "How many windows are open on the laptop?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000094846.jpg"
+  },
+  {
+    "prompt": "How many windows are visible?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000472783.jpg"
+  },
+  {
+    "prompt": "How many boys are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000126104.jpg"
+  },
+  {
+    "prompt": "How many lights are on?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000381661.jpg"
+  },
+  {
+    "prompt": "How many utensils are in the bowl?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000317833.jpg"
+  },
+  {
+    "prompt": "How many different types animals are in the water?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000496578.jpg"
+  },
+  {
+    "prompt": "How many vehicles do you see?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000268774.jpg"
+  },
+  {
+    "prompt": "How many different types of transportation are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000234624.jpg"
+  },
+  {
+    "prompt": "How many trains?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000043506.jpg"
+  },
+  {
+    "prompt": "How many giraffes are shown?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000061174.jpg"
+  },
+  {
+    "prompt": "What number is on the sign?",
+    "answer": "44",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000474423.jpg"
+  },
+  {
+    "prompt": "How many beds are pictured?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000168661.jpg"
+  },
+  {
+    "prompt": "What number is on his shirt?",
+    "answer": "21",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000546447.jpg"
+  },
+  {
+    "prompt": "How many children are shown?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000203350.jpg"
+  },
+  {
+    "prompt": "How many people are shown?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000288599.jpg"
+  },
+  {
+    "prompt": "How many propeller airplanes are there?",
+    "answer": "9",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000385625.jpg"
+  },
+  {
+    "prompt": "How many bunches of bananas are in the picture?",
+    "answer": "32",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000144484.jpg"
+  },
+  {
+    "prompt": "How many cows are standing?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000142198.jpg"
+  },
+  {
+    "prompt": "How many pictures are hanging on the walls?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000160498.jpg"
+  },
+  {
+    "prompt": "How many cows are under this tree?",
+    "answer": "25",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000392162.jpg"
+  },
+  {
+    "prompt": "How many windows do you see?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000326805.jpg"
+  },
+  {
+    "prompt": "How many people have sunglasses?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000203389.jpg"
+  },
+  {
+    "prompt": "How many animals are in the picture?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000087483.jpg"
+  },
+  {
+    "prompt": "How many cars?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000415904.jpg"
+  },
+  {
+    "prompt": "How many lines in the grass?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000182923.jpg"
+  },
+  {
+    "prompt": "How many paintings are on the wall?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000398419.jpg"
+  },
+  {
+    "prompt": "How many different fruits are shown?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000504560.jpg"
+  },
+  {
+    "prompt": "How many lights are located on the building?",
+    "answer": "12",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000579614.jpg"
+  },
+  {
+    "prompt": "How many people on the bench have on hats?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000209782.jpg"
+  },
+  {
+    "prompt": "How many people are in the picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000183833.jpg"
+  },
+  {
+    "prompt": "How many animals are standing?",
+    "answer": "16",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000166575.jpg"
+  },
+  {
+    "prompt": "How many animals?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000335747.jpg"
+  },
+  {
+    "prompt": "How many chairs are at the table?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000366116.jpg"
+  },
+  {
+    "prompt": "How many cats are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000581249.jpg"
+  },
+  {
+    "prompt": "How many people are in front of the fruit stand?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000519105.jpg"
+  },
+  {
+    "prompt": "How many plates?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000090869.jpg"
+  },
+  {
+    "prompt": "How many cows are on the hill?",
+    "answer": "18",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000147276.jpg"
+  },
+  {
+    "prompt": "How many black containers are on top of the toilet?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000390706.jpg"
+  },
+  {
+    "prompt": "How many motorcycles are in the picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000487181.jpg"
+  },
+  {
+    "prompt": "How many pizzas are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000299527.jpg"
+  },
+  {
+    "prompt": "How many poles are shown?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000475656.jpg"
+  },
+  {
+    "prompt": "How many sinks are in the photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000166533.jpg"
+  },
+  {
+    "prompt": "How many women are in the picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000047667.jpg"
+  },
+  {
+    "prompt": "How many people are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000132710.jpg"
+  },
+  {
+    "prompt": "How many giraffes are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000363494.jpg"
+  },
+  {
+    "prompt": "How many children are holding bears?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000003939.jpg"
+  },
+  {
+    "prompt": "How many people are visible?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000519365.jpg"
+  },
+  {
+    "prompt": "How many city buses are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000310926.jpg"
+  },
+  {
+    "prompt": "How many oranges are in the bowl?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000441992.jpg"
+  },
+  {
+    "prompt": "How many airplanes are in the air?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000533464.jpg"
+  },
+  {
+    "prompt": "How many potholes are visible?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000413689.jpg"
+  },
+  {
+    "prompt": "How many people are visible in the dugout?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000057086.jpg"
+  },
+  {
+    "prompt": "How many boats are on the water?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000132102.jpg"
+  },
+  {
+    "prompt": "How many flags are in this image?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000492413.jpg"
+  },
+  {
+    "prompt": "How many toilets are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000455342.jpg"
+  },
+  {
+    "prompt": "How many toothbrushes are in this picture?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000128337.jpg"
+  },
+  {
+    "prompt": "How many animals are visible in this picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000159072.jpg"
+  },
+  {
+    "prompt": "What number is on the bear's shirt?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000438258.jpg"
+  },
+  {
+    "prompt": "How many breaks are visible?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000262705.jpg"
+  },
+  {
+    "prompt": "How many doors on the refrigerator?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000333978.jpg"
+  },
+  {
+    "prompt": "How many horses are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000148546.jpg"
+  },
+  {
+    "prompt": "How many tissues are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000157282.jpg"
+  },
+  {
+    "prompt": "How many horses are pulling the cart?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000223454.jpg"
+  },
+  {
+    "prompt": "How many people are in the picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000177896.jpg"
+  },
+  {
+    "prompt": "How many zebras are looking at the camera?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000169217.jpg"
+  },
+  {
+    "prompt": "How many trays of pastries are there?",
+    "answer": "10",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000330237.jpg"
+  },
+  {
+    "prompt": "How many chairs are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000424146.jpg"
+  },
+  {
+    "prompt": "How many people are in the background?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000401251.jpg"
+  },
+  {
+    "prompt": "How many parasailers are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000267290.jpg"
+  },
+  {
+    "prompt": "How many kids are there?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000532062.jpg"
+  },
+  {
+    "prompt": "How many clouds are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000421254.jpg"
+  },
+  {
+    "prompt": "How many autos are there?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000063943.jpg"
+  },
+  {
+    "prompt": "How many drinks do you see?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000143516.jpg"
+  },
+  {
+    "prompt": "How many pairs of goggles?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000476569.jpg"
+  },
+  {
+    "prompt": "How many people are under the umbrella?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000441172.jpg"
+  },
+  {
+    "prompt": "How many pillows are in the chair?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000441900.jpg"
+  },
+  {
+    "prompt": "How many windows are visible on the enclosed porch of the building?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000568808.jpg"
+  },
+  {
+    "prompt": "How many treetops can you count in this picture?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000111801.jpg"
+  },
+  {
+    "prompt": "How many crackers are in the photo?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000090192.jpg"
+  },
+  {
+    "prompt": "How many slices does this pizza have?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000495304.jpg"
+  },
+  {
+    "prompt": "How many chopped tree trunks are shown in front of the elephant?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000203166.jpg"
+  },
+  {
+    "prompt": "How many pairs of flip flops are in the picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000274418.jpg"
+  },
+  {
+    "prompt": "How many buses are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000573191.jpg"
+  },
+  {
+    "prompt": "How many players are there?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000486606.jpg"
+  },
+  {
+    "prompt": "How many people are in this photo?",
+    "answer": "9",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000245313.jpg"
+  },
+  {
+    "prompt": "How many chairs are there?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000410305.jpg"
+  },
+  {
+    "prompt": "What number is on the red jersey?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000180559.jpg"
+  },
+  {
+    "prompt": "How many people are wearing glasses?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000485419.jpg"
+  },
+  {
+    "prompt": "How many boats are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000438580.jpg"
+  },
+  {
+    "prompt": "How many orange cones can you see?",
+    "answer": "12",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000187611.jpg"
+  },
+  {
+    "prompt": "How many have an antenna?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000099498.jpg"
+  },
+  {
+    "prompt": "How many cars are seen?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000306161.jpg"
+  },
+  {
+    "prompt": "How many intact pieces of fruit are in this scene?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000157238.jpg"
+  },
+  {
+    "prompt": "How many living people are in this image?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000127388.jpg"
+  },
+  {
+    "prompt": "How many white items in the photo?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000179620.jpg"
+  },
+  {
+    "prompt": "How many people only have black shoes?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000012861.jpg"
+  },
+  {
+    "prompt": "How many red rims are on the wheels?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000061452.jpg"
+  },
+  {
+    "prompt": "How many animals are depicted?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000419780.jpg"
+  },
+  {
+    "prompt": "How many smoke stacks are there?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000044389.jpg"
+  },
+  {
+    "prompt": "How many spotted cows are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000217341.jpg"
+  },
+  {
+    "prompt": "How many vehicles are currently in operation in this photo?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000405111.jpg"
+  },
+  {
+    "prompt": "How many people are in the water?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000006028.jpg"
+  },
+  {
+    "prompt": "How many lamps are off?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000513532.jpg"
+  },
+  {
+    "prompt": "How many bicycles are pictured here?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000370258.jpg"
+  },
+  {
+    "prompt": "How many hot dogs are in the row on the right?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000320582.jpg"
+  },
+  {
+    "prompt": "How many birds are on the branch?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000426073.jpg"
+  },
+  {
+    "prompt": "How many sheep are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000016520.jpg"
+  },
+  {
+    "prompt": "How many horses are shown?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000039141.jpg"
+  },
+  {
+    "prompt": "How many different colors are on the elephant?",
+    "answer": "10",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000265153.jpg"
+  },
+  {
+    "prompt": "How many orange things?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000349044.jpg"
+  },
+  {
+    "prompt": "How many players are in view?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000010639.jpg"
+  },
+  {
+    "prompt": "How many bikes are seen?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000516581.jpg"
+  },
+  {
+    "prompt": "How many men are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000120178.jpg"
+  },
+  {
+    "prompt": "How many animals are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000460010.jpg"
+  },
+  {
+    "prompt": "How many lights are on the front of the train?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000352498.jpg"
+  },
+  {
+    "prompt": "How many plates with cake are shown in this picture?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000335249.jpg"
+  },
+  {
+    "prompt": "How many cars?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000289807.jpg"
+  },
+  {
+    "prompt": "How many people are wearing red shirts?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000241265.jpg"
+  },
+  {
+    "prompt": "How many airplanes are on the runway?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000071123.jpg"
+  },
+  {
+    "prompt": "How many dolls are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000261202.jpg"
+  },
+  {
+    "prompt": "What number is on the bus?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000132189.jpg"
+  },
+  {
+    "prompt": "How many feet are showing?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000282206.jpg"
+  },
+  {
+    "prompt": "How many elephants are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000105975.jpg"
+  },
+  {
+    "prompt": "How many cows are there?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000242169.jpg"
+  },
+  {
+    "prompt": "How many keyboards do you see?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000441296.jpg"
+  },
+  {
+    "prompt": "How many people are in this photo?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000336491.jpg"
+  },
+  {
+    "prompt": "How many sinks are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000002197.jpg"
+  },
+  {
+    "prompt": "How many people are in the crowd?",
+    "answer": "20",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000477807.jpg"
+  },
+  {
+    "prompt": "How many pictures are on the walls?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000074078.jpg"
+  },
+  {
+    "prompt": "How many black stripes are on the animal?",
+    "answer": "100",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000009988.jpg"
+  },
+  {
+    "prompt": "How many watches are in the picture?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000573320.jpg"
+  },
+  {
+    "prompt": "How many propellers are shown?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000219228.jpg"
+  },
+  {
+    "prompt": "How many lights are on the streetlight?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000325524.jpg"
+  },
+  {
+    "prompt": "How many sinks are here?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000302159.jpg"
+  },
+  {
+    "prompt": "How many arrows can be seen on the road?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000190680.jpg"
+  },
+  {
+    "prompt": "How many people are standing on the dirt?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000083332.jpg"
+  },
+  {
+    "prompt": "How many sinks are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000265324.jpg"
+  },
+  {
+    "prompt": "How many modes of transportation are in the picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000448648.jpg"
+  },
+  {
+    "prompt": "How many people are holding tennis rackets?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000456987.jpg"
+  },
+  {
+    "prompt": "How many different types of berries in this picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000569769.jpg"
+  },
+  {
+    "prompt": "How many men are in military uniform?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000490022.jpg"
+  },
+  {
+    "prompt": "How many tires are visible?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000152385.jpg"
+  },
+  {
+    "prompt": "How many suitcases are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000437351.jpg"
+  },
+  {
+    "prompt": "How many chairs are there?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000028858.jpg"
+  },
+  {
+    "prompt": "How many candles are lit?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000103383.jpg"
+  },
+  {
+    "prompt": "How many animals are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000143129.jpg"
+  },
+  {
+    "prompt": "How many suitcases are in the photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000190362.jpg"
+  },
+  {
+    "prompt": "How many slices of pizza are there?",
+    "answer": "12",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000227512.jpg"
+  },
+  {
+    "prompt": "What number is this bus?",
+    "answer": "12",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000019413.jpg"
+  },
+  {
+    "prompt": "How many layers in the cake?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000209590.jpg"
+  },
+  {
+    "prompt": "How many men are in the photo?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000179753.jpg"
+  },
+  {
+    "prompt": "How many types of animals can you see?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000428178.jpg"
+  },
+  {
+    "prompt": "How many people are dining?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000070402.jpg"
+  },
+  {
+    "prompt": "How many pictures on the wall?",
+    "answer": "20",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000366421.jpg"
+  },
+  {
+    "prompt": "What number is on the batter's shirt?",
+    "answer": "21",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000099755.jpg"
+  },
+  {
+    "prompt": "How many people are there?",
+    "answer": "11",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000052819.jpg"
+  },
+  {
+    "prompt": "How many books are on the table?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000140231.jpg"
+  },
+  {
+    "prompt": "How many planes are in the sky?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000288002.jpg"
+  },
+  {
+    "prompt": "How many remotes do you see on the table?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000317227.jpg"
+  },
+  {
+    "prompt": "How many slice have been eaten?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000478902.jpg"
+  },
+  {
+    "prompt": "How many candles are in the picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000376295.jpg"
+  },
+  {
+    "prompt": "How many people are in the boat?",
+    "answer": "12",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000283101.jpg"
+  },
+  {
+    "prompt": "How many people using an umbrella?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000192852.jpg"
+  },
+  {
+    "prompt": "How many trees are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000252996.jpg"
+  },
+  {
+    "prompt": "How many skiers are in the distance?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000288797.jpg"
+  },
+  {
+    "prompt": "How many farmers are in the field with the livestock?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000191533.jpg"
+  },
+  {
+    "prompt": "How many cars are in the picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000279034.jpg"
+  },
+  {
+    "prompt": "How many tattoos does the woman have on her arm?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000104800.jpg"
+  },
+  {
+    "prompt": "How many more minutes until 6 o clock?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000438187.jpg"
+  },
+  {
+    "prompt": "How many train cars are visible?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000561005.jpg"
+  },
+  {
+    "prompt": "How many candles are on the cupcake?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000313246.jpg"
+  },
+  {
+    "prompt": "How many glasses of wine are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000179699.jpg"
+  },
+  {
+    "prompt": "What number is on his back?",
+    "answer": "39",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000245336.jpg"
+  },
+  {
+    "prompt": "How many arrows say 'toilet'?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000329337.jpg"
+  },
+  {
+    "prompt": "How many animals are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000429685.jpg"
+  },
+  {
+    "prompt": "How many tires are on the back of the truck?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000394206.jpg"
+  },
+  {
+    "prompt": "How many screens are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000089268.jpg"
+  },
+  {
+    "prompt": "How many people are visible in the background?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000041840.jpg"
+  },
+  {
+    "prompt": "How many dogs are in this photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000029324.jpg"
+  },
+  {
+    "prompt": "How many elephants are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000430523.jpg"
+  },
+  {
+    "prompt": "How many people are walking down the sidewalk?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000071667.jpg"
+  },
+  {
+    "prompt": "How many men are in this photo?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000498747.jpg"
+  },
+  {
+    "prompt": "How many zebras are in the photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000146586.jpg"
+  },
+  {
+    "prompt": "How many sheep are in the far distance?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000311286.jpg"
+  },
+  {
+    "prompt": "How many sets of double letters are on this street sign?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000325125.jpg"
+  },
+  {
+    "prompt": "How many people are with the plane?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000201324.jpg"
+  },
+  {
+    "prompt": "How many rolls of toilet paper are on top of the toilet?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000174024.jpg"
+  },
+  {
+    "prompt": "How many people are sitting on the ground?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000008520.jpg"
+  },
+  {
+    "prompt": "How many people are in the photo?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000418185.jpg"
+  },
+  {
+    "prompt": "How many clocks are pictured on the clock tower?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000320282.jpg"
+  },
+  {
+    "prompt": "How many people are holding a surfboard?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000446901.jpg"
+  },
+  {
+    "prompt": "How many boys riding the skateboard?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000396200.jpg"
+  },
+  {
+    "prompt": "How many different flowers are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000159626.jpg"
+  },
+  {
+    "prompt": "How many monitors are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000576040.jpg"
+  },
+  {
+    "prompt": "How many men in the photo?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000145288.jpg"
+  },
+  {
+    "prompt": "How many people in the water?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000573533.jpg"
+  },
+  {
+    "prompt": "How many people are on the bicycles?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000388619.jpg"
+  },
+  {
+    "prompt": "How many cars are in the picture?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000196413.jpg"
+  },
+  {
+    "prompt": "How many slices are missing?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000087137.jpg"
+  },
+  {
+    "prompt": "How many bikes are here?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000519838.jpg"
+  },
+  {
+    "prompt": "How many men figures are there involved in the clock?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000008892.jpg"
+  },
+  {
+    "prompt": "How many vehicles on the road?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000092338.jpg"
+  },
+  {
+    "prompt": "How many kids are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000438867.jpg"
+  },
+  {
+    "prompt": "How many bats can you see in the picture?",
+    "answer": "10",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000276417.jpg"
+  },
+  {
+    "prompt": "How many turbine engines are visible in this picture?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000569596.jpg"
+  },
+  {
+    "prompt": "How many baby elephants are here?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000152785.jpg"
+  },
+  {
+    "prompt": "How many giraffes are visible?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000487401.jpg"
+  },
+  {
+    "prompt": "How many skiers are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000200103.jpg"
+  },
+  {
+    "prompt": "How many decks does the yellow bus have?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000240775.jpg"
+  },
+  {
+    "prompt": "How many pairs of glasses?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000488792.jpg"
+  },
+  {
+    "prompt": "How many flowers in the vase?",
+    "answer": "12",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000289987.jpg"
+  },
+  {
+    "prompt": "How many women are in this image?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000059567.jpg"
+  },
+  {
+    "prompt": "How many computers are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000255006.jpg"
+  },
+  {
+    "prompt": "How many blue chairs are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000312381.jpg"
+  },
+  {
+    "prompt": "How many people are standing?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000412277.jpg"
+  },
+  {
+    "prompt": "How many bears are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000581560.jpg"
+  },
+  {
+    "prompt": "How many umbrellas do you see?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000222506.jpg"
+  },
+  {
+    "prompt": "How many cows are there?",
+    "answer": "20",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000273548.jpg"
+  },
+  {
+    "prompt": "How many plates are stacked?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000355175.jpg"
+  },
+  {
+    "prompt": "How many bikes are parked here?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000098830.jpg"
+  },
+  {
+    "prompt": "How many computer screens are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000161386.jpg"
+  },
+  {
+    "prompt": "How many horses are they?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000369081.jpg"
+  },
+  {
+    "prompt": "How many burners are on the stove?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000555910.jpg"
+  },
+  {
+    "prompt": "How many bikes on the street?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000177467.jpg"
+  },
+  {
+    "prompt": "How many feet can be seen?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000298077.jpg"
+  },
+  {
+    "prompt": "What number is on the shirt?",
+    "answer": "30",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000004662.jpg"
+  },
+  {
+    "prompt": "How many tall trees are in the forest?",
+    "answer": "10",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000115088.jpg"
+  },
+  {
+    "prompt": "How many of these players are swinging?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000197246.jpg"
+  },
+  {
+    "prompt": "How many people are in this picture?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000054375.jpg"
+  },
+  {
+    "prompt": "How many canines are in the photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000314920.jpg"
+  },
+  {
+    "prompt": "How many buildings are shown?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000107747.jpg"
+  },
+  {
+    "prompt": "How many different fruits are on the plate?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000302885.jpg"
+  },
+  {
+    "prompt": "How many eyes can you see on the blue kite in the water?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000158694.jpg"
+  },
+  {
+    "prompt": "How many poles surround the fire hydrant?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000068179.jpg"
+  },
+  {
+    "prompt": "How many pieces of meat are on this pan?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000105102.jpg"
+  },
+  {
+    "prompt": "How many stockings are on the fireplace?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000131007.jpg"
+  },
+  {
+    "prompt": "How many people are sitting on the bench?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000189245.jpg"
+  },
+  {
+    "prompt": "How many surf worthy waves are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000489422.jpg"
+  },
+  {
+    "prompt": "How many bags are in the photo?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000551607.jpg"
+  },
+  {
+    "prompt": "How many birds are on the ground?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000534954.jpg"
+  },
+  {
+    "prompt": "How many people could sleep in the bed?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000348364.jpg"
+  },
+  {
+    "prompt": "How many wheels on each truck?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000205439.jpg"
+  },
+  {
+    "prompt": "How many seating levels are on the train?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000436882.jpg"
+  },
+  {
+    "prompt": "How many slices is the food cut into?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000351331.jpg"
+  },
+  {
+    "prompt": "How many people are in the water?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000319342.jpg"
+  },
+  {
+    "prompt": "How many elephants are here?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000151908.jpg"
+  },
+  {
+    "prompt": "How many traffic lights show green?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000216790.jpg"
+  },
+  {
+    "prompt": "How many different varieties of flower are in this vase?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000402346.jpg"
+  },
+  {
+    "prompt": "How many barstools are in the photo?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000195754.jpg"
+  },
+  {
+    "prompt": "How many candles are lit?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000233615.jpg"
+  },
+  {
+    "prompt": "How many people can sit at the table?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000498738.jpg"
+  },
+  {
+    "prompt": "How many drawers does the desk have?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000330881.jpg"
+  },
+  {
+    "prompt": "How many utensils are shown?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000547875.jpg"
+  },
+  {
+    "prompt": "How many types of fence are visible?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000545526.jpg"
+  },
+  {
+    "prompt": "How many bananas are there?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000579057.jpg"
+  },
+  {
+    "prompt": "How many birds are on the roof?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000114077.jpg"
+  },
+  {
+    "prompt": "How many bikes are in the photo?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000345090.jpg"
+  },
+  {
+    "prompt": "How many pictures on the wall?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000452380.jpg"
+  },
+  {
+    "prompt": "How many giraffes are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000030600.jpg"
+  },
+  {
+    "prompt": "How many giraffes are here?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000470002.jpg"
+  },
+  {
+    "prompt": "How many toilet paper rolls are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000485940.jpg"
+  },
+  {
+    "prompt": "How many people are riding the elephant?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000561753.jpg"
+  },
+  {
+    "prompt": "What number is this?",
+    "answer": "9",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000442988.jpg"
+  },
+  {
+    "prompt": "How many rugs are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000069428.jpg"
+  },
+  {
+    "prompt": "How many men are carrying traffic cones?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000387161.jpg"
+  },
+  {
+    "prompt": "How many snowboarders are sitting?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000355111.jpg"
+  },
+  {
+    "prompt": "How many pizzas have been taken from the pizza?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000380279.jpg"
+  },
+  {
+    "prompt": "How many layers of clothing is the man wearing?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000150435.jpg"
+  },
+  {
+    "prompt": "How many animals in the shot?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000114203.jpg"
+  },
+  {
+    "prompt": "How many vehicles are in this picture?",
+    "answer": "100",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000533799.jpg"
+  },
+  {
+    "prompt": "How many birds are in the picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000496522.jpg"
+  },
+  {
+    "prompt": "How many cupcakes are in this scene?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000157345.jpg"
+  },
+  {
+    "prompt": "How many slices of pizza are missing?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000061648.jpg"
+  },
+  {
+    "prompt": "How many trees are behind the giraffe?",
+    "answer": "lots",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000383991.jpg"
+  },
+  {
+    "prompt": "How many animals are standing on the hill?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000235252.jpg"
+  },
+  {
+    "prompt": "How many buses in the picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000280199.jpg"
+  },
+  {
+    "prompt": "How many people are shown?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000309096.jpg"
+  },
+  {
+    "prompt": "What number is on the sign?",
+    "answer": "no number",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000263883.jpg"
+  },
+  {
+    "prompt": "How many players do you see?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000312416.jpg"
+  },
+  {
+    "prompt": "How many layers is the cake made of?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000150254.jpg"
+  },
+  {
+    "prompt": "How many people are wearing green?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000071602.jpg"
+  },
+  {
+    "prompt": "How many children are in this photo?",
+    "answer": "38",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000002299.jpg"
+  },
+  {
+    "prompt": "How many zebra heads can you see?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000486960.jpg"
+  },
+  {
+    "prompt": "How many buses are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000020289.jpg"
+  },
+  {
+    "prompt": "How many jets?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000173544.jpg"
+  },
+  {
+    "prompt": "How many people are in the water?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000433184.jpg"
+  },
+  {
+    "prompt": "How many bushels of produce are there?",
+    "answer": "9",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000112053.jpg"
+  },
+  {
+    "prompt": "How many cell phones are on the desk?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000003219.jpg"
+  },
+  {
+    "prompt": "How many rugs on there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000152788.jpg"
+  },
+  {
+    "prompt": "How many chairs are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000082790.jpg"
+  },
+  {
+    "prompt": "How many people are wearing hats?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000443909.jpg"
+  },
+  {
+    "prompt": "How many people are in the water?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000004984.jpg"
+  },
+  {
+    "prompt": "How many people can sit in here?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000314779.jpg"
+  },
+  {
+    "prompt": "How many towels are shown?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000263311.jpg"
+  },
+  {
+    "prompt": "What number is in the circle?",
+    "answer": "10",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000292346.jpg"
+  },
+  {
+    "prompt": "How many elephants are in this scene?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000131611.jpg"
+  },
+  {
+    "prompt": "How many total pillows are in the room?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000578524.jpg"
+  },
+  {
+    "prompt": "How many comps are here?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000480400.jpg"
+  },
+  {
+    "prompt": "How many round objects are there?",
+    "answer": "11",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000426838.jpg"
+  },
+  {
+    "prompt": "How many cattle are on the field?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000546031.jpg"
+  },
+  {
+    "prompt": "How many heads do you see?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000087507.jpg"
+  },
+  {
+    "prompt": "How many bottles are on the nightstand?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000532137.jpg"
+  },
+  {
+    "prompt": "How many people on horses?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000459234.jpg"
+  },
+  {
+    "prompt": "How many people are wearing glasses?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000259761.jpg"
+  },
+  {
+    "prompt": "How many mouses are in this image?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000368706.jpg"
+  },
+  {
+    "prompt": "How many snowboarders are shown?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000504034.jpg"
+  },
+  {
+    "prompt": "How many cows are facing the camera?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000183670.jpg"
+  },
+  {
+    "prompt": "How many poles are there?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000551571.jpg"
+  },
+  {
+    "prompt": "How many different designs are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000145087.jpg"
+  },
+  {
+    "prompt": "How many toilets are pictured?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000342550.jpg"
+  },
+  {
+    "prompt": "How many slices of pizza are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000498786.jpg"
+  },
+  {
+    "prompt": "How many floors does the bus have?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000302971.jpg"
+  },
+  {
+    "prompt": "How many windows are on the same wall as the clock?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000302712.jpg"
+  },
+  {
+    "prompt": "How many animals?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000556461.jpg"
+  },
+  {
+    "prompt": "How many people are there?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000354745.jpg"
+  },
+  {
+    "prompt": "How many animals can be seen?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000305363.jpg"
+  },
+  {
+    "prompt": "How many sets of tracks are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000573241.jpg"
+  },
+  {
+    "prompt": "How many players do you see?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000055764.jpg"
+  },
+  {
+    "prompt": "How many horses are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000393534.jpg"
+  },
+  {
+    "prompt": "How many giraffes are in the picture?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000333474.jpg"
+  },
+  {
+    "prompt": "How many animals?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000319412.jpg"
+  },
+  {
+    "prompt": "How many sheep are in this photo?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000096016.jpg"
+  },
+  {
+    "prompt": "How many cups are on the table?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000469509.jpg"
+  },
+  {
+    "prompt": "How many blue shirts are in the photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000537924.jpg"
+  },
+  {
+    "prompt": "How many people are on the bike?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000260482.jpg"
+  },
+  {
+    "prompt": "How many ski slopes are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000450110.jpg"
+  },
+  {
+    "prompt": "How many people are there?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000198269.jpg"
+  },
+  {
+    "prompt": "How many tails can you see in this picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000370986.jpg"
+  },
+  {
+    "prompt": "How many players are seen?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000517005.jpg"
+  },
+  {
+    "prompt": "How many players are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000524282.jpg"
+  },
+  {
+    "prompt": "How many women are in the picture?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000439273.jpg"
+  },
+  {
+    "prompt": "How many people are on the bike?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000455614.jpg"
+  },
+  {
+    "prompt": "How many people do you see using their phones?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000255983.jpg"
+  },
+  {
+    "prompt": "How many chairs can be seen?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000243600.jpg"
+  },
+  {
+    "prompt": "How many skateboarders are present?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000191456.jpg"
+  },
+  {
+    "prompt": "How many buses?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000308548.jpg"
+  },
+  {
+    "prompt": "How many giraffes can be seen?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000312735.jpg"
+  },
+  {
+    "prompt": "How many stripes are on this zebras legs?",
+    "answer": "lot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000497804.jpg"
+  },
+  {
+    "prompt": "How many skateboards are in the picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000057256.jpg"
+  },
+  {
+    "prompt": "How many mirrors are there?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000120399.jpg"
+  },
+  {
+    "prompt": "How many kites are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000057424.jpg"
+  },
+  {
+    "prompt": "How many oranges are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000109820.jpg"
+  },
+  {
+    "prompt": "What number is on the front?",
+    "answer": "60",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000211381.jpg"
+  },
+  {
+    "prompt": "How many people are in this picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000169679.jpg"
+  },
+  {
+    "prompt": "How many pillows are on the bed?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000407336.jpg"
+  },
+  {
+    "prompt": "How many bushels of bananas are on display?",
+    "answer": "25",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000163176.jpg"
+  },
+  {
+    "prompt": "How many white tanks are there?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000233210.jpg"
+  },
+  {
+    "prompt": "How many sun umbrellas are there?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000171360.jpg"
+  },
+  {
+    "prompt": "How many sheep are standing in picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000012953.jpg"
+  },
+  {
+    "prompt": "How many arrows in the crosswalk?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000274585.jpg"
+  },
+  {
+    "prompt": "How many zebras?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000088080.jpg"
+  },
+  {
+    "prompt": "How many people are sitting?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000232762.jpg"
+  },
+  {
+    "prompt": "How many of the sheep are babies?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000336919.jpg"
+  },
+  {
+    "prompt": "How many shelves are in the case?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000209068.jpg"
+  },
+  {
+    "prompt": "What number is on the baseball sign attached to the fence?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000530082.jpg"
+  },
+  {
+    "prompt": "How many children are playing?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000271398.jpg"
+  },
+  {
+    "prompt": "How many food scales are in the photo?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000265010.jpg"
+  },
+  {
+    "prompt": "How many inches of snow is estimated to be on the street?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000465018.jpg"
+  },
+  {
+    "prompt": "How many sandwiches are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000497439.jpg"
+  },
+  {
+    "prompt": "How many stairs are there?",
+    "answer": "11",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000554381.jpg"
+  },
+  {
+    "prompt": "How many animals are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000488260.jpg"
+  },
+  {
+    "prompt": "How many legs are on one of the zebras?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000270938.jpg"
+  },
+  {
+    "prompt": "How many umbrellas are up?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000465601.jpg"
+  },
+  {
+    "prompt": "How many bears?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000257379.jpg"
+  },
+  {
+    "prompt": "How many computers are on the table?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000104273.jpg"
+  },
+  {
+    "prompt": "How many different colors are on the bench?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000366831.jpg"
+  },
+  {
+    "prompt": "How many people are in the photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000300067.jpg"
+  },
+  {
+    "prompt": "How many sausages are being cooked?",
+    "answer": "12",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000181623.jpg"
+  },
+  {
+    "prompt": "How many buses are parked?",
+    "answer": "44",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000334675.jpg"
+  },
+  {
+    "prompt": "How many people?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000435573.jpg"
+  },
+  {
+    "prompt": "How many red wheels can be seen on the train?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000321302.jpg"
+  },
+  {
+    "prompt": "How many boys are here?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000501565.jpg"
+  },
+  {
+    "prompt": "How many rugs are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000161749.jpg"
+  },
+  {
+    "prompt": "How many poles were used for this kite?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000550729.jpg"
+  },
+  {
+    "prompt": "What number is on the sign?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000110894.jpg"
+  },
+  {
+    "prompt": "How many brown cows are there?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000024652.jpg"
+  },
+  {
+    "prompt": "How many men in the photo?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000057684.jpg"
+  },
+  {
+    "prompt": "How many people are under the umbrella?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000221438.jpg"
+  },
+  {
+    "prompt": "How many plugs are connected to the power strip?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000204448.jpg"
+  },
+  {
+    "prompt": "How many plates of food?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000097589.jpg"
+  },
+  {
+    "prompt": "How  many zebras are there?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000295233.jpg"
+  },
+  {
+    "prompt": "How many animals are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000302164.jpg"
+  },
+  {
+    "prompt": "How many people are on the bench?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000442630.jpg"
+  },
+  {
+    "prompt": "How many red squares can you see on the rug?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000195058.jpg"
+  },
+  {
+    "prompt": "How many doors does the car have?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000460702.jpg"
+  },
+  {
+    "prompt": "How many giraffes are here?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000276325.jpg"
+  },
+  {
+    "prompt": "How many trash cans are visible?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000380259.jpg"
+  },
+  {
+    "prompt": "How many people are in the photo?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000407948.jpg"
+  },
+  {
+    "prompt": "How many donuts do you see?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000377284.jpg"
+  },
+  {
+    "prompt": "How many boards is the bench made out of?",
+    "answer": "15",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000522891.jpg"
+  },
+  {
+    "prompt": "How many animals can be seen?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000431943.jpg"
+  },
+  {
+    "prompt": "How many people are in the photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000069809.jpg"
+  },
+  {
+    "prompt": "How many planes are going right?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000543560.jpg"
+  },
+  {
+    "prompt": "How many remotes are black?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000242665.jpg"
+  },
+  {
+    "prompt": "How many flags?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000447769.jpg"
+  },
+  {
+    "prompt": "How many kites are in the sky?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000477398.jpg"
+  },
+  {
+    "prompt": "How many horses are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000248911.jpg"
+  },
+  {
+    "prompt": "How many bears are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000510449.jpg"
+  },
+  {
+    "prompt": "How many people are standing behind the fence?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000130473.jpg"
+  },
+  {
+    "prompt": "How many passengers on the plane?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000187745.jpg"
+  },
+  {
+    "prompt": "How many people are wearing glasses?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000095944.jpg"
+  },
+  {
+    "prompt": "How many oranges?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000044993.jpg"
+  },
+  {
+    "prompt": "How many people are in the room?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000569314.jpg"
+  },
+  {
+    "prompt": "How many bears are there?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000311913.jpg"
+  },
+  {
+    "prompt": "How many candles on the cake?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000063939.jpg"
+  },
+  {
+    "prompt": "How many rackets are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000091276.jpg"
+  },
+  {
+    "prompt": "How many cats do you see?",
+    "answer": "16",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000244933.jpg"
+  },
+  {
+    "prompt": "How many people are shown?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000503663.jpg"
+  },
+  {
+    "prompt": "How many glasses is the lady holding?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000273637.jpg"
+  },
+  {
+    "prompt": "How many pictures are hanging on the wall?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000435994.jpg"
+  },
+  {
+    "prompt": "How many windows can be seen on the building?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000247529.jpg"
+  },
+  {
+    "prompt": "How many people have a bat?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000253031.jpg"
+  },
+  {
+    "prompt": "How many food trays are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000363727.jpg"
+  },
+  {
+    "prompt": "How many signs are on the pole?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000526008.jpg"
+  },
+  {
+    "prompt": "How many piercings does she have?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000562485.jpg"
+  },
+  {
+    "prompt": "How many pizzas are on the table?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000063865.jpg"
+  },
+  {
+    "prompt": "How many toilets are in the bathroom?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000403394.jpg"
+  },
+  {
+    "prompt": "How many couches are visible?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000490400.jpg"
+  },
+  {
+    "prompt": "What number is on the horse?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000186641.jpg"
+  },
+  {
+    "prompt": "How many engines does the plane have?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000573085.jpg"
+  },
+  {
+    "prompt": "How many skateboards are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000027490.jpg"
+  },
+  {
+    "prompt": "How many carrots are on the table?",
+    "answer": "13",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000308504.jpg"
+  },
+  {
+    "prompt": "How many people are holding something?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000108101.jpg"
+  },
+  {
+    "prompt": "How many windows are on the plane?",
+    "answer": "12",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000119982.jpg"
+  },
+  {
+    "prompt": "What number is on the yellow truck?",
+    "answer": "29",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000573085.jpg"
+  },
+  {
+    "prompt": "How many stripes on the zebra?",
+    "answer": "40",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000254806.jpg"
+  },
+  {
+    "prompt": "How many shadows are being cast in this photo?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000326390.jpg"
+  },
+  {
+    "prompt": "How many umbrella's are shown?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000490129.jpg"
+  },
+  {
+    "prompt": "How many propellers does this plane have?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000255482.jpg"
+  },
+  {
+    "prompt": "How many plates are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000158005.jpg"
+  },
+  {
+    "prompt": "How many chairs are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000452767.jpg"
+  },
+  {
+    "prompt": "How many police vehicles are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000537379.jpg"
+  },
+  {
+    "prompt": "How many cell phones are in this photo?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000549409.jpg"
+  },
+  {
+    "prompt": "How many appliances in this photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000398053.jpg"
+  },
+  {
+    "prompt": "How many busses can be seen?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000333083.jpg"
+  },
+  {
+    "prompt": "How many donuts are in this picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000216715.jpg"
+  },
+  {
+    "prompt": "How many unique street signs are there?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000578819.jpg"
+  },
+  {
+    "prompt": "How many cans are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000186451.jpg"
+  },
+  {
+    "prompt": "How many drawers and cabinet are in the kitchen?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000283816.jpg"
+  },
+  {
+    "prompt": "How many trees are in the picture?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000082920.jpg"
+  },
+  {
+    "prompt": "How many people are sitting on the ground?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000476412.jpg"
+  },
+  {
+    "prompt": "How many boats are in this scene?",
+    "answer": "9",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000178658.jpg"
+  },
+  {
+    "prompt": "How many remotes are there?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000343193.jpg"
+  },
+  {
+    "prompt": "How many people can be seen in the water?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000404108.jpg"
+  },
+  {
+    "prompt": "How many screens are on?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000465718.jpg"
+  },
+  {
+    "prompt": "How many cars are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000323896.jpg"
+  },
+  {
+    "prompt": "How many cats are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000474969.jpg"
+  },
+  {
+    "prompt": "How many bananas are there in the scene?",
+    "answer": "40",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000336497.jpg"
+  },
+  {
+    "prompt": "How many people are wearing hats?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000400919.jpg"
+  },
+  {
+    "prompt": "How many utensils are shown?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000035146.jpg"
+  },
+  {
+    "prompt": "How many people are pictured?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000077039.jpg"
+  },
+  {
+    "prompt": "How many boards can be seen?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000252492.jpg"
+  },
+  {
+    "prompt": "How many high rises do you see in this picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000447842.jpg"
+  },
+  {
+    "prompt": "How many buses are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000032832.jpg"
+  },
+  {
+    "prompt": "How many people are in the photo on the left?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000433013.jpg"
+  },
+  {
+    "prompt": "How many people are sitting?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000429985.jpg"
+  },
+  {
+    "prompt": "How many dogs are jumping?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000108908.jpg"
+  },
+  {
+    "prompt": "How many clocks are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000279563.jpg"
+  },
+  {
+    "prompt": "How many trees are there?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000564803.jpg"
+  },
+  {
+    "prompt": "How many cabinet handles can you see?",
+    "answer": "12",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000072715.jpg"
+  },
+  {
+    "prompt": "How many birds are in this photo?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000136945.jpg"
+  },
+  {
+    "prompt": "How many couches?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000344621.jpg"
+  },
+  {
+    "prompt": "How many ovens are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000150444.jpg"
+  },
+  {
+    "prompt": "How many apples?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000070213.jpg"
+  },
+  {
+    "prompt": "What number is on the player's shirt?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000514528.jpg"
+  },
+  {
+    "prompt": "How many stripes does the zebra in the middle have?",
+    "answer": "200",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000570171.jpg"
+  },
+  {
+    "prompt": "How many shirts hanging?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000245336.jpg"
+  },
+  {
+    "prompt": "How many vases are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000093672.jpg"
+  },
+  {
+    "prompt": "How many tires does the bike have?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000150158.jpg"
+  },
+  {
+    "prompt": "How many street lights are there?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000338105.jpg"
+  },
+  {
+    "prompt": "How many decors does the bus have?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000512152.jpg"
+  },
+  {
+    "prompt": "How many microphones are there?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000214577.jpg"
+  },
+  {
+    "prompt": "How many buses are in the picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000222548.jpg"
+  },
+  {
+    "prompt": "How many vertical lines are seen in the picture?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000217787.jpg"
+  },
+  {
+    "prompt": "How many flags are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000339211.jpg"
+  },
+  {
+    "prompt": "How many cars are in the driveway?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000564493.jpg"
+  },
+  {
+    "prompt": "How many people are in the room?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000325126.jpg"
+  },
+  {
+    "prompt": "How many colors are used in this picture?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000542988.jpg"
+  },
+  {
+    "prompt": "How many people are in the water?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000032877.jpg"
+  },
+  {
+    "prompt": "How many boats are there if you skip count of one of them?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000250200.jpg"
+  },
+  {
+    "prompt": "How many elephants are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000309883.jpg"
+  },
+  {
+    "prompt": "How many have white faces?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000483272.jpg"
+  },
+  {
+    "prompt": "How many tall poles are there?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000339094.jpg"
+  },
+  {
+    "prompt": "How many tents are visible?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000058107.jpg"
+  },
+  {
+    "prompt": "How many cups?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000498644.jpg"
+  },
+  {
+    "prompt": "How many planes are on the runway?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000077989.jpg"
+  },
+  {
+    "prompt": "How many people are in the photo?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000342340.jpg"
+  },
+  {
+    "prompt": "How many horses are there in this picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000120734.jpg"
+  },
+  {
+    "prompt": "How many fingers are visible on the child's right hand?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000316901.jpg"
+  },
+  {
+    "prompt": "How many people are in the background?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000558020.jpg"
+  },
+  {
+    "prompt": "How many pictures are hung on the wall?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000313034.jpg"
+  },
+  {
+    "prompt": "How many pictures hang above the TV?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000128649.jpg"
+  },
+  {
+    "prompt": "How many giraffe are in this picture?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000344261.jpg"
+  },
+  {
+    "prompt": "How many colors is on the airplane?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000514245.jpg"
+  },
+  {
+    "prompt": "How many servings are on the table?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000103843.jpg"
+  },
+  {
+    "prompt": "How many players are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000492466.jpg"
+  },
+  {
+    "prompt": "How many baguettes are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000196018.jpg"
+  },
+  {
+    "prompt": "How many women are in this picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000073690.jpg"
+  },
+  {
+    "prompt": "How many sheep are in this photo?",
+    "answer": "14",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000043383.jpg"
+  },
+  {
+    "prompt": "How many different types of produce are on the plate?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000252611.jpg"
+  },
+  {
+    "prompt": "How many doors can you see?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000572900.jpg"
+  },
+  {
+    "prompt": "How many sheep?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000237881.jpg"
+  },
+  {
+    "prompt": "How many people can eat at the counter?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000530729.jpg"
+  },
+  {
+    "prompt": "How many laptops are in the photo?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000493753.jpg"
+  },
+  {
+    "prompt": "How many people are wearing yellow shirts?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000475658.jpg"
+  },
+  {
+    "prompt": "How many bags of luggage are there?",
+    "answer": "15",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000380280.jpg"
+  },
+  {
+    "prompt": "How many people is there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000187543.jpg"
+  },
+  {
+    "prompt": "How many planes are in the picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000301419.jpg"
+  },
+  {
+    "prompt": "How many drinks are on the table?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000537944.jpg"
+  },
+  {
+    "prompt": "How many people are in the water?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000489422.jpg"
+  },
+  {
+    "prompt": "How many vehicles are traveling from left to right in this picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000344720.jpg"
+  },
+  {
+    "prompt": "How many tree trunks in the shot?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000078106.jpg"
+  },
+  {
+    "prompt": "How many green leaves are there in total ??",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000463305.jpg"
+  },
+  {
+    "prompt": "How many animals are shown here?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000138246.jpg"
+  },
+  {
+    "prompt": "How many paws are visible?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000223573.jpg"
+  },
+  {
+    "prompt": "How many people are watching the skier go down the hill?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000409208.jpg"
+  },
+  {
+    "prompt": "How many houses are in this photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000031451.jpg"
+  },
+  {
+    "prompt": "How many different types of flooring do you see?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000398652.jpg"
+  },
+  {
+    "prompt": "How many bulls are pictured?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000067082.jpg"
+  },
+  {
+    "prompt": "How many different items on the plate?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000021397.jpg"
+  },
+  {
+    "prompt": "How many animal trunks do you see?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000038092.jpg"
+  },
+  {
+    "prompt": "How many planes?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000106658.jpg"
+  },
+  {
+    "prompt": "How many sinks are there?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000120399.jpg"
+  },
+  {
+    "prompt": "How many shoes is the suitcase wearing?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000141508.jpg"
+  },
+  {
+    "prompt": "How many giraffe are on the field?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000269504.jpg"
+  },
+  {
+    "prompt": "How many cows are on the field?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000170752.jpg"
+  },
+  {
+    "prompt": "How many pigeons are there?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000262260.jpg"
+  },
+  {
+    "prompt": "How many dogs are on the couch?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000308040.jpg"
+  },
+  {
+    "prompt": "How many green objects are in the picture?",
+    "answer": "15",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000331457.jpg"
+  },
+  {
+    "prompt": "How many slices of pizza are left?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000532531.jpg"
+  },
+  {
+    "prompt": "How many horses are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000483897.jpg"
+  },
+  {
+    "prompt": "How many monitors are pictures?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000472678.jpg"
+  },
+  {
+    "prompt": "How many baseball hats are in this picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000461286.jpg"
+  },
+  {
+    "prompt": "How many cars are pictured?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000543551.jpg"
+  },
+  {
+    "prompt": "How many legs does the giraffe have?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000006182.jpg"
+  },
+  {
+    "prompt": "How many chairs are there?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000084996.jpg"
+  },
+  {
+    "prompt": "How many floors does the building have?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000246750.jpg"
+  },
+  {
+    "prompt": "How many pieces of bread are in the basket?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000356671.jpg"
+  },
+  {
+    "prompt": "How many cups are there?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000033633.jpg"
+  },
+  {
+    "prompt": "How many boats are in the picture?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000184974.jpg"
+  },
+  {
+    "prompt": "How many bikes in the picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000151265.jpg"
+  },
+  {
+    "prompt": "How many people are there in the stands?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000461118.jpg"
+  },
+  {
+    "prompt": "How many pictures on the wall?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000574145.jpg"
+  },
+  {
+    "prompt": "How many wheels can you see?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000490887.jpg"
+  },
+  {
+    "prompt": "How many boats are there?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000531253.jpg"
+  },
+  {
+    "prompt": "How many of the computer monitors have anti-glare screens?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000307322.jpg"
+  },
+  {
+    "prompt": "How many surfers do you see?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000323666.jpg"
+  },
+  {
+    "prompt": "How many tiles on wall?",
+    "answer": "100",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000322638.jpg"
+  },
+  {
+    "prompt": "How many boys are shown?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000408718.jpg"
+  },
+  {
+    "prompt": "How many clocks?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000403518.jpg"
+  },
+  {
+    "prompt": "How many people can be seen on the TV screen?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000441205.jpg"
+  },
+  {
+    "prompt": "How many birds are there?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000105432.jpg"
+  },
+  {
+    "prompt": "How many lights are on?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000170616.jpg"
+  },
+  {
+    "prompt": "How many light posts are in this picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000578233.jpg"
+  },
+  {
+    "prompt": "How many hands do you see?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000225658.jpg"
+  },
+  {
+    "prompt": "How many people are in the picture?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000348370.jpg"
+  },
+  {
+    "prompt": "What number is on the red bus?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000114101.jpg"
+  },
+  {
+    "prompt": "How many people are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000261977.jpg"
+  },
+  {
+    "prompt": "How many men in the picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000482800.jpg"
+  },
+  {
+    "prompt": "How many bicycles are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000573894.jpg"
+  },
+  {
+    "prompt": "What number is written in front of the bus?",
+    "answer": "700",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000118404.jpg"
+  },
+  {
+    "prompt": "How many fence post are visible in the photograph?",
+    "answer": "10",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000069461.jpg"
+  },
+  {
+    "prompt": "How many people are in this scene?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000425497.jpg"
+  },
+  {
+    "prompt": "How many zebra?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000133152.jpg"
+  },
+  {
+    "prompt": "How many people?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000229422.jpg"
+  },
+  {
+    "prompt": "How many spectators?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000437497.jpg"
+  },
+  {
+    "prompt": "How many tiers does the building have?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000496195.jpg"
+  },
+  {
+    "prompt": "How many surfers?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000137911.jpg"
+  },
+  {
+    "prompt": "How many ears are in the scene?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000326264.jpg"
+  },
+  {
+    "prompt": "How many men are in the photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000337953.jpg"
+  },
+  {
+    "prompt": "How many cupcakes are there?",
+    "answer": "13",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000360983.jpg"
+  },
+  {
+    "prompt": "How many bikers are  there?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000421893.jpg"
+  },
+  {
+    "prompt": "How many plates are here?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000446006.jpg"
+  },
+  {
+    "prompt": "How many pieces of pizza are missing?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000468117.jpg"
+  },
+  {
+    "prompt": "How many oranges are these?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000265531.jpg"
+  },
+  {
+    "prompt": "How many things are plugged into the socket?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000022874.jpg"
+  },
+  {
+    "prompt": "How many eggs are on the plate?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000256945.jpg"
+  },
+  {
+    "prompt": "How many of the men have their feet on the ground?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000296657.jpg"
+  },
+  {
+    "prompt": "How many chairs are at the table?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000072752.jpg"
+  },
+  {
+    "prompt": "How many boxes of pizza are there?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000208363.jpg"
+  },
+  {
+    "prompt": "How many people are looking at the camera?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000461567.jpg"
+  },
+  {
+    "prompt": "How many types of produce are there?",
+    "answer": "10",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000092031.jpg"
+  },
+  {
+    "prompt": "How many umbrellas are pink?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000464917.jpg"
+  },
+  {
+    "prompt": "How many vases are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000245577.jpg"
+  },
+  {
+    "prompt": "How many doughnut holes are there?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000425063.jpg"
+  },
+  {
+    "prompt": "How many barrels are there in the picture?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000375857.jpg"
+  },
+  {
+    "prompt": "How many sheep are there?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000106151.jpg"
+  },
+  {
+    "prompt": "How many people are wearing hats?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000103380.jpg"
+  },
+  {
+    "prompt": "How many clocks are in this picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000183276.jpg"
+  },
+  {
+    "prompt": "How many glasses are on the table?",
+    "answer": "10",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000181249.jpg"
+  },
+  {
+    "prompt": "How many zebras are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000372959.jpg"
+  },
+  {
+    "prompt": "How many stripes does the cat have?",
+    "answer": "many",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000051871.jpg"
+  },
+  {
+    "prompt": "How many bright yellow flowers are shown?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000447738.jpg"
+  },
+  {
+    "prompt": "How many dogs are seen?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000028868.jpg"
+  },
+  {
+    "prompt": "How many trains on the track?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000448710.jpg"
+  },
+  {
+    "prompt": "How many stools are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000078260.jpg"
+  },
+  {
+    "prompt": "How many people are on the ski lift on the left?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000329952.jpg"
+  },
+  {
+    "prompt": "How many laptops are on the table?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000059598.jpg"
+  },
+  {
+    "prompt": "How many pairs of Nikes are visible?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000034074.jpg"
+  },
+  {
+    "prompt": "How many slices of pizza are there?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000318381.jpg"
+  },
+  {
+    "prompt": "How many white buckets are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000494817.jpg"
+  },
+  {
+    "prompt": "How many birds are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000431598.jpg"
+  },
+  {
+    "prompt": "How many flowers are in the field?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000167748.jpg"
+  },
+  {
+    "prompt": "How many balls are on the table?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000183988.jpg"
+  },
+  {
+    "prompt": "How many wheels are there?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000499749.jpg"
+  },
+  {
+    "prompt": "How many lights are in this room?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000337321.jpg"
+  },
+  {
+    "prompt": "How many levels does the bus have?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000548824.jpg"
+  },
+  {
+    "prompt": "How many chairs in this picture?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000291614.jpg"
+  },
+  {
+    "prompt": "How many dogs are on the bed?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000079196.jpg"
+  },
+  {
+    "prompt": "How many bikes are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000041456.jpg"
+  },
+  {
+    "prompt": "How many animals are visible in this picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000387372.jpg"
+  },
+  {
+    "prompt": "How many sheep are there?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000472874.jpg"
+  },
+  {
+    "prompt": "How many blue umbrellas line the beach?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000490646.jpg"
+  },
+  {
+    "prompt": "How many boys are playing?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000065456.jpg"
+  },
+  {
+    "prompt": "How many people are on the base?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000236760.jpg"
+  },
+  {
+    "prompt": "How many different types of animals are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000036546.jpg"
+  },
+  {
+    "prompt": "How many foods are there?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000352814.jpg"
+  },
+  {
+    "prompt": "How many tracks can be seen?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000136722.jpg"
+  },
+  {
+    "prompt": "How many suitcases?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000043098.jpg"
+  },
+  {
+    "prompt": "How many plates have food on them?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000305826.jpg"
+  },
+  {
+    "prompt": "How many teddy bears are in the image?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000503653.jpg"
+  },
+  {
+    "prompt": "How many monitors do you see?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000244613.jpg"
+  },
+  {
+    "prompt": "How many airplanes are in this picture?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000164569.jpg"
+  },
+  {
+    "prompt": "How many computer screens are visible?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000215657.jpg"
+  },
+  {
+    "prompt": "How many types of vegetables are shown here?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000358427.jpg"
+  },
+  {
+    "prompt": "How many vases?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000561875.jpg"
+  },
+  {
+    "prompt": "How many people are waiting to get on the train?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000509364.jpg"
+  },
+  {
+    "prompt": "How many faded lines are on the crosswalk to the right?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000235491.jpg"
+  },
+  {
+    "prompt": "How many hats are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000311501.jpg"
+  },
+  {
+    "prompt": "How many people in the shot?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000223540.jpg"
+  },
+  {
+    "prompt": "How many windows are in this room?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000245371.jpg"
+  },
+  {
+    "prompt": "How many guys are in this photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000575637.jpg"
+  },
+  {
+    "prompt": "How many people are skiing?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000494019.jpg"
+  },
+  {
+    "prompt": "How many computer towers are in the picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000031587.jpg"
+  },
+  {
+    "prompt": "How many lamps on the desk?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000287035.jpg"
+  },
+  {
+    "prompt": "How many skateboards are in the picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000130440.jpg"
+  },
+  {
+    "prompt": "How many street lights are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000104290.jpg"
+  },
+  {
+    "prompt": "How many cows are facing to their left?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000336900.jpg"
+  },
+  {
+    "prompt": "How many cars are full of people?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000113333.jpg"
+  },
+  {
+    "prompt": "How many people are wearing sunglasses?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000511522.jpg"
+  },
+  {
+    "prompt": "How many American flags are shown?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000324082.jpg"
+  },
+  {
+    "prompt": "How many people are carrying folding chairs?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000349827.jpg"
+  },
+  {
+    "prompt": "How many people are in the crowd?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000455037.jpg"
+  },
+  {
+    "prompt": "How many people are visible in this photo?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000097272.jpg"
+  },
+  {
+    "prompt": "How many red bars can you see below the tail flap?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000515304.jpg"
+  },
+  {
+    "prompt": "How many books are on the coffee table?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000319935.jpg"
+  },
+  {
+    "prompt": "How many horses are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000099597.jpg"
+  },
+  {
+    "prompt": "How many people are shown?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000039743.jpg"
+  },
+  {
+    "prompt": "How many cows?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000546890.jpg"
+  },
+  {
+    "prompt": "How many arms are visible in this picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000560526.jpg"
+  },
+  {
+    "prompt": "How many tattoos can be seen on this man's body?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000393227.jpg"
+  },
+  {
+    "prompt": "How many different sized of these elephants?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000475651.jpg"
+  },
+  {
+    "prompt": "How many pictures are in the picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000353098.jpg"
+  },
+  {
+    "prompt": "How many price tags are there?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000143017.jpg"
+  },
+  {
+    "prompt": "How many layers does her sandwich have?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000229362.jpg"
+  },
+  {
+    "prompt": "How many large baskets are in the photo?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000052123.jpg"
+  },
+  {
+    "prompt": "How many cups of coffee are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000387442.jpg"
+  },
+  {
+    "prompt": "How many food items are shown?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000334826.jpg"
+  },
+  {
+    "prompt": "How many people can be seen?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000401594.jpg"
+  },
+  {
+    "prompt": "How many floors are in the front building of the image?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000108501.jpg"
+  },
+  {
+    "prompt": "How many elephant is there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000549182.jpg"
+  },
+  {
+    "prompt": "How many people in the picture?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000431764.jpg"
+  },
+  {
+    "prompt": "How many giraffes are present?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000188727.jpg"
+  },
+  {
+    "prompt": "How many vases?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000057707.jpg"
+  },
+  {
+    "prompt": "How many motorcycles are in this image?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000292505.jpg"
+  },
+  {
+    "prompt": "How many boats are in the water?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000185915.jpg"
+  },
+  {
+    "prompt": "How many windows are showing?",
+    "answer": "12",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000149668.jpg"
+  },
+  {
+    "prompt": "How many women?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000533220.jpg"
+  },
+  {
+    "prompt": "How many legs does the dog have?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000263146.jpg"
+  },
+  {
+    "prompt": "How many sheep is this?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000546723.jpg"
+  },
+  {
+    "prompt": "How many different types of foods are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000071244.jpg"
+  },
+  {
+    "prompt": "How many eggs are on the plate?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000418151.jpg"
+  },
+  {
+    "prompt": "How many of these objects are alive?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000201151.jpg"
+  },
+  {
+    "prompt": "How many children are in the photo?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000117821.jpg"
+  },
+  {
+    "prompt": "How many cats are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000110250.jpg"
+  },
+  {
+    "prompt": "How many of the cat's eyes are visible?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000443197.jpg"
+  },
+  {
+    "prompt": "How many flags are there?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000182281.jpg"
+  },
+  {
+    "prompt": "How many people are in the picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000340197.jpg"
+  },
+  {
+    "prompt": "How many animals?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000226585.jpg"
+  },
+  {
+    "prompt": "How many onions?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000509652.jpg"
+  },
+  {
+    "prompt": "How many towels are in the photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000221307.jpg"
+  },
+  {
+    "prompt": "How many girl performers do you see?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000581183.jpg"
+  },
+  {
+    "prompt": "How many oven doors are open?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000501855.jpg"
+  },
+  {
+    "prompt": "How many horses are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000398952.jpg"
+  },
+  {
+    "prompt": "How many bells do you see?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000120473.jpg"
+  },
+  {
+    "prompt": "How many swans are in this photo?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000145366.jpg"
+  },
+  {
+    "prompt": "How many windows are behind the woman?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000414961.jpg"
+  },
+  {
+    "prompt": "How many birds are in the scene?",
+    "answer": "10",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000480770.jpg"
+  },
+  {
+    "prompt": "How many types of transportation items are in this picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000476189.jpg"
+  },
+  {
+    "prompt": "How many flags are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000006066.jpg"
+  },
+  {
+    "prompt": "How many buses are pictured?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000478092.jpg"
+  },
+  {
+    "prompt": "How many rugs are there?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000173751.jpg"
+  },
+  {
+    "prompt": "How many zebra?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000048491.jpg"
+  },
+  {
+    "prompt": "How many boats are in the photo?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000460407.jpg"
+  },
+  {
+    "prompt": "How many people in the photo?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000015089.jpg"
+  },
+  {
+    "prompt": "How many geese are there?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000181515.jpg"
+  },
+  {
+    "prompt": "How many bar stools do you see?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000206662.jpg"
+  },
+  {
+    "prompt": "How many carnations are in the vase?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000079116.jpg"
+  },
+  {
+    "prompt": "How many lighthouses do you see?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000428691.jpg"
+  },
+  {
+    "prompt": "How many kite surfers are in the picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000416308.jpg"
+  },
+  {
+    "prompt": "How many bananas?",
+    "answer": "35",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000136599.jpg"
+  },
+  {
+    "prompt": "How many horses are on the vase?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000530278.jpg"
+  },
+  {
+    "prompt": "How many men are pictured?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000184547.jpg"
+  },
+  {
+    "prompt": "How many clocks in the photo?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000495894.jpg"
+  },
+  {
+    "prompt": "How many different fruits are pictured?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000491372.jpg"
+  },
+  {
+    "prompt": "How many things are flying in this picture?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000164241.jpg"
+  },
+  {
+    "prompt": "What number is posted?",
+    "answer": "60",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000101022.jpg"
+  },
+  {
+    "prompt": "How many people can be seen?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000087647.jpg"
+  },
+  {
+    "prompt": "How many laptops are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000178924.jpg"
+  },
+  {
+    "prompt": "How many lights are on the train?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000161352.jpg"
+  },
+  {
+    "prompt": "How many kites are in the sky?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000153279.jpg"
+  },
+  {
+    "prompt": "How many tiles are on the floor?",
+    "answer": "10",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000527603.jpg"
+  },
+  {
+    "prompt": "How many computer screens are here?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000024149.jpg"
+  },
+  {
+    "prompt": "How many clouds can be seen in the sky?",
+    "answer": "15",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000535804.jpg"
+  },
+  {
+    "prompt": "How many people are there?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000336079.jpg"
+  },
+  {
+    "prompt": "How many lights are on the mirror?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000101106.jpg"
+  },
+  {
+    "prompt": "How many people wearing glasses?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000240046.jpg"
+  },
+  {
+    "prompt": "How many people are wearing hats?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000471309.jpg"
+  },
+  {
+    "prompt": "How many tiers are on the cake?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000484457.jpg"
+  },
+  {
+    "prompt": "How many mirrors can you see?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000451535.jpg"
+  },
+  {
+    "prompt": "How many bears?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000075791.jpg"
+  },
+  {
+    "prompt": "How many people are in the pic?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000213137.jpg"
+  },
+  {
+    "prompt": "How many sinks are in this picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000226695.jpg"
+  },
+  {
+    "prompt": "How many computers are present?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000212227.jpg"
+  },
+  {
+    "prompt": "How many windows does the truck have?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000209671.jpg"
+  },
+  {
+    "prompt": "How many pieces of meat can you see?",
+    "answer": "9",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000313015.jpg"
+  },
+  {
+    "prompt": "How many feet are in the air?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000465468.jpg"
+  },
+  {
+    "prompt": "How many steaks are on the man's plate?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000218558.jpg"
+  },
+  {
+    "prompt": "How many pieces of furniture are in this room?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000124367.jpg"
+  },
+  {
+    "prompt": "How many trees are there?",
+    "answer": "10",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000478250.jpg"
+  },
+  {
+    "prompt": "How many kittens are in the picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000499054.jpg"
+  },
+  {
+    "prompt": "How many trucks are there?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000391828.jpg"
+  },
+  {
+    "prompt": "How many towels are shown?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000526696.jpg"
+  },
+  {
+    "prompt": "How many people are there?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000431899.jpg"
+  },
+  {
+    "prompt": "How many kites are flying?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000166340.jpg"
+  },
+  {
+    "prompt": "How many people are sitting behind the silver SUV?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000391823.jpg"
+  },
+  {
+    "prompt": "How many cut pieces of fruit are in this image?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000273288.jpg"
+  },
+  {
+    "prompt": "How many people are on this ski lift?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000253143.jpg"
+  },
+  {
+    "prompt": "How many chairs are at the table?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000001306.jpg"
+  },
+  {
+    "prompt": "How many trees are on the wall?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000554934.jpg"
+  },
+  {
+    "prompt": "How many umbrellas?",
+    "answer": "12",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000534428.jpg"
+  },
+  {
+    "prompt": "How many colors is the train?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000517455.jpg"
+  },
+  {
+    "prompt": "How many people are on the yellow boat?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000048067.jpg"
+  },
+  {
+    "prompt": "How many left handed desks are clearly visible?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000347587.jpg"
+  },
+  {
+    "prompt": "How many words are on the right side bottom?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000182048.jpg"
+  },
+  {
+    "prompt": "How many objects on the shelf?",
+    "answer": "many",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000543276.jpg"
+  },
+  {
+    "prompt": "How many skis are on the ground?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000024106.jpg"
+  },
+  {
+    "prompt": "How many people in blue jackets?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000110052.jpg"
+  },
+  {
+    "prompt": "How many light poles are in the picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000248753.jpg"
+  },
+  {
+    "prompt": "How many coffee makers do you see?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000412190.jpg"
+  },
+  {
+    "prompt": "How many trees?",
+    "answer": "50",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000162130.jpg"
+  },
+  {
+    "prompt": "How many people have their feet completely off the ground?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000523098.jpg"
+  },
+  {
+    "prompt": "How many sheep are in the photo?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000152731.jpg"
+  },
+  {
+    "prompt": "How many people are pictured?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000365642.jpg"
+  },
+  {
+    "prompt": "How many phones are in the room?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000531552.jpg"
+  },
+  {
+    "prompt": "How many people in this photo are sitting Indian-style?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000228000.jpg"
+  },
+  {
+    "prompt": "How many phones do you see?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000393489.jpg"
+  },
+  {
+    "prompt": "How many planes are pictured?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000407926.jpg"
+  },
+  {
+    "prompt": "How many people could find a place to sit in this location?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000568187.jpg"
+  },
+  {
+    "prompt": "How many of these are pedal bikes?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000314986.jpg"
+  },
+  {
+    "prompt": "How many trees are here?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000306522.jpg"
+  },
+  {
+    "prompt": "How many adults are in the photo?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000176588.jpg"
+  },
+  {
+    "prompt": "How many people are in this room?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000273556.jpg"
+  },
+  {
+    "prompt": "How many laptops are visible?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000254210.jpg"
+  },
+  {
+    "prompt": "How many people are under the umbrella?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000047347.jpg"
+  },
+  {
+    "prompt": "How many propellers are visible in this picture?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000400845.jpg"
+  },
+  {
+    "prompt": "How many skiers in the background to his right?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000343038.jpg"
+  },
+  {
+    "prompt": "How many elephants are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000323797.jpg"
+  },
+  {
+    "prompt": "How many elephants?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000313517.jpg"
+  },
+  {
+    "prompt": "How many curtains are in this scene?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000405973.jpg"
+  },
+  {
+    "prompt": "How many eyes are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000428033.jpg"
+  },
+  {
+    "prompt": "How many children are in the wagon?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000425066.jpg"
+  },
+  {
+    "prompt": "How many computers are on the desk?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000143024.jpg"
+  },
+  {
+    "prompt": "How many bikes are on the beach?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000520471.jpg"
+  },
+  {
+    "prompt": "How many Caucasian people are in the photo?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000010929.jpg"
+  },
+  {
+    "prompt": "How many men are in this image?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000541721.jpg"
+  },
+  {
+    "prompt": "How many towels are hanging up?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000265574.jpg"
+  },
+  {
+    "prompt": "How many benches are visible?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000131965.jpg"
+  },
+  {
+    "prompt": "How many cups?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000554102.jpg"
+  },
+  {
+    "prompt": "How many trains are in the picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000329558.jpg"
+  },
+  {
+    "prompt": "How many laptops is there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000225721.jpg"
+  },
+  {
+    "prompt": "How many boats are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000448013.jpg"
+  },
+  {
+    "prompt": "How many people are waiting for the train?",
+    "answer": "21",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000382476.jpg"
+  },
+  {
+    "prompt": "How many appliances?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000069668.jpg"
+  },
+  {
+    "prompt": "How many apples are there?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000050954.jpg"
+  },
+  {
+    "prompt": "How many chairs are stacked behind the bananas?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000117094.jpg"
+  },
+  {
+    "prompt": "How many chairs are on the beach?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000072189.jpg"
+  },
+  {
+    "prompt": "How many clocks are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000131595.jpg"
+  },
+  {
+    "prompt": "How many people are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000433531.jpg"
+  },
+  {
+    "prompt": "How many towels are hanging next to the toilet?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000268628.jpg"
+  },
+  {
+    "prompt": "How many red lights?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000447811.jpg"
+  },
+  {
+    "prompt": "How many trees are laying on the ground?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000304833.jpg"
+  },
+  {
+    "prompt": "How many animals are in this picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000253578.jpg"
+  },
+  {
+    "prompt": "How many computer screens are visible?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000184903.jpg"
+  },
+  {
+    "prompt": "How many propellers does the airplane have?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000365620.jpg"
+  },
+  {
+    "prompt": "How many zebras are in this picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000344817.jpg"
+  },
+  {
+    "prompt": "How many candles are on the cake?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000438497.jpg"
+  },
+  {
+    "prompt": "How many framed images are on the right side of the door?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000273403.jpg"
+  },
+  {
+    "prompt": "How many boulders are in front of the ostrich?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000417626.jpg"
+  },
+  {
+    "prompt": "How many types of vegetables are obvious in this photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000094103.jpg"
+  },
+  {
+    "prompt": "How many bunches of bananas are hanging?",
+    "answer": "22",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000311899.jpg"
+  },
+  {
+    "prompt": "How many hot dogs are on the plate?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000518440.jpg"
+  },
+  {
+    "prompt": "How many headlights does the bus have?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000169211.jpg"
+  },
+  {
+    "prompt": "How many planes are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000523617.jpg"
+  },
+  {
+    "prompt": "How many people do you see?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000061760.jpg"
+  },
+  {
+    "prompt": "How many zebras are there in the picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000569261.jpg"
+  },
+  {
+    "prompt": "How many horses are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000339074.jpg"
+  },
+  {
+    "prompt": "How many animals are there?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000409111.jpg"
+  },
+  {
+    "prompt": "How many kites are visible?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000283181.jpg"
+  },
+  {
+    "prompt": "How many slices does this pizza have?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000014676.jpg"
+  },
+  {
+    "prompt": "How many pillows are on the bed?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000024253.jpg"
+  },
+  {
+    "prompt": "How many people are there?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000336078.jpg"
+  },
+  {
+    "prompt": "What number is the catcher?",
+    "answer": "46",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000295578.jpg"
+  },
+  {
+    "prompt": "How many people have food in their hands?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000214349.jpg"
+  },
+  {
+    "prompt": "How many birds are there?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000396115.jpg"
+  },
+  {
+    "prompt": "How many children are in the picture?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000390663.jpg"
+  },
+  {
+    "prompt": "How many women in the picture?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000412204.jpg"
+  },
+  {
+    "prompt": "How many real life creatures are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000278184.jpg"
+  },
+  {
+    "prompt": "How many items on top of the cabinets?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000309060.jpg"
+  },
+  {
+    "prompt": "How many people in this shot?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000261999.jpg"
+  },
+  {
+    "prompt": "What number is on the man's jacket?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000070134.jpg"
+  },
+  {
+    "prompt": "How many light sources are in the room?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000511676.jpg"
+  },
+  {
+    "prompt": "How many laptops are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000318355.jpg"
+  },
+  {
+    "prompt": "How many wheels are under the hydrant?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000147537.jpg"
+  },
+  {
+    "prompt": "How many male walking in the picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000168779.jpg"
+  },
+  {
+    "prompt": "How many cars on the train?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000367772.jpg"
+  },
+  {
+    "prompt": "How many windows do you see?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000066420.jpg"
+  },
+  {
+    "prompt": "How many people are wearing sunglasses?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000379844.jpg"
+  },
+  {
+    "prompt": "How many planes are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000259553.jpg"
+  },
+  {
+    "prompt": "How many glasses?",
+    "answer": "60",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000247790.jpg"
+  },
+  {
+    "prompt": "How many coffeemakers are in this photo?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000542213.jpg"
+  },
+  {
+    "prompt": "How many people are standing in the small boat?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000255139.jpg"
+  },
+  {
+    "prompt": "How many animals are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000391632.jpg"
+  },
+  {
+    "prompt": "How many chairs are in there?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000515077.jpg"
+  },
+  {
+    "prompt": "How many gallons are in the picture?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000186927.jpg"
+  },
+  {
+    "prompt": "How many utensils are in the picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000277998.jpg"
+  },
+  {
+    "prompt": "How many paddles are in the boat?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000463655.jpg"
+  },
+  {
+    "prompt": "How many birds are in this picture?",
+    "answer": "23",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000381186.jpg"
+  },
+  {
+    "prompt": "How many tiers are on the cake?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000091408.jpg"
+  },
+  {
+    "prompt": "How many people wearing black shoes?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000349926.jpg"
+  },
+  {
+    "prompt": "How many tomato slices are there?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000575128.jpg"
+  },
+  {
+    "prompt": "How many laptops are in the image?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000321508.jpg"
+  },
+  {
+    "prompt": "How many electronic items can you spot?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000020888.jpg"
+  },
+  {
+    "prompt": "How many flowers are there?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000311099.jpg"
+  },
+  {
+    "prompt": "How many of them are wearing glasses?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000185234.jpg"
+  },
+  {
+    "prompt": "How many compartments are in this tray?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000260248.jpg"
+  },
+  {
+    "prompt": "How many boats?",
+    "answer": "12",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000040723.jpg"
+  },
+  {
+    "prompt": "How many pizza pan do you see?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000073560.jpg"
+  },
+  {
+    "prompt": "How many people are near the bus?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000203294.jpg"
+  },
+  {
+    "prompt": "How many people are on the sideline?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000423647.jpg"
+  },
+  {
+    "prompt": "How many chairs are in the stack?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000104137.jpg"
+  },
+  {
+    "prompt": "How many people are shown?",
+    "answer": "16",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000463782.jpg"
+  },
+  {
+    "prompt": "How many suitcases are there?",
+    "answer": "10",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000025060.jpg"
+  },
+  {
+    "prompt": "How many people are wearing white pants?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000482464.jpg"
+  },
+  {
+    "prompt": "How many zebras are there?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000001907.jpg"
+  },
+  {
+    "prompt": "How many people are in this photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000236712.jpg"
+  },
+  {
+    "prompt": "How many wheels are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000311644.jpg"
+  },
+  {
+    "prompt": "How many baskets of fruit?",
+    "answer": "9",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000374806.jpg"
+  },
+  {
+    "prompt": "How many elephants are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000443789.jpg"
+  },
+  {
+    "prompt": "How many tennis balls are there?",
+    "answer": "20",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000187734.jpg"
+  },
+  {
+    "prompt": "How many bikes are shown?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000557923.jpg"
+  },
+  {
+    "prompt": "How many glasses are on the table?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000192296.jpg"
+  },
+  {
+    "prompt": "How many stuffed animals are on the table?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000473102.jpg"
+  },
+  {
+    "prompt": "How many people have something wrapped on there head?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000128848.jpg"
+  },
+  {
+    "prompt": "How many vases are above the fireplace?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000016958.jpg"
+  },
+  {
+    "prompt": "How many bananas are there?",
+    "answer": "23",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000079172.jpg"
+  },
+  {
+    "prompt": "How many zebras are there in the picture?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000425077.jpg"
+  },
+  {
+    "prompt": "How many sections of the umbrella are green?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000572362.jpg"
+  },
+  {
+    "prompt": "How many plates do you see?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000569987.jpg"
+  },
+  {
+    "prompt": "What number is the small hand on?",
+    "answer": "12",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000515394.jpg"
+  },
+  {
+    "prompt": "How many of the children are sitting on the bench?",
+    "answer": "9",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000193936.jpg"
+  },
+  {
+    "prompt": "How many people are wearing safety equipment?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000564589.jpg"
+  },
+  {
+    "prompt": "How many guys are in this photo?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000203389.jpg"
+  },
+  {
+    "prompt": "How many animals are in this photo?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000457194.jpg"
+  },
+  {
+    "prompt": "How many giraffes are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000165056.jpg"
+  },
+  {
+    "prompt": "How many zebras are in the picture?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000508567.jpg"
+  },
+  {
+    "prompt": "How many people can eat this pizza?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000500981.jpg"
+  },
+  {
+    "prompt": "How many tails do you see?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000438255.jpg"
+  },
+  {
+    "prompt": "How many horses are in the photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000412445.jpg"
+  },
+  {
+    "prompt": "How many cars are in the photo?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000438341.jpg"
+  },
+  {
+    "prompt": "How many ingredients are on the pizza on the far left?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000417141.jpg"
+  },
+  {
+    "prompt": "How many people are in the water?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000488377.jpg"
+  },
+  {
+    "prompt": "How many cows are in the scene?",
+    "answer": "10",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000361248.jpg"
+  },
+  {
+    "prompt": "How many clocks are on the wall?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000215913.jpg"
+  },
+  {
+    "prompt": "How many pillows are there?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000433334.jpg"
+  },
+  {
+    "prompt": "How many people are seen?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000387901.jpg"
+  },
+  {
+    "prompt": "How many bananas are in this picture?",
+    "answer": "100",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000248694.jpg"
+  },
+  {
+    "prompt": "How many bikes are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000355231.jpg"
+  },
+  {
+    "prompt": "How many zebras are in the picture?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000099040.jpg"
+  },
+  {
+    "prompt": "How many animals can be seen?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000009133.jpg"
+  },
+  {
+    "prompt": "How many animals are there?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000249620.jpg"
+  },
+  {
+    "prompt": "How many giraffe are there?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000324642.jpg"
+  },
+  {
+    "prompt": "How many street lights are visible?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000081561.jpg"
+  },
+  {
+    "prompt": "How many pieces of pizza are missing?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000455222.jpg"
+  },
+  {
+    "prompt": "How many pieces of silverware are there?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000514781.jpg"
+  },
+  {
+    "prompt": "How many tall trees are there?",
+    "answer": "20",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000029327.jpg"
+  }
+]

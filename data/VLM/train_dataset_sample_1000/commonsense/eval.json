@@ -1,0 +1,1002 @@
+[
+  {
+    "prompt": "Does the plant appear to be dying?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000205474.jpg"
+  },
+  {
+    "prompt": "Does this animal look uncomfortable?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000080757.jpg"
+  },
+  {
+    "prompt": "Does the man have on a shirt?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000217622.jpg"
+  },
+  {
+    "prompt": "Has he blown out the candles?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000512416.jpg"
+  },
+  {
+    "prompt": "Could they play at night?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000056091.jpg"
+  },
+  {
+    "prompt": "Does the dog look impressed?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000389933.jpg"
+  },
+  {
+    "prompt": "Does this animal have tusks?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000239458.jpg"
+  },
+  {
+    "prompt": "Does this room look tidy?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000031878.jpg"
+  },
+  {
+    "prompt": "Does this scene have a ghostly atmosphere?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000191546.jpg"
+  },
+  {
+    "prompt": "Does this salad look healthy?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000566502.jpg"
+  },
+  {
+    "prompt": "Does the man have tattoos?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000174072.jpg"
+  },
+  {
+    "prompt": "Can you see snow?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000434990.jpg"
+  },
+  {
+    "prompt": "Does this pizza have a fungus on it?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000071136.jpg"
+  },
+  {
+    "prompt": "Do these people enjoy the outdoors?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000527022.jpg"
+  },
+  {
+    "prompt": "Can you see a fire alarm?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000068128.jpg"
+  },
+  {
+    "prompt": "Has this picture been taken sideways?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000081943.jpg"
+  },
+  {
+    "prompt": "Can you smoke there?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000545390.jpg"
+  },
+  {
+    "prompt": "Does this person own a dog?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000476664.jpg"
+  },
+  {
+    "prompt": "Does this dessert have any fruit with it?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000224138.jpg"
+  },
+  {
+    "prompt": "Do you see a clock?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000266250.jpg"
+  },
+  {
+    "prompt": "Can you tell the train number?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000401320.jpg"
+  },
+  {
+    "prompt": "Does the floor have carpet?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000554523.jpg"
+  },
+  {
+    "prompt": "Does the boy have good vision?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000082986.jpg"
+  },
+  {
+    "prompt": "Do you see something yellow in the picture?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000071673.jpg"
+  },
+  {
+    "prompt": "Can you buy soft drinks in a bottle or can here?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000058462.jpg"
+  },
+  {
+    "prompt": "Does this person have on any protective gear?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000155192.jpg"
+  },
+  {
+    "prompt": "Do you see ice in the picture?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000143560.jpg"
+  },
+  {
+    "prompt": "Does the baby have socks on?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000078194.jpg"
+  },
+  {
+    "prompt": "Can you smoke in this restaurant?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000154877.jpg"
+  },
+  {
+    "prompt": "Do you see any farmhouses?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000024851.jpg"
+  },
+  {
+    "prompt": "Has this man shaved in the last week?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000310797.jpg"
+  },
+  {
+    "prompt": "Does this horse's hair resemble human hair?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000238431.jpg"
+  },
+  {
+    "prompt": "Does this helmet have speakers in it?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000334148.jpg"
+  },
+  {
+    "prompt": "Does the elephant have tusks?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000245852.jpg"
+  },
+  {
+    "prompt": "Does this seem to be an interesting game?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000304404.jpg"
+  },
+  {
+    "prompt": "Does the dog have one of his eyes closed?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000424378.jpg"
+  },
+  {
+    "prompt": "Does this appear to be an afternoon or evening scene?",
+    "answer": "afternoon",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000551454.jpg"
+  },
+  {
+    "prompt": "Do you think this still works?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000481710.jpg"
+  },
+  {
+    "prompt": "Does this bus run on gas?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000406949.jpg"
+  },
+  {
+    "prompt": "Has a color effect been used on this photo?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000535519.jpg"
+  },
+  {
+    "prompt": "Does the grass look healthy?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000232315.jpg"
+  },
+  {
+    "prompt": "Does the woman's hair look clean or dirty?",
+    "answer": "clean",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000482476.jpg"
+  },
+  {
+    "prompt": "Does the black cat have its eyes open or closed?",
+    "answer": "open",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000092202.jpg"
+  },
+  {
+    "prompt": "Do the children have ski poles?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000145378.jpg"
+  },
+  {
+    "prompt": "Do you think this is a high end hotel?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000106193.jpg"
+  },
+  {
+    "prompt": "Can you the pots go in the appliance shown?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000481710.jpg"
+  },
+  {
+    "prompt": "Does this look like a barge?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000117407.jpg"
+  },
+  {
+    "prompt": "Has the fork been used?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000504711.jpg"
+  },
+  {
+    "prompt": "Does the banana have dark spots?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000016161.jpg"
+  },
+  {
+    "prompt": "Do you see a giant teddy bear?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000525369.jpg"
+  },
+  {
+    "prompt": "Can you see the sun?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000030383.jpg"
+  },
+  {
+    "prompt": "Can you see the hook up for the train?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000519673.jpg"
+  },
+  {
+    "prompt": "Does the house have a porch?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000223804.jpg"
+  },
+  {
+    "prompt": "Can you describe the feel of the elephants skin?",
+    "answer": "rough",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000197175.jpg"
+  },
+  {
+    "prompt": "Does this animal have a mane?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000259614.jpg"
+  },
+  {
+    "prompt": "Does the refrigerator dispense water?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000410988.jpg"
+  },
+  {
+    "prompt": "Can you see out of the back of the bus?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000248087.jpg"
+  },
+  {
+    "prompt": "Do you see two beautiful women mud wrestling?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000389316.jpg"
+  },
+  {
+    "prompt": "Has the food been cooked?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000085338.jpg"
+  },
+  {
+    "prompt": "Does this bike have a motor?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000185157.jpg"
+  },
+  {
+    "prompt": "Does the woman with the pail going clamming?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000566049.jpg"
+  },
+  {
+    "prompt": "Do these bikes help the environment?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000165681.jpg"
+  },
+  {
+    "prompt": "Does this salad look healthy?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000452312.jpg"
+  },
+  {
+    "prompt": "Does the dog have his nose on the left or right leg?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000304741.jpg"
+  },
+  {
+    "prompt": "Does the TV seem too small for the stand?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000444565.jpg"
+  },
+  {
+    "prompt": "Could this be a breakfast meal?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000265518.jpg"
+  },
+  {
+    "prompt": "Does the woman have a bag?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000118181.jpg"
+  },
+  {
+    "prompt": "Do the pillowcases match?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000060596.jpg"
+  },
+  {
+    "prompt": "Does the man have on a wristband?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000530656.jpg"
+  },
+  {
+    "prompt": "Does this woman have short hair?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000194153.jpg"
+  },
+  {
+    "prompt": "Has the sand been raked and cleaned?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000391463.jpg"
+  },
+  {
+    "prompt": "Do the cats have food in their bowl?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000574241.jpg"
+  },
+  {
+    "prompt": "Does this animal have furr?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000562171.jpg"
+  },
+  {
+    "prompt": "Could this be a room in a palace?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000546569.jpg"
+  },
+  {
+    "prompt": "Does this man have protective gear on?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000408535.jpg"
+  },
+  {
+    "prompt": "Does this train have a caboose?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000372070.jpg"
+  },
+  {
+    "prompt": "Do you see any dolphins in the water?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000317250.jpg"
+  },
+  {
+    "prompt": "Do you think the walls of this bathroom have just been painted?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000341011.jpg"
+  },
+  {
+    "prompt": "Do the dogs look happy to be on the surfboard?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000033377.jpg"
+  },
+  {
+    "prompt": "Does this person have good balance?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000414709.jpg"
+  },
+  {
+    "prompt": "Does the room appear clean?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000526675.jpg"
+  },
+  {
+    "prompt": "Does the sidewalk need repaired?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000143560.jpg"
+  },
+  {
+    "prompt": "Has the house been renovated recently?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000431352.jpg"
+  },
+  {
+    "prompt": "Do these people like working their muscles hard?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000213829.jpg"
+  },
+  {
+    "prompt": "Has this man shaved lately?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000442417.jpg"
+  },
+  {
+    "prompt": "Does the food in the picture look delicious?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000317147.jpg"
+  },
+  {
+    "prompt": "Do the hands belong to a Caucasian person?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000511674.jpg"
+  },
+  {
+    "prompt": "Does the man have a beard?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000307510.jpg"
+  },
+  {
+    "prompt": "Does the tie look good?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000229575.jpg"
+  },
+  {
+    "prompt": "Does the woman appear to be having fun?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000087811.jpg"
+  },
+  {
+    "prompt": "Do both giraffe have horns?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000016193.jpg"
+  },
+  {
+    "prompt": "Has the bed been slept in?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000460286.jpg"
+  },
+  {
+    "prompt": "Do you see creme filling?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000070657.jpg"
+  },
+  {
+    "prompt": "Has this banana been eaten?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000248678.jpg"
+  },
+  {
+    "prompt": "Do people drive on the right or left side of the street here?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000157112.jpg"
+  },
+  {
+    "prompt": "Does the woman's bathing suit have straps?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000029151.jpg"
+  },
+  {
+    "prompt": "Does the horse do this because it wants to?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000330109.jpg"
+  },
+  {
+    "prompt": "Do you think this picture was taken in England?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000083364.jpg"
+  },
+  {
+    "prompt": "Does this book work?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000362092.jpg"
+  },
+  {
+    "prompt": "Do you like these shoes?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000151657.jpg"
+  },
+  {
+    "prompt": "Does the floor have carpet on it?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000210920.jpg"
+  },
+  {
+    "prompt": "Does the man own a watch?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000474609.jpg"
+  },
+  {
+    "prompt": "Does the man have sideburns?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000424879.jpg"
+  },
+  {
+    "prompt": "Does the carpet have stains?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000120356.jpg"
+  },
+  {
+    "prompt": "Can you spot a fire hydrant in the picture?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000138527.jpg"
+  },
+  {
+    "prompt": "Do you see the wood?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000384587.jpg"
+  },
+  {
+    "prompt": "Does this bathroom need cleaning?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000379740.jpg"
+  },
+  {
+    "prompt": "Could this bus back into the bus behind it too easily?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000269099.jpg"
+  },
+  {
+    "prompt": "Does this person appear to be surfing in the ocean?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000201993.jpg"
+  },
+  {
+    "prompt": "Can you see broccoli?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000431370.jpg"
+  },
+  {
+    "prompt": "Can you see mountains?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000207204.jpg"
+  },
+  {
+    "prompt": "Does the elephant periodically blow tusk water?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000477067.jpg"
+  },
+  {
+    "prompt": "Does the man have a beverage in his hand?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000025057.jpg"
+  },
+  {
+    "prompt": "Does this toilet look automatic?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000037670.jpg"
+  },
+  {
+    "prompt": "Does this room look neat and tidy?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000111062.jpg"
+  },
+  {
+    "prompt": "Does this woman love her dog?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000057936.jpg"
+  },
+  {
+    "prompt": "Has this man been in the water yet?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000494759.jpg"
+  },
+  {
+    "prompt": "Do any of the boats have working lights?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000365129.jpg"
+  },
+  {
+    "prompt": "Could the scooter be a Harley?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000277073.jpg"
+  },
+  {
+    "prompt": "Does the road look wet?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000136846.jpg"
+  },
+  {
+    "prompt": "Can you see a garage door in this picture?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000171351.jpg"
+  },
+  {
+    "prompt": "Does the vase of rocks in it?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000366152.jpg"
+  },
+  {
+    "prompt": "Does this bus transport disabled people?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000243031.jpg"
+  },
+  {
+    "prompt": "Has this picture been manipulated?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000155355.jpg"
+  },
+  {
+    "prompt": "Does the man have a visual impairment?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000361029.jpg"
+  },
+  {
+    "prompt": "Do the man's cap and shorts match?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000520478.jpg"
+  },
+  {
+    "prompt": "Does this cell phone look broken?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000179317.jpg"
+  },
+  {
+    "prompt": "Does the room have carpet?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000486087.jpg"
+  },
+  {
+    "prompt": "Has this man shaved?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000555396.jpg"
+  },
+  {
+    "prompt": "Does the tie look good?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000014961.jpg"
+  },
+  {
+    "prompt": "Can you see brownies?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000240783.jpg"
+  },
+  {
+    "prompt": "Does this appear to be a show house?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000381037.jpg"
+  },
+  {
+    "prompt": "Can you see brownies?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000081782.jpg"
+  },
+  {
+    "prompt": "Does the hat make the cats eyes stand out?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000296907.jpg"
+  },
+  {
+    "prompt": "Do the doors slide open?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000103856.jpg"
+  },
+  {
+    "prompt": "Does the window have curtains?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000576667.jpg"
+  },
+  {
+    "prompt": "Does this room have a water view?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000118363.jpg"
+  },
+  {
+    "prompt": "Does the player appear to be a professional?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000320715.jpg"
+  },
+  {
+    "prompt": "Does this game look like it would be quiet?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000102439.jpg"
+  },
+  {
+    "prompt": "Can you see hills?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000060856.jpg"
+  },
+  {
+    "prompt": "Does this seem to be an open range?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000271825.jpg"
+  },
+  {
+    "prompt": "Does this image have a clock?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000071145.jpg"
+  },
+  {
+    "prompt": "Does the bike belong to the kid?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000107990.jpg"
+  },
+  {
+    "prompt": "Do you see any waves?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000347377.jpg"
+  },
+  {
+    "prompt": "Could that pizza be eaten?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000379402.jpg"
+  },
+  {
+    "prompt": "Do you see a person?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000429598.jpg"
+  },
+  {
+    "prompt": "Does the giraffe like the zebra?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000276892.jpg"
+  },
+  {
+    "prompt": "Do cat's typically drink this liquid?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000479440.jpg"
+  },
+  {
+    "prompt": "Do the animals live in the cave?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000524575.jpg"
+  },
+  {
+    "prompt": "Do the zebras look healthy?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000257791.jpg"
+  },
+  {
+    "prompt": "Does the vanity have lights?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000576667.jpg"
+  },
+  {
+    "prompt": "Could someone sleep here?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000237984.jpg"
+  },
+  {
+    "prompt": "Does the next intersection have a caution light?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000090373.jpg"
+  },
+  {
+    "prompt": "Does this cat have ear mites?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000385205.jpg"
+  },
+  {
+    "prompt": "Does the girl have long hair?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000271681.jpg"
+  },
+  {
+    "prompt": "Does this food look delicious?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000347819.jpg"
+  },
+  {
+    "prompt": "Can you ride this bus today?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000000985.jpg"
+  },
+  {
+    "prompt": "Does the dog have any tags?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000142769.jpg"
+  },
+  {
+    "prompt": "Does the fireplace need to be cleaned?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000464339.jpg"
+  },
+  {
+    "prompt": "Could this scene be in a park?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000577182.jpg"
+  },
+  {
+    "prompt": "Do either of these people have a mustache and glasses?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000229216.jpg"
+  },
+  {
+    "prompt": "Does this animal resemble man's best friend?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000232315.jpg"
+  },
+  {
+    "prompt": "Does the man in the picture look happy?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000413043.jpg"
+  },
+  {
+    "prompt": "Does the apple look juicy?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000497855.jpg"
+  },
+  {
+    "prompt": "Could this be at an air show?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000058194.jpg"
+  },
+  {
+    "prompt": "Does the man have long hair?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000001369.jpg"
+  },
+  {
+    "prompt": "Does the biggest tree have any leaves?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000193121.jpg"
+  },
+  {
+    "prompt": "Does this plate look good?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000083161.jpg"
+  },
+  {
+    "prompt": "Does the cat have a toy with feathers?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000279386.jpg"
+  },
+  {
+    "prompt": "Does the cookie have a shadow?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000189932.jpg"
+  },
+  {
+    "prompt": "Does the man have glasses?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000449156.jpg"
+  },
+  {
+    "prompt": "Does this man have a little food on his upper lip?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000312103.jpg"
+  },
+  {
+    "prompt": "Does this boat appear to be used currently?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000539838.jpg"
+  },
+  {
+    "prompt": "Does the child have good eyesight?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000425870.jpg"
+  },
+  {
+    "prompt": "Does the man on the far right have his wetsuit on all the way?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000147132.jpg"
+  },
+  {
+    "prompt": "Does this person look happy?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000150144.jpg"
+  },
+  {
+    "prompt": "Do you see green grass?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000043561.jpg"
+  },
+  {
+    "prompt": "Can you identify this job?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000156747.jpg"
+  },
+  {
+    "prompt": "Does the plant have leaves?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000043218.jpg"
+  },
+  {
+    "prompt": "Does the man own any books?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000483476.jpg"
+  },
+  {
+    "prompt": "Does the woman fixing the tie have curly hair?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000450075.jpg"
+  },
+  {
+    "prompt": "Does the pastry appear overcooked?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000183965.jpg"
+  },
+  {
+    "prompt": "Can you see outside?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000144062.jpg"
+  },
+  {
+    "prompt": "Could this day be considered 'partly cloudy'?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000382122.jpg"
+  },
+  {
+    "prompt": "Can you park on this street?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000572546.jpg"
+  },
+  {
+    "prompt": "Does this perspective make it seem that the clouds could land on the trees?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000558834.jpg"
+  },
+  {
+    "prompt": "Does this road run to or near a beach?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000160025.jpg"
+  },
+  {
+    "prompt": "Does the man have glasses?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000273728.jpg"
+  },
+  {
+    "prompt": "Do people usually keep their televisions here?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000185335.jpg"
+  },
+  {
+    "prompt": "Does the food have cheese?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000501062.jpg"
+  },
+  {
+    "prompt": "Does this dessert look healthy?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000438788.jpg"
+  },
+  {
+    "prompt": "Does the man have a tattoo?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000010205.jpg"
+  },
+  {
+    "prompt": "Does the color picture take up two pages of the book?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000139169.jpg"
+  },
+  {
+    "prompt": "Can you see the \"crack\" of this man's rear end?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000239894.jpg"
+  },
+  {
+    "prompt": "Does the toilet need cleaned?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000110783.jpg"
+  },
+  {
+    "prompt": "Can you see any hot sauce on the table?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000292971.jpg"
+  },
+  {
+    "prompt": "Does the window reveal the outside?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000028239.jpg"
+  },
+  {
+    "prompt": "Does the t-shirt have sleeves?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000413043.jpg"
+  },
+  {
+    "prompt": "Does the woman appear to be relaxed?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000280761.jpg"
+  },
+  {
+    "prompt": "Do you see any signs?",
+    "answer": "yes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000043693.jpg"
+  }
+]

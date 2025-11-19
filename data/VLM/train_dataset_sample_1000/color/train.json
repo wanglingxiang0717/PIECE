@@ -1,0 +1,5002 @@
+[
+  {
+    "prompt": "What color is the countertop?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000350833.jpg"
+  },
+  {
+    "prompt": "What color is the bicycle?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000053335.jpg"
+  },
+  {
+    "prompt": "What color are the fences?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000292432.jpg"
+  },
+  {
+    "prompt": "What color are the clouds?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000310703.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000220889.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000231568.jpg"
+  },
+  {
+    "prompt": "What color is the bus?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000310926.jpg"
+  },
+  {
+    "prompt": "What color are the man's pants?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000477860.jpg"
+  },
+  {
+    "prompt": "What color is the stoplight on?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000534044.jpg"
+  },
+  {
+    "prompt": "What color is the keyboard?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000505033.jpg"
+  },
+  {
+    "prompt": "What color is the front of the truck?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000052609.jpg"
+  },
+  {
+    "prompt": "What color is the dog's bed?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000452872.jpg"
+  },
+  {
+    "prompt": "What color are the umbrellas?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000341981.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000567982.jpg"
+  },
+  {
+    "prompt": "What color is the frisbee?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000222639.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000050380.jpg"
+  },
+  {
+    "prompt": "What color is the jacket the man on the snowboard is wearing?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000246252.jpg"
+  },
+  {
+    "prompt": "What color are the cat's eyes?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000102421.jpg"
+  },
+  {
+    "prompt": "What color is the road?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000191990.jpg"
+  },
+  {
+    "prompt": "What color is the rug?",
+    "answer": "purple",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000185632.jpg"
+  },
+  {
+    "prompt": "What color hair do the women have?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000092420.jpg"
+  },
+  {
+    "prompt": "What color is his shirt?",
+    "answer": "purple",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000241717.jpg"
+  },
+  {
+    "prompt": "What color is the water under the board?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000273079.jpg"
+  },
+  {
+    "prompt": "What color is the stand?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000304374.jpg"
+  },
+  {
+    "prompt": "What color are the carriage seats?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000430788.jpg"
+  },
+  {
+    "prompt": "What color is the animal?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000053531.jpg"
+  },
+  {
+    "prompt": "What color is the train?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000310703.jpg"
+  },
+  {
+    "prompt": "What color is the lamp shade?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000515850.jpg"
+  },
+  {
+    "prompt": "What color of gloves do they have on?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000266240.jpg"
+  },
+  {
+    "prompt": "What color are the leaves of this plant?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000095281.jpg"
+  },
+  {
+    "prompt": "What color is her hair bow?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000081003.jpg"
+  },
+  {
+    "prompt": "What color are the boys eyes?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000438268.jpg"
+  },
+  {
+    "prompt": "What color car in background?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000002529.jpg"
+  },
+  {
+    "prompt": "What color are the cabinets?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000262682.jpg"
+  },
+  {
+    "prompt": "What color is the front of the train?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000430218.jpg"
+  },
+  {
+    "prompt": "What color is the bus?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000013489.jpg"
+  },
+  {
+    "prompt": "What color is the girl's' skin on the bed?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000441900.jpg"
+  },
+  {
+    "prompt": "What color is the shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000308792.jpg"
+  },
+  {
+    "prompt": "What color are the appliances?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000201770.jpg"
+  },
+  {
+    "prompt": "What color is the traffic light?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000065612.jpg"
+  },
+  {
+    "prompt": "What color are the couches?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000125247.jpg"
+  },
+  {
+    "prompt": "What color is the swimsuit?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000477467.jpg"
+  },
+  {
+    "prompt": "What color is the top of the fire hydrant?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000101863.jpg"
+  },
+  {
+    "prompt": "What color is the cow?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000099983.jpg"
+  },
+  {
+    "prompt": "What color is the boy's shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000114055.jpg"
+  },
+  {
+    "prompt": "What color is the van in the back?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000374454.jpg"
+  },
+  {
+    "prompt": "What color is the snow?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000570694.jpg"
+  },
+  {
+    "prompt": "What color is the water?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000376449.jpg"
+  },
+  {
+    "prompt": "What color is the stove?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000259721.jpg"
+  },
+  {
+    "prompt": "What color is the train?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000283180.jpg"
+  },
+  {
+    "prompt": "What color is the bike?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000085913.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000367856.jpg"
+  },
+  {
+    "prompt": "What color is the grass?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000487994.jpg"
+  },
+  {
+    "prompt": "What color is the train?",
+    "answer": "black and red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000477785.jpg"
+  },
+  {
+    "prompt": "What color are the jets?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000041276.jpg"
+  },
+  {
+    "prompt": "What color is this person's boots?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000141723.jpg"
+  },
+  {
+    "prompt": "What color is the frisbee?",
+    "answer": "purple",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000261036.jpg"
+  },
+  {
+    "prompt": "What color is the sofa?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000482392.jpg"
+  },
+  {
+    "prompt": "What color is his uniform?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000079684.jpg"
+  },
+  {
+    "prompt": "What color is the dirt?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000528961.jpg"
+  },
+  {
+    "prompt": "What color shirt is this man wearing?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000307990.jpg"
+  },
+  {
+    "prompt": "What color is the countertop?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000108189.jpg"
+  },
+  {
+    "prompt": "What color gloves is her wearing?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000438894.jpg"
+  },
+  {
+    "prompt": "What color are the flowers?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000081479.jpg"
+  },
+  {
+    "prompt": "What color is the man wearing?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000357770.jpg"
+  },
+  {
+    "prompt": "What color is the motorcycle the man is sitting on?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000240340.jpg"
+  },
+  {
+    "prompt": "What color are the signs?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000026266.jpg"
+  },
+  {
+    "prompt": "What color is her hair?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000361475.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000172121.jpg"
+  },
+  {
+    "prompt": "What color is the toilet?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000041489.jpg"
+  },
+  {
+    "prompt": "What color shirt is the woman wearing?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000426908.jpg"
+  },
+  {
+    "prompt": "What color is the stuffed animal?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000062261.jpg"
+  },
+  {
+    "prompt": "What color is the chair?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000368684.jpg"
+  },
+  {
+    "prompt": "What color is this food?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000056784.jpg"
+  },
+  {
+    "prompt": "What color is the girl's hair?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000525153.jpg"
+  },
+  {
+    "prompt": "What color is the horse in the picture?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000263208.jpg"
+  },
+  {
+    "prompt": "What color is the bottom of bus?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000566984.jpg"
+  },
+  {
+    "prompt": "What color are the cows?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000181939.jpg"
+  },
+  {
+    "prompt": "What color are the vehicle lights?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000038558.jpg"
+  },
+  {
+    "prompt": "What color is the board on the wave?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000059220.jpg"
+  },
+  {
+    "prompt": "What color necklaces are these men wearing?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000344319.jpg"
+  },
+  {
+    "prompt": "What color are the sheep?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000336577.jpg"
+  },
+  {
+    "prompt": "What color is the motorbike?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000268065.jpg"
+  },
+  {
+    "prompt": "What color is the giraffe?",
+    "answer": "brown and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000015811.jpg"
+  },
+  {
+    "prompt": "What color is the animal?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000401112.jpg"
+  },
+  {
+    "prompt": "What color is the man's jacket?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000288506.jpg"
+  },
+  {
+    "prompt": "What color is the sign?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000264886.jpg"
+  },
+  {
+    "prompt": "What color is the traffic signal?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000422393.jpg"
+  },
+  {
+    "prompt": "What color is the animal?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000110298.jpg"
+  },
+  {
+    "prompt": "What color are her pants?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000266124.jpg"
+  },
+  {
+    "prompt": "What color is the bird?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000098772.jpg"
+  },
+  {
+    "prompt": "What color is the little girls hair?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000529944.jpg"
+  },
+  {
+    "prompt": "What color are the cats eyes?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000314504.jpg"
+  },
+  {
+    "prompt": "What color frisbee is this?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000246656.jpg"
+  },
+  {
+    "prompt": "What color is the bus?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000149878.jpg"
+  },
+  {
+    "prompt": "What color is the man's jacket?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000100859.jpg"
+  },
+  {
+    "prompt": "What color is the woman's dress?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000488556.jpg"
+  },
+  {
+    "prompt": "What color shoes is the man in the orange shirt wearing?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000456545.jpg"
+  },
+  {
+    "prompt": "What color is the animal?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000123921.jpg"
+  },
+  {
+    "prompt": "What color shirt is the guy to the left wearing?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000490870.jpg"
+  },
+  {
+    "prompt": "What color is the dog?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000471175.jpg"
+  },
+  {
+    "prompt": "What color are the shoes?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000260729.jpg"
+  },
+  {
+    "prompt": "What color is the border on the mirror?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000500273.jpg"
+  },
+  {
+    "prompt": "What color is the clock tower?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000165771.jpg"
+  },
+  {
+    "prompt": "What color are the boys shorts?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000158821.jpg"
+  },
+  {
+    "prompt": "What color is the tennis player's shirt?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000515392.jpg"
+  },
+  {
+    "prompt": "What color is the liner in the open suitcase?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000285214.jpg"
+  },
+  {
+    "prompt": "What color are the sheets?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000104262.jpg"
+  },
+  {
+    "prompt": "What color is the sign above the door?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000113328.jpg"
+  },
+  {
+    "prompt": "What color is the fruit?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000558153.jpg"
+  },
+  {
+    "prompt": "What color is the building?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000203580.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000404373.jpg"
+  },
+  {
+    "prompt": "What color are the walls?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000045101.jpg"
+  },
+  {
+    "prompt": "What color are the lines on the train platform?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000123127.jpg"
+  },
+  {
+    "prompt": "What color are the countertops?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000337815.jpg"
+  },
+  {
+    "prompt": "What color is the umbrellas?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000115374.jpg"
+  },
+  {
+    "prompt": "What color is the water?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000174276.jpg"
+  },
+  {
+    "prompt": "What color is the man's eyes?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000374072.jpg"
+  },
+  {
+    "prompt": "What color is the lady's phone?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000548773.jpg"
+  },
+  {
+    "prompt": "What color are the leaves?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000112395.jpg"
+  },
+  {
+    "prompt": "What color are the pillows?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000205089.jpg"
+  },
+  {
+    "prompt": "What color is the machine?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000241595.jpg"
+  },
+  {
+    "prompt": "What color is the van in the picture?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000153829.jpg"
+  },
+  {
+    "prompt": "What color are the umbrellas?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000162429.jpg"
+  },
+  {
+    "prompt": "What color are the soles of the man's shoes?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000010023.jpg"
+  },
+  {
+    "prompt": "What color is the office chair?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000349918.jpg"
+  },
+  {
+    "prompt": "What color is his shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000549435.jpg"
+  },
+  {
+    "prompt": "What color are the cats eyes?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000056898.jpg"
+  },
+  {
+    "prompt": "What color are his shoes?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000433984.jpg"
+  },
+  {
+    "prompt": "What color is the grass?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000567838.jpg"
+  },
+  {
+    "prompt": "What color is the fence?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000060990.jpg"
+  },
+  {
+    "prompt": "What color is the woman's bow tie?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000034798.jpg"
+  },
+  {
+    "prompt": "What color is the chapstick?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000422921.jpg"
+  },
+  {
+    "prompt": "What color is the bottle?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000390157.jpg"
+  },
+  {
+    "prompt": "What color is the chair?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000233543.jpg"
+  },
+  {
+    "prompt": "What color is the lamb?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000573961.jpg"
+  },
+  {
+    "prompt": "What color is his wetsuit?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000295114.jpg"
+  },
+  {
+    "prompt": "What color is the phone?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000105015.jpg"
+  },
+  {
+    "prompt": "What color is the animal in the sink?",
+    "answer": "tan",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000486501.jpg"
+  },
+  {
+    "prompt": "What color is his hair?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000065201.jpg"
+  },
+  {
+    "prompt": "What color is the purse?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000343009.jpg"
+  },
+  {
+    "prompt": "What color is the fork?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000299466.jpg"
+  },
+  {
+    "prompt": "What color is the top bag?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000227468.jpg"
+  },
+  {
+    "prompt": "What color is the trailer?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000312218.jpg"
+  },
+  {
+    "prompt": "What color is the catchers shirt?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000148963.jpg"
+  },
+  {
+    "prompt": "What color is the bus?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000537470.jpg"
+  },
+  {
+    "prompt": "What color is the cat?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000485139.jpg"
+  },
+  {
+    "prompt": "What color are the eyes cat?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000031893.jpg"
+  },
+  {
+    "prompt": "What color tie is the boy on the right wearing?",
+    "answer": "blue and black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000525933.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000245729.jpg"
+  },
+  {
+    "prompt": "What color lights are on?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000184210.jpg"
+  },
+  {
+    "prompt": "What color is the vehicle in front of the yellow bus?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000513447.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000280623.jpg"
+  },
+  {
+    "prompt": "What color are the shirts?",
+    "answer": "blue and pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000221241.jpg"
+  },
+  {
+    "prompt": "What color is the bowl?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000103437.jpg"
+  },
+  {
+    "prompt": "What color are the man's pants?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000191961.jpg"
+  },
+  {
+    "prompt": "What color are the appliances?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000036091.jpg"
+  },
+  {
+    "prompt": "What color is the wall?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000314565.jpg"
+  },
+  {
+    "prompt": "What color is the ground the person is walking on?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000364458.jpg"
+  },
+  {
+    "prompt": "What color are the suspenders on the person rolling the red suitcase next to them?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000540056.jpg"
+  },
+  {
+    "prompt": "What color is the railing?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000152795.jpg"
+  },
+  {
+    "prompt": "What color is the tablecloth?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000119560.jpg"
+  },
+  {
+    "prompt": "What color is the light that is lit?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000128690.jpg"
+  },
+  {
+    "prompt": "What color of shirt is the man in glasses wearing?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000188183.jpg"
+  },
+  {
+    "prompt": "What color is the cat?",
+    "answer": "black and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000141240.jpg"
+  },
+  {
+    "prompt": "What color shirt is the jockey in last place wearing?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000237326.jpg"
+  },
+  {
+    "prompt": "What color is the monitor?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000197600.jpg"
+  },
+  {
+    "prompt": "What color are the animals?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000336958.jpg"
+  },
+  {
+    "prompt": "What color is the towel in the woman's hand?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000537198.jpg"
+  },
+  {
+    "prompt": "What is the color of the plate?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000310572.jpg"
+  },
+  {
+    "prompt": "What color is the lady's visor?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000282473.jpg"
+  },
+  {
+    "prompt": "What color is the airplane?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000149862.jpg"
+  },
+  {
+    "prompt": "What color is the racket?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000550396.jpg"
+  },
+  {
+    "prompt": "What color is the catcher's knee pads?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000311244.jpg"
+  },
+  {
+    "prompt": "What color is the carpet?",
+    "answer": "beige",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000136458.jpg"
+  },
+  {
+    "prompt": "What color are the men's shoes?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000038986.jpg"
+  },
+  {
+    "prompt": "What color is the truck?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000116652.jpg"
+  },
+  {
+    "prompt": "What color is the tile?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000543178.jpg"
+  },
+  {
+    "prompt": "What color is the kids snowboard?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000187765.jpg"
+  },
+  {
+    "prompt": "What color are the stripes on the boys shirt?",
+    "answer": "orange and blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000293353.jpg"
+  },
+  {
+    "prompt": "What is the color of the train?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000456584.jpg"
+  },
+  {
+    "prompt": "What color are these animals?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000258735.jpg"
+  },
+  {
+    "prompt": "What color is the blanket on the back of the elephant?",
+    "answer": "red and blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000074309.jpg"
+  },
+  {
+    "prompt": "What color is the rail?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000302116.jpg"
+  },
+  {
+    "prompt": "What color is the baby's shirt?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000004731.jpg"
+  },
+  {
+    "prompt": "What color is the intertube?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000303908.jpg"
+  },
+  {
+    "prompt": "What color is the water?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000312078.jpg"
+  },
+  {
+    "prompt": "What color is the traffic light?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000328350.jpg"
+  },
+  {
+    "prompt": "What color is the cellular phone?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000192120.jpg"
+  },
+  {
+    "prompt": "What color is the table?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000127028.jpg"
+  },
+  {
+    "prompt": "What color are the shorts?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000193743.jpg"
+  },
+  {
+    "prompt": "What color boots is the woman on the right wearing?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000059351.jpg"
+  },
+  {
+    "prompt": "What color bracelet is the man in the foreground wearing?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000165527.jpg"
+  },
+  {
+    "prompt": "What color is the grass?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000004706.jpg"
+  },
+  {
+    "prompt": "What is the color of the grass?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000130181.jpg"
+  },
+  {
+    "prompt": "What color is the clown's nose?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000549841.jpg"
+  },
+  {
+    "prompt": "What color is the vest?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000066236.jpg"
+  },
+  {
+    "prompt": "What color are the umpire's pants?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000572571.jpg"
+  },
+  {
+    "prompt": "What color is the chair?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000472164.jpg"
+  },
+  {
+    "prompt": "What color curtains?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000047502.jpg"
+  },
+  {
+    "prompt": "What color is the frisbee?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000061779.jpg"
+  },
+  {
+    "prompt": "What color is the refrigerator in the picture?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000523390.jpg"
+  },
+  {
+    "prompt": "What color is the tie on the right?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000437632.jpg"
+  },
+  {
+    "prompt": "What color are the buses?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000047742.jpg"
+  },
+  {
+    "prompt": "What color is this boat?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000113593.jpg"
+  },
+  {
+    "prompt": "What color is the girl in the back's dress?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000156170.jpg"
+  },
+  {
+    "prompt": "What color is the car parked at the meter?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000059817.jpg"
+  },
+  {
+    "prompt": "What color is the background horizon?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000515066.jpg"
+  },
+  {
+    "prompt": "What color are his legs?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000214926.jpg"
+  },
+  {
+    "prompt": "What color is the toilet?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000173751.jpg"
+  },
+  {
+    "prompt": "What color are the barrels?",
+    "answer": "orange and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000198416.jpg"
+  },
+  {
+    "prompt": "What color is the train engine?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000335847.jpg"
+  },
+  {
+    "prompt": "What color is the catchers shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000149388.jpg"
+  },
+  {
+    "prompt": "What color is the vehicle in the background?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000481357.jpg"
+  },
+  {
+    "prompt": "What color is the plane?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000030345.jpg"
+  },
+  {
+    "prompt": "What color is his nose?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000201368.jpg"
+  },
+  {
+    "prompt": "What color is the second bike?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000021685.jpg"
+  },
+  {
+    "prompt": "What color is the tent?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000473182.jpg"
+  },
+  {
+    "prompt": "What color do the window look like from the outside?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000170588.jpg"
+  },
+  {
+    "prompt": "What color is the man wearing?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000020971.jpg"
+  },
+  {
+    "prompt": "What color are the horses?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000215243.jpg"
+  },
+  {
+    "prompt": "What color are the poles?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000362604.jpg"
+  },
+  {
+    "prompt": "What color is the cat?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000122213.jpg"
+  },
+  {
+    "prompt": "What color is the boat?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000139440.jpg"
+  },
+  {
+    "prompt": "What color is the light fixture on the ceiling?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000189257.jpg"
+  },
+  {
+    "prompt": "What color is the mat?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000438186.jpg"
+  },
+  {
+    "prompt": "What color is the vase?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000272728.jpg"
+  },
+  {
+    "prompt": "What color is the net?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000318310.jpg"
+  },
+  {
+    "prompt": "What color is the dry grass?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000562110.jpg"
+  },
+  {
+    "prompt": "What color is the cow in front?",
+    "answer": "black and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000222753.jpg"
+  },
+  {
+    "prompt": "What color are this animal's eyes?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000034773.jpg"
+  },
+  {
+    "prompt": "What color is the umbrella?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000398941.jpg"
+  },
+  {
+    "prompt": "What color is the second car?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000020769.jpg"
+  },
+  {
+    "prompt": "What color is the kite?",
+    "answer": "blue and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000472872.jpg"
+  },
+  {
+    "prompt": "What color is the mirror?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000429754.jpg"
+  },
+  {
+    "prompt": "What color is the tub?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000530016.jpg"
+  },
+  {
+    "prompt": "What color are the cat's eyes?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000099230.jpg"
+  },
+  {
+    "prompt": "What color is the lamp next to the bed?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000465130.jpg"
+  },
+  {
+    "prompt": "What color is the surfboard?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000401897.jpg"
+  },
+  {
+    "prompt": "What color is the train?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000074110.jpg"
+  },
+  {
+    "prompt": "What color is the stripe on the bus?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000282631.jpg"
+  },
+  {
+    "prompt": "What color is the scissors handle?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000150502.jpg"
+  },
+  {
+    "prompt": "What is the color of the bear?",
+    "answer": "white and black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000139281.jpg"
+  },
+  {
+    "prompt": "What color is his t shirt?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000444649.jpg"
+  },
+  {
+    "prompt": "What color is the advertisement behind the player?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000128482.jpg"
+  },
+  {
+    "prompt": "What color is the bike?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000533520.jpg"
+  },
+  {
+    "prompt": "What color are the walls?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000154123.jpg"
+  },
+  {
+    "prompt": "What color is the kite?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000042870.jpg"
+  },
+  {
+    "prompt": "What color is this fruit?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000214811.jpg"
+  },
+  {
+    "prompt": "What color are the plants?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000368456.jpg"
+  },
+  {
+    "prompt": "What color is the toilet?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000260857.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000547966.jpg"
+  },
+  {
+    "prompt": "What color is the grass?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000070804.jpg"
+  },
+  {
+    "prompt": "What color is his hair?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000116356.jpg"
+  },
+  {
+    "prompt": "What is the color of the bear in the upper right corner?",
+    "answer": "tan",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000099671.jpg"
+  },
+  {
+    "prompt": "What is the color of the frisbee?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000044464.jpg"
+  },
+  {
+    "prompt": "What is the color of the seats?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000082696.jpg"
+  },
+  {
+    "prompt": "What color is the barrel?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000220006.jpg"
+  },
+  {
+    "prompt": "What color is the bedspread?",
+    "answer": "tan",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000469727.jpg"
+  },
+  {
+    "prompt": "What color is the person's pants?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000512455.jpg"
+  },
+  {
+    "prompt": "What color is the baby?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000580052.jpg"
+  },
+  {
+    "prompt": "What color is the cloth the flowers are on?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000246716.jpg"
+  },
+  {
+    "prompt": "What color are the sheets?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000446539.jpg"
+  },
+  {
+    "prompt": "What color is the blanket the child is using?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000309502.jpg"
+  },
+  {
+    "prompt": "What color are her pants?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000031504.jpg"
+  },
+  {
+    "prompt": "What color is the fence?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000008536.jpg"
+  },
+  {
+    "prompt": "What color is the ribbon on the cake?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000367048.jpg"
+  },
+  {
+    "prompt": "What color is the woman's skirt?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000178081.jpg"
+  },
+  {
+    "prompt": "What color shirt is the parasailer wearing?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000279291.jpg"
+  },
+  {
+    "prompt": "What color is the computer?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000232383.jpg"
+  },
+  {
+    "prompt": "What color is the bar of soap on the counter?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000099988.jpg"
+  },
+  {
+    "prompt": "What color are the cabinet pulls?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000072421.jpg"
+  },
+  {
+    "prompt": "What color are her shoes?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000172806.jpg"
+  },
+  {
+    "prompt": "What color is the dog?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000240537.jpg"
+  },
+  {
+    "prompt": "What color is the skier's helmet?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000488510.jpg"
+  },
+  {
+    "prompt": "What color shirt is the child wearing?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000306755.jpg"
+  },
+  {
+    "prompt": "What color hat is the person on the far right wearing?",
+    "answer": "blue and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000344187.jpg"
+  },
+  {
+    "prompt": "What color is the woman's hair?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000482444.jpg"
+  },
+  {
+    "prompt": "What color dress is the little girl wearing?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000290260.jpg"
+  },
+  {
+    "prompt": "What color is his hat?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000289423.jpg"
+  },
+  {
+    "prompt": "What color is the guy's shirt?",
+    "answer": "no shirt",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000553913.jpg"
+  },
+  {
+    "prompt": "What color is the door?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000506792.jpg"
+  },
+  {
+    "prompt": "What color is the shirt the boy in the forefront is wearing?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000334529.jpg"
+  },
+  {
+    "prompt": "What color is the man's hat?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000459234.jpg"
+  },
+  {
+    "prompt": "What color is the umpires chest shield?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000532583.jpg"
+  },
+  {
+    "prompt": "What color are the uniforms?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000003077.jpg"
+  },
+  {
+    "prompt": "What color is the shirt of the tennis player?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000269022.jpg"
+  },
+  {
+    "prompt": "What color is the person's eyes?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000515729.jpg"
+  },
+  {
+    "prompt": "What color are the girls pants?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000050980.jpg"
+  },
+  {
+    "prompt": "What color are the man's shorts?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000516199.jpg"
+  },
+  {
+    "prompt": "What color is the tablecloth?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000306113.jpg"
+  },
+  {
+    "prompt": "What color is the photo?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000194581.jpg"
+  },
+  {
+    "prompt": "What color is the court?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000410343.jpg"
+  },
+  {
+    "prompt": "What color is the cow?",
+    "answer": "brown and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000203867.jpg"
+  },
+  {
+    "prompt": "What color is the chair?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000275980.jpg"
+  },
+  {
+    "prompt": "What color are the vases?",
+    "answer": "clear",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000303804.jpg"
+  },
+  {
+    "prompt": "What is the color of the bird?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000196540.jpg"
+  },
+  {
+    "prompt": "What color is the woman's skirt?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000398941.jpg"
+  },
+  {
+    "prompt": "What color is the shirt on the person in the background?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000280709.jpg"
+  },
+  {
+    "prompt": "What color is the laptop?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000565233.jpg"
+  },
+  {
+    "prompt": "What color is the shelf?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000257341.jpg"
+  },
+  {
+    "prompt": "What color is the top of the bus?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000455362.jpg"
+  },
+  {
+    "prompt": "What color is the white?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000486018.jpg"
+  },
+  {
+    "prompt": "What color is the frisbee?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000057115.jpg"
+  },
+  {
+    "prompt": "What color is his board?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000052507.jpg"
+  },
+  {
+    "prompt": "What color are the flags?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000364222.jpg"
+  },
+  {
+    "prompt": "What color is the photo?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000317807.jpg"
+  },
+  {
+    "prompt": "What color is the meter?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000215600.jpg"
+  },
+  {
+    "prompt": "What color are the cats paws?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000139416.jpg"
+  },
+  {
+    "prompt": "What color are his shoes?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000083093.jpg"
+  },
+  {
+    "prompt": "What color is his jacket?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000440931.jpg"
+  },
+  {
+    "prompt": "What color is the beach?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000155319.jpg"
+  },
+  {
+    "prompt": "What color is the man's jacket?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000562590.jpg"
+  },
+  {
+    "prompt": "What color are the appliances?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000187723.jpg"
+  },
+  {
+    "prompt": "What color is the woman's dress?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000486328.jpg"
+  },
+  {
+    "prompt": "What color ribbon is around the bear's neck?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000353102.jpg"
+  },
+  {
+    "prompt": "What color is the sky?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000336771.jpg"
+  },
+  {
+    "prompt": "What color is the sky?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000187745.jpg"
+  },
+  {
+    "prompt": "What color is the dog?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000475995.jpg"
+  },
+  {
+    "prompt": "What color is the stripe on the bus?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000413956.jpg"
+  },
+  {
+    "prompt": "What color does the plate have that none of the food on it does?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000569389.jpg"
+  },
+  {
+    "prompt": "What color is the cat?",
+    "answer": "black and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000453538.jpg"
+  },
+  {
+    "prompt": "What color is the bowl?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000016757.jpg"
+  },
+  {
+    "prompt": "What color is the ground?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000243787.jpg"
+  },
+  {
+    "prompt": "What is the color of the train?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000438061.jpg"
+  },
+  {
+    "prompt": "What color is the building in the middle of the photo?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000232762.jpg"
+  },
+  {
+    "prompt": "What is the color of the plants?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000414001.jpg"
+  },
+  {
+    "prompt": "What color trim is on the building?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000073696.jpg"
+  },
+  {
+    "prompt": "What color is the hydrant?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000268641.jpg"
+  },
+  {
+    "prompt": "What color is her sweater?",
+    "answer": "purple",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000570560.jpg"
+  },
+  {
+    "prompt": "What color is the man's hair?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000512292.jpg"
+  },
+  {
+    "prompt": "What color shirts are they all wearing?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000002415.jpg"
+  },
+  {
+    "prompt": "What color is the napkin the doughnuts are on?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000369831.jpg"
+  },
+  {
+    "prompt": "What color is the cycle?",
+    "answer": "purple and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000578792.jpg"
+  },
+  {
+    "prompt": "What color is the Frisbee?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000370512.jpg"
+  },
+  {
+    "prompt": "What color is the fence?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000069480.jpg"
+  },
+  {
+    "prompt": "What is the color of the plate?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000496826.jpg"
+  },
+  {
+    "prompt": "What color are the stripes to the left of the door?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000498165.jpg"
+  },
+  {
+    "prompt": "What color is the pacifier?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000048398.jpg"
+  },
+  {
+    "prompt": "What color is her bike?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000415288.jpg"
+  },
+  {
+    "prompt": "What color is the thermos?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000561106.jpg"
+  },
+  {
+    "prompt": "What color are the cats eyes?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000014766.jpg"
+  },
+  {
+    "prompt": "What color are the sofas?",
+    "answer": "beige",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000025388.jpg"
+  },
+  {
+    "prompt": "What color is the skiers shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000499037.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000400729.jpg"
+  },
+  {
+    "prompt": "What color is the edge of the sidewalk?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000521059.jpg"
+  },
+  {
+    "prompt": "What color is the box?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000393080.jpg"
+  },
+  {
+    "prompt": "What color is the table?",
+    "answer": "clear",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000528080.jpg"
+  },
+  {
+    "prompt": "What is the color of the man's suit?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000436844.jpg"
+  },
+  {
+    "prompt": "What color is the asphalt?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000552167.jpg"
+  },
+  {
+    "prompt": "What color is the ground?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000335839.jpg"
+  },
+  {
+    "prompt": "What color stands out in the front?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000464629.jpg"
+  },
+  {
+    "prompt": "What color is the shower curtain in this bathroom?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000280540.jpg"
+  },
+  {
+    "prompt": "What color is her luggage?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000098298.jpg"
+  },
+  {
+    "prompt": "What color shorts is the tennis player wearing?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000367929.jpg"
+  },
+  {
+    "prompt": "What color is the child's outfit?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000503557.jpg"
+  },
+  {
+    "prompt": "What color is the train?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000460049.jpg"
+  },
+  {
+    "prompt": "What color is the pickup truck?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000190117.jpg"
+  },
+  {
+    "prompt": "What color is the person's shirt close to the picture?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000038317.jpg"
+  },
+  {
+    "prompt": "What color hat is the man with blue shoes wearing?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000173925.jpg"
+  },
+  {
+    "prompt": "What color is her shirt?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000032149.jpg"
+  },
+  {
+    "prompt": "What color is the tent?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000097519.jpg"
+  },
+  {
+    "prompt": "What color is the bird?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000159066.jpg"
+  },
+  {
+    "prompt": "What color is the man's tie?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000477475.jpg"
+  },
+  {
+    "prompt": "What color is the trash can?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000310524.jpg"
+  },
+  {
+    "prompt": "What color is the rug in front of the couch?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000395684.jpg"
+  },
+  {
+    "prompt": "What color is the platter?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000316438.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000300399.jpg"
+  },
+  {
+    "prompt": "What color is the end of the train?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000117322.jpg"
+  },
+  {
+    "prompt": "What color is the leash?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000256628.jpg"
+  },
+  {
+    "prompt": "What color is the floor?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000139240.jpg"
+  },
+  {
+    "prompt": "What color cushion does the chair on the far left have?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000308996.jpg"
+  },
+  {
+    "prompt": "What color is the grass?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000341963.jpg"
+  },
+  {
+    "prompt": "What color is the person's shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000261633.jpg"
+  },
+  {
+    "prompt": "What color is the motorcycle?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000398878.jpg"
+  },
+  {
+    "prompt": "What color are the catcher's shin guards?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000424404.jpg"
+  },
+  {
+    "prompt": "What color is the ball?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000173772.jpg"
+  },
+  {
+    "prompt": "What color are they both wearing?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000557190.jpg"
+  },
+  {
+    "prompt": "What color is the chair?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000421241.jpg"
+  },
+  {
+    "prompt": "What color are her sunglasses?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000425576.jpg"
+  },
+  {
+    "prompt": "What color is the fire hydrant?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000516812.jpg"
+  },
+  {
+    "prompt": "What color is the front of the bus?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000167996.jpg"
+  },
+  {
+    "prompt": "What color are the kites?",
+    "answer": "multi",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000377011.jpg"
+  },
+  {
+    "prompt": "What color is the front of the fridge?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000445433.jpg"
+  },
+  {
+    "prompt": "What color is the wall?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000390190.jpg"
+  },
+  {
+    "prompt": "What color is the arrow?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000297058.jpg"
+  },
+  {
+    "prompt": "What color are the bleachers for the watchers?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000034430.jpg"
+  },
+  {
+    "prompt": "What color is the plant?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000129407.jpg"
+  },
+  {
+    "prompt": "What color is the bus?",
+    "answer": "green and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000517086.jpg"
+  },
+  {
+    "prompt": "What color is the man on the left wearing?",
+    "answer": "tan",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000561753.jpg"
+  },
+  {
+    "prompt": "What color is the engine?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000280239.jpg"
+  },
+  {
+    "prompt": "What color is the female's hat?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000026746.jpg"
+  },
+  {
+    "prompt": "What color is the building?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000054358.jpg"
+  },
+  {
+    "prompt": "What color is the lowest kite?",
+    "answer": "purple",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000395092.jpg"
+  },
+  {
+    "prompt": "What color is the laptop?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000354976.jpg"
+  },
+  {
+    "prompt": "What color is the backpack?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000319139.jpg"
+  },
+  {
+    "prompt": "What color is the cap on the tall bottle?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000157418.jpg"
+  },
+  {
+    "prompt": "What color is the dog?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000064765.jpg"
+  },
+  {
+    "prompt": "What color is hydrant?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000359843.jpg"
+  },
+  {
+    "prompt": "What color is the train?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000302000.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000527219.jpg"
+  },
+  {
+    "prompt": "What is the color of the truck?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000062942.jpg"
+  },
+  {
+    "prompt": "What color do the walls look like?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000105063.jpg"
+  },
+  {
+    "prompt": "What color is the front of the train?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000560366.jpg"
+  },
+  {
+    "prompt": "What color is the box?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000446880.jpg"
+  },
+  {
+    "prompt": "What color are their jackets?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000098717.jpg"
+  },
+  {
+    "prompt": "What color is this transportation?",
+    "answer": "yellow and blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000541280.jpg"
+  },
+  {
+    "prompt": "What color is the umbrellas?",
+    "answer": "black and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000376524.jpg"
+  },
+  {
+    "prompt": "What color is the background?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000098494.jpg"
+  },
+  {
+    "prompt": "What color cow does not match the others?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000106917.jpg"
+  },
+  {
+    "prompt": "What color is the plane?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000520802.jpg"
+  },
+  {
+    "prompt": "What color is the wall?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000129310.jpg"
+  },
+  {
+    "prompt": "What color are the cats feet?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000333280.jpg"
+  },
+  {
+    "prompt": "What color is  the table?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000408151.jpg"
+  },
+  {
+    "prompt": "What color is the box on top of the shelves?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000508749.jpg"
+  },
+  {
+    "prompt": "What color is the board?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000199908.jpg"
+  },
+  {
+    "prompt": "What color is this rose?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000084034.jpg"
+  },
+  {
+    "prompt": "What color is this item usually?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000166869.jpg"
+  },
+  {
+    "prompt": "What color are his wristbands?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000078065.jpg"
+  },
+  {
+    "prompt": "What color is the dish?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000029838.jpg"
+  },
+  {
+    "prompt": "What color is the sky?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000335125.jpg"
+  },
+  {
+    "prompt": "What color helmet is the batter wearing?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000447558.jpg"
+  },
+  {
+    "prompt": "What is the color of the material?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000315994.jpg"
+  },
+  {
+    "prompt": "What color are the ends of the cat's toes?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000559366.jpg"
+  },
+  {
+    "prompt": "What color is the outer edge of the mirror?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000359180.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000007944.jpg"
+  },
+  {
+    "prompt": "What color is most of this train?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000451392.jpg"
+  },
+  {
+    "prompt": "What color is the building in the background?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000313787.jpg"
+  },
+  {
+    "prompt": "What color are his shoes?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000502393.jpg"
+  },
+  {
+    "prompt": "What color is the brush?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000376241.jpg"
+  },
+  {
+    "prompt": "What color are the cones?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000006262.jpg"
+  },
+  {
+    "prompt": "What color is the baseball players uniform?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000354221.jpg"
+  },
+  {
+    "prompt": "What color are the cat's eyes?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000277070.jpg"
+  },
+  {
+    "prompt": "What color are the tiles?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000551746.jpg"
+  },
+  {
+    "prompt": "What color is the computer?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000510652.jpg"
+  },
+  {
+    "prompt": "What color is the bus?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000118459.jpg"
+  },
+  {
+    "prompt": "What color is the cup?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000325654.jpg"
+  },
+  {
+    "prompt": "What color is the snow?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000278801.jpg"
+  },
+  {
+    "prompt": "What color is the suitcase?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000266981.jpg"
+  },
+  {
+    "prompt": "What color is the table?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000212610.jpg"
+  },
+  {
+    "prompt": "What color is the tile?",
+    "answer": "tan",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000292818.jpg"
+  },
+  {
+    "prompt": "What color is the lady's shirt?",
+    "answer": "purple",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000115635.jpg"
+  },
+  {
+    "prompt": "What color are the walls?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000151497.jpg"
+  },
+  {
+    "prompt": "What color are the man's pants?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000045840.jpg"
+  },
+  {
+    "prompt": "What color are the lights above the counter?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000417885.jpg"
+  },
+  {
+    "prompt": "What color is the dog?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000523357.jpg"
+  },
+  {
+    "prompt": "What color is the thing the man is sitting on?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000393630.jpg"
+  },
+  {
+    "prompt": "What color is the table the vase of flowers is resting on?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000457261.jpg"
+  },
+  {
+    "prompt": "What color is the picture?",
+    "answer": "black and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000159504.jpg"
+  },
+  {
+    "prompt": "What color are the person's shoes?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000194450.jpg"
+  },
+  {
+    "prompt": "What color is the shirt of the man standing in the background?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000506920.jpg"
+  },
+  {
+    "prompt": "What color shorts does this guy have on?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000266153.jpg"
+  },
+  {
+    "prompt": "What color is the microwave?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000277096.jpg"
+  },
+  {
+    "prompt": "What color are the trees?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000385589.jpg"
+  },
+  {
+    "prompt": "What color is the water?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000467308.jpg"
+  },
+  {
+    "prompt": "What color are the flowers at the top left?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000058245.jpg"
+  },
+  {
+    "prompt": "What color is this man's shirt?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000418620.jpg"
+  },
+  {
+    "prompt": "What color of shoes does the man have?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000126803.jpg"
+  },
+  {
+    "prompt": "What color is the bear?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000289471.jpg"
+  },
+  {
+    "prompt": "What color are the signs?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000240457.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000394468.jpg"
+  },
+  {
+    "prompt": "What color are the animals?",
+    "answer": "brown and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000183104.jpg"
+  },
+  {
+    "prompt": "What color are the woman's pants?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000105933.jpg"
+  },
+  {
+    "prompt": "What color is the man's hair?",
+    "answer": "blonde",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000107782.jpg"
+  },
+  {
+    "prompt": "What color is the bike?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000300001.jpg"
+  },
+  {
+    "prompt": "What color is the line on the road?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000292136.jpg"
+  },
+  {
+    "prompt": "What color is the fire hydrant?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000013637.jpg"
+  },
+  {
+    "prompt": "What color is the background?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000389200.jpg"
+  },
+  {
+    "prompt": "What color is around the pigeon's neck?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000300725.jpg"
+  },
+  {
+    "prompt": "What color is this animal?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000096481.jpg"
+  },
+  {
+    "prompt": "What color is the vase?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000044818.jpg"
+  },
+  {
+    "prompt": "What color is the dog's sweater?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000426842.jpg"
+  },
+  {
+    "prompt": "What color is her outfit?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000442094.jpg"
+  },
+  {
+    "prompt": "What color is the truck?",
+    "answer": "rust",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000087677.jpg"
+  },
+  {
+    "prompt": "What color is the chair?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000105564.jpg"
+  },
+  {
+    "prompt": "What color is the microwave?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000131661.jpg"
+  },
+  {
+    "prompt": "What color is the sky?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000269947.jpg"
+  },
+  {
+    "prompt": "What color are the person's pants?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000219474.jpg"
+  },
+  {
+    "prompt": "What color is the car painted?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000362944.jpg"
+  },
+  {
+    "prompt": "What color is the man's jacket?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000240158.jpg"
+  },
+  {
+    "prompt": "What color is the sky?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000167725.jpg"
+  },
+  {
+    "prompt": "What color is the flag?",
+    "answer": "red and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000157260.jpg"
+  },
+  {
+    "prompt": "What color is the box on the top right?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000351654.jpg"
+  },
+  {
+    "prompt": "What color are his shorts?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000523358.jpg"
+  },
+  {
+    "prompt": "What color is the man's umbrella?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000007394.jpg"
+  },
+  {
+    "prompt": "What color are these bananas?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000523267.jpg"
+  },
+  {
+    "prompt": "What color is the tail fin of this airplane?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000081020.jpg"
+  },
+  {
+    "prompt": "What color is the grass?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000546556.jpg"
+  },
+  {
+    "prompt": "What color is the water?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000303484.jpg"
+  },
+  {
+    "prompt": "What color is the building?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000272783.jpg"
+  },
+  {
+    "prompt": "What color is the cat?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000065457.jpg"
+  },
+  {
+    "prompt": "What color is the garbage?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000357865.jpg"
+  },
+  {
+    "prompt": "What color is the refrigerator?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000530019.jpg"
+  },
+  {
+    "prompt": "What color is the sign?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000383348.jpg"
+  },
+  {
+    "prompt": "What color is the boy's shirt?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000064071.jpg"
+  },
+  {
+    "prompt": "What color is the skirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000030066.jpg"
+  },
+  {
+    "prompt": "What color is the suitcase?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000440507.jpg"
+  },
+  {
+    "prompt": "What color is the surfboard?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000201640.jpg"
+  },
+  {
+    "prompt": "What color is the man's outfit?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000087393.jpg"
+  },
+  {
+    "prompt": "What color are the umbrellas?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000490646.jpg"
+  },
+  {
+    "prompt": "What color is the top of the net?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000481626.jpg"
+  },
+  {
+    "prompt": "What color is her dress?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000535099.jpg"
+  },
+  {
+    "prompt": "What color is the motorcycle?",
+    "answer": "red and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000106704.jpg"
+  },
+  {
+    "prompt": "What color is the towel?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000531111.jpg"
+  },
+  {
+    "prompt": "What color is this bowl?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000493814.jpg"
+  },
+  {
+    "prompt": "What color is the writing on the sign?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000558269.jpg"
+  },
+  {
+    "prompt": "What color is the stove?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000171049.jpg"
+  },
+  {
+    "prompt": "What color is the water?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000389180.jpg"
+  },
+  {
+    "prompt": "What color is the ball?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000566908.jpg"
+  },
+  {
+    "prompt": "What color is the pillow in the center?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000553192.jpg"
+  },
+  {
+    "prompt": "What color are the curtains on the end?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000289658.jpg"
+  },
+  {
+    "prompt": "What color is the girl wearing?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000485789.jpg"
+  },
+  {
+    "prompt": "What color is the apple?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000557546.jpg"
+  },
+  {
+    "prompt": "What color is the microwave?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000097022.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000505269.jpg"
+  },
+  {
+    "prompt": "What color is the horse's nose?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000403955.jpg"
+  },
+  {
+    "prompt": "What color are her socks?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000277799.jpg"
+  },
+  {
+    "prompt": "What color is predominant in the image?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000360535.jpg"
+  },
+  {
+    "prompt": "What color is the cow?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000552093.jpg"
+  },
+  {
+    "prompt": "What color are her eyes?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000309728.jpg"
+  },
+  {
+    "prompt": "What color was the stuffed animal before it was dirty?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000293412.jpg"
+  },
+  {
+    "prompt": "What color are the buses?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000534723.jpg"
+  },
+  {
+    "prompt": "What color is the man's suit?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000553709.jpg"
+  },
+  {
+    "prompt": "What color is the cat's eyes?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000411334.jpg"
+  },
+  {
+    "prompt": "What color is the dog?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000110673.jpg"
+  },
+  {
+    "prompt": "What color is the floor?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000132094.jpg"
+  },
+  {
+    "prompt": "What color is the lamp?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000225571.jpg"
+  },
+  {
+    "prompt": "What color is the elephant?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000003457.jpg"
+  },
+  {
+    "prompt": "What color is the horses halter?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000046975.jpg"
+  },
+  {
+    "prompt": "What color is his shirt?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000118925.jpg"
+  },
+  {
+    "prompt": "What color is the traffic light showing?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000530919.jpg"
+  },
+  {
+    "prompt": "What color are the curtains?",
+    "answer": "black and red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000422354.jpg"
+  },
+  {
+    "prompt": "What color is the person's shirt?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000232351.jpg"
+  },
+  {
+    "prompt": "What color is the cat?",
+    "answer": "brown and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000207557.jpg"
+  },
+  {
+    "prompt": "What color is the cat?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000477791.jpg"
+  },
+  {
+    "prompt": "What color is the women's shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000340316.jpg"
+  },
+  {
+    "prompt": "What color is her shirt?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000329752.jpg"
+  },
+  {
+    "prompt": "What color is the man's uniform?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000094392.jpg"
+  },
+  {
+    "prompt": "What color is the ball?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000462845.jpg"
+  },
+  {
+    "prompt": "What color are the flowers?",
+    "answer": "yellow and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000293480.jpg"
+  },
+  {
+    "prompt": "What color is the sand on the beach?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000111598.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000485972.jpg"
+  },
+  {
+    "prompt": "What color is the horse's mane?",
+    "answer": "blonde",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000217726.jpg"
+  },
+  {
+    "prompt": "What color is the center bike?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000261597.jpg"
+  },
+  {
+    "prompt": "What color is the pole?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000155939.jpg"
+  },
+  {
+    "prompt": "What color is the goalie's shirt?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000001960.jpg"
+  },
+  {
+    "prompt": "What color is the person's belt?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000548647.jpg"
+  },
+  {
+    "prompt": "What color is the hydrant?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000134951.jpg"
+  },
+  {
+    "prompt": "What color is the parking meter?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000475893.jpg"
+  },
+  {
+    "prompt": "What color is the bus?",
+    "answer": "maroon",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000180139.jpg"
+  },
+  {
+    "prompt": "What color is the girl on left's shoes?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000081296.jpg"
+  },
+  {
+    "prompt": "What color is the paper on the table?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000260110.jpg"
+  },
+  {
+    "prompt": "What color is the traffic light?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000207455.jpg"
+  },
+  {
+    "prompt": "What color is the light?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000070282.jpg"
+  },
+  {
+    "prompt": "What color is the wall?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000137701.jpg"
+  },
+  {
+    "prompt": "What color is the wall?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000486628.jpg"
+  },
+  {
+    "prompt": "What color is the van?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000053668.jpg"
+  },
+  {
+    "prompt": "What color are the walls?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000282221.jpg"
+  },
+  {
+    "prompt": "What color are the curtains?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000265715.jpg"
+  },
+  {
+    "prompt": "What color is the desk?",
+    "answer": "beige",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000292558.jpg"
+  },
+  {
+    "prompt": "What color is the train?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000503460.jpg"
+  },
+  {
+    "prompt": "What color is her skirt?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000198289.jpg"
+  },
+  {
+    "prompt": "What is the color of the mouse?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000580953.jpg"
+  },
+  {
+    "prompt": "What color is the woman's hair?",
+    "answer": "blonde",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000170388.jpg"
+  },
+  {
+    "prompt": "What color is the street light?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000116694.jpg"
+  },
+  {
+    "prompt": "What color are the pieces of food on the floor?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000268937.jpg"
+  },
+  {
+    "prompt": "What color is the woman's jacket?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000092935.jpg"
+  },
+  {
+    "prompt": "What color is the trash can?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000531033.jpg"
+  },
+  {
+    "prompt": "What color is the man's jacket?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000275441.jpg"
+  },
+  {
+    "prompt": "What color are the chairs?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000531552.jpg"
+  },
+  {
+    "prompt": "What color is the knife handle?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000151017.jpg"
+  },
+  {
+    "prompt": "What color is the chair on the right?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000103710.jpg"
+  },
+  {
+    "prompt": "What color are the walls?",
+    "answer": "white and blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000213978.jpg"
+  },
+  {
+    "prompt": "What color are the appliances?",
+    "answer": "stainless steel",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000327768.jpg"
+  },
+  {
+    "prompt": "What color is the plane?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000547293.jpg"
+  },
+  {
+    "prompt": "What color is the mug on the table?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000425817.jpg"
+  },
+  {
+    "prompt": "What color is the guy wearing?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000066539.jpg"
+  },
+  {
+    "prompt": "What color is the toilet seat?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000565514.jpg"
+  },
+  {
+    "prompt": "What is the color of the girl's shirt?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000057702.jpg"
+  },
+  {
+    "prompt": "What color is the lighthouse?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000280347.jpg"
+  },
+  {
+    "prompt": "What color is the tablecloth?",
+    "answer": "red and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000475578.jpg"
+  },
+  {
+    "prompt": "What color is the child's hair?",
+    "answer": "blonde",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000026938.jpg"
+  },
+  {
+    "prompt": "What color shirt is the woman wearing?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000431817.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000211484.jpg"
+  },
+  {
+    "prompt": "What color are his pants?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000066539.jpg"
+  },
+  {
+    "prompt": "What color is the court?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000201561.jpg"
+  },
+  {
+    "prompt": "What color is the couch?",
+    "answer": "tan",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000088647.jpg"
+  },
+  {
+    "prompt": "What color is the woman's visor?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000563545.jpg"
+  },
+  {
+    "prompt": "What color is the freezer door?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000316741.jpg"
+  },
+  {
+    "prompt": "What color is the floor?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000127182.jpg"
+  },
+  {
+    "prompt": "What is the color of the umbrella?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000237835.jpg"
+  },
+  {
+    "prompt": "What color are the walls?",
+    "answer": "brown and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000261349.jpg"
+  },
+  {
+    "prompt": "What color is her coat?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000221116.jpg"
+  },
+  {
+    "prompt": "What color is the auto?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000112739.jpg"
+  },
+  {
+    "prompt": "What color is the woman's hair?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000250380.jpg"
+  },
+  {
+    "prompt": "What color catchers mitt is the baseball player wearing?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000061125.jpg"
+  },
+  {
+    "prompt": "What color are the benches?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000255115.jpg"
+  },
+  {
+    "prompt": "What color is the countertop?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000406298.jpg"
+  },
+  {
+    "prompt": "What color eyes does this cat have?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000246639.jpg"
+  },
+  {
+    "prompt": "What color is the boy's swim trunks?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000540834.jpg"
+  },
+  {
+    "prompt": "What color is the cat?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000055840.jpg"
+  },
+  {
+    "prompt": "What color is the dress?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000575164.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000530543.jpg"
+  },
+  {
+    "prompt": "What color is her hair?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000473261.jpg"
+  },
+  {
+    "prompt": "What color stripes are on his tie?",
+    "answer": "red and yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000022777.jpg"
+  },
+  {
+    "prompt": "What color is the teddy bear?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000189789.jpg"
+  },
+  {
+    "prompt": "What color is the car?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000250417.jpg"
+  },
+  {
+    "prompt": "What color is the snow?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000579999.jpg"
+  },
+  {
+    "prompt": "What color is the bus?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000327241.jpg"
+  },
+  {
+    "prompt": "What color are the stripes on the chair?",
+    "answer": "blue and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000499239.jpg"
+  },
+  {
+    "prompt": "What color is the chair?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000512951.jpg"
+  },
+  {
+    "prompt": "What color is the truck?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000525206.jpg"
+  },
+  {
+    "prompt": "What color is the kitchen wall?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000550864.jpg"
+  },
+  {
+    "prompt": "What color are the cat's eyes?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000343552.jpg"
+  },
+  {
+    "prompt": "What color are the sheep?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000108953.jpg"
+  },
+  {
+    "prompt": "What color are the hairs in the ears?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000122458.jpg"
+  },
+  {
+    "prompt": "What color are the pants on the walk/don't walk sign?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000581553.jpg"
+  },
+  {
+    "prompt": "What color stripe runs through the board?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000241620.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000015278.jpg"
+  },
+  {
+    "prompt": "What color is the grass?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000295560.jpg"
+  },
+  {
+    "prompt": "What color is the tag?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000447569.jpg"
+  },
+  {
+    "prompt": "What color is this clock?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000386257.jpg"
+  },
+  {
+    "prompt": "What color is the bear's nose?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000213141.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "blue and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000360334.jpg"
+  },
+  {
+    "prompt": "What color is the tower?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000307371.jpg"
+  },
+  {
+    "prompt": "What color is the vehicle?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000389183.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000305517.jpg"
+  },
+  {
+    "prompt": "What color is the ring?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000567340.jpg"
+  },
+  {
+    "prompt": "What color are the leaves?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000453906.jpg"
+  },
+  {
+    "prompt": "What color is the court?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000245002.jpg"
+  },
+  {
+    "prompt": "What color are the cups in the left side of the fridge?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000105865.jpg"
+  },
+  {
+    "prompt": "What color are the bottoms of their legs?",
+    "answer": "white and black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000136077.jpg"
+  },
+  {
+    "prompt": "What color is the bus?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000289326.jpg"
+  },
+  {
+    "prompt": "What color is the boat?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000097862.jpg"
+  },
+  {
+    "prompt": "What color are the curtains?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000366068.jpg"
+  },
+  {
+    "prompt": "What color is the woman's shirt?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000217154.jpg"
+  },
+  {
+    "prompt": "What color is the window frame?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000235390.jpg"
+  },
+  {
+    "prompt": "What color is the bedspread?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000265225.jpg"
+  },
+  {
+    "prompt": "What color trim is on the seat cushions?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000034039.jpg"
+  },
+  {
+    "prompt": "What color shirt is she wearing?",
+    "answer": "purple",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000024674.jpg"
+  },
+  {
+    "prompt": "What color are the stripes on the teddy bear?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000354410.jpg"
+  },
+  {
+    "prompt": "What color are the horses?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000067904.jpg"
+  },
+  {
+    "prompt": "What color is the ground?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000431854.jpg"
+  },
+  {
+    "prompt": "What color is the shirt of the man whose sitting down?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000507154.jpg"
+  },
+  {
+    "prompt": "What color is the wall?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000021060.jpg"
+  },
+  {
+    "prompt": "What color hat is this woman wearing?",
+    "answer": "tan",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000006491.jpg"
+  },
+  {
+    "prompt": "What color is her skirt?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000243782.jpg"
+  },
+  {
+    "prompt": "What color is the tablecloth?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000303718.jpg"
+  },
+  {
+    "prompt": "What color is the tablecloth?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000330954.jpg"
+  },
+  {
+    "prompt": "What color is the base of the bus?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000198975.jpg"
+  },
+  {
+    "prompt": "What color are the dog's eyes?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000458328.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000514945.jpg"
+  },
+  {
+    "prompt": "What is the color of the bears apron?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000000623.jpg"
+  },
+  {
+    "prompt": "What color is the bed?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000143329.jpg"
+  },
+  {
+    "prompt": "What color is the pot lid?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000087567.jpg"
+  },
+  {
+    "prompt": "What color is the grass?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000039196.jpg"
+  },
+  {
+    "prompt": "What color is the train?",
+    "answer": "white and blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000353977.jpg"
+  },
+  {
+    "prompt": "What color is the paint in the kitchen?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000572022.jpg"
+  },
+  {
+    "prompt": "What color cat is on the left?",
+    "answer": "black and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000099701.jpg"
+  },
+  {
+    "prompt": "What color is the train?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000208898.jpg"
+  },
+  {
+    "prompt": "What color is the bird?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000541768.jpg"
+  },
+  {
+    "prompt": "What color is the train?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000182215.jpg"
+  },
+  {
+    "prompt": "What color is the donut with chocolate sprinkles?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000121994.jpg"
+  },
+  {
+    "prompt": "What color is her shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000044065.jpg"
+  },
+  {
+    "prompt": "What color shirt is the boy in the back wearing?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000271398.jpg"
+  },
+  {
+    "prompt": "What color is his shirt?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000121453.jpg"
+  },
+  {
+    "prompt": "What color is the headboard?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000498622.jpg"
+  },
+  {
+    "prompt": "What color is the water?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000571633.jpg"
+  },
+  {
+    "prompt": "What color is his jacket?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000430149.jpg"
+  },
+  {
+    "prompt": "What color is the snow?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000424196.jpg"
+  },
+  {
+    "prompt": "What color is the bottom of the bus?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000361947.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000239717.jpg"
+  },
+  {
+    "prompt": "What color is the man's shoes in the front?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000128482.jpg"
+  },
+  {
+    "prompt": "What color is his shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000296540.jpg"
+  },
+  {
+    "prompt": "What color are the man's pants?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000127189.jpg"
+  },
+  {
+    "prompt": "What color is the brides dress?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000485364.jpg"
+  },
+  {
+    "prompt": "What color is the vehicle in the mirror?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000484754.jpg"
+  },
+  {
+    "prompt": "What color is the fringe on top?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000298698.jpg"
+  },
+  {
+    "prompt": "What color lights are showing?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000392618.jpg"
+  },
+  {
+    "prompt": "What color is the bench?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000075775.jpg"
+  },
+  {
+    "prompt": "What color is the sign on the fence?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000200759.jpg"
+  },
+  {
+    "prompt": "What color is her hair?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000316901.jpg"
+  },
+  {
+    "prompt": "What is the color of the cloud?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000310181.jpg"
+  },
+  {
+    "prompt": "What color is the tea kettle?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000572110.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000084949.jpg"
+  },
+  {
+    "prompt": "What color are the cat's paw pads?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000389702.jpg"
+  },
+  {
+    "prompt": "What color is the cream on top of the bun?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000039726.jpg"
+  },
+  {
+    "prompt": "What color is the women's shirt?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000046743.jpg"
+  },
+  {
+    "prompt": "What color is the cat?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000563805.jpg"
+  },
+  {
+    "prompt": "What color is the traffic light?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000247078.jpg"
+  },
+  {
+    "prompt": "What color is the bus?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000136900.jpg"
+  },
+  {
+    "prompt": "What color is the man's jacket?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000064902.jpg"
+  },
+  {
+    "prompt": "What color are the drawers?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000099269.jpg"
+  },
+  {
+    "prompt": "What color is the tablecloth?",
+    "answer": "purple",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000115345.jpg"
+  },
+  {
+    "prompt": "What color is the roof of the house on the right?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000141477.jpg"
+  },
+  {
+    "prompt": "What color is the cat's collar?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000169197.jpg"
+  },
+  {
+    "prompt": "What color is the skier on the left's jacket?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000129071.jpg"
+  },
+  {
+    "prompt": "What color is the grass?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000558127.jpg"
+  },
+  {
+    "prompt": "What color are the scissor handles?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000150502.jpg"
+  },
+  {
+    "prompt": "What color jacket are the motorcycle rider wearing?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000063556.jpg"
+  },
+  {
+    "prompt": "What color is the hair on the giraffe's neck?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000448436.jpg"
+  },
+  {
+    "prompt": "What color is the girl's skirt?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000321030.jpg"
+  },
+  {
+    "prompt": "What color is the suitcase?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000485083.jpg"
+  },
+  {
+    "prompt": "What color is the toilet?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000564851.jpg"
+  },
+  {
+    "prompt": "What is the color of the object on the ground?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000226354.jpg"
+  },
+  {
+    "prompt": "What color is the sky tinted?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000445295.jpg"
+  },
+  {
+    "prompt": "What color is the horse's face?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000219445.jpg"
+  },
+  {
+    "prompt": "What color is the traffic light?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000436558.jpg"
+  },
+  {
+    "prompt": "What color is the dog on the right?",
+    "answer": "tan",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000019528.jpg"
+  },
+  {
+    "prompt": "What color is he wearing?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000201326.jpg"
+  },
+  {
+    "prompt": "What color are the dogs eyes?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000309872.jpg"
+  },
+  {
+    "prompt": "What is the color of the truck?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000519605.jpg"
+  },
+  {
+    "prompt": "What color is the ball?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000474028.jpg"
+  },
+  {
+    "prompt": "What color are his glasses?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000033156.jpg"
+  },
+  {
+    "prompt": "What color is the umbrella?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000158362.jpg"
+  },
+  {
+    "prompt": "What color is her hair?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000226343.jpg"
+  },
+  {
+    "prompt": "What color is the wall?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000269105.jpg"
+  },
+  {
+    "prompt": "What color is the dotted line down the middle of the highway?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000048299.jpg"
+  },
+  {
+    "prompt": "What color are the trees?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000224260.jpg"
+  },
+  {
+    "prompt": "What color is the couch?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000056416.jpg"
+  },
+  {
+    "prompt": "What color is the vase?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000509531.jpg"
+  },
+  {
+    "prompt": "What color is the umbrella?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000365540.jpg"
+  },
+  {
+    "prompt": "What color is the briefcase?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000293244.jpg"
+  },
+  {
+    "prompt": "What color is the child's hair?",
+    "answer": "blonde",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000298931.jpg"
+  },
+  {
+    "prompt": "What color is the bus?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000260395.jpg"
+  },
+  {
+    "prompt": "What color is her shirt?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000037343.jpg"
+  },
+  {
+    "prompt": "What color are the flowers?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000523565.jpg"
+  },
+  {
+    "prompt": "What color is the plane?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000125394.jpg"
+  },
+  {
+    "prompt": "What color is the faucet?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000053425.jpg"
+  },
+  {
+    "prompt": "What is the color of the tie?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000563179.jpg"
+  },
+  {
+    "prompt": "What is the color of the wall?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000277134.jpg"
+  },
+  {
+    "prompt": "What color is the light?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000399252.jpg"
+  },
+  {
+    "prompt": "What color is the person's pants?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000475879.jpg"
+  },
+  {
+    "prompt": "What is the color of the girls jacket?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000290498.jpg"
+  },
+  {
+    "prompt": "What color is the stoplight?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000240298.jpg"
+  },
+  {
+    "prompt": "What color is the building?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000291506.jpg"
+  },
+  {
+    "prompt": "What color are the seats?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000492347.jpg"
+  },
+  {
+    "prompt": "What color is the awning?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000388085.jpg"
+  },
+  {
+    "prompt": "What color is the woman's motorcycle?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000315601.jpg"
+  },
+  {
+    "prompt": "What color beanie is the boy wearing?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000169865.jpg"
+  },
+  {
+    "prompt": "What color is the grass?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000455952.jpg"
+  },
+  {
+    "prompt": "What color is the towel?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000146276.jpg"
+  },
+  {
+    "prompt": "What color are the street lights?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000487568.jpg"
+  },
+  {
+    "prompt": "What color are the painted lines on the field?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000167553.jpg"
+  },
+  {
+    "prompt": "What color is the stripe running across the wall?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000098672.jpg"
+  },
+  {
+    "prompt": "What color is the bill of the hat?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000257976.jpg"
+  },
+  {
+    "prompt": "What color is the truck?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000476443.jpg"
+  },
+  {
+    "prompt": "What color is the kite?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000006539.jpg"
+  },
+  {
+    "prompt": "What color is the player's shirt?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000496434.jpg"
+  },
+  {
+    "prompt": "What color is the flower vase?",
+    "answer": "clear",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000427493.jpg"
+  },
+  {
+    "prompt": "What color is the wheel?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000292266.jpg"
+  },
+  {
+    "prompt": "What color are the bags?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000103098.jpg"
+  },
+  {
+    "prompt": "What color is the photo?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000211891.jpg"
+  },
+  {
+    "prompt": "What color is the lever under the bed?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000425123.jpg"
+  },
+  {
+    "prompt": "What color is the snow?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000277710.jpg"
+  },
+  {
+    "prompt": "What color are the man's pants?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000166173.jpg"
+  },
+  {
+    "prompt": "What color is the stripe on the train?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000456499.jpg"
+  },
+  {
+    "prompt": "What color is this train?",
+    "answer": "green and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000166920.jpg"
+  },
+  {
+    "prompt": "What color is the signal light?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000042578.jpg"
+  },
+  {
+    "prompt": "What color are stripes on the road?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000509218.jpg"
+  },
+  {
+    "prompt": "What color is the lettering on the shirt?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000529963.jpg"
+  },
+  {
+    "prompt": "What color is his shirt?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000078583.jpg"
+  },
+  {
+    "prompt": "What color is the luggage's  lining?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000181267.jpg"
+  },
+  {
+    "prompt": "What color is the sofa?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000188712.jpg"
+  },
+  {
+    "prompt": "What color is the vehicle?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000176210.jpg"
+  },
+  {
+    "prompt": "What color are their shirts?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000122667.jpg"
+  },
+  {
+    "prompt": "What color is the clock?",
+    "answer": "white and blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000473726.jpg"
+  },
+  {
+    "prompt": "What color is the woman's hair?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000113248.jpg"
+  },
+  {
+    "prompt": "What color is the frisbee?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000334413.jpg"
+  },
+  {
+    "prompt": "What color is the trash can?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000142958.jpg"
+  },
+  {
+    "prompt": "What color is his shirt?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000025548.jpg"
+  },
+  {
+    "prompt": "What color glow do the large recessed lights give off?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000026913.jpg"
+  },
+  {
+    "prompt": "What color is the bear?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000525988.jpg"
+  },
+  {
+    "prompt": "What color is the first car?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000354724.jpg"
+  },
+  {
+    "prompt": "What color of shirt is this guy wearing?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000282830.jpg"
+  },
+  {
+    "prompt": "What color pillows are on the bed?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000493547.jpg"
+  },
+  {
+    "prompt": "What color is the water?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000272740.jpg"
+  },
+  {
+    "prompt": "What color is the horse in the background?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000369849.jpg"
+  },
+  {
+    "prompt": "What color are the cars?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000436146.jpg"
+  },
+  {
+    "prompt": "What color necklaces are these men wearing?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000014159.jpg"
+  },
+  {
+    "prompt": "What color is the tray that the dishes are on?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000017076.jpg"
+  },
+  {
+    "prompt": "What color is the tile on the wall?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000081043.jpg"
+  },
+  {
+    "prompt": "What color is the icing?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000476207.jpg"
+  },
+  {
+    "prompt": "What color is the pole set on the left?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000446818.jpg"
+  },
+  {
+    "prompt": "What color is the tablecloth?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000533976.jpg"
+  },
+  {
+    "prompt": "What color is the frisbee?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000434006.jpg"
+  },
+  {
+    "prompt": "What color is the frisbee?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000505826.jpg"
+  },
+  {
+    "prompt": "What color is the fire hydrant?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000502738.jpg"
+  },
+  {
+    "prompt": "What is the color of the door frame?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000478132.jpg"
+  },
+  {
+    "prompt": "What color are the man's socks?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000487469.jpg"
+  },
+  {
+    "prompt": "What color is the cat that is looking at the camera?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000568117.jpg"
+  },
+  {
+    "prompt": "What color is the engine?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000311232.jpg"
+  },
+  {
+    "prompt": "What color is the seat?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000382316.jpg"
+  },
+  {
+    "prompt": "What color of bag is the lady wearing?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000460031.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000022080.jpg"
+  },
+  {
+    "prompt": "What color are the cups?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000449433.jpg"
+  },
+  {
+    "prompt": "What color is the main part of the tennis court?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000398099.jpg"
+  },
+  {
+    "prompt": "What color are the tiles?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000522620.jpg"
+  },
+  {
+    "prompt": "What is the color of the train?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000392058.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000090843.jpg"
+  },
+  {
+    "prompt": "What color is the rug?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000107620.jpg"
+  },
+  {
+    "prompt": "What color are the cat's eyes?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000056158.jpg"
+  },
+  {
+    "prompt": "What color is the person's jacket?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000094593.jpg"
+  },
+  {
+    "prompt": "What color are the stripes along the platforms?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000098502.jpg"
+  },
+  {
+    "prompt": "What color is the building?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000254101.jpg"
+  },
+  {
+    "prompt": "What color is the building on the left corner?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000430155.jpg"
+  },
+  {
+    "prompt": "What color is the second scooter?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000529136.jpg"
+  },
+  {
+    "prompt": "What color does the person in the back have on?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000096702.jpg"
+  },
+  {
+    "prompt": "What color is the vase?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000259242.jpg"
+  },
+  {
+    "prompt": "What is the color of the bench?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000044151.jpg"
+  },
+  {
+    "prompt": "What color are the plates?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000530369.jpg"
+  },
+  {
+    "prompt": "What color is the kite in the blue sky?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000476046.jpg"
+  },
+  {
+    "prompt": "What color is the food item she's eating?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000345286.jpg"
+  },
+  {
+    "prompt": "What color are the walls?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000108375.jpg"
+  },
+  {
+    "prompt": "What color are her pants?",
+    "answer": "black and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000513998.jpg"
+  },
+  {
+    "prompt": "What color is in the vase?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000568707.jpg"
+  },
+  {
+    "prompt": "What color is the bandana that is around the dog's neck?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000466202.jpg"
+  },
+  {
+    "prompt": "What color is the man's suit?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000417023.jpg"
+  },
+  {
+    "prompt": "What is the color of the women's shirts?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000311933.jpg"
+  },
+  {
+    "prompt": "What color are the seats?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000498854.jpg"
+  },
+  {
+    "prompt": "What color is the liquid soap?",
+    "answer": "clear",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000262897.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000234699.jpg"
+  },
+  {
+    "prompt": "What color is the snowboard?",
+    "answer": "red and black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000399490.jpg"
+  },
+  {
+    "prompt": "What color is the court?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000336874.jpg"
+  },
+  {
+    "prompt": "What color is the man's beanie?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000219926.jpg"
+  },
+  {
+    "prompt": "What color coat is he wearing?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000283730.jpg"
+  },
+  {
+    "prompt": "What color are the doors of the train?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000117275.jpg"
+  },
+  {
+    "prompt": "What color is this shirt?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000448958.jpg"
+  },
+  {
+    "prompt": "What color are the roses?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000187565.jpg"
+  },
+  {
+    "prompt": "What color is the man's bottle?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000284991.jpg"
+  },
+  {
+    "prompt": "What color is this person's' pants?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000544518.jpg"
+  },
+  {
+    "prompt": "What color is the snowboard?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000430205.jpg"
+  },
+  {
+    "prompt": "What color is the woman's sweater?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000237137.jpg"
+  },
+  {
+    "prompt": "What color are the roofs?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000325720.jpg"
+  },
+  {
+    "prompt": "What color is the curtain?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000012700.jpg"
+  },
+  {
+    "prompt": "What color is this person pants?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000409025.jpg"
+  },
+  {
+    "prompt": "What color is the dog?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000396054.jpg"
+  },
+  {
+    "prompt": "What color is this cat?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000573430.jpg"
+  },
+  {
+    "prompt": "What color is the napkin next to the cutting board?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000145722.jpg"
+  },
+  {
+    "prompt": "What color is the main part of the cake?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000496420.jpg"
+  },
+  {
+    "prompt": "What color is the wall?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000466197.jpg"
+  },
+  {
+    "prompt": "What color is the lady's skirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000322710.jpg"
+  },
+  {
+    "prompt": "What color is the skateboard?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000010313.jpg"
+  },
+  {
+    "prompt": "What color is the athlete's headband?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000098853.jpg"
+  },
+  {
+    "prompt": "What color is the plane?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000198404.jpg"
+  },
+  {
+    "prompt": "What color is the collar?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000077325.jpg"
+  },
+  {
+    "prompt": "What color is the item the figure is holding?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000158933.jpg"
+  },
+  {
+    "prompt": "What color is the knife handle?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000039067.jpg"
+  },
+  {
+    "prompt": "What color is his jacket?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000111573.jpg"
+  },
+  {
+    "prompt": "What color is the fire hydrant?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000211410.jpg"
+  },
+  {
+    "prompt": "What is the color of the writing?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000189882.jpg"
+  },
+  {
+    "prompt": "What color is the vase?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000073196.jpg"
+  },
+  {
+    "prompt": "What color are the open umbrellas?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000395557.jpg"
+  },
+  {
+    "prompt": "What color is the traffic light?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000340454.jpg"
+  },
+  {
+    "prompt": "What color is the tub?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000572584.jpg"
+  },
+  {
+    "prompt": "What is the color of the tennis court?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000577964.jpg"
+  },
+  {
+    "prompt": "What color is the jacket of the person skiing?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000437269.jpg"
+  },
+  {
+    "prompt": "What color are his snow pants?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000015062.jpg"
+  },
+  {
+    "prompt": "What color is the wall behind the picture?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000387517.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000373713.jpg"
+  },
+  {
+    "prompt": "What color is the pen?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000325944.jpg"
+  },
+  {
+    "prompt": "What color is the bus?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000331524.jpg"
+  },
+  {
+    "prompt": "What color is the pattern pillow in the background?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000253247.jpg"
+  },
+  {
+    "prompt": "What color is the face of the sheep?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000264377.jpg"
+  },
+  {
+    "prompt": "What color is the train?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000539445.jpg"
+  },
+  {
+    "prompt": "What color are the buildings?",
+    "answer": "beige",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000333083.jpg"
+  },
+  {
+    "prompt": "What color are the trucks?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000566414.jpg"
+  },
+  {
+    "prompt": "What color is the front of the train?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000220368.jpg"
+  },
+  {
+    "prompt": "What color are the tops of the buses?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000435811.jpg"
+  },
+  {
+    "prompt": "What color are his glasses?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000295884.jpg"
+  },
+  {
+    "prompt": "What color light is reflected on the desk?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000211260.jpg"
+  },
+  {
+    "prompt": "What color is her shirt?",
+    "answer": "black and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000540890.jpg"
+  },
+  {
+    "prompt": "What color is the sliding glass door handle?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000184396.jpg"
+  },
+  {
+    "prompt": "What color is the toilet?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000211405.jpg"
+  },
+  {
+    "prompt": "What color is the towel?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000469173.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000236759.jpg"
+  },
+  {
+    "prompt": "What color is the wall?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000077432.jpg"
+  },
+  {
+    "prompt": "What color are the lampshades?",
+    "answer": "tan",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000498738.jpg"
+  },
+  {
+    "prompt": "What color is the phone?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000004441.jpg"
+  },
+  {
+    "prompt": "What color are the buses?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000216618.jpg"
+  },
+  {
+    "prompt": "What color is the plates?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000527219.jpg"
+  },
+  {
+    "prompt": "What color is the table in this photo?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000537825.jpg"
+  },
+  {
+    "prompt": "What color is the train?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000397511.jpg"
+  },
+  {
+    "prompt": "What color is the animal?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000193011.jpg"
+  },
+  {
+    "prompt": "What color is the sink?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000186103.jpg"
+  },
+  {
+    "prompt": "What color is the woman's sweater?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000355918.jpg"
+  },
+  {
+    "prompt": "What color is the man's bag?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000238808.jpg"
+  },
+  {
+    "prompt": "What color is the bus?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000160423.jpg"
+  },
+  {
+    "prompt": "What color is the door in the back?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000572443.jpg"
+  },
+  {
+    "prompt": "What color is the floor?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000297326.jpg"
+  },
+  {
+    "prompt": "What color is building behind bus?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000054086.jpg"
+  },
+  {
+    "prompt": "What color is the sky in this picture?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000493474.jpg"
+  },
+  {
+    "prompt": "What color are the walls?",
+    "answer": "beige",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000365507.jpg"
+  },
+  {
+    "prompt": "What color are the buses?",
+    "answer": "blue and gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000456416.jpg"
+  },
+  {
+    "prompt": "What color are the horses' tails?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000501571.jpg"
+  },
+  {
+    "prompt": "What is the color of the fridge?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000571585.jpg"
+  },
+  {
+    "prompt": "What color are the stripes on the man's shirt?",
+    "answer": "red and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000051943.jpg"
+  },
+  {
+    "prompt": "What color is the catchers socks?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000073889.jpg"
+  },
+  {
+    "prompt": "What color is the cat?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000212714.jpg"
+  },
+  {
+    "prompt": "What color is the wall?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000451706.jpg"
+  },
+  {
+    "prompt": "What color is this man's tie?",
+    "answer": "purple",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000119476.jpg"
+  },
+  {
+    "prompt": "What color is the bedspread?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000152749.jpg"
+  },
+  {
+    "prompt": "What color shirt does the man with the black shorts have on?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000547044.jpg"
+  },
+  {
+    "prompt": "What is the color of the sky?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000183114.jpg"
+  },
+  {
+    "prompt": "What color is this person's shirt?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000122360.jpg"
+  },
+  {
+    "prompt": "What color is the road sign?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000212011.jpg"
+  },
+  {
+    "prompt": "What color is the fire hydrant?",
+    "answer": "blue and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000314200.jpg"
+  },
+  {
+    "prompt": "What color is the umbrella?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000283093.jpg"
+  },
+  {
+    "prompt": "What color is the dog?",
+    "answer": "black and brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000544778.jpg"
+  },
+  {
+    "prompt": "What color is the woman's shirt?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000176463.jpg"
+  },
+  {
+    "prompt": "What color are the cat's eyes?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000320600.jpg"
+  },
+  {
+    "prompt": "What color shirt is he wearing?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000454234.jpg"
+  },
+  {
+    "prompt": "What color is the tail of the plane?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000000540.jpg"
+  },
+  {
+    "prompt": "What color is the man's jacket?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000367357.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000563574.jpg"
+  },
+  {
+    "prompt": "What color are the tusks?",
+    "answer": "ivory",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000262724.jpg"
+  },
+  {
+    "prompt": "What color shirt is this man wearing?",
+    "answer": "purple",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000562243.jpg"
+  },
+  {
+    "prompt": "What color is he?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000150435.jpg"
+  },
+  {
+    "prompt": "What color are his shoes?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000119308.jpg"
+  },
+  {
+    "prompt": "What color are the rims?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000044962.jpg"
+  },
+  {
+    "prompt": "What color are the teams?",
+    "answer": "red and blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000113951.jpg"
+  },
+  {
+    "prompt": "What color coat is the child wearing?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000506342.jpg"
+  },
+  {
+    "prompt": "What color is this truck?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000013274.jpg"
+  },
+  {
+    "prompt": "What color is the lighter?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000030947.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000355661.jpg"
+  },
+  {
+    "prompt": "What color is the top of the hydrant?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000084821.jpg"
+  },
+  {
+    "prompt": "What color is on the sheep's behind?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000579885.jpg"
+  },
+  {
+    "prompt": "What color are the trees?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000210697.jpg"
+  },
+  {
+    "prompt": "What color is the man's pants?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000274437.jpg"
+  },
+  {
+    "prompt": "What color is the forklift?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000257557.jpg"
+  },
+  {
+    "prompt": "What color is the tree?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000503841.jpg"
+  },
+  {
+    "prompt": "What color is the truck?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000366430.jpg"
+  },
+  {
+    "prompt": "What color are her shoes?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000112604.jpg"
+  },
+  {
+    "prompt": "What color is the keyboard?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000046731.jpg"
+  },
+  {
+    "prompt": "What color is the man's shirt on the left?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000037698.jpg"
+  },
+  {
+    "prompt": "What color is dominant?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000527603.jpg"
+  },
+  {
+    "prompt": "What color are their shirts?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000062872.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000411212.jpg"
+  },
+  {
+    "prompt": "What color are the stripes on the bus?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000508565.jpg"
+  },
+  {
+    "prompt": "What color is this jacket?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000178166.jpg"
+  },
+  {
+    "prompt": "What color is the water?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000111124.jpg"
+  },
+  {
+    "prompt": "What color are the tiles on the wall?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000124889.jpg"
+  },
+  {
+    "prompt": "What color is the toilet seat?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000036633.jpg"
+  },
+  {
+    "prompt": "What color is the bus?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000179265.jpg"
+  },
+  {
+    "prompt": "What color is the suitcase?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000133788.jpg"
+  },
+  {
+    "prompt": "What color are the drapes?",
+    "answer": "purple",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000311238.jpg"
+  },
+  {
+    "prompt": "What color is the woman's umbrella?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000104504.jpg"
+  },
+  {
+    "prompt": "What color are the ski poles?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000081303.jpg"
+  },
+  {
+    "prompt": "What is the color of the umbrella?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000417218.jpg"
+  },
+  {
+    "prompt": "What color is the bike?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000454745.jpg"
+  },
+  {
+    "prompt": "What color is the bear?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000286469.jpg"
+  },
+  {
+    "prompt": "What color are the lights?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000435839.jpg"
+  },
+  {
+    "prompt": "What color is his kite?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000160535.jpg"
+  },
+  {
+    "prompt": "What color is the plane?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000281693.jpg"
+  },
+  {
+    "prompt": "What color is collar?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000450747.jpg"
+  },
+  {
+    "prompt": "What color is the traffic light?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000557442.jpg"
+  },
+  {
+    "prompt": "What color is the wall?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000492580.jpg"
+  },
+  {
+    "prompt": "What color is the stand?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000230864.jpg"
+  },
+  {
+    "prompt": "What color are his pants?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000576973.jpg"
+  },
+  {
+    "prompt": "What color is the traffic light?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000033386.jpg"
+  },
+  {
+    "prompt": "What color is the bench?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000450263.jpg"
+  },
+  {
+    "prompt": "What color is the shirt of the man wearing sunglasses?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000047458.jpg"
+  },
+  {
+    "prompt": "What color is the photo?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000263299.jpg"
+  },
+  {
+    "prompt": "What color is the vase?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000367528.jpg"
+  },
+  {
+    "prompt": "What color hat is the man wearing?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000416478.jpg"
+  },
+  {
+    "prompt": "What color is the fire hydrant?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000469743.jpg"
+  },
+  {
+    "prompt": "What color scheme was the photo taken in?",
+    "answer": "color",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000253965.jpg"
+  },
+  {
+    "prompt": "What color are the man's pants?",
+    "answer": "tan",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000372229.jpg"
+  },
+  {
+    "prompt": "What color is the plane?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000427642.jpg"
+  },
+  {
+    "prompt": "What color is the bush?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000476005.jpg"
+  },
+  {
+    "prompt": "What color is the street sign?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000436048.jpg"
+  },
+  {
+    "prompt": "What color is the clock in the center?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000424867.jpg"
+  },
+  {
+    "prompt": "What color is bus?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000497664.jpg"
+  },
+  {
+    "prompt": "What color is the court?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000113317.jpg"
+  },
+  {
+    "prompt": "What color is the train?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000110483.jpg"
+  },
+  {
+    "prompt": "What color is the man's hair?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000011661.jpg"
+  },
+  {
+    "prompt": "What color is the closest horse?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000261918.jpg"
+  },
+  {
+    "prompt": "What color is the woman's coat?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000577932.jpg"
+  },
+  {
+    "prompt": "What color are the woman's pants?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000034835.jpg"
+  },
+  {
+    "prompt": "What color is the girl's wetsuit?",
+    "answer": "purple",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000483066.jpg"
+  },
+  {
+    "prompt": "What color is the dog's collar?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000003361.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000527344.jpg"
+  },
+  {
+    "prompt": "What color is the bird?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000217554.jpg"
+  },
+  {
+    "prompt": "What color are the chairs?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000333551.jpg"
+  },
+  {
+    "prompt": "What color is the flowers?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000344618.jpg"
+  },
+  {
+    "prompt": "What color is the chair in this picture?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000217594.jpg"
+  },
+  {
+    "prompt": "What color is the container?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000228551.jpg"
+  },
+  {
+    "prompt": "What is the color of the tail of the kite?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000134325.jpg"
+  },
+  {
+    "prompt": "What color is the truck?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000071409.jpg"
+  },
+  {
+    "prompt": "What color is the plate?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000006465.jpg"
+  },
+  {
+    "prompt": "What color is the train?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000419096.jpg"
+  },
+  {
+    "prompt": "What color is the couch?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000416047.jpg"
+  },
+  {
+    "prompt": "What color are the feet?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000046255.jpg"
+  },
+  {
+    "prompt": "What color is the yellow fire hydrant?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000158563.jpg"
+  },
+  {
+    "prompt": "What color is the stuffed animal?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000037492.jpg"
+  },
+  {
+    "prompt": "What color car is this?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000027674.jpg"
+  },
+  {
+    "prompt": "What color is the tail of the plane?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000227940.jpg"
+  },
+  {
+    "prompt": "What color shirts are the baseball players wearing?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000262508.jpg"
+  },
+  {
+    "prompt": "What color is the truck?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000311776.jpg"
+  },
+  {
+    "prompt": "What color are the Letters?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000202800.jpg"
+  }
+]

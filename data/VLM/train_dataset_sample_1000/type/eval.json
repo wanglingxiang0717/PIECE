@@ -1,0 +1,1002 @@
+[
+  {
+    "prompt": "What type of ball is on the field?",
+    "answer": "soccer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000306667.jpg"
+  },
+  {
+    "prompt": "What kind of elephant is standing in the water?",
+    "answer": "african",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000214989.jpg"
+  },
+  {
+    "prompt": "What kind of watch is pictured?",
+    "answer": "analog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000129675.jpg"
+  },
+  {
+    "prompt": "What type of boat is this?",
+    "answer": "passenger",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000436871.jpg"
+  },
+  {
+    "prompt": "What type of icing is on top?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000190760.jpg"
+  },
+  {
+    "prompt": "What kind of shoes is the man in white wearing?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000054204.jpg"
+  },
+  {
+    "prompt": "What kind of job is this?",
+    "answer": "office",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000175954.jpg"
+  },
+  {
+    "prompt": "What type of bathtub is installed in the bathroom?",
+    "answer": "round",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000580027.jpg"
+  },
+  {
+    "prompt": "What kind of airplane is shown?",
+    "answer": "military",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000306229.jpg"
+  },
+  {
+    "prompt": "What kind of cat is this?",
+    "answer": "calico",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000385205.jpg"
+  },
+  {
+    "prompt": "What kind of sheep is near the grass?",
+    "answer": "lamb",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000154947.jpg"
+  },
+  {
+    "prompt": "What kind of food is the cook preparing?",
+    "answer": "pizza",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000379402.jpg"
+  },
+  {
+    "prompt": "What kind of plate is the pizza on?",
+    "answer": "paper",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000309539.jpg"
+  },
+  {
+    "prompt": "What type of fruit is next to the pitcher?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000311041.jpg"
+  },
+  {
+    "prompt": "What type of plants are the small green ones?",
+    "answer": "grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000275015.jpg"
+  },
+  {
+    "prompt": "What kind of signs are these?",
+    "answer": "wooden",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000397287.jpg"
+  },
+  {
+    "prompt": "What type of cuisine is this?",
+    "answer": "italian",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000537671.jpg"
+  },
+  {
+    "prompt": "What type of hood is this?",
+    "answer": "broccoli",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000471226.jpg"
+  },
+  {
+    "prompt": "What type of soda is served at the Pizza Shop?",
+    "answer": "coca cola",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000469134.jpg"
+  },
+  {
+    "prompt": "What type of dish is this?",
+    "answer": "pasta",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000301282.jpg"
+  },
+  {
+    "prompt": "What kind of food is this?",
+    "answer": "broccoli",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000576774.jpg"
+  },
+  {
+    "prompt": "What kind of candies are on the cake?",
+    "answer": "birthday",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000192809.jpg"
+  },
+  {
+    "prompt": "What kind of fence borders the tracks?",
+    "answer": "rope",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000441211.jpg"
+  },
+  {
+    "prompt": "What type of food is this?",
+    "answer": "dinner",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000057878.jpg"
+  },
+  {
+    "prompt": "What kind of cake?",
+    "answer": "vanilla",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000438788.jpg"
+  },
+  {
+    "prompt": "What kind of food is shown?",
+    "answer": "sandwiches",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000124262.jpg"
+  },
+  {
+    "prompt": "What type of vegetable is pictured?",
+    "answer": "tomato",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000168898.jpg"
+  },
+  {
+    "prompt": "What kind of pizza is this?",
+    "answer": "veggie",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000561311.jpg"
+  },
+  {
+    "prompt": "What kind of table are they sitting at?",
+    "answer": "coffee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000088183.jpg"
+  },
+  {
+    "prompt": "What kind of vehicle is this?",
+    "answer": "bus",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000205247.jpg"
+  },
+  {
+    "prompt": "What kind of dog is riding the skateboard?",
+    "answer": "bulldog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000209028.jpg"
+  },
+  {
+    "prompt": "What kind of flower is in the artwork?",
+    "answer": "tulip",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000425905.jpg"
+  },
+  {
+    "prompt": "What kind of dog?",
+    "answer": "collie",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000191280.jpg"
+  },
+  {
+    "prompt": "What kind of animal is this?",
+    "answer": "cat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000372983.jpg"
+  },
+  {
+    "prompt": "What kind of food is this?",
+    "answer": "pizza",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000428278.jpg"
+  },
+  {
+    "prompt": "What kind of room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000435466.jpg"
+  },
+  {
+    "prompt": "What kind of flowers are on the table?",
+    "answer": "lilies",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000253489.jpg"
+  },
+  {
+    "prompt": "What type of fruit is pictured?",
+    "answer": "banana",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000064409.jpg"
+  },
+  {
+    "prompt": "What type of building are they in?",
+    "answer": "barn",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000499143.jpg"
+  },
+  {
+    "prompt": "What type of outfit is the person wearing?",
+    "answer": "wetsuit",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000137682.jpg"
+  },
+  {
+    "prompt": "What kind of floor is the dog standing on?",
+    "answer": "brick",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000521348.jpg"
+  },
+  {
+    "prompt": "What kind of ball is this?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000575174.jpg"
+  },
+  {
+    "prompt": "What kind of trees are beside the road?",
+    "answer": "pine",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000348475.jpg"
+  },
+  {
+    "prompt": "What kind of window treatment was used?",
+    "answer": "blinds",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000505043.jpg"
+  },
+  {
+    "prompt": "What type of drinks are on the table?",
+    "answer": "fanta",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000320872.jpg"
+  },
+  {
+    "prompt": "What type of train cars are pictured?",
+    "answer": "passenger",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000147494.jpg"
+  },
+  {
+    "prompt": "What type of animals are these?",
+    "answer": "elephants",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000206876.jpg"
+  },
+  {
+    "prompt": "What type of sneakers is she wearing?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000134552.jpg"
+  },
+  {
+    "prompt": "What type of wood is the house made of?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000413616.jpg"
+  },
+  {
+    "prompt": "What kind of animal is standing in the front?",
+    "answer": "cow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000124636.jpg"
+  },
+  {
+    "prompt": "What kind of flowers are in the vase?",
+    "answer": "lilies",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000415716.jpg"
+  },
+  {
+    "prompt": "What kind of dog is this?",
+    "answer": "golden retriever",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000500316.jpg"
+  },
+  {
+    "prompt": "What type of footwear is the person wearing?",
+    "answer": "flip flops",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000013867.jpg"
+  },
+  {
+    "prompt": "What type of vegetables are shown?",
+    "answer": "green beans",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000280678.jpg"
+  },
+  {
+    "prompt": "What kind of trees are in the background?",
+    "answer": "maple",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000574108.jpg"
+  },
+  {
+    "prompt": "What kind of food is this?",
+    "answer": "lunch",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000265208.jpg"
+  },
+  {
+    "prompt": "What kind of weather was it that day?",
+    "answer": "cloudy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000296265.jpg"
+  },
+  {
+    "prompt": "What kind of fruit on the table?",
+    "answer": "strawberries",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000384486.jpg"
+  },
+  {
+    "prompt": "What type of shirt is the woman wearing?",
+    "answer": "sweater",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000289172.jpg"
+  },
+  {
+    "prompt": "What kind of floor?",
+    "answer": "tile",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000088183.jpg"
+  },
+  {
+    "prompt": "What kind of horses are these?",
+    "answer": "clydesdale",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000104691.jpg"
+  },
+  {
+    "prompt": "What kind of seafood is in this photo?",
+    "answer": "fish",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000576774.jpg"
+  },
+  {
+    "prompt": "What type of beverage is in the glass?",
+    "answer": "beer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000105867.jpg"
+  },
+  {
+    "prompt": "What kind of staircase is visible?",
+    "answer": "spiral",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000507080.jpg"
+  },
+  {
+    "prompt": "What kind of bear is this?",
+    "answer": "polar",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000094926.jpg"
+  },
+  {
+    "prompt": "What kind of station is this?",
+    "answer": "train",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000538463.jpg"
+  },
+  {
+    "prompt": "What type of steak?",
+    "answer": "pork",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000069906.jpg"
+  },
+  {
+    "prompt": "What kind of dog is there?",
+    "answer": "poodle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000149568.jpg"
+  },
+  {
+    "prompt": "What type of drapes are across the window?",
+    "answer": "curtains",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000357957.jpg"
+  },
+  {
+    "prompt": "What type of electronics is pictured?",
+    "answer": "laptop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000078771.jpg"
+  },
+  {
+    "prompt": "What type of hairstyle does this man have?",
+    "answer": "ponytail",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000487659.jpg"
+  },
+  {
+    "prompt": "What kind of vehicle is this?",
+    "answer": "bus",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000101053.jpg"
+  },
+  {
+    "prompt": "What kind of fluid is in the bottle?",
+    "answer": "alcohol",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000105658.jpg"
+  },
+  {
+    "prompt": "What kind of cooking instrument is this?",
+    "answer": "pan",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000121016.jpg"
+  },
+  {
+    "prompt": "What kind of animal is on the floor behind the couch?",
+    "answer": "elephant",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000246076.jpg"
+  },
+  {
+    "prompt": "What type of location is this?",
+    "answer": "store",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000532669.jpg"
+  },
+  {
+    "prompt": "What type of phone is this?",
+    "answer": "flip phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000027517.jpg"
+  },
+  {
+    "prompt": "What type of animal is pictured?",
+    "answer": "horse",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000352587.jpg"
+  },
+  {
+    "prompt": "What type of heat does this home have?",
+    "answer": "electric",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000554523.jpg"
+  },
+  {
+    "prompt": "What type of pants is the woman wearing?",
+    "answer": "cargo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000199540.jpg"
+  },
+  {
+    "prompt": "What type of establishment is this?",
+    "answer": "restaurant",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000505709.jpg"
+  },
+  {
+    "prompt": "What type of vehicle does the woman have?",
+    "answer": "snowboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000288408.jpg"
+  },
+  {
+    "prompt": "What type of emotion is the man displaying?",
+    "answer": "boredom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000398534.jpg"
+  },
+  {
+    "prompt": "What kind of dog is it?",
+    "answer": "collie",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000147259.jpg"
+  },
+  {
+    "prompt": "What kind of airplane is shown?",
+    "answer": "biplane",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000520273.jpg"
+  },
+  {
+    "prompt": "What kind of fruit is this?",
+    "answer": "banana",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000510275.jpg"
+  },
+  {
+    "prompt": "What type of transportation are there?",
+    "answer": "bicycles",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000105647.jpg"
+  },
+  {
+    "prompt": "What kind of suit is the person wearing?",
+    "answer": "wetsuit",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000535536.jpg"
+  },
+  {
+    "prompt": "What type of clouds are visible?",
+    "answer": "cirrus",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000048917.jpg"
+  },
+  {
+    "prompt": "What type of material makes up the wall?",
+    "answer": "wood",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000173383.jpg"
+  },
+  {
+    "prompt": "What kind of fruit is in the picture?",
+    "answer": "carrots",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000347724.jpg"
+  },
+  {
+    "prompt": "What type of food is here?",
+    "answer": "cupcake",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000512416.jpg"
+  },
+  {
+    "prompt": "What kind of pizza is pictured?",
+    "answer": "ham",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000507887.jpg"
+  },
+  {
+    "prompt": "What type of hat does this animal have on its head?",
+    "answer": "santa",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000261824.jpg"
+  },
+  {
+    "prompt": "What kind of covering is on the bed?",
+    "answer": "quilt",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000438615.jpg"
+  },
+  {
+    "prompt": "What kind of animal is on the fence?",
+    "answer": "cow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000528257.jpg"
+  },
+  {
+    "prompt": "What type of vehicle is this?",
+    "answer": "airplane",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000098523.jpg"
+  },
+  {
+    "prompt": "What type of liquid is in the clear glass?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000130768.jpg"
+  },
+  {
+    "prompt": "What kind of computers are there in the scene?",
+    "answer": "laptop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000210920.jpg"
+  },
+  {
+    "prompt": "What kind of boats are in the picture?",
+    "answer": "large",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000191138.jpg"
+  },
+  {
+    "prompt": "What type of clouds are shown?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000197420.jpg"
+  },
+  {
+    "prompt": "What kind of food is this?",
+    "answer": "dessert",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000009262.jpg"
+  },
+  {
+    "prompt": "What type of animal is behind the zebra?",
+    "answer": "giraffe",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000329355.jpg"
+  },
+  {
+    "prompt": "What kind of train is this?",
+    "answer": "passenger",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000039670.jpg"
+  },
+  {
+    "prompt": "What kind of bird is on the left?",
+    "answer": "seagull",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000107839.jpg"
+  },
+  {
+    "prompt": "What type of fence is shown in background?",
+    "answer": "chain link",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000206596.jpg"
+  },
+  {
+    "prompt": "What type of pants is this woman wearing?",
+    "answer": "wetsuit",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000391463.jpg"
+  },
+  {
+    "prompt": "What kind of numbers are on this clock?",
+    "answer": "roman",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000049667.jpg"
+  },
+  {
+    "prompt": "What kind of cat is this?",
+    "answer": "siamese",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000167874.jpg"
+  },
+  {
+    "prompt": "What kind of fence is shown in the picture?",
+    "answer": "wire",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000389549.jpg"
+  },
+  {
+    "prompt": "What type of seating is in the picture?",
+    "answer": "couch",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000088183.jpg"
+  },
+  {
+    "prompt": "What kind of laws should you strictly adhere to in this area?",
+    "answer": "all of them",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000127153.jpg"
+  },
+  {
+    "prompt": "What kind of luggage is on the bottom?",
+    "answer": "suitcase",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000210920.jpg"
+  },
+  {
+    "prompt": "What type of computer is this?",
+    "answer": "dell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000395344.jpg"
+  },
+  {
+    "prompt": "What kind of sunglasses is the man in blue wearing?",
+    "answer": "not sure",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000446723.jpg"
+  },
+  {
+    "prompt": "What kind of shoes is the player wearing?",
+    "answer": "sneakers",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000377715.jpg"
+  },
+  {
+    "prompt": "What type of flooring is visible?",
+    "answer": "carpet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000091267.jpg"
+  },
+  {
+    "prompt": "What type of fruit are in the bowl?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000576981.jpg"
+  },
+  {
+    "prompt": "What kind of knife is in the apple?",
+    "answer": "steak",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000579201.jpg"
+  },
+  {
+    "prompt": "What kind of shoes are the woman wearing?",
+    "answer": "sneakers",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000575174.jpg"
+  },
+  {
+    "prompt": "What kind of trees are in the background?",
+    "answer": "pine",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000113173.jpg"
+  },
+  {
+    "prompt": "What type of pasta is in the salad?",
+    "answer": "pasta",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000141328.jpg"
+  },
+  {
+    "prompt": "What type of material is on the wall behind the bed?",
+    "answer": "brick",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000039956.jpg"
+  },
+  {
+    "prompt": "What type of wall is behind the vase?",
+    "answer": "brick",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000056160.jpg"
+  },
+  {
+    "prompt": "What kind of animals are shown?",
+    "answer": "geese",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000105918.jpg"
+  },
+  {
+    "prompt": "What type of sandwich is the man eating?",
+    "answer": "bacon",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000296460.jpg"
+  },
+  {
+    "prompt": "What type of food is the man selling?",
+    "answer": "hot dogs",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000203345.jpg"
+  },
+  {
+    "prompt": "What kind of vehicle is this?",
+    "answer": "bus",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000581394.jpg"
+  },
+  {
+    "prompt": "What kind of pizza is that?",
+    "answer": "veggie",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000306688.jpg"
+  },
+  {
+    "prompt": "What kind of weather is it?",
+    "answer": "sunny",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000304929.jpg"
+  },
+  {
+    "prompt": "What kind of horse is jumping an obstacle?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000100510.jpg"
+  },
+  {
+    "prompt": "What type of sandwich is visible?",
+    "answer": "breakfast",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000060467.jpg"
+  },
+  {
+    "prompt": "What kind of vehicle is this?",
+    "answer": "bus",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000571384.jpg"
+  },
+  {
+    "prompt": "What type of material is the bear made of?",
+    "answer": "cotton",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000534601.jpg"
+  },
+  {
+    "prompt": "What type of fruit is one the plate?",
+    "answer": "banana",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000257328.jpg"
+  },
+  {
+    "prompt": "What kind of sandwich is this?",
+    "answer": "beef",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000403038.jpg"
+  },
+  {
+    "prompt": "What kind of day is it?",
+    "answer": "sunny",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000518937.jpg"
+  },
+  {
+    "prompt": "What kind of flower is in the vase?",
+    "answer": "tulip",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000268247.jpg"
+  },
+  {
+    "prompt": "What kind of animal is this?",
+    "answer": "cow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000567253.jpg"
+  },
+  {
+    "prompt": "What kind of tractor is the man riding?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000527440.jpg"
+  },
+  {
+    "prompt": "What type of uniform does the man have on?",
+    "answer": "snowboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000546658.jpg"
+  },
+  {
+    "prompt": "What type of sport do these items use?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000197775.jpg"
+  },
+  {
+    "prompt": "What type of animal is this?",
+    "answer": "cat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000133707.jpg"
+  },
+  {
+    "prompt": "What kind of animals are in this picture?",
+    "answer": "zebra",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000573932.jpg"
+  },
+  {
+    "prompt": "What kind of sandwich is this?",
+    "answer": "ham",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000056288.jpg"
+  },
+  {
+    "prompt": "What kind of vegetable is featured here?",
+    "answer": "peas",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000226170.jpg"
+  },
+  {
+    "prompt": "What type of transportation is this?",
+    "answer": "train",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000545309.jpg"
+  },
+  {
+    "prompt": "What kind of topping does the pizza have?",
+    "answer": "cheese",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000545390.jpg"
+  },
+  {
+    "prompt": "What kind of material is the bowl on?",
+    "answer": "glass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000229599.jpg"
+  },
+  {
+    "prompt": "What type of transportation is being used?",
+    "answer": "train",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000338986.jpg"
+  },
+  {
+    "prompt": "What kind of fruit is in the bag on the ground?",
+    "answer": "lemons",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000069356.jpg"
+  },
+  {
+    "prompt": "What type of pants are these?",
+    "answer": "slacks",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000151657.jpg"
+  },
+  {
+    "prompt": "What kind of cake is on top of the plate?",
+    "answer": "chocolate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000158635.jpg"
+  },
+  {
+    "prompt": "What type of room is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000105177.jpg"
+  },
+  {
+    "prompt": "What type of jacket is the man wearing?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000095677.jpg"
+  },
+  {
+    "prompt": "What type of vehicle are they in?",
+    "answer": "bus",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000571384.jpg"
+  },
+  {
+    "prompt": "What type of snow is on the ground?",
+    "answer": "flat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000030719.jpg"
+  },
+  {
+    "prompt": "What kind of park is the boy in?",
+    "answer": "normal",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000249277.jpg"
+  },
+  {
+    "prompt": "What kind of writing is on the wall?",
+    "answer": "chinese",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000466921.jpg"
+  },
+  {
+    "prompt": "What kind of animal is this?",
+    "answer": "elephant",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000569415.jpg"
+  },
+  {
+    "prompt": "What kind of animals are in the picture?",
+    "answer": "horses",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000372362.jpg"
+  },
+  {
+    "prompt": "What type of juice is it?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000488645.jpg"
+  },
+  {
+    "prompt": "What type of furniture is the cat sitting on?",
+    "answer": "table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000381037.jpg"
+  },
+  {
+    "prompt": "What kind of plant is close to the camera?",
+    "answer": "grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000416758.jpg"
+  },
+  {
+    "prompt": "What kind of numerals are on the photo?",
+    "answer": "arabic",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000512248.jpg"
+  },
+  {
+    "prompt": "What kind of footwear can be seen in this photo?",
+    "answer": "shoes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000118181.jpg"
+  },
+  {
+    "prompt": "What kind of animal is used to herd these animals?",
+    "answer": "dog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000190441.jpg"
+  },
+  {
+    "prompt": "What type of dwelling is this?",
+    "answer": "home",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000252342.jpg"
+  },
+  {
+    "prompt": "What kind of vehicles are shown?",
+    "answer": "trucks",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000573943.jpg"
+  },
+  {
+    "prompt": "What kind of building is in the harbor?",
+    "answer": "skyscraper",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000142942.jpg"
+  },
+  {
+    "prompt": "What kind of fruit is on this plate?",
+    "answer": "apple",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000435475.jpg"
+  },
+  {
+    "prompt": "What kind of animal is shown?",
+    "answer": "dog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000304741.jpg"
+  },
+  {
+    "prompt": "What kind of animal is this?",
+    "answer": "cat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000559776.jpg"
+  },
+  {
+    "prompt": "What kind of grass is this?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000358149.jpg"
+  },
+  {
+    "prompt": "What type of transportation is represented?",
+    "answer": "helicopter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000010440.jpg"
+  },
+  {
+    "prompt": "What kind of bathtubs are these?",
+    "answer": "old",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000012551.jpg"
+  },
+  {
+    "prompt": "What kind of cheese?",
+    "answer": "cheddar",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000302275.jpg"
+  },
+  {
+    "prompt": "What type of food is this?",
+    "answer": "donut",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000312682.jpg"
+  },
+  {
+    "prompt": "What type of orange sign is in the background?",
+    "answer": "construction",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000040557.jpg"
+  },
+  {
+    "prompt": "What kind of trees are in the background?",
+    "answer": "pine",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000024755.jpg"
+  },
+  {
+    "prompt": "What type of animal is this?",
+    "answer": "horse",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000352587.jpg"
+  },
+  {
+    "prompt": "What type of animal is in this picture?",
+    "answer": "giraffe",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000172004.jpg"
+  },
+  {
+    "prompt": "What kind of pizza is in the photograph?",
+    "answer": "vegetable",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000480407.jpg"
+  },
+  {
+    "prompt": "What kind of drinks are behind the pizza?",
+    "answer": "fanta",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000320872.jpg"
+  },
+  {
+    "prompt": "What kind of vehicles are on the ground?",
+    "answer": "helicopter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000170605.jpg"
+  },
+  {
+    "prompt": "What kind of juice is in the glass on the top right?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000028864.jpg"
+  },
+  {
+    "prompt": "What kind of animal is this?",
+    "answer": "wildebeest",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000087581.jpg"
+  },
+  {
+    "prompt": "What type of flooring is down?",
+    "answer": "carpet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000410988.jpg"
+  },
+  {
+    "prompt": "What type of train is pictured?",
+    "answer": "passenger",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000270009.jpg"
+  },
+  {
+    "prompt": "What kind of room is this picture of?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000104112.jpg"
+  },
+  {
+    "prompt": "What type of cat is this?",
+    "answer": "calico",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000561393.jpg"
+  },
+  {
+    "prompt": "What kind of school is this?",
+    "answer": "ski",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000068525.jpg"
+  },
+  {
+    "prompt": "What kind of animals are in the image?",
+    "answer": "elephants",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000476975.jpg"
+  },
+  {
+    "prompt": "What kind of landscape is this?",
+    "answer": "desert",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000305050.jpg"
+  },
+  {
+    "prompt": "What type of surface are the fire hydrants sitting on?",
+    "answer": "dirt",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000125643.jpg"
+  },
+  {
+    "prompt": "What type of airplane is shown?",
+    "answer": "jet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000272736.jpg"
+  },
+  {
+    "prompt": "What type of cheese is on the pizza?",
+    "answer": "mozzarella",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000492371.jpg"
+  },
+  {
+    "prompt": "What kind of vehicle is this?",
+    "answer": "bicycle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000007386.jpg"
+  },
+  {
+    "prompt": "What kind of car is parked?",
+    "answer": "police",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000357944.jpg"
+  },
+  {
+    "prompt": "What kind of meat is on the plate?",
+    "answer": "beef",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000335774.jpg"
+  }
+]

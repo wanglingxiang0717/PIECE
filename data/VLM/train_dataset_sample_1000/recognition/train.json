@@ -1,0 +1,5002 @@
+[
+  {
+    "prompt": "What is the horned animal?",
+    "answer": "cow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000224182.jpg"
+  },
+  {
+    "prompt": "What is the beverage?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000079313.jpg"
+  },
+  {
+    "prompt": "What are the two men in the front pretending to bite?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000136064.jpg"
+  },
+  {
+    "prompt": "What season is it?",
+    "answer": "summer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000149774.jpg"
+  },
+  {
+    "prompt": "What part of America could this be?",
+    "answer": "south",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000559301.jpg"
+  },
+  {
+    "prompt": "What is the guy throwing?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000343803.jpg"
+  },
+  {
+    "prompt": "What is the floor made of?",
+    "answer": "wood",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000349321.jpg"
+  },
+  {
+    "prompt": "Who is leaning to the side?",
+    "answer": "girl",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000168377.jpg"
+  },
+  {
+    "prompt": "What airline is the plane for?",
+    "answer": "american",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000199432.jpg"
+  },
+  {
+    "prompt": "What does this man have on his left bicycle handle?",
+    "answer": "umbrella",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000575702.jpg"
+  },
+  {
+    "prompt": "What is the decoration above the clock tower?",
+    "answer": "bell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000215410.jpg"
+  },
+  {
+    "prompt": "What is the brightest color you see in the plate?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000339529.jpg"
+  },
+  {
+    "prompt": "What is the main color of the batter's shirt?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000422809.jpg"
+  },
+  {
+    "prompt": "What is the toilet made of?",
+    "answer": "metal",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000487906.jpg"
+  },
+  {
+    "prompt": "What is on the table?",
+    "answer": "food",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000225943.jpg"
+  },
+  {
+    "prompt": "What colors can you see on the cloth?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000348948.jpg"
+  },
+  {
+    "prompt": "What make are these motorcycles?",
+    "answer": "honda",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000346259.jpg"
+  },
+  {
+    "prompt": "Which hand holds the racket?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000105399.jpg"
+  },
+  {
+    "prompt": "What was in the bottle?",
+    "answer": "coke",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000139216.jpg"
+  },
+  {
+    "prompt": "What airline is on the plane?",
+    "answer": "korean air",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000231104.jpg"
+  },
+  {
+    "prompt": "What species giraffe is in the photo?",
+    "answer": "giraffe",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000388872.jpg"
+  },
+  {
+    "prompt": "What is on top of the laptop?",
+    "answer": "notes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000576427.jpg"
+  },
+  {
+    "prompt": "What is in the plastic container?",
+    "answer": "milk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000438671.jpg"
+  },
+  {
+    "prompt": "What is the name of the pattern in the sidewalk?",
+    "answer": "brick",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000569432.jpg"
+  },
+  {
+    "prompt": "What is red underneath the sheep's neck?",
+    "answer": "tag",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000360325.jpg"
+  },
+  {
+    "prompt": "What is under the plate?",
+    "answer": "mat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000093947.jpg"
+  },
+  {
+    "prompt": "What is the boy riding on?",
+    "answer": "skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000009951.jpg"
+  },
+  {
+    "prompt": "What is the company displayed on the buses?",
+    "answer": "wild",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000265814.jpg"
+  },
+  {
+    "prompt": "What is holding their food?",
+    "answer": "tray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000491279.jpg"
+  },
+  {
+    "prompt": "What is that animal?",
+    "answer": "cow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000152106.jpg"
+  },
+  {
+    "prompt": "What is the truck surrounded by?",
+    "answer": "snow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000219655.jpg"
+  },
+  {
+    "prompt": "What is the cat sitting on?",
+    "answer": "tv",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000053457.jpg"
+  },
+  {
+    "prompt": "What is in the microwave?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000460226.jpg"
+  },
+  {
+    "prompt": "What is worn on their heads?",
+    "answer": "helmets",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000503488.jpg"
+  },
+  {
+    "prompt": "What is he holding?",
+    "answer": "tennis racket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000526091.jpg"
+  },
+  {
+    "prompt": "What vehicles are shown?",
+    "answer": "cars",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000227012.jpg"
+  },
+  {
+    "prompt": "What language is on the bus?",
+    "answer": "english",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000265814.jpg"
+  },
+  {
+    "prompt": "What are the three people wearing on their faces?",
+    "answer": "goggles",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000001580.jpg"
+  },
+  {
+    "prompt": "What is the cat sitting on?",
+    "answer": "umbrella",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000280043.jpg"
+  },
+  {
+    "prompt": "What is the composition of the road?",
+    "answer": "dirt",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000275173.jpg"
+  },
+  {
+    "prompt": "What is behind the fence?",
+    "answer": "trees",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000318307.jpg"
+  },
+  {
+    "prompt": "What are the people about to do?",
+    "answer": "walk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000381154.jpg"
+  },
+  {
+    "prompt": "What food is this supposed to be?",
+    "answer": "cake",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000010856.jpg"
+  },
+  {
+    "prompt": "What is the guy in the middle doing?",
+    "answer": "batting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000379940.jpg"
+  },
+  {
+    "prompt": "What base is the picture facing?",
+    "answer": "3rd",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000568895.jpg"
+  },
+  {
+    "prompt": "What is in the back corner?",
+    "answer": "fireplace",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000450127.jpg"
+  },
+  {
+    "prompt": "What style of homes do you see here?",
+    "answer": "apartments",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000578795.jpg"
+  },
+  {
+    "prompt": "What is each man called?",
+    "answer": "pitcher",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000423540.jpg"
+  },
+  {
+    "prompt": "What utensils are shown?",
+    "answer": "knife and fork",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000238238.jpg"
+  },
+  {
+    "prompt": "What fur is left on the animal?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000109148.jpg"
+  },
+  {
+    "prompt": "What character is portrayed in the red robe?",
+    "answer": "king",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000003220.jpg"
+  },
+  {
+    "prompt": "What piece of jewelry is between the computers?",
+    "answer": "necklace",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000478885.jpg"
+  },
+  {
+    "prompt": "What can you make with this animal's fur?",
+    "answer": "wool",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000406997.jpg"
+  },
+  {
+    "prompt": "What dish is this?",
+    "answer": "beef",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000064798.jpg"
+  },
+  {
+    "prompt": "What is hanging from the stove?",
+    "answer": "towel",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000549763.jpg"
+  },
+  {
+    "prompt": "What is the truck doing?",
+    "answer": "driving",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000021964.jpg"
+  },
+  {
+    "prompt": "What color, here, is making all the other colors 'pop.'?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000409906.jpg"
+  },
+  {
+    "prompt": "What is the pattern on the man's shirt?",
+    "answer": "plaid",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000010149.jpg"
+  },
+  {
+    "prompt": "What is the building made of?",
+    "answer": "brick",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000258191.jpg"
+  },
+  {
+    "prompt": "What is standing between the two elephants?",
+    "answer": "pole",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000527193.jpg"
+  },
+  {
+    "prompt": "What is on the wagon?",
+    "answer": "hay",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000524431.jpg"
+  },
+  {
+    "prompt": "What is in her ears?",
+    "answer": "headphones",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000413956.jpg"
+  },
+  {
+    "prompt": "What are the 2 colors of the bus?",
+    "answer": "blue and yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000438171.jpg"
+  },
+  {
+    "prompt": "What is coming out of the engine?",
+    "answer": "steam",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000355789.jpg"
+  },
+  {
+    "prompt": "What is painted on the motorcycle?",
+    "answer": "mask",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000504617.jpg"
+  },
+  {
+    "prompt": "What is between the two animals?",
+    "answer": "bench",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000506483.jpg"
+  },
+  {
+    "prompt": "What do the big letters on the plane say?",
+    "answer": "jal",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000193389.jpg"
+  },
+  {
+    "prompt": "What is the player doing?",
+    "answer": "batting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000392967.jpg"
+  },
+  {
+    "prompt": "What game is being played?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000031273.jpg"
+  },
+  {
+    "prompt": "What is the crane doing?",
+    "answer": "dirt",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000539141.jpg"
+  },
+  {
+    "prompt": "What is the weather like?",
+    "answer": "sunny",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000261999.jpg"
+  },
+  {
+    "prompt": "What team is on the billboard?",
+    "answer": "unknown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000548020.jpg"
+  },
+  {
+    "prompt": "What shape are the crackers in?",
+    "answer": "round",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000367615.jpg"
+  },
+  {
+    "prompt": "What is all over the table?",
+    "answer": "food",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000067936.jpg"
+  },
+  {
+    "prompt": "What are hanging overhead?",
+    "answer": "power lines",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000493474.jpg"
+  },
+  {
+    "prompt": "What are the words on the bottom of the sign?",
+    "answer": "welcome",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000474642.jpg"
+  },
+  {
+    "prompt": "What appliance,isn't white?",
+    "answer": "dishwasher",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000121904.jpg"
+  },
+  {
+    "prompt": "What is the plane sitting next to?",
+    "answer": "car",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000396762.jpg"
+  },
+  {
+    "prompt": "What is the child reaching for?",
+    "answer": "kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000423777.jpg"
+  },
+  {
+    "prompt": "What is the horse pulling?",
+    "answer": "carriage",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000519075.jpg"
+  },
+  {
+    "prompt": "What are the highest things in the picture?",
+    "answer": "cabinets",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000483058.jpg"
+  },
+  {
+    "prompt": "What is the fence made of?",
+    "answer": "chain link",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000529806.jpg"
+  },
+  {
+    "prompt": "What is this room called?",
+    "answer": "bedroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000201644.jpg"
+  },
+  {
+    "prompt": "What are they cutting?",
+    "answer": "ribbon",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000354460.jpg"
+  },
+  {
+    "prompt": "What is on the grass?",
+    "answer": "people",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000333474.jpg"
+  },
+  {
+    "prompt": "What is on the sign on the top?",
+    "answer": "name",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000349083.jpg"
+  },
+  {
+    "prompt": "What is in the sky?",
+    "answer": "airplane",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000042085.jpg"
+  },
+  {
+    "prompt": "What is written on the child's shirt?",
+    "answer": "i don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000041014.jpg"
+  },
+  {
+    "prompt": "What green vegetable do you see?",
+    "answer": "broccoli",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000064798.jpg"
+  },
+  {
+    "prompt": "Which man has his skies facing a different way than the other men?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000249905.jpg"
+  },
+  {
+    "prompt": "What is sticking out of the side of her pocket?",
+    "answer": "ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000038745.jpg"
+  },
+  {
+    "prompt": "What is in the basket on the bicycle?",
+    "answer": "bag",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000216766.jpg"
+  },
+  {
+    "prompt": "What is the dog holding?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000048825.jpg"
+  },
+  {
+    "prompt": "What is missing on the toilet?",
+    "answer": "lid",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000479417.jpg"
+  },
+  {
+    "prompt": "What is the boy holding?",
+    "answer": "knife",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000390731.jpg"
+  },
+  {
+    "prompt": "What is in the bowl?",
+    "answer": "fruit",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000378790.jpg"
+  },
+  {
+    "prompt": "What is the theme of the surfboard's decor?",
+    "answer": "airplanes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000174669.jpg"
+  },
+  {
+    "prompt": "What is the name of the company emblem that is shown in the center billboard?",
+    "answer": "nike",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000277729.jpg"
+  },
+  {
+    "prompt": "What game are the kids playing?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000496932.jpg"
+  },
+  {
+    "prompt": "What will be passing under the bridge?",
+    "answer": "boat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000309563.jpg"
+  },
+  {
+    "prompt": "What is the handle of the knife made of?",
+    "answer": "plastic",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000114807.jpg"
+  },
+  {
+    "prompt": "What program are they using to talk?",
+    "answer": "cell phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000482326.jpg"
+  },
+  {
+    "prompt": "What is the size of the TV?",
+    "answer": "large",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000131075.jpg"
+  },
+  {
+    "prompt": "What is behind the potty?",
+    "answer": "picture",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000412535.jpg"
+  },
+  {
+    "prompt": "What is the man's attire?",
+    "answer": "shirt",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000345833.jpg"
+  },
+  {
+    "prompt": "What gender is the person with the umbrella?",
+    "answer": "female",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000004404.jpg"
+  },
+  {
+    "prompt": "What tool is seen?",
+    "answer": "clock",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000073511.jpg"
+  },
+  {
+    "prompt": "What are they doing?",
+    "answer": "talking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000189305.jpg"
+  },
+  {
+    "prompt": "What is in the mirror?",
+    "answer": "door",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000274682.jpg"
+  },
+  {
+    "prompt": "What is in the bag?",
+    "answer": "bread",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000290974.jpg"
+  },
+  {
+    "prompt": "What is lucky on this man?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000461545.jpg"
+  },
+  {
+    "prompt": "What is the clock attached to?",
+    "answer": "tower",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000321935.jpg"
+  },
+  {
+    "prompt": "What season is it?",
+    "answer": "christmas",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000082998.jpg"
+  },
+  {
+    "prompt": "What are these people doing?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000481002.jpg"
+  },
+  {
+    "prompt": "What is the plane on?",
+    "answer": "air",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000085291.jpg"
+  },
+  {
+    "prompt": "What does the boy have in his hand?",
+    "answer": "wii remote",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000528539.jpg"
+  },
+  {
+    "prompt": "What is in the sky?",
+    "answer": "kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000134177.jpg"
+  },
+  {
+    "prompt": "What is on the beach?",
+    "answer": "people",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000104452.jpg"
+  },
+  {
+    "prompt": "Which color motorcycle has a noticeable helmet on the seat?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000276009.jpg"
+  },
+  {
+    "prompt": "What is this used for?",
+    "answer": "tent",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000252212.jpg"
+  },
+  {
+    "prompt": "What design is on the kite?",
+    "answer": "fish",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000067236.jpg"
+  },
+  {
+    "prompt": "What are the people doing?",
+    "answer": "waiting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000279521.jpg"
+  },
+  {
+    "prompt": "What is the bird about to do?",
+    "answer": "eat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000098772.jpg"
+  },
+  {
+    "prompt": "What is the dog wearing over it's eyes?",
+    "answer": "goggles",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000461705.jpg"
+  },
+  {
+    "prompt": "What number of elephants are standing in the river?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000260844.jpg"
+  },
+  {
+    "prompt": "What instrument is this?",
+    "answer": "guitar",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000346997.jpg"
+  },
+  {
+    "prompt": "What are the numbers on these men's shirts?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000499523.jpg"
+  },
+  {
+    "prompt": "What size bed are they in?",
+    "answer": "twin",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000013565.jpg"
+  },
+  {
+    "prompt": "What website does the photographer want you to visit?",
+    "answer": "unknown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000572592.jpg"
+  },
+  {
+    "prompt": "What flower is in the vase?",
+    "answer": "tulips",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000461655.jpg"
+  },
+  {
+    "prompt": "What is the giraffe crossing?",
+    "answer": "road",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000126388.jpg"
+  },
+  {
+    "prompt": "What is the sliced fruit called?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000013145.jpg"
+  },
+  {
+    "prompt": "What part of the animal is being shown?",
+    "answer": "front",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000122996.jpg"
+  },
+  {
+    "prompt": "Which tennis event is this?",
+    "answer": "us open",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000386162.jpg"
+  },
+  {
+    "prompt": "What is she holding with her right hand?",
+    "answer": "tennis racket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000054796.jpg"
+  },
+  {
+    "prompt": "What fruit is closest to the camera?",
+    "answer": "banana",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000338670.jpg"
+  },
+  {
+    "prompt": "What does the sign say?",
+    "answer": "no parking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000268274.jpg"
+  },
+  {
+    "prompt": "What is this building used for?",
+    "answer": "train station",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000134589.jpg"
+  },
+  {
+    "prompt": "What does the sky look like in this photo?",
+    "answer": "clear",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000260024.jpg"
+  },
+  {
+    "prompt": "What are the black object on the mountain?",
+    "answer": "rocks",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000522534.jpg"
+  },
+  {
+    "prompt": "What is the floor made out of?",
+    "answer": "tile",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000573993.jpg"
+  },
+  {
+    "prompt": "What room of the house is this?",
+    "answer": "bedroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000120399.jpg"
+  },
+  {
+    "prompt": "What is this fruit especially high in?",
+    "answer": "c",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000373137.jpg"
+  },
+  {
+    "prompt": "What is on the bench?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000467468.jpg"
+  },
+  {
+    "prompt": "What shape are the slices cut into?",
+    "answer": "triangle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000021451.jpg"
+  },
+  {
+    "prompt": "Which game are the people playing?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000295884.jpg"
+  },
+  {
+    "prompt": "What is the main color of this room?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000281017.jpg"
+  },
+  {
+    "prompt": "What sport are they playing?",
+    "answer": "hockey",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000048442.jpg"
+  },
+  {
+    "prompt": "What is coming out of the fire hydrant?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000519579.jpg"
+  },
+  {
+    "prompt": "What is the main ingredient of the food in the picture?",
+    "answer": "fish",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000108000.jpg"
+  },
+  {
+    "prompt": "What letter is on the tennis racket?",
+    "answer": "w",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000291476.jpg"
+  },
+  {
+    "prompt": "What is this food?",
+    "answer": "sandwich",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000548512.jpg"
+  },
+  {
+    "prompt": "What event is this cake for?",
+    "answer": "wedding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000273560.jpg"
+  },
+  {
+    "prompt": "What is shining?",
+    "answer": "sun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000072800.jpg"
+  },
+  {
+    "prompt": "What is he wearing on his head?",
+    "answer": "helmet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000417481.jpg"
+  },
+  {
+    "prompt": "What pattern is in the shower?",
+    "answer": "flowers",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000257105.jpg"
+  },
+  {
+    "prompt": "What is the bench made of?",
+    "answer": "wood",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000410262.jpg"
+  },
+  {
+    "prompt": "What game system are the kids playing with?",
+    "answer": "wii",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000540326.jpg"
+  },
+  {
+    "prompt": "What emotion is the surfer feeling?",
+    "answer": "happy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000288519.jpg"
+  },
+  {
+    "prompt": "What are most of the people holding?",
+    "answer": "oars",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000139440.jpg"
+  },
+  {
+    "prompt": "What is this person holding?",
+    "answer": "pole",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000203177.jpg"
+  },
+  {
+    "prompt": "What is over the dog?",
+    "answer": "blanket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000037566.jpg"
+  },
+  {
+    "prompt": "Which wrist has a watch?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000221350.jpg"
+  },
+  {
+    "prompt": "What is the desk made of?",
+    "answer": "glass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000351597.jpg"
+  },
+  {
+    "prompt": "What style of furniture is the couch sitting on?",
+    "answer": "couch",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000439531.jpg"
+  },
+  {
+    "prompt": "What is this person doing?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000231014.jpg"
+  },
+  {
+    "prompt": "What the elephants wearing on their back?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000245713.jpg"
+  },
+  {
+    "prompt": "What is the pattern on the tube on the left?",
+    "answer": "american flag",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000372020.jpg"
+  },
+  {
+    "prompt": "What is the number of towels?",
+    "answer": "3",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000048867.jpg"
+  },
+  {
+    "prompt": "What is the main color of the cat?",
+    "answer": "gray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000475725.jpg"
+  },
+  {
+    "prompt": "What is the red thing on the pizza?",
+    "answer": "tomato",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000439003.jpg"
+  },
+  {
+    "prompt": "What is displayed in the photo?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000231747.jpg"
+  },
+  {
+    "prompt": "What is on the blond man's head?",
+    "answer": "hat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000050061.jpg"
+  },
+  {
+    "prompt": "What fruits are in these bento boxes?",
+    "answer": "grapes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000545411.jpg"
+  },
+  {
+    "prompt": "What are the cows eating from?",
+    "answer": "hay",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000167755.jpg"
+  },
+  {
+    "prompt": "What  is the name of the landmark in the background?",
+    "answer": "park",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000333474.jpg"
+  },
+  {
+    "prompt": "What game is the person playing?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000415016.jpg"
+  },
+  {
+    "prompt": "What is the train on?",
+    "answer": "grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000387216.jpg"
+  },
+  {
+    "prompt": "What is lit up in the picture?",
+    "answer": "laptop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000406013.jpg"
+  },
+  {
+    "prompt": "What is drawn on the side of  the bus?",
+    "answer": "sheep",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000115372.jpg"
+  },
+  {
+    "prompt": "What are they wearing that matches?",
+    "answer": "glasses",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000088653.jpg"
+  },
+  {
+    "prompt": "What material is covering the animal's pen?",
+    "answer": "grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000193050.jpg"
+  },
+  {
+    "prompt": "What is on the clear plate?",
+    "answer": "cake",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000496420.jpg"
+  },
+  {
+    "prompt": "What game is this?",
+    "answer": "soccer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000282564.jpg"
+  },
+  {
+    "prompt": "What toppings are on the pizza?",
+    "answer": "basil",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000233790.jpg"
+  },
+  {
+    "prompt": "What is in the background?",
+    "answer": "cars",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000302551.jpg"
+  },
+  {
+    "prompt": "What are the people herding?",
+    "answer": "cows",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000365943.jpg"
+  },
+  {
+    "prompt": "Which hand is the person holding the phone in?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000105015.jpg"
+  },
+  {
+    "prompt": "What meal is the cook preparing now?",
+    "answer": "breakfast",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000316336.jpg"
+  },
+  {
+    "prompt": "What cups are on the road?",
+    "answer": "cones",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000286931.jpg"
+  },
+  {
+    "prompt": "What is the bear made of?",
+    "answer": "cake",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000210404.jpg"
+  },
+  {
+    "prompt": "What position is this person playing?",
+    "answer": "pitcher",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000538263.jpg"
+  },
+  {
+    "prompt": "What is in the water?",
+    "answer": "surfer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000388702.jpg"
+  },
+  {
+    "prompt": "What is the bird eating?",
+    "answer": "peanuts",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000337716.jpg"
+  },
+  {
+    "prompt": "What is everyone playing?",
+    "answer": "wii",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000366897.jpg"
+  },
+  {
+    "prompt": "What print is on the wallpaper?",
+    "answer": "african",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000239427.jpg"
+  },
+  {
+    "prompt": "What pattern is the man's tie?",
+    "answer": "stripes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000334648.jpg"
+  },
+  {
+    "prompt": "What are the colors of his shoes?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000063036.jpg"
+  },
+  {
+    "prompt": "What game is this?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000312033.jpg"
+  },
+  {
+    "prompt": "What military function is this built for?",
+    "answer": "flying",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000245202.jpg"
+  },
+  {
+    "prompt": "What is this bird doing?",
+    "answer": "sitting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000424263.jpg"
+  },
+  {
+    "prompt": "What does it say above the door?",
+    "answer": "not possible",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000548010.jpg"
+  },
+  {
+    "prompt": "What is the website on the coaster in this photo?",
+    "answer": "food",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000091891.jpg"
+  },
+  {
+    "prompt": "What other vegetables are there besides carrots?",
+    "answer": "cauliflower",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000147131.jpg"
+  },
+  {
+    "prompt": "Which one is the baby?",
+    "answer": "front",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000303761.jpg"
+  },
+  {
+    "prompt": "What is this?",
+    "answer": "truck",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000318299.jpg"
+  },
+  {
+    "prompt": "What is the dog laying on?",
+    "answer": "desk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000240393.jpg"
+  },
+  {
+    "prompt": "What is on top of the table?",
+    "answer": "computer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000075285.jpg"
+  },
+  {
+    "prompt": "What is the scenery in the background?",
+    "answer": "trees",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000402823.jpg"
+  },
+  {
+    "prompt": "What is in this sandwich?",
+    "answer": "cheese",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000370310.jpg"
+  },
+  {
+    "prompt": "What is the giraffe doing?",
+    "answer": "eating",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000353000.jpg"
+  },
+  {
+    "prompt": "What is this person holding?",
+    "answer": "suitcase",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000290415.jpg"
+  },
+  {
+    "prompt": "What are they holding?",
+    "answer": "knife",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000363202.jpg"
+  },
+  {
+    "prompt": "What items are the man carrying in the right hand?",
+    "answer": "toothbrush",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000344264.jpg"
+  },
+  {
+    "prompt": "What is on the fridge?",
+    "answer": "plant",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000376828.jpg"
+  },
+  {
+    "prompt": "What animals are grazing in the field?",
+    "answer": "cows",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000130527.jpg"
+  },
+  {
+    "prompt": "What is the cat resting in?",
+    "answer": "bed",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000420210.jpg"
+  },
+  {
+    "prompt": "What is in the cup?",
+    "answer": "coffee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000340673.jpg"
+  },
+  {
+    "prompt": "What are the cubes next to the rice?",
+    "answer": "fish",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000205435.jpg"
+  },
+  {
+    "prompt": "What is on the ground?",
+    "answer": "grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000353559.jpg"
+  },
+  {
+    "prompt": "Which of these vehicles is powered by human power?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000148144.jpg"
+  },
+  {
+    "prompt": "What is the table top made of?",
+    "answer": "plastic",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000038034.jpg"
+  },
+  {
+    "prompt": "Who is on the platform?",
+    "answer": "people",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000168413.jpg"
+  },
+  {
+    "prompt": "What is the plate made out of?",
+    "answer": "wood",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000265713.jpg"
+  },
+  {
+    "prompt": "What animals are in the distance?",
+    "answer": "zebra",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000091135.jpg"
+  },
+  {
+    "prompt": "What does the blue sign mean?",
+    "answer": "turn right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000297046.jpg"
+  },
+  {
+    "prompt": "What kinds of shoes would he be wearing?",
+    "answer": "cleats",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000192400.jpg"
+  },
+  {
+    "prompt": "What is the purpose of a room like this?",
+    "answer": "cooking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000462395.jpg"
+  },
+  {
+    "prompt": "What function is going on?",
+    "answer": "dinner",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000374661.jpg"
+  },
+  {
+    "prompt": "What is the location of the clock?",
+    "answer": "bookshelf",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000042751.jpg"
+  },
+  {
+    "prompt": "What is the little girl looking at?",
+    "answer": "camera",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000089103.jpg"
+  },
+  {
+    "prompt": "What is the girl holding?",
+    "answer": "wii remote",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000403306.jpg"
+  },
+  {
+    "prompt": "What company is on the cup?",
+    "answer": "dunkin donuts",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000067373.jpg"
+  },
+  {
+    "prompt": "What race is the girl?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000564983.jpg"
+  },
+  {
+    "prompt": "What is this desk owner's primary occupation?",
+    "answer": "cycling",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000579053.jpg"
+  },
+  {
+    "prompt": "What is the floor material made of?",
+    "answer": "wood",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000170139.jpg"
+  },
+  {
+    "prompt": "What is the orange object called?",
+    "answer": "fire hydrant",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000318224.jpg"
+  },
+  {
+    "prompt": "What is on the skater's head?",
+    "answer": "helmet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000183280.jpg"
+  },
+  {
+    "prompt": "What animals are on the farm?",
+    "answer": "cows",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000080363.jpg"
+  },
+  {
+    "prompt": "What makes the snow?",
+    "answer": "clouds",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000243324.jpg"
+  },
+  {
+    "prompt": "What facial expressions are the men wearing?",
+    "answer": "happy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000297765.jpg"
+  },
+  {
+    "prompt": "What are the bears sitting on?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000264959.jpg"
+  },
+  {
+    "prompt": "What is the meat on?",
+    "answer": "plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000143096.jpg"
+  },
+  {
+    "prompt": "What are the horses pulling?",
+    "answer": "carriage",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000535211.jpg"
+  },
+  {
+    "prompt": "What is his expression?",
+    "answer": "happy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000247134.jpg"
+  },
+  {
+    "prompt": "What is this child touching?",
+    "answer": "book",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000578924.jpg"
+  },
+  {
+    "prompt": "What article of clothing is the cake shaped like?",
+    "answer": "shirt",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000107020.jpg"
+  },
+  {
+    "prompt": "What is laying next to the hydrant?",
+    "answer": "glass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000303387.jpg"
+  },
+  {
+    "prompt": "What is in motion?",
+    "answer": "cars",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000285131.jpg"
+  },
+  {
+    "prompt": "What liquid is for sale?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000360877.jpg"
+  },
+  {
+    "prompt": "What are they building?",
+    "answer": "gas station",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000107884.jpg"
+  },
+  {
+    "prompt": "What are the people eating?",
+    "answer": "pizza",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000317728.jpg"
+  },
+  {
+    "prompt": "What symbol is on his shirt?",
+    "answer": "sun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000480595.jpg"
+  },
+  {
+    "prompt": "What is in the bottle?",
+    "answer": "ketchup",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000020702.jpg"
+  },
+  {
+    "prompt": "What race is the man on the left?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000171566.jpg"
+  },
+  {
+    "prompt": "What is on the couch near the woman?",
+    "answer": "pillow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000254210.jpg"
+  },
+  {
+    "prompt": "What fruit is that the peel of?",
+    "answer": "banana",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000466207.jpg"
+  },
+  {
+    "prompt": "What is the lightest color of fur appearing on the cat?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000428266.jpg"
+  },
+  {
+    "prompt": "Which American politician does the man inexplicably resemble?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000197213.jpg"
+  },
+  {
+    "prompt": "Who is laughing?",
+    "answer": "man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000048772.jpg"
+  },
+  {
+    "prompt": "Which vehicle is parked closer to the camera?",
+    "answer": "fire truck",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000211294.jpg"
+  },
+  {
+    "prompt": "What is the picture of on the wall?",
+    "answer": "lady",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000050912.jpg"
+  },
+  {
+    "prompt": "What letter is shown on the boy in black?",
+    "answer": "b",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000464174.jpg"
+  },
+  {
+    "prompt": "What direction is the hat facing?",
+    "answer": "forward",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000267625.jpg"
+  },
+  {
+    "prompt": "What is the significance of the writing on the side of the boat?",
+    "answer": "name",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000266228.jpg"
+  },
+  {
+    "prompt": "What utensils are being used?",
+    "answer": "spoon",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000135364.jpg"
+  },
+  {
+    "prompt": "What is on her head?",
+    "answer": "sunglasses",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000139856.jpg"
+  },
+  {
+    "prompt": "What is the black item that the skateboarder is wearing right leg?",
+    "answer": "brace",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000434380.jpg"
+  },
+  {
+    "prompt": "What is in the blue bowl?",
+    "answer": "fruit",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000132538.jpg"
+  },
+  {
+    "prompt": "What is the bird on?",
+    "answer": "snow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000256794.jpg"
+  },
+  {
+    "prompt": "What are the boats for?",
+    "answer": "transportation",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000492030.jpg"
+  },
+  {
+    "prompt": "What does the man have in his mouth?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000136570.jpg"
+  },
+  {
+    "prompt": "What is the dog laying on?",
+    "answer": "grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000022894.jpg"
+  },
+  {
+    "prompt": "What are the people wearing on their feet?",
+    "answer": "snowboards",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000365021.jpg"
+  },
+  {
+    "prompt": "What game is being played in this scene?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000049005.jpg"
+  },
+  {
+    "prompt": "What is the beige dog doing?",
+    "answer": "walking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000304523.jpg"
+  },
+  {
+    "prompt": "What is around the cow's neck?",
+    "answer": "collar",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000015438.jpg"
+  },
+  {
+    "prompt": "What is the tennis court composed of?",
+    "answer": "grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000448560.jpg"
+  },
+  {
+    "prompt": "What is dog wearing?",
+    "answer": "collar",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000420914.jpg"
+  },
+  {
+    "prompt": "What is the number on the front-left of the train?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000157261.jpg"
+  },
+  {
+    "prompt": "What is on the very top of the slices of bread?",
+    "answer": "pickle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000204351.jpg"
+  },
+  {
+    "prompt": "What colors are the chairs?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000208011.jpg"
+  },
+  {
+    "prompt": "What colors are the birds?",
+    "answer": "green",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000263420.jpg"
+  },
+  {
+    "prompt": "What is wrong with the pair of legs?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000564316.jpg"
+  },
+  {
+    "prompt": "What part of America could this be?",
+    "answer": "west",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000059234.jpg"
+  },
+  {
+    "prompt": "Who is the manufacturer of these teddy bears?",
+    "answer": "not sure",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000125062.jpg"
+  },
+  {
+    "prompt": "What company's logo is partially shown?",
+    "answer": "flag",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000066862.jpg"
+  },
+  {
+    "prompt": "What are they skating on?",
+    "answer": "ramp",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000161414.jpg"
+  },
+  {
+    "prompt": "What are the persons feet on?",
+    "answer": "chair",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000347754.jpg"
+  },
+  {
+    "prompt": "What team does the batter play for?",
+    "answer": "mexico",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000123920.jpg"
+  },
+  {
+    "prompt": "What operating system does this computer use?",
+    "answer": "windows",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000342452.jpg"
+  },
+  {
+    "prompt": "What is the sign saying to do?",
+    "answer": "26",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000378727.jpg"
+  },
+  {
+    "prompt": "What do the traffic lights symbolize, at this moment?",
+    "answer": "go",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000035897.jpg"
+  },
+  {
+    "prompt": "What game is this?",
+    "answer": "soccer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000479953.jpg"
+  },
+  {
+    "prompt": "What is the print on the bed?",
+    "answer": "floral",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000211823.jpg"
+  },
+  {
+    "prompt": "What is the bench color?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000452381.jpg"
+  },
+  {
+    "prompt": "What is he drinking?",
+    "answer": "beer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000456819.jpg"
+  },
+  {
+    "prompt": "What is prohibited by the sign?",
+    "answer": "parking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000511571.jpg"
+  },
+  {
+    "prompt": "What breed of dog is this?",
+    "answer": "lab",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000072229.jpg"
+  },
+  {
+    "prompt": "What colors are the traffic lights?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000171155.jpg"
+  },
+  {
+    "prompt": "What is the landscape of the picture?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000393844.jpg"
+  },
+  {
+    "prompt": "What is reflection of?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000157822.jpg"
+  },
+  {
+    "prompt": "What liquid is the bird standing in?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000438075.jpg"
+  },
+  {
+    "prompt": "What is the long structure called?",
+    "answer": "pier",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000371939.jpg"
+  },
+  {
+    "prompt": "What meat is on top of the pizza?",
+    "answer": "chicken",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000314125.jpg"
+  },
+  {
+    "prompt": "What is the bird doing?",
+    "answer": "flying",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000522755.jpg"
+  },
+  {
+    "prompt": "What breed of dog is pictured?",
+    "answer": "cocker spaniel",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000301943.jpg"
+  },
+  {
+    "prompt": "What team do these players play for?",
+    "answer": "cardinals",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000388294.jpg"
+  },
+  {
+    "prompt": "What breed of dog is on the couch?",
+    "answer": "cat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000325298.jpg"
+  },
+  {
+    "prompt": "What is making the shadow?",
+    "answer": "kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000296690.jpg"
+  },
+  {
+    "prompt": "What material is the bowl made from?",
+    "answer": "ceramic",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000103902.jpg"
+  },
+  {
+    "prompt": "What is he riding on?",
+    "answer": "surfboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000506691.jpg"
+  },
+  {
+    "prompt": "What pattern shirt is the women wearing?",
+    "answer": "striped",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000210344.jpg"
+  },
+  {
+    "prompt": "What breed of horse are these?",
+    "answer": "racing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000393677.jpg"
+  },
+  {
+    "prompt": "What is around the trees?",
+    "answer": "cows",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000051094.jpg"
+  },
+  {
+    "prompt": "What is shown at bottom of photo?",
+    "answer": "field",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000339705.jpg"
+  },
+  {
+    "prompt": "What vehicle is behind the bus?",
+    "answer": "car",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000212648.jpg"
+  },
+  {
+    "prompt": "What does the man have on his left hand?",
+    "answer": "glove",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000368521.jpg"
+  },
+  {
+    "prompt": "What is he carrying?",
+    "answer": "skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000033093.jpg"
+  },
+  {
+    "prompt": "What is the third eating utensil?",
+    "answer": "spoon",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000176945.jpg"
+  },
+  {
+    "prompt": "Which drawer is open?",
+    "answer": "top",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000056397.jpg"
+  },
+  {
+    "prompt": "What are the people doing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000563370.jpg"
+  },
+  {
+    "prompt": "What is under the cat?",
+    "answer": "plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000199822.jpg"
+  },
+  {
+    "prompt": "What is the clock made of?",
+    "answer": "wood",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000161348.jpg"
+  },
+  {
+    "prompt": "What cartoon character is on the blue shirt?",
+    "answer": "duck",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000294714.jpg"
+  },
+  {
+    "prompt": "What are the electronic devices hanging from the roof of the bus?",
+    "answer": "tv",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000215383.jpg"
+  },
+  {
+    "prompt": "What is the black object on the table?",
+    "answer": "stand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000431401.jpg"
+  },
+  {
+    "prompt": "What is on the airplane?",
+    "answer": "people",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000311641.jpg"
+  },
+  {
+    "prompt": "What is white?",
+    "answer": "banana",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000532624.jpg"
+  },
+  {
+    "prompt": "What purpose does the spray on the shelf have?",
+    "answer": "can't tell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000285376.jpg"
+  },
+  {
+    "prompt": "What is the man's ethnicity?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000296139.jpg"
+  },
+  {
+    "prompt": "What is the building made of?",
+    "answer": "concrete",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000133812.jpg"
+  },
+  {
+    "prompt": "Who is in that flying object?",
+    "answer": "pilot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000349580.jpg"
+  },
+  {
+    "prompt": "What country is this?",
+    "answer": "united states",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000452814.jpg"
+  },
+  {
+    "prompt": "What colors does the kite have?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000319398.jpg"
+  },
+  {
+    "prompt": "What game system is being played?",
+    "answer": "wii",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000325459.jpg"
+  },
+  {
+    "prompt": "What is the red stuff on the pizza?",
+    "answer": "tomato",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000415052.jpg"
+  },
+  {
+    "prompt": "What MLB team colors is he wearing?",
+    "answer": "orioles",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000458724.jpg"
+  },
+  {
+    "prompt": "What is the boy wearing on his left hand?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000125390.jpg"
+  },
+  {
+    "prompt": "What is the real hair color of the real man in the photo?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000360737.jpg"
+  },
+  {
+    "prompt": "What is cast?",
+    "answer": "kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000341620.jpg"
+  },
+  {
+    "prompt": "What is unusual about the shape of the bathtub?",
+    "answer": "curved",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000036605.jpg"
+  },
+  {
+    "prompt": "What are they eating?",
+    "answer": "pizza",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000355871.jpg"
+  },
+  {
+    "prompt": "What is on the street sign?",
+    "answer": "street name",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000498969.jpg"
+  },
+  {
+    "prompt": "What is the boy holding?",
+    "answer": "bat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000343227.jpg"
+  },
+  {
+    "prompt": "What sort of disaster is happening?",
+    "answer": "flood",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000381186.jpg"
+  },
+  {
+    "prompt": "What game is being played with the dog?",
+    "answer": "soccer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000366611.jpg"
+  },
+  {
+    "prompt": "What country is it?",
+    "answer": "england",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000221241.jpg"
+  },
+  {
+    "prompt": "What is clustered together in the cup?",
+    "answer": "pens",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000290668.jpg"
+  },
+  {
+    "prompt": "What are the children holding?",
+    "answer": "teddy bears",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000118256.jpg"
+  },
+  {
+    "prompt": "What are the scissors resting on?",
+    "answer": "mouse pad",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000526827.jpg"
+  },
+  {
+    "prompt": "What is this animal?",
+    "answer": "cat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000061492.jpg"
+  },
+  {
+    "prompt": "What is the cat sitting in?",
+    "answer": "suitcase",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000491845.jpg"
+  },
+  {
+    "prompt": "Which foot does the man have on his skateboard?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000114703.jpg"
+  },
+  {
+    "prompt": "What is the name of the refrigerator?",
+    "answer": "whirlpool",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000073721.jpg"
+  },
+  {
+    "prompt": "What design is on the plate?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000211498.jpg"
+  },
+  {
+    "prompt": "What is this picture next to?",
+    "answer": "beach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000008536.jpg"
+  },
+  {
+    "prompt": "What does the sign on the door say?",
+    "answer": "toilet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000285938.jpg"
+  },
+  {
+    "prompt": "What is surrounding the monument?",
+    "answer": "flags",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000534965.jpg"
+  },
+  {
+    "prompt": "What style of lettering is on the sign?",
+    "answer": "print",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000535060.jpg"
+  },
+  {
+    "prompt": "What is written where the cat is?",
+    "answer": "yamaha",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000036757.jpg"
+  },
+  {
+    "prompt": "What logo does the one on the cup represent?",
+    "answer": "starbucks",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000059123.jpg"
+  },
+  {
+    "prompt": "What picture is on the truck?",
+    "answer": "bottles",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000230931.jpg"
+  },
+  {
+    "prompt": "What are the players running towards?",
+    "answer": "goal",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000219335.jpg"
+  },
+  {
+    "prompt": "What fruit will dried grapes become?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000344758.jpg"
+  },
+  {
+    "prompt": "What is she wearing on her head?",
+    "answer": "hat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000193682.jpg"
+  },
+  {
+    "prompt": "What are the people holding?",
+    "answer": "snowboards",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000188388.jpg"
+  },
+  {
+    "prompt": "What is in the small plastic cup to the right of the tray?",
+    "answer": "pickles",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000457893.jpg"
+  },
+  {
+    "prompt": "What book is the center?",
+    "answer": "notebook",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000154202.jpg"
+  },
+  {
+    "prompt": "What colors are the bus?",
+    "answer": "orange and blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000078696.jpg"
+  },
+  {
+    "prompt": "What team does the man play for?",
+    "answer": "brewers",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000336629.jpg"
+  },
+  {
+    "prompt": "What is the cylindrical item on the bed?",
+    "answer": "pillow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000188380.jpg"
+  },
+  {
+    "prompt": "What is the object directly behind the carrots?",
+    "answer": "laptop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000231500.jpg"
+  },
+  {
+    "prompt": "What is on the chair?",
+    "answer": "tray",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000247301.jpg"
+  },
+  {
+    "prompt": "What is plugged in?",
+    "answer": "cord",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000001790.jpg"
+  },
+  {
+    "prompt": "What is the cat sitting on?",
+    "answer": "bench",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000350592.jpg"
+  },
+  {
+    "prompt": "What country's flag is flying?",
+    "answer": "united states",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000225479.jpg"
+  },
+  {
+    "prompt": "What nationality are the people in the photo?",
+    "answer": "mexican",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000295428.jpg"
+  },
+  {
+    "prompt": "What is on the other plate?",
+    "answer": "chicken",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000279199.jpg"
+  },
+  {
+    "prompt": "What is this person doing?",
+    "answer": "playing wii",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000157356.jpg"
+  },
+  {
+    "prompt": "What are the sheep eating?",
+    "answer": "grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000360665.jpg"
+  },
+  {
+    "prompt": "What two colors are in the tablecloth?",
+    "answer": "black and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000519598.jpg"
+  },
+  {
+    "prompt": "What gaming system are they playing?",
+    "answer": "wii",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000371965.jpg"
+  },
+  {
+    "prompt": "What is covering the windows?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000344029.jpg"
+  },
+  {
+    "prompt": "What hairstyle do the woman have?",
+    "answer": "ponytail",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000552267.jpg"
+  },
+  {
+    "prompt": "What is the name of the drink?",
+    "answer": "coffee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000277998.jpg"
+  },
+  {
+    "prompt": "What are the people riding on?",
+    "answer": "board",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000328732.jpg"
+  },
+  {
+    "prompt": "Which sport is this?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000184493.jpg"
+  },
+  {
+    "prompt": "What ethnicity is the person in the blue shirt?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000462944.jpg"
+  },
+  {
+    "prompt": "What is the cow standing on?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000526044.jpg"
+  },
+  {
+    "prompt": "What room of the house is this?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000420615.jpg"
+  },
+  {
+    "prompt": "What will happen if you park in front of this sign?",
+    "answer": "tow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000227847.jpg"
+  },
+  {
+    "prompt": "What is the train coming over?",
+    "answer": "tracks",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000061048.jpg"
+  },
+  {
+    "prompt": "What do cars do here?",
+    "answer": "stop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000489070.jpg"
+  },
+  {
+    "prompt": "What is the top dial for?",
+    "answer": "time",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000466895.jpg"
+  },
+  {
+    "prompt": "What are those things in the sky?",
+    "answer": "flags",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000118777.jpg"
+  },
+  {
+    "prompt": "What is this woman standing beside?",
+    "answer": "building",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000258956.jpg"
+  },
+  {
+    "prompt": "What is sitting in a vase on the table?",
+    "answer": "plant",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000448309.jpg"
+  },
+  {
+    "prompt": "What position does he play?",
+    "answer": "pitcher",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000506550.jpg"
+  },
+  {
+    "prompt": "What is in the bread?",
+    "answer": "chili",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000549780.jpg"
+  },
+  {
+    "prompt": "What is parked in the water?",
+    "answer": "boats",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000459673.jpg"
+  },
+  {
+    "prompt": "What is crossing the bridge?",
+    "answer": "cars",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000294302.jpg"
+  },
+  {
+    "prompt": "What is the ground made of?",
+    "answer": "brick",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000048682.jpg"
+  },
+  {
+    "prompt": "What is around the woman's neck?",
+    "answer": "strap",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000075546.jpg"
+  },
+  {
+    "prompt": "What does the man have on his hand?",
+    "answer": "water bottle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000526599.jpg"
+  },
+  {
+    "prompt": "Which child was born first?",
+    "answer": "girl",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000048204.jpg"
+  },
+  {
+    "prompt": "What are these people doing?",
+    "answer": "cutting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000131487.jpg"
+  },
+  {
+    "prompt": "What object is this?",
+    "answer": "plane",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000164222.jpg"
+  },
+  {
+    "prompt": "What is in the middle of the fruits?",
+    "answer": "onions",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000191854.jpg"
+  },
+  {
+    "prompt": "What is it eating?",
+    "answer": "leaves",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000476104.jpg"
+  },
+  {
+    "prompt": "What piece of clothing do people refer to when they describe this type of cat?",
+    "answer": "tuxedo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000056898.jpg"
+  },
+  {
+    "prompt": "What electronic devices are the people using?",
+    "answer": "computer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000416478.jpg"
+  },
+  {
+    "prompt": "What is on the ground next to the giraffe on the right?",
+    "answer": "log",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000000025.jpg"
+  },
+  {
+    "prompt": "What shape is the top of the building in the rear center of the photo?",
+    "answer": "triangle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000562791.jpg"
+  },
+  {
+    "prompt": "Who is the man on the bike?",
+    "answer": "biker",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000269829.jpg"
+  },
+  {
+    "prompt": "What is on the pink jacket?",
+    "answer": "dots",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000342126.jpg"
+  },
+  {
+    "prompt": "What colors is the train?",
+    "answer": "red and white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000035424.jpg"
+  },
+  {
+    "prompt": "What is he playing with?",
+    "answer": "baseball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000170127.jpg"
+  },
+  {
+    "prompt": "What flavor is the frosting on the donut?",
+    "answer": "vanilla",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000377177.jpg"
+  },
+  {
+    "prompt": "What is in the sky?",
+    "answer": "kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000057745.jpg"
+  },
+  {
+    "prompt": "What is this man's job?",
+    "answer": "jockey",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000029187.jpg"
+  },
+  {
+    "prompt": "What is the white stuff on the mountains in the background?",
+    "answer": "clouds",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000521321.jpg"
+  },
+  {
+    "prompt": "What hand signal are the surfers making?",
+    "answer": "wave",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000511062.jpg"
+  },
+  {
+    "prompt": "What are the walls made of?",
+    "answer": "plaster",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000573320.jpg"
+  },
+  {
+    "prompt": "What is flying in the air?",
+    "answer": "kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000365032.jpg"
+  },
+  {
+    "prompt": "What is cluttering up this street?",
+    "answer": "train",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000227399.jpg"
+  },
+  {
+    "prompt": "What is the fireplace made of?",
+    "answer": "brick",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000517366.jpg"
+  },
+  {
+    "prompt": "What do you call this type of sport?",
+    "answer": "kitesurfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000459943.jpg"
+  },
+  {
+    "prompt": "What shape is the red sign?",
+    "answer": "rectangle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000091517.jpg"
+  },
+  {
+    "prompt": "What is she standing on?",
+    "answer": "skis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000282558.jpg"
+  },
+  {
+    "prompt": "What clips to the top?",
+    "answer": "case",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000145610.jpg"
+  },
+  {
+    "prompt": "What is the product in the green boxes?",
+    "answer": "books",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000444591.jpg"
+  },
+  {
+    "prompt": "What is the object on the left of the dog?",
+    "answer": "cup",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000448732.jpg"
+  },
+  {
+    "prompt": "What are the pizzas sitting on?",
+    "answer": "pans",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000095349.jpg"
+  },
+  {
+    "prompt": "What food is being served in this photo?",
+    "answer": "pizza",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000088034.jpg"
+  },
+  {
+    "prompt": "What animal has horns?",
+    "answer": "bull",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000431731.jpg"
+  },
+  {
+    "prompt": "What does the left most bus have posted on top of it?",
+    "answer": "200",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000249813.jpg"
+  },
+  {
+    "prompt": "What toppings are on this pizza?",
+    "answer": "tomato",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000299715.jpg"
+  },
+  {
+    "prompt": "What is the dog tied to?",
+    "answer": "motorcycle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000532426.jpg"
+  },
+  {
+    "prompt": "What country name is on the plane?",
+    "answer": "virgin atlantic",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000495054.jpg"
+  },
+  {
+    "prompt": "What is the floor made of?",
+    "answer": "carpet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000220607.jpg"
+  },
+  {
+    "prompt": "What are these animals doing?",
+    "answer": "running",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000482062.jpg"
+  },
+  {
+    "prompt": "What are the feet propped up on?",
+    "answer": "suitcase",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000396780.jpg"
+  },
+  {
+    "prompt": "Which room of the house if pictured in this photo?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000066930.jpg"
+  },
+  {
+    "prompt": "What pattern is shown?",
+    "answer": "camouflage",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000207075.jpg"
+  },
+  {
+    "prompt": "What colors are the containers?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000541505.jpg"
+  },
+  {
+    "prompt": "What is on the man's head?",
+    "answer": "hat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000005245.jpg"
+  },
+  {
+    "prompt": "What is the common color of the three devices?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000247921.jpg"
+  },
+  {
+    "prompt": "What does the bus marquee say on the bus most forward in the photo?",
+    "answer": "not in service",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000413989.jpg"
+  },
+  {
+    "prompt": "What is in the bottle?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000111244.jpg"
+  },
+  {
+    "prompt": "What light colored item is standing next to the TV?",
+    "answer": "lamp",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000166521.jpg"
+  },
+  {
+    "prompt": "What activity is taking place in this scene?",
+    "answer": "kite flying",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000090346.jpg"
+  },
+  {
+    "prompt": "What symbol appears on the tail of the airplane?",
+    "answer": "crown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000547938.jpg"
+  },
+  {
+    "prompt": "What is the building used for?",
+    "answer": "school",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000141352.jpg"
+  },
+  {
+    "prompt": "What are the glasses sitting on?",
+    "answer": "counter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000137260.jpg"
+  },
+  {
+    "prompt": "What likely caused the rust on the top of some of the buses?",
+    "answer": "rain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000331198.jpg"
+  },
+  {
+    "prompt": "What is the cat laying on?",
+    "answer": "laptop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000326313.jpg"
+  },
+  {
+    "prompt": "What is the item on the very top of the building?",
+    "answer": "weather vane",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000464033.jpg"
+  },
+  {
+    "prompt": "What object seen on the head of the person?",
+    "answer": "sunglasses",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000162163.jpg"
+  },
+  {
+    "prompt": "What is yellow on the sandwich?",
+    "answer": "cheese",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000050829.jpg"
+  },
+  {
+    "prompt": "What is the solar panel attached to?",
+    "answer": "parking meter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000536795.jpg"
+  },
+  {
+    "prompt": "What are they?",
+    "answer": "vegetables",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000490118.jpg"
+  },
+  {
+    "prompt": "What hairstyle is the woman wearing?",
+    "answer": "bob",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000024310.jpg"
+  },
+  {
+    "prompt": "What symbol is on the front of the hat?",
+    "answer": "ducks",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000016084.jpg"
+  },
+  {
+    "prompt": "What other forms of transportation is on the road?",
+    "answer": "bike",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000390756.jpg"
+  },
+  {
+    "prompt": "What are the men carrying?",
+    "answer": "fridge",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000558031.jpg"
+  },
+  {
+    "prompt": "What is the common name of this girls hairstyle?",
+    "answer": "braid",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000407909.jpg"
+  },
+  {
+    "prompt": "What breed is this dog?",
+    "answer": "terrier",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000041552.jpg"
+  },
+  {
+    "prompt": "What vegetable is this?",
+    "answer": "broccoli",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000132041.jpg"
+  },
+  {
+    "prompt": "What is on the wall behind the altar?",
+    "answer": "window",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000075857.jpg"
+  },
+  {
+    "prompt": "What is this person stepping on?",
+    "answer": "banana peel",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000273378.jpg"
+  },
+  {
+    "prompt": "What does the dog have around his neck?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000344597.jpg"
+  },
+  {
+    "prompt": "What are the colors of the flower?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000323028.jpg"
+  },
+  {
+    "prompt": "What food is on the paper plates?",
+    "answer": "hot dogs",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000421639.jpg"
+  },
+  {
+    "prompt": "What baseball team do these men play for?",
+    "answer": "orioles",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000401957.jpg"
+  },
+  {
+    "prompt": "What should be removed before eating?",
+    "answer": "stickers",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000013428.jpg"
+  },
+  {
+    "prompt": "What are the men doing?",
+    "answer": "playing wii",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000295409.jpg"
+  },
+  {
+    "prompt": "What is the boy about to kick?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000401244.jpg"
+  },
+  {
+    "prompt": "What is the girl in pink doing?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000014698.jpg"
+  },
+  {
+    "prompt": "What program is on the TV screen?",
+    "answer": "news",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000570242.jpg"
+  },
+  {
+    "prompt": "What is the number on the bus?",
+    "answer": "52",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000143921.jpg"
+  },
+  {
+    "prompt": "What breed of dog is this?",
+    "answer": "chihuahua",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000090173.jpg"
+  },
+  {
+    "prompt": "What colors are the bench?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000539163.jpg"
+  },
+  {
+    "prompt": "What is the smallest kid holding?",
+    "answer": "controller",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000034835.jpg"
+  },
+  {
+    "prompt": "What letter is inside the circle?",
+    "answer": "p",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000234433.jpg"
+  },
+  {
+    "prompt": "What is in the man's hand?",
+    "answer": "rope",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000469499.jpg"
+  },
+  {
+    "prompt": "What is the food sitting on?",
+    "answer": "plate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000095620.jpg"
+  },
+  {
+    "prompt": "What is on the ottoman?",
+    "answer": "cat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000135158.jpg"
+  },
+  {
+    "prompt": "What is on this persons head?",
+    "answer": "beanie",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000105473.jpg"
+  },
+  {
+    "prompt": "What is in the person's hand?",
+    "answer": "kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000118934.jpg"
+  },
+  {
+    "prompt": "What is this person doing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000094664.jpg"
+  },
+  {
+    "prompt": "What insect is on the larger plate to the right?",
+    "answer": "butterfly",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000068356.jpg"
+  },
+  {
+    "prompt": "What are the long lines of light?",
+    "answer": "cars",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000525208.jpg"
+  },
+  {
+    "prompt": "What is being put in the toilet?",
+    "answer": "cat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000275831.jpg"
+  },
+  {
+    "prompt": "What flavor is this cake?",
+    "answer": "vanilla",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000186265.jpg"
+  },
+  {
+    "prompt": "What is on top of the fridge?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000456737.jpg"
+  },
+  {
+    "prompt": "What are these people playing with?",
+    "answer": "ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000561901.jpg"
+  },
+  {
+    "prompt": "What does one do with the object in the trees?",
+    "answer": "snowboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000304817.jpg"
+  },
+  {
+    "prompt": "What is on the ground by the animals?",
+    "answer": "poop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000150301.jpg"
+  },
+  {
+    "prompt": "What is the object that is out of focus in the foreground on the right?",
+    "answer": "man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000198993.jpg"
+  },
+  {
+    "prompt": "What does the writing say to the right of the foot of the ball boy?",
+    "answer": "polo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000141382.jpg"
+  },
+  {
+    "prompt": "Which animal is the youngest?",
+    "answer": "middle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000346905.jpg"
+  },
+  {
+    "prompt": "What is the gender of the person next to the toilet?",
+    "answer": "female",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000184866.jpg"
+  },
+  {
+    "prompt": "What is this man holding?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000048047.jpg"
+  },
+  {
+    "prompt": "What does the child wear to keep his mouth and nose warm?",
+    "answer": "scarf",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000213642.jpg"
+  },
+  {
+    "prompt": "What is shown here?",
+    "answer": "scooter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000015379.jpg"
+  },
+  {
+    "prompt": "What is the white object in the oven?",
+    "answer": "cupcakes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000281032.jpg"
+  },
+  {
+    "prompt": "What is the player trying to do?",
+    "answer": "hit ball",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000349974.jpg"
+  },
+  {
+    "prompt": "What meal is on the plate?",
+    "answer": "pizza",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000345390.jpg"
+  },
+  {
+    "prompt": "What is the elephant walking on?",
+    "answer": "pavement",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000011340.jpg"
+  },
+  {
+    "prompt": "What is white in the sky?",
+    "answer": "snow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000221317.jpg"
+  },
+  {
+    "prompt": "What is in the background?",
+    "answer": "clouds",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000419074.jpg"
+  },
+  {
+    "prompt": "What is the boat leaving, behind it, in the water as it moves?",
+    "answer": "waves",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000172665.jpg"
+  },
+  {
+    "prompt": "What hand is she holding the mug with?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000330650.jpg"
+  },
+  {
+    "prompt": "What game is the man playing?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000303548.jpg"
+  },
+  {
+    "prompt": "What is the Christmas tree?",
+    "answer": "decoration",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000373101.jpg"
+  },
+  {
+    "prompt": "What sort of room is this?",
+    "answer": "office",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000506592.jpg"
+  },
+  {
+    "prompt": "What makes the smile?",
+    "answer": "banana",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000232341.jpg"
+  },
+  {
+    "prompt": "What direction is the man swinging the bat?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000522978.jpg"
+  },
+  {
+    "prompt": "What is the number on the blue plane?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000000913.jpg"
+  },
+  {
+    "prompt": "What country was this photo taken in?",
+    "answer": "america",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000314064.jpg"
+  },
+  {
+    "prompt": "What are the girls sitting on?",
+    "answer": "chairs",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000520479.jpg"
+  },
+  {
+    "prompt": "What is in the glass?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000030855.jpg"
+  },
+  {
+    "prompt": "What is the style of artwork on the ceiling called?",
+    "answer": "tile",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000371796.jpg"
+  },
+  {
+    "prompt": "What is on the tail of the Air Canada plane?",
+    "answer": "maple leaf",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000474390.jpg"
+  },
+  {
+    "prompt": "What is she looking at?",
+    "answer": "camera",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000439506.jpg"
+  },
+  {
+    "prompt": "What animals are pictured?",
+    "answer": "horses",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000129347.jpg"
+  },
+  {
+    "prompt": "What is the fruit on the table?",
+    "answer": "avocado",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000401390.jpg"
+  },
+  {
+    "prompt": "What number of veggies are on this platter?",
+    "answer": "7",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000572307.jpg"
+  },
+  {
+    "prompt": "What is the street name?",
+    "answer": "river",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000557442.jpg"
+  },
+  {
+    "prompt": "What does the person with the Frisbee have on his head?",
+    "answer": "hair",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000413927.jpg"
+  },
+  {
+    "prompt": "What state is the car from?",
+    "answer": "can't tell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000427467.jpg"
+  },
+  {
+    "prompt": "What is this light for?",
+    "answer": "nighttime",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000197774.jpg"
+  },
+  {
+    "prompt": "What is behind the TV?",
+    "answer": "wall",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000232302.jpg"
+  },
+  {
+    "prompt": "What fruit is shown for $4.99?",
+    "answer": "mango",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000479198.jpg"
+  },
+  {
+    "prompt": "What is the weather like?",
+    "answer": "cloudy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000348602.jpg"
+  },
+  {
+    "prompt": "What are the colors of the bus?",
+    "answer": "red and yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000012892.jpg"
+  },
+  {
+    "prompt": "What are the people riding?",
+    "answer": "snowboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000118564.jpg"
+  },
+  {
+    "prompt": "What is this woman holding up to her ear?",
+    "answer": "cell phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000376125.jpg"
+  },
+  {
+    "prompt": "What is on the fence?",
+    "answer": "trees",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000436632.jpg"
+  },
+  {
+    "prompt": "What is on the far outside wall?",
+    "answer": "graffiti",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000246878.jpg"
+  },
+  {
+    "prompt": "What are these women doing?",
+    "answer": "cooking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000505152.jpg"
+  },
+  {
+    "prompt": "What items are being used as obstacles?",
+    "answer": "cones",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000334645.jpg"
+  },
+  {
+    "prompt": "Which color of the cone is reflective?",
+    "answer": "silver",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000546531.jpg"
+  },
+  {
+    "prompt": "What country's flag is the man holding?",
+    "answer": "united states",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000511844.jpg"
+  },
+  {
+    "prompt": "What city are they in?",
+    "answer": "chicago",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000558229.jpg"
+  },
+  {
+    "prompt": "What material is the table made of?",
+    "answer": "marble",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000372121.jpg"
+  },
+  {
+    "prompt": "Which animal is this?",
+    "answer": "dog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000111820.jpg"
+  },
+  {
+    "prompt": "What chain are these donuts and coffee at?",
+    "answer": "dunkin donuts",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000068397.jpg"
+  },
+  {
+    "prompt": "What are these called?",
+    "answer": "toilets",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000496166.jpg"
+  },
+  {
+    "prompt": "What pattern is his shirt?",
+    "answer": "solid",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000505265.jpg"
+  },
+  {
+    "prompt": "What is the dog doing?",
+    "answer": "sniffing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000158806.jpg"
+  },
+  {
+    "prompt": "What are they playing?",
+    "answer": "brushing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000209279.jpg"
+  },
+  {
+    "prompt": "What facial expression does the woman have?",
+    "answer": "angry",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000348403.jpg"
+  },
+  {
+    "prompt": "What state is this truck from?",
+    "answer": "texas",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000192607.jpg"
+  },
+  {
+    "prompt": "What colors are on the shower curtain?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000566193.jpg"
+  },
+  {
+    "prompt": "What spice is on the tomatoes?",
+    "answer": "parsley",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000031286.jpg"
+  },
+  {
+    "prompt": "What shape is the faucet?",
+    "answer": "square",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000103631.jpg"
+  },
+  {
+    "prompt": "What is this toy?",
+    "answer": "bear",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000219283.jpg"
+  },
+  {
+    "prompt": "What dispenses from the white knobs next to the counter?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000171353.jpg"
+  },
+  {
+    "prompt": "What is the top of the table made of?",
+    "answer": "glass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000142364.jpg"
+  },
+  {
+    "prompt": "What is man in checkered doing?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000034020.jpg"
+  },
+  {
+    "prompt": "What side of the street are we looking from?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000115169.jpg"
+  },
+  {
+    "prompt": "What is the boat used for?",
+    "answer": "people",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000304126.jpg"
+  },
+  {
+    "prompt": "What is the ocean condition?",
+    "answer": "choppy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000236698.jpg"
+  },
+  {
+    "prompt": "What is the girl petting?",
+    "answer": "horse",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000220799.jpg"
+  },
+  {
+    "prompt": "What are the people wearing to protect their knees and elbows?",
+    "answer": "knee pads",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000301207.jpg"
+  },
+  {
+    "prompt": "What is the lady walking in front of?",
+    "answer": "barrier",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000323397.jpg"
+  },
+  {
+    "prompt": "What is this person eating?",
+    "answer": "hot dog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000215564.jpg"
+  },
+  {
+    "prompt": "What is the number lit up on the bus?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000445606.jpg"
+  },
+  {
+    "prompt": "What gaming system are the woman playing?",
+    "answer": "cell phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000098494.jpg"
+  },
+  {
+    "prompt": "What is the child holding?",
+    "answer": "controller",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000447112.jpg"
+  },
+  {
+    "prompt": "What are the people standing on?",
+    "answer": "sand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000216314.jpg"
+  },
+  {
+    "prompt": "Who is cycling?",
+    "answer": "woman",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000423776.jpg"
+  },
+  {
+    "prompt": "What is the shape of the mouse?",
+    "answer": "oval",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000406286.jpg"
+  },
+  {
+    "prompt": "What is under the doughnut?",
+    "answer": "egg",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000163197.jpg"
+  },
+  {
+    "prompt": "What is this person doing?",
+    "answer": "surfing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000451732.jpg"
+  },
+  {
+    "prompt": "What object is the child holding?",
+    "answer": "tennis racket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000111812.jpg"
+  },
+  {
+    "prompt": "Who is throwing the Frisbee?",
+    "answer": "human",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000134324.jpg"
+  },
+  {
+    "prompt": "What is the lady doing?",
+    "answer": "eating",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000569742.jpg"
+  },
+  {
+    "prompt": "What is this person wearing on their head?",
+    "answer": "hat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000565044.jpg"
+  },
+  {
+    "prompt": "What make and model is the laptop?",
+    "answer": "acer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000313593.jpg"
+  },
+  {
+    "prompt": "What is on the person's belt?",
+    "answer": "phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000132258.jpg"
+  },
+  {
+    "prompt": "What are the children making?",
+    "answer": "pizza",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000260110.jpg"
+  },
+  {
+    "prompt": "What is the arrow pointing to?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000507028.jpg"
+  },
+  {
+    "prompt": "What is on his head?",
+    "answer": "umbrella",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000170077.jpg"
+  },
+  {
+    "prompt": "What position does this person play?",
+    "answer": "batter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000126521.jpg"
+  },
+  {
+    "prompt": "What does the man's shirt say?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000245271.jpg"
+  },
+  {
+    "prompt": "What is in those barrels?",
+    "answer": "wine",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000061139.jpg"
+  },
+  {
+    "prompt": "What is on the tree?",
+    "answer": "leaves",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000253715.jpg"
+  },
+  {
+    "prompt": "What is the pizza in?",
+    "answer": "box",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000133672.jpg"
+  },
+  {
+    "prompt": "What is on the pancakes?",
+    "answer": "butter",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000328838.jpg"
+  },
+  {
+    "prompt": "What colors is the horse's coat?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000359984.jpg"
+  },
+  {
+    "prompt": "What is the sign cautioning the driver to look for?",
+    "answer": "pedestrians",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000543466.jpg"
+  },
+  {
+    "prompt": "What is hanging in the window?",
+    "answer": "umbrella",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000280556.jpg"
+  },
+  {
+    "prompt": "What is the table made of?",
+    "answer": "wood",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000347087.jpg"
+  },
+  {
+    "prompt": "Which foot is stepping forward?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000150981.jpg"
+  },
+  {
+    "prompt": "What are they eating?",
+    "answer": "grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000448319.jpg"
+  },
+  {
+    "prompt": "What is in the jacuzzi?",
+    "answer": "trash",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000014730.jpg"
+  },
+  {
+    "prompt": "What will change in their environment if they say much longer?",
+    "answer": "dark",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000489616.jpg"
+  },
+  {
+    "prompt": "What does the person in the middle sit on?",
+    "answer": "skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000033838.jpg"
+  },
+  {
+    "prompt": "What is the date on the photo?",
+    "answer": "2009",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000513105.jpg"
+  },
+  {
+    "prompt": "What does the man have on top of his head?",
+    "answer": "hat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000404005.jpg"
+  },
+  {
+    "prompt": "What company makes the yellow motorcycle?",
+    "answer": "harley",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000220106.jpg"
+  },
+  {
+    "prompt": "What is the crowd watching?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000186721.jpg"
+  },
+  {
+    "prompt": "What is the object on top of this building?",
+    "answer": "cross",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000577413.jpg"
+  },
+  {
+    "prompt": "What is the fruit?",
+    "answer": "orange",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000155105.jpg"
+  },
+  {
+    "prompt": "What are the shelves made of?",
+    "answer": "wood",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000423275.jpg"
+  },
+  {
+    "prompt": "What is this animal?",
+    "answer": "dog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000010248.jpg"
+  },
+  {
+    "prompt": "What is keeping them cool?",
+    "answer": "air",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000542839.jpg"
+  },
+  {
+    "prompt": "What is in the bowl?",
+    "answer": "cat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000055630.jpg"
+  },
+  {
+    "prompt": "What are these animals doing?",
+    "answer": "grazing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000335610.jpg"
+  },
+  {
+    "prompt": "What sort of vehicle is this?",
+    "answer": "bicycle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000520049.jpg"
+  },
+  {
+    "prompt": "What is the main color of the towel hanging to the left of the toilet?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000539026.jpg"
+  },
+  {
+    "prompt": "What holiday are the celebrating?",
+    "answer": "christmas",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000307800.jpg"
+  },
+  {
+    "prompt": "What is in the sky?",
+    "answer": "airplanes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000487770.jpg"
+  },
+  {
+    "prompt": "What animal are the people riding?",
+    "answer": "elephant",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000481667.jpg"
+  },
+  {
+    "prompt": "What are the people doing?",
+    "answer": "sitting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000562292.jpg"
+  },
+  {
+    "prompt": "What holiday is it?",
+    "answer": "christmas",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000429384.jpg"
+  },
+  {
+    "prompt": "What is the purpose of the black object?",
+    "answer": "transportation",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000560723.jpg"
+  },
+  {
+    "prompt": "What button ends a call?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000427068.jpg"
+  },
+  {
+    "prompt": "What activity are the people doing?",
+    "answer": "camping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000187986.jpg"
+  },
+  {
+    "prompt": "What is on top of the obstacle?",
+    "answer": "can",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000001811.jpg"
+  },
+  {
+    "prompt": "What is behind the glass?",
+    "answer": "clock",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000413497.jpg"
+  },
+  {
+    "prompt": "What are these people doing?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000085400.jpg"
+  },
+  {
+    "prompt": "What country's flag is shown?",
+    "answer": "usa",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000058101.jpg"
+  },
+  {
+    "prompt": "What item in the background has two cups on it?",
+    "answer": "picnic table",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000256951.jpg"
+  },
+  {
+    "prompt": "What is in the man's mouth?",
+    "answer": "cigarette",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000057157.jpg"
+  },
+  {
+    "prompt": "What is behind the hydrant?",
+    "answer": "tire",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000217823.jpg"
+  },
+  {
+    "prompt": "What is around the animal's neck?",
+    "answer": "ribbon",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000367809.jpg"
+  },
+  {
+    "prompt": "What design is on this cake?",
+    "answer": "tree",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000314331.jpg"
+  },
+  {
+    "prompt": "What year is on the bottle?",
+    "answer": "beer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000225458.jpg"
+  },
+  {
+    "prompt": "What is the store selling?",
+    "answer": "cameras",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000357984.jpg"
+  },
+  {
+    "prompt": "Which animal is this?",
+    "answer": "dog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000565663.jpg"
+  },
+  {
+    "prompt": "What is seen outside the window?",
+    "answer": "stairs",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000300444.jpg"
+  },
+  {
+    "prompt": "What is this food?",
+    "answer": "cheesecake",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000552352.jpg"
+  },
+  {
+    "prompt": "What are the two long green sticks?",
+    "answer": "celery",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000337522.jpg"
+  },
+  {
+    "prompt": "What country is this picture?",
+    "answer": "england",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000253467.jpg"
+  },
+  {
+    "prompt": "What sport are they doing?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000555778.jpg"
+  },
+  {
+    "prompt": "What is sitting on the luggage?",
+    "answer": "stuffed animal",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000170309.jpg"
+  },
+  {
+    "prompt": "What is across the street?",
+    "answer": "building",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000507135.jpg"
+  },
+  {
+    "prompt": "What reflection is in the mirror?",
+    "answer": "ceiling",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000029288.jpg"
+  },
+  {
+    "prompt": "What race is the woman in the picture?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000321495.jpg"
+  },
+  {
+    "prompt": "What objects are on the tables?",
+    "answer": "umbrellas",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000315168.jpg"
+  },
+  {
+    "prompt": "What is on the table?",
+    "answer": "pizza",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000330451.jpg"
+  },
+  {
+    "prompt": "What object is in the dog's mouth?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000146334.jpg"
+  },
+  {
+    "prompt": "What are the indentations in the sand?",
+    "answer": "footprints",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000123598.jpg"
+  },
+  {
+    "prompt": "What are the birds standing on?",
+    "answer": "sand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000007048.jpg"
+  },
+  {
+    "prompt": "What is the blue plastic thing by the toilet?",
+    "answer": "trash can",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000138819.jpg"
+  },
+  {
+    "prompt": "What is the name of the restaurant?",
+    "answer": "home",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000277718.jpg"
+  },
+  {
+    "prompt": "What is this person's gender?",
+    "answer": "male",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000400655.jpg"
+  },
+  {
+    "prompt": "What is sitting above the dryer?",
+    "answer": "shelf",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000184828.jpg"
+  },
+  {
+    "prompt": "Which  ear is pierced?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000122549.jpg"
+  },
+  {
+    "prompt": "Who is talking?",
+    "answer": "woman",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000055874.jpg"
+  },
+  {
+    "prompt": "What texture is the man's hair?",
+    "answer": "curly",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000091842.jpg"
+  },
+  {
+    "prompt": "Which item on the plate resembles a tree?",
+    "answer": "broccoli",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000084244.jpg"
+  },
+  {
+    "prompt": "What is on the little girls face?",
+    "answer": "paint",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000108154.jpg"
+  },
+  {
+    "prompt": "What airline does this plane belong to?",
+    "answer": "delta",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000449577.jpg"
+  },
+  {
+    "prompt": "What is the kid holding?",
+    "answer": "stuffed animal",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000050638.jpg"
+  },
+  {
+    "prompt": "What is the bird standing on?",
+    "answer": "branch",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000283199.jpg"
+  },
+  {
+    "prompt": "What does the sign say on the ground?",
+    "answer": "for sale",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000454745.jpg"
+  },
+  {
+    "prompt": "What year was this taken?",
+    "answer": "2012",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000268224.jpg"
+  },
+  {
+    "prompt": "What landforms are behind the cows?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000526044.jpg"
+  },
+  {
+    "prompt": "What are the round items on the boat?",
+    "answer": "balloons",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000484386.jpg"
+  },
+  {
+    "prompt": "What fruit is this?",
+    "answer": "bananas",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000187178.jpg"
+  },
+  {
+    "prompt": "What airline is the plane owned by?",
+    "answer": "united",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000336690.jpg"
+  },
+  {
+    "prompt": "Which dog's tongue is sticking out?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000367120.jpg"
+  },
+  {
+    "prompt": "What does the bottom sign mean?",
+    "answer": "no left turn",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000488327.jpg"
+  },
+  {
+    "prompt": "What is the table made from?",
+    "answer": "wood",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000288507.jpg"
+  },
+  {
+    "prompt": "What is the young lady eating?",
+    "answer": "sandwich",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000106287.jpg"
+  },
+  {
+    "prompt": "What was in the clear glass container?",
+    "answer": "orange juice",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000151328.jpg"
+  },
+  {
+    "prompt": "What is under the mouse?",
+    "answer": "paper",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000184705.jpg"
+  },
+  {
+    "prompt": "What is the yellow object?",
+    "answer": "banana",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000266176.jpg"
+  },
+  {
+    "prompt": "What is the bird doing?",
+    "answer": "swimming",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000121384.jpg"
+  },
+  {
+    "prompt": "What ethnicity is the woman?",
+    "answer": "asian",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000360548.jpg"
+  },
+  {
+    "prompt": "What are the people on the sidewalk doing in the picture?",
+    "answer": "walking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000157958.jpg"
+  },
+  {
+    "prompt": "What can be seen in the upper right corner?",
+    "answer": "cloud",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000251335.jpg"
+  },
+  {
+    "prompt": "What is the gender of this person?",
+    "answer": "male",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000217322.jpg"
+  },
+  {
+    "prompt": "What direction are they facing?",
+    "answer": "camera",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000337156.jpg"
+  },
+  {
+    "prompt": "What is on the bench?",
+    "answer": "laptop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000578775.jpg"
+  },
+  {
+    "prompt": "What is on the end of the giraffes hair?",
+    "answer": "tail",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000233245.jpg"
+  },
+  {
+    "prompt": "What flock of animals are photographed?",
+    "answer": "cows",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000090433.jpg"
+  },
+  {
+    "prompt": "What is the blue truck doing to the bus?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000480728.jpg"
+  },
+  {
+    "prompt": "What is the boat anchored to?",
+    "answer": "rock",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000378101.jpg"
+  },
+  {
+    "prompt": "What position does this player play?",
+    "answer": "pitcher",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000433051.jpg"
+  },
+  {
+    "prompt": "What are these scissors used for?",
+    "answer": "cutting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000172324.jpg"
+  },
+  {
+    "prompt": "What gender is the person pictured?",
+    "answer": "male",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000122549.jpg"
+  },
+  {
+    "prompt": "What would someone use a mouse for?",
+    "answer": "computer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000335658.jpg"
+  },
+  {
+    "prompt": "What number of stories is this bus?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000074523.jpg"
+  },
+  {
+    "prompt": "What is next to the fridge?",
+    "answer": "books",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000492183.jpg"
+  },
+  {
+    "prompt": "What is in the picture?",
+    "answer": "kites",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000467245.jpg"
+  },
+  {
+    "prompt": "What is the weather like?",
+    "answer": "sunny",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000281512.jpg"
+  },
+  {
+    "prompt": "What food is there to eat?",
+    "answer": "italian",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000324488.jpg"
+  },
+  {
+    "prompt": "What sound does this animal make?",
+    "answer": "pink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000456106.jpg"
+  },
+  {
+    "prompt": "What language is the sign written in?",
+    "answer": "chinese",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000476335.jpg"
+  },
+  {
+    "prompt": "What is the animal standing next to?",
+    "answer": "tree",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000234291.jpg"
+  },
+  {
+    "prompt": "What is over the man's shoulders?",
+    "answer": "trees",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000283520.jpg"
+  },
+  {
+    "prompt": "What is on the boy's head?",
+    "answer": "hat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000163025.jpg"
+  },
+  {
+    "prompt": "What shape is the mirror?",
+    "answer": "round",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000437395.jpg"
+  },
+  {
+    "prompt": "Which room  is this?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000411450.jpg"
+  },
+  {
+    "prompt": "What is the clock for?",
+    "answer": "time",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000238184.jpg"
+  },
+  {
+    "prompt": "What is yellow in this picture?",
+    "answer": "grass",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000029327.jpg"
+  },
+  {
+    "prompt": "What is the name of the river?",
+    "answer": "cannot tell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000232889.jpg"
+  },
+  {
+    "prompt": "What is on the ground?",
+    "answer": "skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000200896.jpg"
+  },
+  {
+    "prompt": "What is the orange food?",
+    "answer": "pizza",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000045526.jpg"
+  },
+  {
+    "prompt": "What is the word on the screen?",
+    "answer": "200",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000050099.jpg"
+  },
+  {
+    "prompt": "What foot does the elephant have raised?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000398172.jpg"
+  },
+  {
+    "prompt": "What is this vehicle transporting?",
+    "answer": "people",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000324413.jpg"
+  },
+  {
+    "prompt": "What game is this?",
+    "answer": "tennis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000547730.jpg"
+  },
+  {
+    "prompt": "What is in the sky?",
+    "answer": "kite",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000326076.jpg"
+  },
+  {
+    "prompt": "What is this dish called?",
+    "answer": "pizza",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000263896.jpg"
+  },
+  {
+    "prompt": "What is on the man's right arm?",
+    "answer": "watch",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000118694.jpg"
+  },
+  {
+    "prompt": "What city is this plane in?",
+    "answer": "boston",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000314788.jpg"
+  },
+  {
+    "prompt": "What are the things that look similar which sit on the desk?",
+    "answer": "speakers",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000390262.jpg"
+  },
+  {
+    "prompt": "What is hanging on the wall?",
+    "answer": "picture",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000351972.jpg"
+  },
+  {
+    "prompt": "What season is it?",
+    "answer": "summer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000275727.jpg"
+  },
+  {
+    "prompt": "What are on the back of the wall?",
+    "answer": "screen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000410409.jpg"
+  },
+  {
+    "prompt": "What activity are these people participating in?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000313385.jpg"
+  },
+  {
+    "prompt": "What food is the person slicing?",
+    "answer": "pizza",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000177381.jpg"
+  },
+  {
+    "prompt": "What is the food with the metal rings?",
+    "answer": "fruit",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000039080.jpg"
+  },
+  {
+    "prompt": "What is in the pot?",
+    "answer": "stew",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000117160.jpg"
+  },
+  {
+    "prompt": "What is cooking in the pot?",
+    "answer": "soup",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000227765.jpg"
+  },
+  {
+    "prompt": "What are they eating?",
+    "answer": "hay",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000476848.jpg"
+  },
+  {
+    "prompt": "What is the symbol on the white sign?",
+    "answer": "x",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000071879.jpg"
+  },
+  {
+    "prompt": "What does the sign on the left say?",
+    "answer": "can't tell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000448842.jpg"
+  },
+  {
+    "prompt": "What does the P above the machine mean?",
+    "answer": "parking",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000265173.jpg"
+  },
+  {
+    "prompt": "Who is driving the truck?",
+    "answer": "man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000376084.jpg"
+  },
+  {
+    "prompt": "What is yellow in the image?",
+    "answer": "bananas",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000399376.jpg"
+  },
+  {
+    "prompt": "What does the side of the camel say?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000023702.jpg"
+  },
+  {
+    "prompt": "What team is playing?",
+    "answer": "orioles",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000554238.jpg"
+  },
+  {
+    "prompt": "What does the street graffiti say?",
+    "answer": "go",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000226354.jpg"
+  },
+  {
+    "prompt": "Which man threw the frisbee last?",
+    "answer": "boy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000229935.jpg"
+  },
+  {
+    "prompt": "Which hand is holding the ball?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000567827.jpg"
+  },
+  {
+    "prompt": "What is the cat sleeping on?",
+    "answer": "couch",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000226220.jpg"
+  },
+  {
+    "prompt": "What is hair color of the man without the glasses?",
+    "answer": "black",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000027237.jpg"
+  },
+  {
+    "prompt": "What country's palace guards have uniforms like this?",
+    "answer": "england",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000207250.jpg"
+  },
+  {
+    "prompt": "Who is behind the umbrella?",
+    "answer": "nobody",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000160085.jpg"
+  },
+  {
+    "prompt": "Who is the tallest person in this photo?",
+    "answer": "blonde",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000520124.jpg"
+  },
+  {
+    "prompt": "What is this stuffed animal?",
+    "answer": "bear",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000264982.jpg"
+  },
+  {
+    "prompt": "What hand is he using to hold the phone?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000014549.jpg"
+  },
+  {
+    "prompt": "What is spraying out of the hydrant?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000040500.jpg"
+  },
+  {
+    "prompt": "What is under the tables?",
+    "answer": "vegetables",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000130362.jpg"
+  },
+  {
+    "prompt": "What letter is on the green shirt?",
+    "answer": "n",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000173772.jpg"
+  },
+  {
+    "prompt": "What is the participant's number?",
+    "answer": "4",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000119766.jpg"
+  },
+  {
+    "prompt": "Which plant looks like a \"Miracle Grow\" user?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000344094.jpg"
+  },
+  {
+    "prompt": "What liquid is in the jug with the blue label?",
+    "answer": "soap",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000476093.jpg"
+  },
+  {
+    "prompt": "Who is reflecting in the window?",
+    "answer": "woman",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000338025.jpg"
+  },
+  {
+    "prompt": "What is the word in the lower left corner of the screen?",
+    "answer": "big",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000157944.jpg"
+  },
+  {
+    "prompt": "What is stuffed in the bin?",
+    "answer": "toilet paper",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000154718.jpg"
+  },
+  {
+    "prompt": "What is the baby looking at?",
+    "answer": "camera",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000237241.jpg"
+  },
+  {
+    "prompt": "What appears on the bears face to make him/her look frightening?",
+    "answer": "blood",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000081081.jpg"
+  },
+  {
+    "prompt": "What animal participates in the sport?",
+    "answer": "horse",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000175417.jpg"
+  },
+  {
+    "prompt": "What is on the plate?",
+    "answer": "food",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000566968.jpg"
+  },
+  {
+    "prompt": "What is the cat sitting on?",
+    "answer": "laptop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000040419.jpg"
+  },
+  {
+    "prompt": "What is the location?",
+    "answer": "parking lot",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000111955.jpg"
+  },
+  {
+    "prompt": "What is the building made of?",
+    "answer": "wood",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000011680.jpg"
+  },
+  {
+    "prompt": "What does the sign right above the man's head say?",
+    "answer": "park",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000245118.jpg"
+  },
+  {
+    "prompt": "Which sign is the traffic light showing?",
+    "answer": "red",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000149464.jpg"
+  },
+  {
+    "prompt": "What is the table made out of?",
+    "answer": "tile",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000013076.jpg"
+  },
+  {
+    "prompt": "What caused the donut pattern?",
+    "answer": "people",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000554070.jpg"
+  },
+  {
+    "prompt": "What is the knife sitting on?",
+    "answer": "cutting board",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000175293.jpg"
+  },
+  {
+    "prompt": "What does the motorcycle have on it's side?",
+    "answer": "triumph",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000368645.jpg"
+  },
+  {
+    "prompt": "What is the bird sitting on?",
+    "answer": "branch",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000240590.jpg"
+  },
+  {
+    "prompt": "What are they watching?",
+    "answer": "hockey",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000414552.jpg"
+  },
+  {
+    "prompt": "What street light is lit up?",
+    "answer": "0",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000043947.jpg"
+  },
+  {
+    "prompt": "Which phones are Verizon?",
+    "answer": "2",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000490320.jpg"
+  },
+  {
+    "prompt": "What is in the reflection in the mirror in the bottom left corner?",
+    "answer": "toilet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000289245.jpg"
+  },
+  {
+    "prompt": "What is in the background?",
+    "answer": "trees",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000521822.jpg"
+  },
+  {
+    "prompt": "Which way is the one way sign pointing?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000389304.jpg"
+  },
+  {
+    "prompt": "What is the dog holding in his mouth?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000265503.jpg"
+  },
+  {
+    "prompt": "What is the scene in the background?",
+    "answer": "kites",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000368087.jpg"
+  },
+  {
+    "prompt": "Which pizza has more slices left?",
+    "answer": "both",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000054355.jpg"
+  },
+  {
+    "prompt": "What pattern is the orange and white cloth?",
+    "answer": "checkered",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000347362.jpg"
+  },
+  {
+    "prompt": "What is displayed on the computer monitor?",
+    "answer": "screen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000554920.jpg"
+  },
+  {
+    "prompt": "Which room is this?",
+    "answer": "bedroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000009857.jpg"
+  },
+  {
+    "prompt": "What is the cat's paws on?",
+    "answer": "keyboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000178798.jpg"
+  },
+  {
+    "prompt": "What colors make up the train?",
+    "answer": "red and yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000125244.jpg"
+  },
+  {
+    "prompt": "What is behind the elephant?",
+    "answer": "fence",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000417142.jpg"
+  },
+  {
+    "prompt": "What is this person riding?",
+    "answer": "dirt bike",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000384626.jpg"
+  },
+  {
+    "prompt": "What style of pasta is on the plate?",
+    "answer": "shells",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000456724.jpg"
+  },
+  {
+    "prompt": "What is covering the ground?",
+    "answer": "sand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000134856.jpg"
+  },
+  {
+    "prompt": "What is the location of the toilet paper?",
+    "answer": "sink",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000232649.jpg"
+  },
+  {
+    "prompt": "What is on the toilet bowl?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000043099.jpg"
+  },
+  {
+    "prompt": "What are the color of the lines on the court?",
+    "answer": "red and blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000578292.jpg"
+  },
+  {
+    "prompt": "What event do you think is going on in the scene?",
+    "answer": "party",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000357059.jpg"
+  },
+  {
+    "prompt": "What fruit do you see?",
+    "answer": "oranges",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000452789.jpg"
+  },
+  {
+    "prompt": "What is the condition of the sky?",
+    "answer": "cloudy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000438200.jpg"
+  },
+  {
+    "prompt": "What is lying in the snow?",
+    "answer": "skis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000234709.jpg"
+  },
+  {
+    "prompt": "What is the cat doing?",
+    "answer": "climbing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000208834.jpg"
+  },
+  {
+    "prompt": "What are they pictures on the sign?",
+    "answer": "bicycle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000326613.jpg"
+  },
+  {
+    "prompt": "What anatomy is shown on the cover behind the carrots?",
+    "answer": "skull",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000507067.jpg"
+  },
+  {
+    "prompt": "What are the chairs made of?",
+    "answer": "wood",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000350303.jpg"
+  },
+  {
+    "prompt": "What is painted on the toilet lid?",
+    "answer": "graffiti",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000303549.jpg"
+  },
+  {
+    "prompt": "What number of knobs are on the oven?",
+    "answer": "5",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000326293.jpg"
+  },
+  {
+    "prompt": "What is in her right hand?",
+    "answer": "cell phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000261785.jpg"
+  },
+  {
+    "prompt": "What is the brand of mustard?",
+    "answer": "heinz",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000303708.jpg"
+  },
+  {
+    "prompt": "What is the kid riding?",
+    "answer": "skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000553852.jpg"
+  },
+  {
+    "prompt": "What game are they playing?",
+    "answer": "soccer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000474028.jpg"
+  },
+  {
+    "prompt": "What room of the house are the women in?",
+    "answer": "kitchen",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000040414.jpg"
+  },
+  {
+    "prompt": "What is to the right?",
+    "answer": "fork",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000250771.jpg"
+  },
+  {
+    "prompt": "What print is on the tie?",
+    "answer": "flowers",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000125051.jpg"
+  },
+  {
+    "prompt": "What is she looking at?",
+    "answer": "bird",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000496215.jpg"
+  },
+  {
+    "prompt": "What does the man have on his head?",
+    "answer": "headband",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000217653.jpg"
+  },
+  {
+    "prompt": "What material are the walls of this room made from?",
+    "answer": "brick",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000151670.jpg"
+  },
+  {
+    "prompt": "What is in the black bag?",
+    "answer": "camera",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000170917.jpg"
+  },
+  {
+    "prompt": "What is on the man's face?",
+    "answer": "glasses",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000263094.jpg"
+  },
+  {
+    "prompt": "What food is this?",
+    "answer": "donuts",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000190094.jpg"
+  },
+  {
+    "prompt": "What is the baby sitting on?",
+    "answer": "bed",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000138179.jpg"
+  },
+  {
+    "prompt": "What is hanging above the oven?",
+    "answer": "tiles",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000259721.jpg"
+  },
+  {
+    "prompt": "Which police officer is not wearing sunglasses?",
+    "answer": "female",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000160968.jpg"
+  },
+  {
+    "prompt": "What is on the corner above the toilet?",
+    "answer": "toilet paper",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000125059.jpg"
+  },
+  {
+    "prompt": "What is the boy holding?",
+    "answer": "wii remote",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000090615.jpg"
+  },
+  {
+    "prompt": "What is attached to the wall?",
+    "answer": "tv",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000497928.jpg"
+  },
+  {
+    "prompt": "What number of people are on the field?",
+    "answer": "6",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000130699.jpg"
+  },
+  {
+    "prompt": "What words are on the heart of the teddy bear?",
+    "answer": "love",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000572260.jpg"
+  },
+  {
+    "prompt": "What is on the horse on the right?",
+    "answer": "saddle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000086329.jpg"
+  },
+  {
+    "prompt": "What is the white object to the left?",
+    "answer": "bathtub",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000279939.jpg"
+  },
+  {
+    "prompt": "What is the weather like?",
+    "answer": "cloudy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000030856.jpg"
+  },
+  {
+    "prompt": "What is the chair made of?",
+    "answer": "metal",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000385259.jpg"
+  },
+  {
+    "prompt": "What is the billboard in this picture advertising?",
+    "answer": "car",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000251318.jpg"
+  },
+  {
+    "prompt": "What game are they playing?",
+    "answer": "soccer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000328161.jpg"
+  },
+  {
+    "prompt": "What are these two throwing to each other?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000116982.jpg"
+  },
+  {
+    "prompt": "What material is the dock made of?",
+    "answer": "wood",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000017392.jpg"
+  },
+  {
+    "prompt": "What is the design of the child's shirt?",
+    "answer": "striped",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000337541.jpg"
+  },
+  {
+    "prompt": "What is the dog on?",
+    "answer": "truck",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000332078.jpg"
+  },
+  {
+    "prompt": "What is all over her dress?",
+    "answer": "floral",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000070921.jpg"
+  },
+  {
+    "prompt": "What are the planes doing?",
+    "answer": "flying",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000131784.jpg"
+  },
+  {
+    "prompt": "What game are they playing?",
+    "answer": "bowling",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000345532.jpg"
+  },
+  {
+    "prompt": "What is written on the step?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000450026.jpg"
+  },
+  {
+    "prompt": "What are the people carrying?",
+    "answer": "skis",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000019096.jpg"
+  },
+  {
+    "prompt": "What kind if event is this probably?",
+    "answer": "party",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000067207.jpg"
+  },
+  {
+    "prompt": "What is the boy wearing?",
+    "answer": "clothes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000385280.jpg"
+  },
+  {
+    "prompt": "What are the letters on the sign above the front tire?",
+    "answer": "honda",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000435681.jpg"
+  },
+  {
+    "prompt": "What is this man driving?",
+    "answer": "horse",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000293589.jpg"
+  },
+  {
+    "prompt": "What does the sign say?",
+    "answer": "go",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000352188.jpg"
+  },
+  {
+    "prompt": "What is the dairy product in this meal?",
+    "answer": "milk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000230038.jpg"
+  },
+  {
+    "prompt": "What is the orange stuff?",
+    "answer": "carrots",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000009425.jpg"
+  },
+  {
+    "prompt": "What is on the sign?",
+    "answer": "stop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000317534.jpg"
+  },
+  {
+    "prompt": "What are the horses walking on?",
+    "answer": "sand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000267126.jpg"
+  },
+  {
+    "prompt": "What are these?",
+    "answer": "clocks",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000180588.jpg"
+  },
+  {
+    "prompt": "What covers the ground?",
+    "answer": "snow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000557118.jpg"
+  },
+  {
+    "prompt": "What is the dog in?",
+    "answer": "basket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000072284.jpg"
+  },
+  {
+    "prompt": "What shelf is the ketchup on?",
+    "answer": "bottom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000443465.jpg"
+  },
+  {
+    "prompt": "What is the giraffe eating?",
+    "answer": "leaves",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000202531.jpg"
+  },
+  {
+    "prompt": "What is inside the fireplace?",
+    "answer": "brick",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000189842.jpg"
+  },
+  {
+    "prompt": "What is this yellow and black object?",
+    "answer": "kayak",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000173373.jpg"
+  },
+  {
+    "prompt": "Which object is in focus?",
+    "answer": "horse",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000579872.jpg"
+  },
+  {
+    "prompt": "What event are they celebrating?",
+    "answer": "anniversary",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000554518.jpg"
+  },
+  {
+    "prompt": "What is the animal in?",
+    "answer": "fridge",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000265070.jpg"
+  },
+  {
+    "prompt": "What is in the picture on the book?",
+    "answer": "dogs",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000515421.jpg"
+  },
+  {
+    "prompt": "What is on the plate in the image?",
+    "answer": "apples",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000453025.jpg"
+  },
+  {
+    "prompt": "What bridge is that?",
+    "answer": "golden gate",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000319647.jpg"
+  },
+  {
+    "prompt": "What is he sitting on?",
+    "answer": "motorcycle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000165436.jpg"
+  },
+  {
+    "prompt": "Which man is wearing a vest?",
+    "answer": "man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000572391.jpg"
+  },
+  {
+    "prompt": "What is on the toilet?",
+    "answer": "soap",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000291622.jpg"
+  },
+  {
+    "prompt": "What is the red item next to the toilet?",
+    "answer": "brush",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000504976.jpg"
+  },
+  {
+    "prompt": "What is on the table?",
+    "answer": "notebook",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000386018.jpg"
+  },
+  {
+    "prompt": "What is sitting the seat?",
+    "answer": "cat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000096056.jpg"
+  },
+  {
+    "prompt": "What is on the top of the laptop?",
+    "answer": "camera",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000547985.jpg"
+  },
+  {
+    "prompt": "What is the weather like?",
+    "answer": "cloudy",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000409906.jpg"
+  },
+  {
+    "prompt": "What is green on the surfboard?",
+    "answer": "x",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000287038.jpg"
+  },
+  {
+    "prompt": "What is this person carrying?",
+    "answer": "luggage",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000164205.jpg"
+  },
+  {
+    "prompt": "What is keeping the horse from moving forward?",
+    "answer": "fence",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000059179.jpg"
+  },
+  {
+    "prompt": "What is the condiment in the lower right corner?",
+    "answer": "water",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000468518.jpg"
+  },
+  {
+    "prompt": "What is the boy riding?",
+    "answer": "elephant",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000052638.jpg"
+  },
+  {
+    "prompt": "What is the spoon made of?",
+    "answer": "plastic",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000569319.jpg"
+  },
+  {
+    "prompt": "What is the cat sitting on?",
+    "answer": "chair",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000344881.jpg"
+  },
+  {
+    "prompt": "What does the skateboard say?",
+    "answer": "skateboard",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000183923.jpg"
+  },
+  {
+    "prompt": "What does the yellow sign say?",
+    "answer": "advertisement",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000213623.jpg"
+  },
+  {
+    "prompt": "What game are they playing?",
+    "answer": "soccer",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000153921.jpg"
+  },
+  {
+    "prompt": "What hand is holding the Wii mote?",
+    "answer": "left",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000533145.jpg"
+  },
+  {
+    "prompt": "What is this person holding?",
+    "answer": "ipod",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000355741.jpg"
+  },
+  {
+    "prompt": "What is the women holding?",
+    "answer": "umbrella",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000537280.jpg"
+  },
+  {
+    "prompt": "What sort of plane is this?",
+    "answer": "airplane",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000110445.jpg"
+  },
+  {
+    "prompt": "What are the people loading on the bus?",
+    "answer": "bikes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000450206.jpg"
+  },
+  {
+    "prompt": "Which color is the dog?",
+    "answer": "brown",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000329753.jpg"
+  },
+  {
+    "prompt": "What is this person looking at?",
+    "answer": "phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000573714.jpg"
+  },
+  {
+    "prompt": "What is the dog wearing around his neck?",
+    "answer": "collar",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000082680.jpg"
+  },
+  {
+    "prompt": "What is the cat doing?",
+    "answer": "staring",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000557400.jpg"
+  },
+  {
+    "prompt": "What is he standing on?",
+    "answer": "mountain",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000240163.jpg"
+  },
+  {
+    "prompt": "What is the wall's color?",
+    "answer": "yellow",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000273049.jpg"
+  },
+  {
+    "prompt": "What is carved into the shortest piece of wood?",
+    "answer": "hand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000542614.jpg"
+  },
+  {
+    "prompt": "Which airline is this plane from?",
+    "answer": "china",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000469937.jpg"
+  },
+  {
+    "prompt": "Who is flying the kite?",
+    "answer": "man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000023387.jpg"
+  },
+  {
+    "prompt": "What feature does the clock tower have that allows a person to walk through it?",
+    "answer": "tunnel",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000162688.jpg"
+  },
+  {
+    "prompt": "What object is flying into the crowd?",
+    "answer": "bat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000534772.jpg"
+  },
+  {
+    "prompt": "What is on the bench?",
+    "answer": "blanket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000350607.jpg"
+  },
+  {
+    "prompt": "What vegetable does the tiny green food scrap on the right side come from?",
+    "answer": "broccoli",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000250952.jpg"
+  },
+  {
+    "prompt": "What does the top of the truck say in the front?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000469658.jpg"
+  },
+  {
+    "prompt": "What are the bears doing?",
+    "answer": "swimming",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000133278.jpg"
+  },
+  {
+    "prompt": "What chain are these donuts and coffee at?",
+    "answer": "krispy kreme",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000568840.jpg"
+  },
+  {
+    "prompt": "What is written in this picture?",
+    "answer": "photography",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000500705.jpg"
+  },
+  {
+    "prompt": "What meal is this?",
+    "answer": "dinner",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000246792.jpg"
+  },
+  {
+    "prompt": "What is in the basket in the back?",
+    "answer": "bread",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000191408.jpg"
+  },
+  {
+    "prompt": "What is the remote for?",
+    "answer": "tv",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000558401.jpg"
+  },
+  {
+    "prompt": "What do people get from these animals?",
+    "answer": "milk",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000224695.jpg"
+  },
+  {
+    "prompt": "What are these women doing?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000410963.jpg"
+  },
+  {
+    "prompt": "What do you call the pattern on the child's hat?",
+    "answer": "camo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000007899.jpg"
+  },
+  {
+    "prompt": "What does the piece of paper to the left of the phone say?",
+    "answer": "can't tell",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000438851.jpg"
+  },
+  {
+    "prompt": "What is above the stove?",
+    "answer": "microwave",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000065781.jpg"
+  },
+  {
+    "prompt": "What is the child holding?",
+    "answer": "racket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000049819.jpg"
+  },
+  {
+    "prompt": "What is the dog sitting next to?",
+    "answer": "suitcase",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000031745.jpg"
+  },
+  {
+    "prompt": "What public service department do the men work for?",
+    "answer": "police",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000297227.jpg"
+  },
+  {
+    "prompt": "What number of cats are in the window?",
+    "answer": "1",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000086168.jpg"
+  },
+  {
+    "prompt": "What is on her face?",
+    "answer": "hot dog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000567340.jpg"
+  },
+  {
+    "prompt": "What is the child doing?",
+    "answer": "bathroom",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000436619.jpg"
+  },
+  {
+    "prompt": "What country's flag does the colors of the train resemble?",
+    "answer": "usa",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000492286.jpg"
+  },
+  {
+    "prompt": "What are the orange marks on the front of the vehicle for?",
+    "answer": "caution",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000392924.jpg"
+  },
+  {
+    "prompt": "What is on the table?",
+    "answer": "vases",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000398925.jpg"
+  },
+  {
+    "prompt": "What is the brand of the silver car in the photo?",
+    "answer": "chevrolet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000147505.jpg"
+  },
+  {
+    "prompt": "What is the mime doing?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000474024.jpg"
+  },
+  {
+    "prompt": "What is on the chair?",
+    "answer": "hat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000348922.jpg"
+  },
+  {
+    "prompt": "What is the brown object?",
+    "answer": "dog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000286009.jpg"
+  },
+  {
+    "prompt": "What does the child have on its head?",
+    "answer": "hat",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000164043.jpg"
+  },
+  {
+    "prompt": "What made the imprints on the sand?",
+    "answer": "feet",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000114925.jpg"
+  },
+  {
+    "prompt": "What is yellow in the photo?",
+    "answer": "butterfly",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000416357.jpg"
+  },
+  {
+    "prompt": "What is used to cut the pizza?",
+    "answer": "knife",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000327481.jpg"
+  },
+  {
+    "prompt": "What is the green vegetable called?",
+    "answer": "spinach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000465050.jpg"
+  },
+  {
+    "prompt": "Which hand is this woman using to hold the wine glass?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000023245.jpg"
+  },
+  {
+    "prompt": "What is the lady looking at?",
+    "answer": "cell phone",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000122631.jpg"
+  },
+  {
+    "prompt": "What is the celebration?",
+    "answer": "birthday",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000235949.jpg"
+  },
+  {
+    "prompt": "What is the animal called?",
+    "answer": "giraffe",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000158261.jpg"
+  },
+  {
+    "prompt": "What do you call the writing on the wall?",
+    "answer": "graffiti",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000077783.jpg"
+  },
+  {
+    "prompt": "Which of the man's hands is pointed down?",
+    "answer": "right",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000251818.jpg"
+  },
+  {
+    "prompt": "What is on the people's heads?",
+    "answer": "helmets",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000189356.jpg"
+  },
+  {
+    "prompt": "What season is it?",
+    "answer": "fall",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000056669.jpg"
+  },
+  {
+    "prompt": "What is being reflected in the car's window?",
+    "answer": "sign",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000557434.jpg"
+  },
+  {
+    "prompt": "Which animals are they?",
+    "answer": "zebras",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000108871.jpg"
+  },
+  {
+    "prompt": "What shoe company is sponsoring the event?",
+    "answer": "vans",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000310020.jpg"
+  },
+  {
+    "prompt": "What is this?",
+    "answer": "donut",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000147961.jpg"
+  },
+  {
+    "prompt": "What number of tomatoes slices are on this pizza?",
+    "answer": "8",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000193031.jpg"
+  },
+  {
+    "prompt": "What is the color of bowl were fruits are?",
+    "answer": "white",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000359357.jpg"
+  },
+  {
+    "prompt": "What are the people holding?",
+    "answer": "umbrellas",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000209919.jpg"
+  },
+  {
+    "prompt": "What pattern is the tile floor?",
+    "answer": "square",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000553129.jpg"
+  },
+  {
+    "prompt": "What year is the was this photo taken?",
+    "answer": "1980",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000044389.jpg"
+  },
+  {
+    "prompt": "What is he doing?",
+    "answer": "skiing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000381476.jpg"
+  },
+  {
+    "prompt": "What is the role of the lady in the red vest?",
+    "answer": "coach",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000102024.jpg"
+  },
+  {
+    "prompt": "What is the green vegetable in the picture?",
+    "answer": "lettuce",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000103902.jpg"
+  },
+  {
+    "prompt": "What condiments are on the hot dog?",
+    "answer": "chili",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000051079.jpg"
+  },
+  {
+    "prompt": "What is this boat used for?",
+    "answer": "ferry",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000440037.jpg"
+  },
+  {
+    "prompt": "What is the dog wearing?",
+    "answer": "t shirt",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000471175.jpg"
+  },
+  {
+    "prompt": "Which fruit's sticker is falling off?",
+    "answer": "banana",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000042641.jpg"
+  },
+  {
+    "prompt": "What are the flowers in?",
+    "answer": "vase",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000086916.jpg"
+  },
+  {
+    "prompt": "What has been hanged on the wall?",
+    "answer": "picture",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000033626.jpg"
+  },
+  {
+    "prompt": "What is the yellow thing?",
+    "answer": "towel",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000177837.jpg"
+  },
+  {
+    "prompt": "Which popular and educational attraction would this picture be taken on?",
+    "answer": "zoo",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000459320.jpg"
+  },
+  {
+    "prompt": "What is on the cake?",
+    "answer": "dragon",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000180130.jpg"
+  },
+  {
+    "prompt": "What is orange?",
+    "answer": "sign",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000538001.jpg"
+  },
+  {
+    "prompt": "What are the children cheering for?",
+    "answer": "flying kites",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000468965.jpg"
+  },
+  {
+    "prompt": "What is the lady baking?",
+    "answer": "casserole",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000109423.jpg"
+  },
+  {
+    "prompt": "What is wrapped around the hot dog?",
+    "answer": "bun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000226758.jpg"
+  },
+  {
+    "prompt": "What language is on the pole?",
+    "answer": "english",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000410932.jpg"
+  },
+  {
+    "prompt": "What is the yellow object?",
+    "answer": "sign",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000262446.jpg"
+  },
+  {
+    "prompt": "Who is in the photo?",
+    "answer": "man",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000039785.jpg"
+  },
+  {
+    "prompt": "What breed of dog is this?",
+    "answer": "poodle",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000319154.jpg"
+  },
+  {
+    "prompt": "What is on the table?",
+    "answer": "pizza",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000544794.jpg"
+  },
+  {
+    "prompt": "What is on the screen of the phone?",
+    "answer": "charging",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000293520.jpg"
+  },
+  {
+    "prompt": "What is the accent color of the white surfboard?",
+    "answer": "blue",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000087956.jpg"
+  },
+  {
+    "prompt": "What is surrounding the building?",
+    "answer": "street",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000164390.jpg"
+  },
+  {
+    "prompt": "What is the flowers on the ground called?",
+    "answer": "dandelions",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000413989.jpg"
+  },
+  {
+    "prompt": "What are the toys doing?",
+    "answer": "sitting",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000391481.jpg"
+  },
+  {
+    "prompt": "What is the first letter of the top row of numbers in the display?",
+    "answer": "t",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000240605.jpg"
+  },
+  {
+    "prompt": "What is the round object?",
+    "answer": "cake",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000387102.jpg"
+  },
+  {
+    "prompt": "What is making the shadow on the snow?",
+    "answer": "snowboarder",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000557408.jpg"
+  },
+  {
+    "prompt": "What are the dogs doing?",
+    "answer": "playing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000569538.jpg"
+  },
+  {
+    "prompt": "What is in the sky?",
+    "answer": "airplane",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000385589.jpg"
+  },
+  {
+    "prompt": "What is the street composed of?",
+    "answer": "brick",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000450526.jpg"
+  },
+  {
+    "prompt": "What the shape of the baseball playing field?",
+    "answer": "diamond",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000564183.jpg"
+  },
+  {
+    "prompt": "What are the green florets?",
+    "answer": "lettuce",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000453376.jpg"
+  },
+  {
+    "prompt": "What is the black words on the box?",
+    "answer": "no",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000243777.jpg"
+  },
+  {
+    "prompt": "What is sliced on the right plate?",
+    "answer": "celery",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000448653.jpg"
+  },
+  {
+    "prompt": "What is in the background?",
+    "answer": "sun",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000301209.jpg"
+  },
+  {
+    "prompt": "What shapes does the grid on the ground make?",
+    "answer": "squares",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000001176.jpg"
+  },
+  {
+    "prompt": "What is against the wall behind the piano?",
+    "answer": "nothing",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000264033.jpg"
+  },
+  {
+    "prompt": "What is in the background?",
+    "answer": "fog",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000431526.jpg"
+  },
+  {
+    "prompt": "What can a person not do here?",
+    "answer": "sleep",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000458672.jpg"
+  },
+  {
+    "prompt": "What trick is the man in the gray shirt demonstrating?",
+    "answer": "skateboarding",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000496256.jpg"
+  },
+  {
+    "prompt": "What is her necklace made of?",
+    "answer": "pearl",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000150640.jpg"
+  },
+  {
+    "prompt": "What is the dog doing on the couch?",
+    "answer": "sleeping",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000482392.jpg"
+  },
+  {
+    "prompt": "What directions are on the sign?",
+    "answer": "stop",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000460652.jpg"
+  },
+  {
+    "prompt": "What is the hay for?",
+    "answer": "eating",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000336577.jpg"
+  },
+  {
+    "prompt": "What is the train crossing?",
+    "answer": "bridge",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000463424.jpg"
+  },
+  {
+    "prompt": "What movie are the costumed characters from?",
+    "answer": "don't know",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000476597.jpg"
+  },
+  {
+    "prompt": "Who is wearing their seatbelt?",
+    "answer": "teddy bear",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000121598.jpg"
+  },
+  {
+    "prompt": "What vegetables can be seen on the sandwich?",
+    "answer": "tomatoes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000545898.jpg"
+  },
+  {
+    "prompt": "What is the lightning?",
+    "answer": "lamp",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000517382.jpg"
+  },
+  {
+    "prompt": "What is the child's head laying on?",
+    "answer": "hand",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000176568.jpg"
+  },
+  {
+    "prompt": "What is flying?",
+    "answer": "plane",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000117262.jpg"
+  },
+  {
+    "prompt": "What are these called?",
+    "answer": "oranges",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000502441.jpg"
+  },
+  {
+    "prompt": "What is he holding?",
+    "answer": "tennis racket",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000279457.jpg"
+  },
+  {
+    "prompt": "What are the painted objects?",
+    "answer": "vases",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000520321.jpg"
+  },
+  {
+    "prompt": "What is this child doing?",
+    "answer": "frisbee",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000314356.jpg"
+  },
+  {
+    "prompt": "What are the giant walls near the giraffe for?",
+    "answer": "building",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000047983.jpg"
+  },
+  {
+    "prompt": "What is the animal shown here?",
+    "answer": "giraffe",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000487401.jpg"
+  },
+  {
+    "prompt": "What are the adults holding?",
+    "answer": "wii remotes",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/val2014/COCO_val2014_000000358268.jpg"
+  },
+  {
+    "prompt": "What are these people waiting for?",
+    "answer": "fish",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000419310.jpg"
+  },
+  {
+    "prompt": "What does the plane have written on its tail?",
+    "answer": "ana",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000049549.jpg"
+  },
+  {
+    "prompt": "What trees are here?",
+    "answer": "oak",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000493812.jpg"
+  },
+  {
+    "prompt": "What object is the animal resting on?",
+    "answer": "suitcase",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000159118.jpg"
+  },
+  {
+    "prompt": "What is her hairstyle called?",
+    "answer": "bob",
+    "pic_path": "/data1/TAP/data/mlm_pic/coco14_pic/train2014/COCO_train2014_000000514622.jpg"
+  }
+]

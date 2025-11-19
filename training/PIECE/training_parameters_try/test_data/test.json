@@ -1,0 +1,66 @@
+[
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nWe need to remember that in decades past it was believed that monetary policy was most effective when it was least transparent.\nStance:",
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nTheir trade accounts tend to be in surplus, in some cases substantially, an indication that they are supplying more goods into the global economy than they are demanding.\nStance:",
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nMonetary Policy But it is monetary policy--and the Fed's principal monetary lever, the federal funds rate, which is the interest rate on overnight loans of reserves between depository institutions--that earns the Federal Reserve all that ink and airtime.\nStance:",
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nNonetheless, the members also noted that the rise in compensation increases had been damped and that there continued to be few indications of accelerating price inflation in the statistical and anecdotal information available at this time\nStance:",
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nIn addition, the May 1, 2019 trimmed mean measures of inflation did not go down as much.\nStance:",
+    "answer": "B"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nShortly after 9 a.m. each morning, the Desk staff and staff members at the Board of Governors confer over the phone to discuss their respective estimates of the day's demand for balances as well as to consider factors that may affect supply.\nStance:",
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nSome may see a monetary policy that actively addresses episodes of financial instability along the lines that I have just described as promoting excessive risk-taking and thus increasing the probability of future crises.\nStance:",
+    "answer": "B"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nThe lagged effects of the earlier rise in the foreign exchange value of the dollar were expected to place continuing, though diminishing, restraint on the demand for U. S. exports for some period ahead and to lead to further substitution of imports for domestic products.\nStance:",
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nlabor productivity remained on a strong upward trend.\nStance:",
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nThough widely anticipated even before the actions of October, the recession and retrenchment in employment that followed those actions resulted in pressures on the Federal Reserve to reverse course.\nStance:",
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nFor 1998, the Committee agreed on a tentative basis to set the same ranges as in 1997 for growth of the monetary aggregates and debt, measured from the fourth quarter of 1997 to the fourth quarter of 1998.\nStance:",
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nThe strongest case for a link between monetary policy and changes in inflation dynamics is in the greater stability of inflation.\nStance:",
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nAdditionally, can one make any other generalizations concerning recessions that follow asset-price booms and busts and how they differ from other recessions?\nStance:",
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nIn their discussion of considerations related to asset purchases, various participants noted that these purchases were an important part of the monetary policy toolkit and a critical aspect of the Federal Reserve's response to the economic effects of the pandemic, supporting smooth financial market functioning and accommodative financial conditions, which aided the flow of credit to households and businesses and supported the recovery.\nStance:",
+    "answer": "A"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nIn the household sector, the rise in home mortgage debt likely slowed a bit further in the first quarter, as home-price appreciation appeared to have remained sluggish.\nStance:",
+    "answer": "C"
+  },
+  {
+    "prompt": "What is the monetary policy stance for the following text? A. dovish, B. hawkish, C. neutral. Choose one from A, B and C.\nText:\nComparing the Theoretical Prediction to Recent Experience The swing from budget deficit to surplus has been much more dramatic than was expected when the fiscal year 1994 budget was adopted.\nStance:",
+    "answer": "C"
+  }
+]
