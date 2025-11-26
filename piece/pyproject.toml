@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "piece"
+version = "0.0.1"
+description = "Parameter Importance Estimation and Masking for PyTorch Models"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    { name = "TAP"},
+    { name = "Lx Wang"},
+    { name = "Hn Zhang"},
+]
+dependencies = [
+    "torch",
+    "tqdm",
+    "transformers"
+]
+urls = { "Homepage" = "https://github.com/wanglingxiang0717/PIECE" }
