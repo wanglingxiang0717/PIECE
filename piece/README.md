@@ -1,9 +1,8 @@
 # PIECE
-
+[English](README_en.md) | [中文](README.md)
 <!-- PROJECT SHIELDS -->
 
 <!-- [![Contributors][contributors-shield]][contributors-url] -->
-
 <!-- [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -11,7 +10,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 <!-- PROJECT LOGO -->
-
 <!-- <br />
 
 <p align="center">
@@ -30,78 +28,66 @@
    ,
     <a href="None">Bug</a>
    ,
-    <a href="None">Issues</a>
+    <a href="None">iusses</a>
   </p>
 
 </p> -->
+ 
+# 目录
 
-# Table of Contents
-
-* [Quick Start](#quick-start)
-* [Simple Examples](#simple-examples)
-* [Core Methods](#core-methods)
-* [Partial Code Sources](#partial-code-sources)
-* [Authors](#authors)
-
-<!-- - [Acknowledgements](#acknowledgements) -->
+- [快速开始](#快速开始)
+- [简单示例](#简单示例)
+- [主要方法](#主要方法)
+- [部分代码来源](#部分代码来源)
+- [作者](#作者)
+<!-- - [鸣谢](#鸣谢) -->
 
 ---
 
-## Quick Start
-
-### Environment Setup
-
-```bash
+## 快速开始
+### 环境安装
+```
 git clone https://github.com/wanglingxiang0717/PIECE.git
 cd PIECE/piece
 pip install -e . --no-build-isolation
 ```
-
-### Usage
-
+### 使用
 ```python
 from piece import process_mask, mask_grads
 
-# model, dataset, and data_collator initialized
+model_load 
+dataset
+data_collator #model, data, data_collator 初始化之后
+
 save_dir = args.output_dir
 top_ratio = 0.001
-mode = "S"  # ["S", "F"]
+mode = "S"  #["S", "F"]
+process_mask(model = model, 
+              dataset = train_dataset, 
+              data_collator = data_collator, 
+              save_dir = save_dir, 
+              mode = mode, 
+              top_ratio = top_ratio,
+              args = args)
 
-process_mask(
-    model=model, 
-    dataset=train_dataset, 
-    data_collator=data_collator, 
-    save_dir=save_dir, 
-    mode=mode, 
-    top_ratio=top_ratio,
-    args=args
-)
+optimizer_creat #优化器创建前
 
-# optimizer creation before training
-mask_grads(
-    model=model, 
-    mode=mode, 
-    save_dir=save_dir,
-    top_ratio=top_ratio
-)
+mask_grads(model=model, 
+            mode = mode, 
+            save_dir = save_dir,
+            top_ratio = top_ratio)
 
-# training starts here
+train #训练前
 ```
-
 ---
-
-## Simple Examples
-
+## 简单示例
 ### ***simple_torch***
-
-```bash
+```shell
 cd example
 chmod +x scripts/torch_train.sh
 sh scripts/torch_train.sh
 ```
-
-**`example/training/torch_train_main_deepspeed.py`**
-
+*example/training/torch_train_main_deepspeed.py*
 ```python
 from piece import process_mask, mask_grads  # 51
 
@@ -127,17 +113,13 @@ mask_grads(                 # 434
     top_ratio=top_ratio
 )
 ```
-
 ### ***simple_Trainer (Transformers)***
-
-```bash
+```
 cd example
 chmod +x scripts/trainer_train.sh
 sh scripts/trainer_train.sh
 ```
-
-**`example/training/trainer_train_main_deepspeed.py`**
-
+*example/training/trainer_train_main_deepspeed.py*
 ```python
 from piece import process_mask, mask_grads  # 12
 
@@ -163,51 +145,39 @@ mask_grads(                 # 86
     top_ratio=top_ratio
 )
 ```
+### ***simple_llama_factory*** 
 
-### ***simple_llama_factory***
+llama_factory 目前没有做特别适配，训练逻辑主要在 *LLaMA-Factory/src/llamafactory/train/{method}/workflow.py* 文件中
 
-`llama_factory` is not specially adapted yet. Training logic is mainly in:
-
-```
-LLaMA-Factory/src/llamafactory/train/{method}/workflow.py
-```
-
-Example for `sft` (replace source file with `example/training/workflow.py`):
-
+以sft为例（用*example/training/workflow.py*替换源文件中的对应文件）
 ```python
-from piece import process_mask, mask_grads # 30
+from piece import process_mask, mask_grads #30
 
-save_dir = training_args.output_dir # 70
+save_dir = training_args.output_dir #70
 top_ratio = 0.001
 mode = "S"
 train_dataset = dataset_module["train_dataset"]
-
-process_mask(
-    model=model, 
-    dataset=train_dataset, 
-    data_collator=data_collator, 
-    save_dir=save_dir, 
-    mode=mode, 
-    top_ratio=top_ratio,
-    args=training_args,
-    cpu_offload=True
-)
+process_mask(model = model, 
+              dataset = train_dataset, 
+              data_collator = data_collator, 
+              save_dir = save_dir, 
+              mode = mode, 
+              top_ratio = top_ratio,
+              args = training_args,
+              cpu_offload=True
+              )
 if training_args.local_rank != -1:
     torch.distributed.barrier()
 
-mask_grads(
-    model=model,   # 86
-    mode=mode, 
-    save_dir=save_dir,
-    top_ratio=top_ratio
-)
+mask_grads(model=model,   #86
+            mode = mode, 
+            save_dir = save_dir,
+            top_ratio = top_ratio)
 ```
 
----
+## 主要方法
 
-## Core Methods
-
-### `process_mask`
+### `process_mask` 方法说明
 
 ```python
 def process_mask(
@@ -227,25 +197,28 @@ def process_mask(
     ):
 ```
 
-**Description:**
-Processes and saves parameter masks for a model, used to selectively retain important parameters or apply gradient masking.
+### 功能
 
-**Parameters:**
+处理并保存模型参数的掩码（mask），用于选择性保留重要参数或进行梯度掩码计算。
 
-| Parameter       | Type                                                   | Description                                                                                 |
-| --------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| `model`         | `torch.nn.Module`                                      | The model whose parameters will be masked.                                                  |
-| `dataset`       | `torch.utils.data.Dataset`                             | Dataset used for gradient computation.                                                      |
-| `data_collator` | any                                                    | Data batching function (e.g., Hugging Face's `DataCollatorForSeq2Seq`).                     |
-| `save_dir`      | `str`                                                  | Directory to save mask files (intermediate and final results).                              |
-| `mode`          | `str`                                                  | Masking mode, either `'F'` (Fisher) or `'S'` (Second-order normalization).                  |
-| `top_ratio`     | `float`                                                | Fraction of top parameters to keep (e.g., `0.001` = top 0.1%).                              |
-| `args`          | `argparse.Namespace`                                   | Configuration arguments (e.g., `local_rank`, distributed training settings).                |
-| `singleGPU`     | `bool`, optional, default `True`                       | Whether to compute gradients on a single GPU (recommended for safety).                      |
-| `cpu_offload`   | `bool`, optional, default `False`                      | Whether to offload gradient computation to CPU to save GPU memory (slower).                 |
-| `loss_function` | `Callable`, optional, default `standard_loss_function` | Custom loss function with signature: <br>`loss = loss_function(model, batch, device, args)` |
+### 参数说明
 
-**Example:**
+| 参数              | 类型                                         | 说明                                                                                           |
+| --------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| `model`         | `torch.nn.Module`                          | 需要进行掩码处理的模型。                                                                                 |
+| `dataset`       | `torch.utils.data.Dataset`                 | 用于梯度计算的数据集。                                                                                  |
+| `data_collator` | `any`                                  | 数据批处理函数（例如 Hugging Face 的 `DataCollatorForSeq2Seq`）。                                         |
+| `save_dir`      | `str`                                      | 掩码文件的保存目录，包括中间文件和最终结果。                                                                       |
+| `mode`          | `str`                                      | 掩码模式，可选 `'F'`（Fisher）或 `'S'`（二阶归一化 Second-order normalization）。                              |
+| `top_ratio`     | `float`                                    | 保留的参数比例（例如 `0.001` 表示保留 0.1% 最重要参数）。                                                         |
+| `args`          | `argparse.Namespace`                       | 包含配置的参数对象，例如 `local_rank`、分布式训练相关设置。                                                         |
+| `singleGPU`     | `bool`, 可选，默认 `True`                       | 是否在单 GPU 上计算梯度，推荐启用以保证安全和一致性。                                                                |
+| `cpu_offload`   | `bool`, 可选，默认 `False`                      | 是否将梯度计算卸载到 CPU，以节省 GPU 内存（会增加计算时间）。                                                          |
+| `loss_function` | `Callable`, 可选，默认 `standard_loss_function` | 用户可自定义损失函数，签名如下：<br>`loss = loss_function(model, batch, device, args)`<br>可用于自定义训练目标或模型前向计算。 |
+
+---
+
+### 用法示例
 
 ```python
 process_mask(
@@ -259,9 +232,7 @@ process_mask(
 )
 ```
 
----
-
-### `mask_grads`
+### `mask_grads` 方法说明
 
 ```python
 def mask_grads(
@@ -273,26 +244,30 @@ def mask_grads(
     ):
 ```
 
-**Description:**
-Registers gradient hooks on model parameters to selectively mask gradients for later processing or saving.
+### 功能
 
-**Parameters:**
+在模型参数上注册梯度钩子（gradient hook），用于选择性掩码梯度，以便后续处理或保存掩码信息。
 
-| Parameter        | Type              | Description                                                                                                                                             |
-| ---------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `model`          | `torch.nn.Module` | Model whose parameters will have gradient hooks registered.                                                                                             |
-| `mode`           | `str`             | Masking mode, `'F'` or `'S'`.                                                                                                                           |
-| `save_dir`       | `str`             | Directory to store mask information (intermediate and final).                                                                                           |
-| `top_ratio`      | `float`           | Fraction of top parameters to keep.                                                                                                                     |
-| `mask_file_path` | `str`, optional   | Custom path to save mask info. If `None`: <br>`"{save_dir}/param_S/top{top_ratio}"` (mode='S') <br>`"{save_dir}/param_grad_2/top{top_ratio}"` otherwise |
+### 参数说明
 
-**Notes:**
+| 参数               | 类型                | 说明                                                                                                                                        |
+| ---------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| `model`          | `torch.nn.Module` | 需要注册梯度钩子的模型。                                                                                                                              |
+| `mode`           | `str`             | 掩码模式，可选 `'F'`（Fisher）或 `'S'`（二阶归一化 Second-order normalization）。                                                                           |
+| `save_dir`       | `str`             | 掩码信息保存目录，包括中间文件和最终结果。                                                                                                                     |
+| `top_ratio`      | `float`           | 保留的参数比例（例如 `0.001` 表示保留 0.1% 最重要参数）。                                                                                                      |
+| `mask_file_path` | `str`, 可选         | 自定义掩码信息保存路径。如果为 `None`，默认路径如下：<br>- `"{save_dir}/param_S/top{top_ratio}"`（mode='S'）<br>- `"{save_dir}/param_grad_2/top{top_ratio}"`（F） |
 
-* Hooks are only registered on parameters with `requires_grad=True`.
-* For distributed models (`DataParallel` or `DistributedDataParallel`), `model.module` is used for hook registration.
-* Not tested with DeepSpeed Zero-3.
+---
 
-**Example:**
+### 注意事项
+
+* 钩子只注册在 `requires_grad=True` 的参数上。
+* 对于分布式模型（`torch.nn.DataParallel` 或 `DistributedDataParallel`），会使用底层 `model.module` 进行钩子注册。
+* 目前没有对deepspeed zero-3方法做测试！
+---
+
+### 用法示例
 
 ```python
 mask_grads(
@@ -304,16 +279,35 @@ mask_grads(
 ```
 
 ---
+### 部分代码来源
 
-## Partial Code Sources
-
-* [TRACE](https://github.com/BeyonderXX/TRACE)
-* [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory/)
+- [TRACE](https://github.com/BeyonderXX/TRACE)
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory/)
 
 ---
-
-## Authors
-
+### 作者
 * TAP
 * Lx Wang
 * Hn Zhang
+
+<!-- 
+### 鸣谢 -->
+
+<!-- links -->
+<!-- [your-project-path]:shaojintian/Best_README_template
+[contributors-shield]: https://img.shields.io/github/contributors/shaojintian/Best_README_template.svg?style=flat-square
+[contributors-url]: https://github.com/shaojintian/Best_README_template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/shaojintian/Best_README_template.svg?style=flat-square
+[forks-url]: https://github.com/shaojintian/Best_README_template/network/members
+[stars-shield]: https://img.shields.io/github/stars/shaojintian/Best_README_template.svg?style=flat-square
+[stars-url]: https://github.com/shaojintian/Best_README_template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg
+[license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
+[license-url]: https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/shaojintian -->
+
+
+
+

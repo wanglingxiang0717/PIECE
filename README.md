@@ -59,6 +59,8 @@ filetree
 ├── README.md 
 ├── /data/ \Training Data
 ├── /eval/ \Evaluation Code
+├── /example/ \Training example under piece
+├── /piece/ \piece framwork
 ├── /PIECE_log/ \Training Logs of PIECE
 └── /training/  \Training Code
 ```
