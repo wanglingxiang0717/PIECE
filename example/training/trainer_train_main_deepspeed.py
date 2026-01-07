@@ -18,7 +18,7 @@ class SFTDataset(Dataset):
         with open(json_path, "r", encoding="utf-8") as f:
             self.data = json.load(f)
         assert "prompt" in self.data[0] and "answer" in self.data[0]
-
+        
     def __len__(self):
         return len(self.data)
 
@@ -27,23 +27,29 @@ class SFTDataset(Dataset):
         prompt = item["prompt"]
         answer = item["answer"]
         text = prompt + answer
-
-        encoding = self.tokenizer(
-            text,
-            truncation=True,
+        input_ids = self.tokenizer(
+            text, 
+            truncation=True, 
             max_length=self.max_length,
-            padding="max_length",
-            return_tensors="pt",
-        )
-        input_ids = encoding["input_ids"].squeeze(0)
-        attention_mask = encoding["attention_mask"].squeeze(0)
-
-        # mask prompt
-        prompt_ids = self.tokenizer(prompt, add_special_tokens=False)["input_ids"]
-        labels = input_ids.clone()
-        labels[:len(prompt_ids)] = -100
-
-        return {"input_ids": input_ids, "attention_mask": attention_mask, "labels": labels}
+            add_special_tokens=True 
+        )["input_ids"]
+        prompt_input_ids = self.tokenizer(
+            prompt, 
+            truncation=True, 
+            max_length=self.max_length,
+            add_special_tokens=True 
+        )["input_ids"]
+        
+        labels = list(input_ids)
+        mask_len = len(prompt_input_ids)
+        for i in range(min(mask_len, len(labels))):
+            labels[i] = -100
+        
+        return {
+            "input_ids": input_ids, 
+            "attention_mask": [1] * len(input_ids), 
+            "labels": labels
+        }
 
 def train_sft(args):
     if args.local_rank == -1:
