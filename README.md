@@ -70,9 +70,6 @@ filetree
 - [TRACE](https://github.com/BeyonderXX/TRACE)
 
 
-### Author
-
-wanglingxiang@buaa.edu.cn
 <!-- 
 ### 鸣谢
 
