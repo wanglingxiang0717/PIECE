@@ -65,10 +65,6 @@ filetree
 └── /training/  \Training Code
 ```
 
-### Source of Some Code
-
-- [TRACE](https://github.com/BeyonderXX/TRACE)
-
 
 <!-- 
 ### 鸣谢
