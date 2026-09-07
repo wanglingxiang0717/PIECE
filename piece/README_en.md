@@ -305,15 +305,3 @@ mask_grads(
 
 ---
 
-## Partial Code Sources
-
-* [TRACE](https://github.com/BeyonderXX/TRACE)
-* [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory/)
-
----
-
-## Authors
-
-* TAP
-* Lx Wang
-* Hn Zhang
