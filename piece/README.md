@@ -279,16 +279,7 @@ mask_grads(
 ```
 
 ---
-### 部分代码来源
 
-- [TRACE](https://github.com/BeyonderXX/TRACE)
-- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory/)
-
----
-### 作者
-* TAP
-* Lx Wang
-* Hn Zhang
 
 <!-- 
 ### 鸣谢 -->
